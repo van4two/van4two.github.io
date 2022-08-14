@@ -1,2 +1,28 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 title: van42 - A campervan travel log
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal
+
+# https://jekyllrb.com/docs/plugins/installation/
+plugins:
+- jekyll-remote-theme # github remote themes
+- jekyll-toc
+- jekyll-archives
+- jekyll-leaflet
+#- jekyll-maps
+
+exclude:
+- '*.sh'
+- '.devcontainer'
+- '*.code-workspace'
+- 'Gemfile*'
+
+jekyll-archives:
+  enabled: [year, month, tags]
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

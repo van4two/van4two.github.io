@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+	],
+	"settings": {
+		"nrf-connect.toolchain.path": "PATH"
+	},
+	
+}

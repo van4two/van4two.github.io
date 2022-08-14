@@ -1,0 +1,70 @@
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json or the definition README at
+// https://github.com/microsoft/vscode-dev-containers/tree/master/containers/ubuntu-18.04-git
+{
+    "name": "Jekyll Dev + GH Pages / Stefanino Edition",
+    "dockerFile": "Dockerfile",
+    "context": "../",
+    
+    // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+	//"remoteUser": "vscode"
+    //"remoteUser": "jekyll",
+    
+    // The optional 'runArgs' property can be used to specify additional runtime arguments.
+    "runArgs": [
+        //"-u", "jekyll",
+        //"-v", "${env:HOME}${env:USERPROFILE}/.ssh:/root/.ssh-localhost:ro",
+        //"--rm",
+        //"--volume='../:/srv/jekyll'",
+        //"-p", "4000:4000"
+    ],
+
+    "mounts": [
+        //"source=${localWorkspaceFolder}/../../van4two.github.io,target=/workspaces/van4two,type=volume"
+    ],
+	
+    // make a list of ports inside the container available locally
+	"forwardPorts": [
+		4000,   // Jekyll server
+		35729   // Live reload server
+	],
+
+    // Use 'postCreateCommand' to run commands after the container is created.
+    //"postCreateCommand": "sudo cp -r /root/.ssh-localhost ~ && sudo chown -R $(id -u):$(id -g) ~/.ssh-localhost && mv ~/.ssh-localhost ~/.ssh && chmod 700 ~/.ssh && chmod 600 ~/.ssh/*",
+	//"postCreateCommand": "sh .devcontainer/post-create.sh",
+
+    // Configure tool-specific properties.
+    // https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_vs-code-specific-properties
+    "customizations": {
+        // Configure properties specific to VS Code.
+        "vscode": {
+            //"devPort": {}
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "sh",
+                "cSpell.language": "en,it"
+            },
+            "extensions": [
+                // yaml for data files
+                "redhat.vscode-yaml",
+                // liquid templating syntax highlighting
+                "sissel.shopify-liquid",
+                // jekyll
+                "ginfuru.ginfuru-vscode-jekyll-syntax",
+                "ginfuru.vscode-jekyll-snippets",
+                // markdown
+                "yzhang.markdown-all-in-one",
+                "davidanson.vscode-markdownlint",
+                // html/css
+                "ecmel.vscode-html-css",
+                "aeschli.vscode-css-formatter",
+                // editing
+                //"ban.spellright",
+                "streetsidesoftware.code-spell-checker",
+                "streetsidesoftware.code-spell-checker-italian",
+                "ms-vscode.wordcount",
+                "stkb.rewrap",
+                "wayou.vscode-todo-highlight"
+            ]
+        }
+    } 
+
+}
