@@ -1,0 +1,282 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Raspberry Pi cross-compile using Buildroot</title>
+  </head>
+  
+</html>
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Raspberry Pi cross-compile using Buildroot | van42 - A campervan travel log</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Raspberry Pi cross-compile using Buildroot" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="RPi x-compile" />
+<meta property="og:description" content="RPi x-compile" />
+<link rel="canonical" href="http://localhost:4000/2022/08/05/raspberry_buildroot_xcompile-copy.html" />
+<meta property="og:url" content="http://localhost:4000/2022/08/05/raspberry_buildroot_xcompile-copy.html" />
+<meta property="og:site_name" content="van42 - A campervan travel log" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-08-05T20:30:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Raspberry Pi cross-compile using Buildroot" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-08-05T20:30:00+00:00","datePublished":"2022-08-05T20:30:00+00:00","description":"RPi x-compile","headline":"Raspberry Pi cross-compile using Buildroot","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/08/05/raspberry_buildroot_xcompile-copy.html"},"url":"http://localhost:4000/2022/08/05/raspberry_buildroot_xcompile-copy.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7f13ce95a83e36ac0cc543ad7077220945f6ecff">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://localhost:4000/">van42 - A campervan travel log</a></h1>
+
+        
+
+        <p>van42 - A campervan travel blog</p>
+
+        
+        <p class="view"><a href="https://github.com/van4two/van4two.github.io">View the Project on GitHub <small>van4two/van4two.github.io</small></a></p>
+        
+
+        
+
+        
+
+        <nav>
+
+    <a href="/" >
+    Home
+    </a>
+
+    <a href="about.html" >
+    About
+    </a>
+
+    <a href="blog.html" >
+    Blog
+    </a>
+
+</nav>
+
+        <ul>
+          
+            <li>
+              <a href="/2022/08/05/raspberry_buildroot_xcompile-copy.html">Raspberry Pi cross-compile using Buildroot</a>
+            </li>
+          
+            <li>
+              <a href="/2022/08/05/antermoia.html">Antermoia</a>
+            </li>
+          
+            <li>
+              <a href="/2021/03/17/test_new.html">Test / Prova</a>
+            </li>
+          
+            <li>
+              <a href="/2021/03/17/test.html">Etiam</a>
+            </li>
+          
+            <li>
+              <a href="/2019/07/02/norway_03-jotunheimen.html">Verso l'Oppland</a>
+            </li>
+          
+            <li>
+              <a href="/2019/07/01/norway_02-oppland.html">Verso l'Oppland</a>
+            </li>
+          
+            <li>
+              <a href="/2019/06/30/norway_01-telemark.html">Telemark</a>
+            </li>
+          
+            <li>
+              <a href="/2019/06/30/norway_00.html">Norvegia</a>
+            </li>
+          
+        </ul>
+        
+      </header>
+
+      
+      <section>
+
+      <!-- Image to hack wechat -->
+<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
+<!-- <img src="/" width="0" height="0"> -->
+
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header{
+        position: relative;
+        background-image: url('/')
+    }
+
+    
+</style>
+<header class="intro-header" >
+    <div class="header-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                    </div>
+                    <h1>Raspberry Pi cross-compile using Buildroot</h1>
+                    
+                    
+                    <h2 class="subheading"></h2>
+                    
+                    <span class="meta">Posted by van42 - A campervan travel log on August 5, 2022</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                <!-- Multi-Lingual -->
+                
+
+				<p>This article provides a simple but robust workflow to develop embedded applications using cross-compilation.
+These notes are tailored to applications based on OpenCV and Qt5, that will run on a Raspberry Pi 4.<br />
+Setting up the packages for computer vision and UI, as well as their dependencies, already make a compelling case for building an automated workflow that is simple and repeatable.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Developing applications for embedded systems means having to deal with hardware constraints that seriously hinder the possibility of local development (local here refers to the development done onto the embedded device itself).
+A smarter alternative is instead to setup a development machine, where all the phases of the coding happen, that connects to the embedded device only to deploy and run the application after it has been built.</p>
+
+<p>This workflow is referred to as <strong>cross-compilation</strong> and to work properly it relies on two key aspects:</p>
+
+<ul>
+  <li>
+    <p>cross-compilation <strong>toolchain</strong>, the set of tools (compiler, linker, etc.) available on the development machine (i.e. host) and needed to build the source code into binary files for the embedded device (target). Since the CPU architecture of the host and the target might not be the same, the standard toolchain of the host, which is designed to produce binaries for its own architecture, doesn’t work for cross-compilation. Instead, for example, a development x86 machine used to develop for Raspberry will use a toolchain that runs on x86 but compiles for ARM.</p>
+  </li>
+  <li>
+    <p><strong>target filesystem</strong>, the set of libraries and other relevant resources representing the target environment of the embedded device in which the cross-compiled application will run. For example,</p>
+  </li>
+</ul>
+
+<p>As described above, and when compared to local development, cross-compiling might seems more convoluted to set up and it might end up being more difficult to maintain.</p>
+
+<h2 id="goal">Goal</h2>
+
+<p>The overarching goal is to have a (mostly) automated and consistent way of generating</p>
+
+<p><img src="/assets/" alt="My helpful screenshot" /></p>
+
+<h2 id="state-of-the-art">State of the art</h2>
+
+<p>Current</p>
+
+<h2 id="buildroot">Buildroot</h2>
+
+<h3 id="configuration">Configuration</h3>
+
+<p><img src="/assets/images/img1.jpeg" alt="My helpful screenshot" /></p>
+
+<h3 id="generate-sdk">Generate SDK</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Target packages -&gt; Network -&gt; 
+</code></pre></div></div>
+
+<h2 id="host-computer">Host computer</h2>
+
+<p>adfgervbejhrbjtvhberjt</p>
+
+<h2 id="heading-2c">Heading 2c</h2>
+
+<p>rejktbvyejr  ecrhtnwer  rnckuer ucwntke</p>
+
+
+                <hr style="visibility: hidden;">
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2022/08/05/antermoia.html" data-toggle="tooltip" data-placement="top" title="Antermoia">
+                        Previous<br>
+                        <span>Antermoia</span>
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+
+
+                
+
+                
+            </div>  
+
+    <!-- Side Catalog Container -->
+        
+
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Friends Blog -->
+                <!--  -->
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="https://github.com/van4two">van4two</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    <script type="text/javascript" src="/assets/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
+  </body>
+</html>
