@@ -1,9 +1,17 @@
-/* override Minimal theme style.css */
 ---
 ---
 
-@import "style";
+/* override Minimal theme style.css */
+// TODO: replace with theme name variable
+@import "minimal";
 
 .blogroll-img {
     width: 50px;
+}
+
+.image_link {
+    margin-block-start: 0; 
+    margin-block-end: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
