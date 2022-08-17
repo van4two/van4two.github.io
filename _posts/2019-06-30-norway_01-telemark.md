@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Telemark
-#date: 2022-08-05 20:30:00
-category: norway
+pics: 2019-06-30-norway
 tags: lago traghetto campagna nuotare
 ---
 

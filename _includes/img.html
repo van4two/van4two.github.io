@@ -1,7 +1,7 @@
 <figure class="image_link">
 
-    <a href="/assets/img/{{page.date | date: '%Y-%m-%d'}}-{{ page.categories | first }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}">
-    <img src="/assets/img/{{page.date | date: '%Y-%m-%d'}}-{{ page.categories | first }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}" 
+    <a href="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}">
+    <img src="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}" 
             alt="{{ include.img }}"/>
     </a>
     <figcaption>{{ include.cap }}</figcaption>
