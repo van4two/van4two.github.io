@@ -7,7 +7,7 @@ image: /assets/img/norway/norway-02-featured.jpg
 tags: travel norway
 ---
 
-Ci svegliamo intorno alle 7 nell’area di sosta individuata ieri sera a Treungen, sulle sponde del lago Nisser, nella contea di Telemark. Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
+Ci svegliamo intorno alle 7 nell’area di sosta individuata [ieri sera]({% post_url 2019-06-30-norway_01-telemark %}) a Treungen, sulle sponde del lago Nisser, nella contea di Telemark. Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
 
 Partiamo per Jettegrytene, una serie di pozze d’acqua, vasche e scivoli scavati nella roccia dallo scorrere di un torrente in un’area poco distante da dove ci troviamo ora. Un post su youtube del 2016 le definisce un’amenità nota soltanto ai locali. A soli tre anni di distanza, in realtà, informazioni seppur sommarie sulle pozze si trovano sulla pagina dedicata su visitnorway.com e su quella della regione di Telemark. Inoltre, leggendo il forum di Tripadvisor, apprendiamo che la strada per raggiungere le pozze è stata recentemente chiusa per un periodo non precisato. Dal momento che ormai siamo qui decidiamo comunque di andare in esplorazione.
 
