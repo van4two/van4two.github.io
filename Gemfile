@@ -6,6 +6,7 @@ group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll-leaflet'
     gem 'jekyll-contentblocks'
+    gem 'jekyll-target-blank'   # open external links in new window
 end
 #gem 'github-pages', group: :jekyll_plugins
 #gem 'jekyll-contentblocks', group: :jekyll_plugins

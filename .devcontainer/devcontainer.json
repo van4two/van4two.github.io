@@ -1,18 +1,20 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or the definition README at
 // https://github.com/microsoft/vscode-dev-containers/tree/master/containers/ubuntu-18.04-git
 {
-    "name": "Jekyll Dev + GH Pages / Stefanino Edition",
+    "name": "Jekyll + GH Pages",
     "dockerFile": "Dockerfile",
+    
+    // paths in Dockerfile are relative to this, hence the parent folder
     "context": "../",
     
     // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	//"remoteUser": "vscode"
-    //"remoteUser": "jekyll",
+    "remoteUser": "jekyll",
     
     // The optional 'runArgs' property can be used to specify additional runtime arguments.
     "runArgs": [
-        //"-u", "jekyll",
-        //"-v", "${env:HOME}${env:USERPROFILE}/.ssh:/root/.ssh-localhost:ro",
+        "-u", "jekyll",
+        "-v", "${env:HOME}/.ssh:/root/.ssh-localhost:ro"
         //"--rm",
         //"--volume='../:/srv/jekyll'",
         //"-p", "4000:4000"
@@ -29,7 +31,7 @@
 	],
 
     // Use 'postCreateCommand' to run commands after the container is created.
-    //"postCreateCommand": "sudo cp -r /root/.ssh-localhost ~ && sudo chown -R $(id -u):$(id -g) ~/.ssh-localhost && mv ~/.ssh-localhost ~/.ssh && chmod 700 ~/.ssh && chmod 600 ~/.ssh/*",
+    "postCreateCommand": "sudo cp -r /root/.ssh-localhost ~ && sudo chown -R $(id -u):$(id -g) ~/.ssh-localhost && mv ~/.ssh-localhost ~/.ssh && chmod 700 ~/.ssh && chmod 600 ~/.ssh/*",
 	//"postCreateCommand": "sh .devcontainer/post-create.sh",
 
     // Configure tool-specific properties.
