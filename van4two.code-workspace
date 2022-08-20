@@ -5,7 +5,17 @@
 		},
 	],
 	"settings": {
-		"nrf-connect.toolchain.path": "PATH"
+		"nrf-connect.toolchain.path": "PATH",
+		"cSpell.customDictionaries": {
+			"dict_it": {
+				"name": "dictionary_IT",
+				"path": "${workspaceFolder}/.vscode/dict_it.txt",
+				"description": "Custom dictionary - IT",
+				"addWords": true
+			},
+			"custom": true, // Enable the `custom` dictionary
+			//"internal-terms": false // Disable the `internal-terms` dictionary
+		},
+		"cSpell.language": "en, it",
 	},
-	
 }

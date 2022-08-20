@@ -13,7 +13,7 @@ Setting up the packages for computer vision and UI, as well as their dependencie
 ## Introduction
 
 Developing applications for embedded systems means having to deal with hardware constraints that seriously hinder the possibility of local development (local here refers to the development done onto the embedded device itself).
-A smarter alternative is instead to setup a development machine, where all the phases of the coding happen, that connects to the embedded device only to deploy and run the application after it has been built. 
+A smarter alternative is instead to setup a development machine, where all the phases of the coding happen, that connects to the embedded device only to deploy and run the application after it has been built.
 
 This workflow is referred to as **cross-compilation** and to work properly it relies on two key aspects:
 
