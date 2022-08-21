@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/edewit/jekyll-google-photos.git
+  revision: 8018ccdd888f5bf7f4f92d7c5d19972dcf8a1a7d
+  branch: patch-1
+  specs:
+    jekyll-google-photos (1.4.3)
+      jekyll (~> 3.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -133,6 +141,8 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
@@ -271,7 +281,9 @@ DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-archives
   jekyll-contentblocks
+  jekyll-google-photos!
   jekyll-leaflet
+  jekyll-menus
   jekyll-target-blank
   jekyll-theme-minimal
   jekyll-toc

@@ -45,4 +45,6 @@ RUN echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME\
 # # Set up git completion.
 #RUN echo "source /usr/share/bash-completion/completions/git" >> /home/$USERNAME/.bashrc
 
-#EXPOSE 4000
+# expose the ports for navigation and live reload
+EXPOSE 4000
+EXPOSE 35729

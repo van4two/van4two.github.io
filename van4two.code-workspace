@@ -17,5 +17,8 @@
 			//"internal-terms": false // Disable the `internal-terms` dictionary
 		},
 		"cSpell.language": "en, it",
+		"cSpell.enableFiletypes": [
+			"!jsonc"
+		],
 	},
 }
