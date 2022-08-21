@@ -3,6 +3,8 @@ layout: post
 title: Telemark
 pics: 2019-06-30-norway
 tags: lago traghetto campagna nuotare
+#{% contentfor sidebar %}
+#{% endcontentfor %}
 ---
 
 {% include img.html img="IMGP3235 - baneheia.jpg" cap="Il primo dei laghetti del parco Baneheia che si raggiunge dal parcheggio. Subito oltre si trovano piccoli capanni con bagni compost ben tenuti" %}
@@ -33,10 +35,10 @@ Tornati al furgone partiamo, quindi, in direzione nord percorrendo la Rv41, allo
 
 {% include img.html img="IMGP3259 - treungen.jpg" cap="Il piccolo abitato di Treungen si trova in una piacevole posizione lungo la costa sud-orientale del lago Nisser" %}
 
-{% contentfor sidebar %}
+
 
 Tips
 [Traghetto Fjordline](https://www.fjordline.com/en): 101 €, due persone + Fiat Scudo, solo andata; partenza 23:30 — arrivo 01:45 (durata: 2h 15′)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
-{% endcontentfor %}
+
