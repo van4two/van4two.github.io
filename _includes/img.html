@@ -1,11 +1,38 @@
-<figure class="image_link">
+<figure  
+    {% if include.id %} 
+        id="img_gphoto_{{include.id}}" 
+    {% endif %} 
+    class="image_link">
 
-    <a href="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}">
-    <img src="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}" 
-            alt="{{ include.img }}"/>
+    <a 
+    {% if include.img %} href="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}"
+    {% else %} href=""
+    {% endif %} 
+    >
+        <img
+        {% if include.id %} 
+            alt="img_gphoto_{{include.id}}"  
+            src="" 
+        {% else %} 
+            alt="{{ include.img }}" 
+            src="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}"
+        {% endif %} 
+        >
     </a>
     <figcaption>{{ include.cap }}</figcaption>
     <p></p>
- </figure>
+</figure>
+
+<script>
+    {% if include.id %}
+        var fig = document.getElementById("img_gphoto_{{include.id}}");
+        var lnk = fig.getElementsByTagName('a')[0];
+        lnk.href = googlePhotos.urls[{{include.id}}]; // + '=w100';
+        var img = lnk.getElementsByTagName('img')[0];
+        img.src = googlePhotos.urls[{{include.id}}] + '=w100';
+    {% elsif include.mg %}
+
+    {% endif %}
+</script>
 
  
