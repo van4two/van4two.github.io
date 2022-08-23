@@ -18,7 +18,7 @@ Ci dirigiamo ora verso la [**Trollstigen**](https://www.visitnorway.it/dove-anda
 
 Foto 2 cap="Copertina della brochure che illustra l'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/))"
 
-Foto 3 cap="Mappa dell'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://[www.nasjonaleturistveger.no/en/routes/geiranger-trollstigen](https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/)))"
+Foto 3 cap="Mappa dell'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/))"
 
 Percorriamo la Trollstigen ammirando il panorama della vallata sottostante e soffermandoci sulla cascata [Stigfossen](https://www.europeanwaterfalls.com/waterfalls/stigfossen-trollstigen/), che fiancheggia il tortuoso percorso. Non c’è modo di fermarsi lungo la strada, che si presenta ad una sola corsia con frequenti slarghi per consentire il passaggio nei due sensi di marcia.
 
