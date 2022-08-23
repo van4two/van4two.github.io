@@ -1,15 +1,15 @@
 title: van42 - A campervan travel log
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-architect
-remote_theme: pages-themes/minimal
+#remote_theme: pages-themes/minimal
 
 # fixes this: https://talk.jekyllrb.com/t/error-your-site-could-not-be-built-no-repo-name-found/5688
 repository: van4two/van4two.github.io
 
 # https://jekyllrb.com/docs/plugins/installation/
 plugins:
-- jekyll-remote-theme # github remote themes
+#- jekyll-remote-theme # github remote themes
 - jekyll-toc
 - jekyll-archives
 - jekyll-leaflet
