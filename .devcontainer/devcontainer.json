@@ -68,7 +68,9 @@
                 "streetsidesoftware.code-spell-checker-italian",
                 "ms-vscode.wordcount",
                 "stkb.rewrap",
-                "wayou.vscode-todo-highlight"
+                "wayou.vscode-todo-highlight",
+                // prettifier
+                "esbenp.prettier-vscode"
             ]
         }
     } 
