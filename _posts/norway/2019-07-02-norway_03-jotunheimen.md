@@ -61,7 +61,7 @@ Terminata la ricognizione ci spostiamo al vicino [camping di Maurvangen](https:/
 
 {% contentfor sidebar %}
 
-Tips
+**Tips**
 Parcheggio della stazione di Lillehammer: libero per 30' poi a pagamento
 
 Pedaggio [Peer Gynt Vegen](http://www.peergyntvegen.no/): 85 nkr (solo carta di credito)
@@ -73,4 +73,5 @@ Pedaggio [Jotunheimvegen]: 100 nkr  (solo carta di credito)
 [Maurvangen camping](https://www.maurvangen.no/en/):  260 nkr  per 2 persone + campervan;  doccia: 15 nkr (durata 4′)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
+
 {% endcontentfor %}

@@ -35,10 +35,11 @@ Tornati al furgone partiamo, quindi, in direzione nord percorrendo la Rv41, allo
 
 {% include img.html img="IMGP3259 - treungen.jpg" cap="Il piccolo abitato di Treungen si trova in una piacevole posizione lungo la costa sud-orientale del lago Nisser" %}
 
+{% contentfor sidebar %}
 
-
-Tips
+**Tips**
 [Traghetto Fjordline](https://www.fjordline.com/en): 101 €, due persone + Fiat Scudo, solo andata; partenza 23:30 — arrivo 01:45 (durata: 2h 15′)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
+{% endcontentfor %}

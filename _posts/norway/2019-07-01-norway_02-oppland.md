@@ -56,8 +56,9 @@ Proseguiamo fino a [**Lillehammer**](https://www.visitnorway.it/dove-andare/norv
 
 {% contentfor sidebar %}
 
-Tips
+**Tips**
 Traghetto Fjordline: 101 €, due persone + Fiat Scudo, solo andata; partenza 23:30 — arrivo 01:45 (durata: 2h 15′)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
+
 {% endcontentfor %}

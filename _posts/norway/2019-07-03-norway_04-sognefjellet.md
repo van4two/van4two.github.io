@@ -8,6 +8,16 @@ tags: trekking belvedere montagna strada-panoramica neve
 
 {% google_photos page.gallery_url none %}
 
+{% include img.html id="1" cap="test" %}
+{% include img.html id="2" cap="test" %}
+{% include img.html id="3" cap="test" %}
+{% include img.html id="4" cap="test" %}
+{% include img.html id="5" cap="test" %}
+{% include img.html id="6" cap="test" %}
+{% include img.html id="7" cap="test" %}
+{% include img.html id="8" cap="test" %}
+{% include img.html id="9" cap="test" %}
+
 Foto 1 cap="Seguendo il corso del fiume Bøvra, la Sognefjellet attraversa la vallata di Bøverdalen per cominciare gradualmente a salire"
 
 Ci svegliamo semi-congelati nel [camping di Maurvangen](https://www.maurvangen.no/). Consumiamo i 4 minuti di doccia con le mani che quasi bruciano sotto l’acqua calda. Mentre prepariamo la colazione facciamo il punto della situazione: oggi il cielo è coperto, l’aria è gelida e le previsioni indicano pioggia, forse neve, quindi dell’escursione alla cresta Besseggen non se ne parla proprio. Domani, invece, il tempo sembra più promettente: niente precipitazioni e forse qualche raggio di sole. La nostra intenzione, quindi, è quella di rimanere in zona e dedicare al trekking la [giornata di domani](/), coprendoci per bene. Aggiudicato!
