@@ -5,6 +5,39 @@
 // TODO: replace with theme name variable
 @import "minimal";
 
+.wrapper {
+    max-width: 100%;
+    width: 1170px;
+}
+// TODO: merge with .wrapper
+/*body .container {
+    max-width: 100%;
+    width: 1170px;
+}*/
+
+// two-column layout
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.col-1 {
+    width: 70%;
+    height: 100vh;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.col-2 {
+    width: 30%;
+    padding: 30px;
+    height: 100vh;
+    border: green solid 5px;
+    margin: 50px;
+}
+// end two column layout
+
+
+
 .blogroll-img {
     width: 50px;
 }
@@ -21,16 +54,8 @@
     padding-right: 15px;
 }
 
-.wrapper {
-    max-width: 100%;
-    width: 1170px;
-}
 
-// TODO: merge with .wrapper
-body .container {
-    max-width: 100%;
-    width: 1170px;
-}
+
 
 header {
     width: 100%;
