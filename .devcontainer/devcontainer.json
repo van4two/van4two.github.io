@@ -15,8 +15,6 @@
     "runArgs": [
         "-u", "jekyll",
         "-v", "${env:HOME}/.ssh:/root/.ssh-localhost:ro"
-        //"--rm",
-        //"--volume='../:/srv/jekyll'",
     ],
 
     "mounts": [
@@ -28,11 +26,6 @@
 		4000,   // Jekyll server
 		35729   // Live reload server
 	],
-    // same, legacy mode
-    "appPort": [
-        4000, 
-        35729
-    ],
 
     // Use 'postCreateCommand' to run commands after the container is created.
     "postCreateCommand": "sudo cp -r /root/.ssh-localhost ~ && sudo chown -R $(id -u):$(id -g) ~/.ssh-localhost && mv ~/.ssh-localhost ~/.ssh && chmod 700 ~/.ssh && chmod 600 ~/.ssh/*",

@@ -18,7 +18,8 @@
       https://www.cssfontstack.com/Architects-Daughter
     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Architects+Daughter" />
-    
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins" />
+
     <!-- for .pull-right -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all">
     
@@ -27,6 +28,9 @@
     <link rel="stylesheet" href="/assets/css/minimal-portfolio.css" media="all">
 
     <link rel="stylesheet" href="/assets/css/custom.css" media="all" >
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 
     {% include head-custom.html %}
 
@@ -74,7 +78,7 @@
 
       </header>
 
-      <div class="container">
+      <article class="container">
         <!-- 1st column -->
         <section class="col1">
           {{ content }}
@@ -82,9 +86,10 @@
   
         <!-- 2nd column -->
         <section class="col2">
-          {% contentblock table %}
+          {% include table.html %}
         </section>
-      </div>
+      
+      </article>
 
       <!--<footer>
         {% if site.github.is_project_page %}
@@ -95,8 +100,12 @@
       -->
 
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script type="text/javascript" src="/assets/js/lightbox.js"></script>
     <link rel="stylesheet" href="/assets/css/lightbox.css">
+
+    <script type="text/javascript" src="/assets/js/maxmegamenu.js"></script>
+  
   </body>
 </html>
