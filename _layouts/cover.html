@@ -8,15 +8,16 @@
     <title>{{ page.title }}</title>
     
     {% seo %}
+    
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-
-    <link rel="stylesheet" href="/assets/css/mega-menu.css">
-
+    
     {% include head-custom.html %}
-  
+    {% include head-custom-css.html %}
+    {% include head-custom-js.html %}
+
   </head>
   <body>
     <div class="wrapper">
@@ -26,16 +27,25 @@
 
       </header>
 
-      {{ toc }}
-      <section>
+      <article class="container">
+        <!-- 1st column -->
+        <section class="col1">
+          
+          {{ content }}
+
+          {% for post in site.posts %}
+            {{post.title}}
+          {% endfor %}
+
+        </section>
+  
+        <!-- 2nd column -->
+        <section class="col2">
+          {% include table.html %}
+        </section>
       
-      {{ content }}
+      </article>
 
-      {% for post in site.posts %}
-        {{post.title}}
-      {% endfor %}
-
-      </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -44,5 +54,10 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script type="text/javascript" src="/assets/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
+
+    <script type="text/javascript" src="/assets/js/maxmegamenu.js"></script>
+
   </body>
 </html>
