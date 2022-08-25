@@ -3,16 +3,6 @@
     // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
-        
-        {
-            "label": "Jekyll Build Install (install gems listed in Gemfile)",
-            "type": "shell",
-            "command": "sudo bundle install",
-            "group": {
-                "kind": "build",
-                //"isDefault": true
-            },
-        },
         {
             "label": "Jekyll Serve (with livereload)",
             "type": "shell",

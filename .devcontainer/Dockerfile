@@ -1,10 +1,4 @@
-#FROM jekyll/jekyll:pages
-#FROM jekyll/jekyll
 FROM ruby:2.7-alpine3.15
-
-#COPY Gemfile /srv/jekyll/
-
-#WORKDIR /srv/jekyll
 
 RUN apk update
 RUN apk --no-cache add \
@@ -31,7 +25,8 @@ RUN apk --no-cache add \
     git-bash-completion
 
 # # https://talk.jekyllrb.com/t/load-error-cannot-load-such-file-webrick/5417/2
-RUN gem update bundler && gem install bundler jekyll
+RUN gem install bundler -v 2.3.20
+RUN gem install jekyll
 
 ## Set up user so that we can share ssh credentials.
 # see: https://stackoverflow.com/questions/27701930/how-to-add-users-to-docker-container 
@@ -40,7 +35,10 @@ RUN adduser -D $USERNAME
 RUN echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME\
     && chmod 0440 /etc/sudoers.d/$USERNAME
 
-#WORKDIR /home/jekyll
+COPY Gemfile /home/$USERNAME
+
+WORKDIR /home/$USERNAME
+RUN bundle install 
 
 # # Set up git completion.
 #RUN echo "source /usr/share/bash-completion/completions/git" >> /home/$USERNAME/.bashrc
