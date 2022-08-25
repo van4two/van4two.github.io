@@ -3,11 +3,14 @@ layout: post
 title: Verso l'Oppland
 pics: 2019-06-30-norway
 tags: architettura campagna chiesa nuotare pedaggio
+folder: _posts/norway
 ---
 
 {% include img.html img="IMGP3271 - treungen.jpg" cap="Risveglio in riva al lago Nisser" %}
 
-Ci svegliamo intorno alle 7 nell’[area di sosta](https://park4night.com/lieu/64873/#.Yv3Oj3ZByUl) individuata [ieri sera]({% post_url 2019-06-30-norway_01-telemark %}) a [Treungen](https://www.visitnorway.com/listings/r%C3%B8yrodden-treungen/8484/), sulle sponde del lago [Nisser](https://www.visitnorway.com/listings/canoe-cayak-on-lake-nisser-(vr%C3%A5dal)/11380/), nella contea di [Telemark](https://www.visittelemark.com/). Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
+{{page.folder}}
+
+Ci svegliamo intorno alle 7 nell’[area di sosta](https://park4night.com/lieu/64873/#.Yv3Oj3ZByUl) individuata [ieri sera]({% link {{page.folder}}/2019-06-30-norway_01-telemark.md %}) a [Treungen](https://www.visitnorway.com/listings/r%C3%B8yrodden-treungen/8484/), sulle sponde del lago [Nisser](https://www.visitnorway.com/listings/canoe-cayak-on-lake-nisser-(vr%C3%A5dal)/11380/), nella contea di [Telemark](https://www.visittelemark.com/). Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
 
 Partiamo per [**Jettegrytene**](https://www.visitnorway.com/listings/potholes/9970/), una serie di pozze d’acqua, vasche e scivoli scavati nella roccia dallo scorrere di un torrente in un’area poco distante da dove ci troviamo ora. Un [post su youtube](https://www.youtube.com/watch?v=EmCzANPiCSc&t=53s) del 2016 le definisce un’amenità nota soltanto ai locali. A soli tre anni di distanza, in realtà, informazioni seppur sommarie sulle pozze si trovano sulla pagina dedicata su [visitnorway.com](https://www.visitnorway.com/listings/potholes/9970/) e su [quella](https://www.visittelemark.com/things-to-do/potholes-p544563) della regione di Telemark. Inoltre, leggendo il [forum di Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g2419721-d4598375-Reviews-Jettegrytene_i_Nissedal-Nissedal_Municipality_Telemark_Eastern_Norway.html), apprendiamo che la strada per raggiungere le pozze è stata recentemente chiusa per un periodo non precisato. Dal momento che ormai siamo qui decidiamo comunque di andare in esplorazione.
 

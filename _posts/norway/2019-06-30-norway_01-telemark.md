@@ -3,6 +3,7 @@ layout: post
 title: Telemark
 pics: 2019-06-30-norway
 tags: lago traghetto campagna nuotare
+path: _posts/norway
 #{% contentfor sidebar %}
 #{% endcontentfor %}
 ---
