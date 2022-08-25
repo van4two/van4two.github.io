@@ -8,7 +8,7 @@ tags: belvedere fiordi strada panoramica traghetto
 
 {% google_photos page.gallery_url none %}
 
-Foto 1 cap="L'imponente Trollveggen parzialmente avvolta dalle nuvole"
+{% include img.html id=88 cap="L'imponente Trollveggen parzialmente avvolta dalle nuvole" %}
 
 Ci svegliamo nel [campeggio di Åndalsnes](https://www.andalsnes-camping.net/home) con un gran sole nel cielo: ne approfittiamo per goderci la colazione allestendo il tavolino pieghevole all’esterno. Ora che siamo pronti a partire, però, il cielo comincia a rannuvolarsi. Con ancora qualche sprazzo di azzurro, torniamo alla vicina [**Trollveggen**](https://www.visitnorway.com/places-to-go/fjord-norway/northwest/listings-northwest/trollveggen/1001/), la “parete dei troll”, già visitata ieri, per qualche ulteriore scatto sperando nella luce migliore.
 

@@ -1,0 +1,123 @@
+/* Porting of the old site custom css
+*/
+
+a {
+	color: #20639b;
+}
+p {
+	line-height: 1.8em;
+	text-align: justify;
+}
+figure {
+    margin: 0 0 1em 0;
+}
+article .post-thumbnail {
+	display: none;
+}
+iframe {
+	border: none;
+}
+
+h2, h3 {
+	text-transform: none;
+	font-size: 18px;
+}
+h2.page-title {
+	font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	text-transform: none;
+}
+.entry-content h2 {
+    line-height: 2em;
+    margin: 0;
+}
+
+.wp-block-image figcaption {
+	text-align:left;
+	font-size: 12px;
+	color: #888;
+    margin-top: 5px;
+    line-height: 1.5em;
+}
+	
+.wp-block-table.is-style-stripes tbody tr td {
+	padding-left: 10px;
+}
+.wp-block-table.is-style-stripes tr:nth-child(odd) {
+	font-weight: bold;
+}
+.post-meta {
+	display: none;
+}
+
+/* columns */
+.wp-block-column:not(:last-child) {
+    margin-right: 32px;
+    flex-basis: 66%;
+}
+.wp-block-column:not(:first-child) {
+    margin-left: 0px;
+    flex-basis: 33%;
+}
+
+.pswp__caption h4 {
+	font-weight: normal !important;
+	text-transform: none;
+	font-size: 13px !important;
+}
+/* header */
+.site-title {
+	font-size: 26px;
+	font-weight: bold;
+	float: left;
+	margin-right: 10px;
+}
+.site-branding .site-description {
+	line-height: 35px
+}
+.site-content {
+	padding-top: 0px;
+}
+.branding-inner-wrap {
+    width: 300px;
+}
+
+/* footer */
+li.copyright a {
+	display: none;
+}
+
+.gm-map {
+	margin-bottom:40px;
+}
+section.page-header {
+	padding: 0;
+	background-color: white;
+}
+.page-header {
+	margin-bottom: 5px;
+}
+.page-header .page-title {
+	margin-top: 20px;
+	padding-top: 10px;
+	text-align: left;
+	color: black;
+}
+
+.col-lg-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.wp-block-nk-visual-portfolio {
+	margin-bottom: 20px;
+}
+
+/* Visual portfolio */
+.vp-portfolio__items-style-fade .vp-portfolio__item-overlay {
+	/*opacity: 0.8;	*/
+}
+
+.gmnoprint {
+	display: none;
+}
