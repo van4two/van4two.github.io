@@ -2,11 +2,14 @@
 layout: post
 title: Jotunheimen
 pics: 2019-06-30-norway
+gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere montagna strada panoramica
 folder: _posts/norway
 ---
 
-{% include img.html img="IMGP3388 - jotunheimvegen.jpg" cap="In esplorazione lungo la Jotunheimvegen" %}
+{% google_photos page.gallery_url none %}
+
+{% include img.html id=35 cap="In esplorazione lungo la Jotunheimvegen" %}
 
 Dopo l’abbondante pioggia di [ieri sera]({% link {{page.folder}}/2019-07-01-norway_02-oppland.md %}), ci svegliamo sui colli boscati che si inerpicano ad ovest di Lillehammer nello spot individuato nei pressi di un piccolo lago, ora inondato di luce. La temperatura è fresca ma il sole sta già scaldando l’aria, consentendoci di preparare la colazione all’esterno. Facciamo due passi costeggiando il laghetto e poi imboccando un sentiero che conduce ai vicini pascoli, a giudicare dai belati di svariate tonalità che udiamo.
 
@@ -14,9 +17,9 @@ Dopo l’abbondante pioggia di [ieri sera]({% link {{page.folder}}/2019-07-01-no
 
 Ci mettiamo in moto e ci dirigiamo verso [**Lillehammer**](https://www.visitnorway.com/places-to-go/eastern-norway/the-lillehammer-region/), per una tappa ricognitiva presso il centro informazioni turistiche locale. Dal momento, infatti, che il [primo giorno]({% link {{page.folder}}/2019-06-30-norway_01-telemark.md %}), in virtù del meteo instabile, abbiamo stabilito di modificare l’itinerario di viaggio pensato inizialmente, ora stiamo navigando a vista. La cittadina di Lillehammer è nota per aver ospitato le [Olimpiadi invernali](https://it.wikipedia.org/wiki/XVII_Giochi_olimpici_invernali) nel 1994: ne sono testimonianza i due trampolini per il salto con gli sci, riconoscibili anche da lontano. Ci fermiamo al [visitors center](https://en.lillehammer.com/?_ga=2.220187929.1600739022.1563625152-1046737073.1563625152), situato presso la stazione ferroviaria cittadina; trovandoci alle porte dello Jotunheimen National Park, speriamo di riuscire a raccogliere un po’ di informazioni sulle possibili escursioni da intraprendere.
 
-{% include img.html img="IMGP3364 - saksumdalsvegen.jpg" cap="Fiori di lupino viola lungo la Saksumdalsvegen, non lontano da Lillehammer" %}
+{% include img.html id=30 cap="Fiori di lupino viola lungo la Saksumdalsvegen, non lontano da Lillehammer" %}
 
-{% include img.html img="IMGP3361 - saksumdalsvegen.jpg" cap="Fiori di lupino rosa lungo la Saksumdalsvegen, non lontano da Lillehammer" %}
+{% include img.html id=29 cap="Fiori di lupino rosa lungo la Saksumdalsvegen, non lontano da Lillehammer" %}
 
 In particolare vorremmo sapere qualcosa di più sul crinale di **Besseggen**, considerato uno degli itinerari più spettacolari della Norvegia e, a quanto riportato sul [sito ufficiale](https://besseggen.net/?lang=en) dell’itinerario, annoverato dal [National Geographic](https://www.nationalgeographic.com/adventure/article/worlds-thrilling-hikes-trails) fra i 20 trekking più belli del mondo. Ci viene data qualche generica indicazione sul meteo, discreto ma non eccezionale, e su dove pernottare. Facciamo il pieno di carburante a una stazione di servizio Circle K e prendiamo un caffè al vicino McDonald’s dove approfittiamo della connessione Wi-Fi gratuita e della corrente elettrica a disposizione per definire l’itinerario da percorrere oggi, anche in vista del possibile trekking.
 
@@ -24,13 +27,13 @@ In particolare vorremmo sapere qualcosa di più sul crinale di **Besseggen**, co
 
 Partiamo quindi alla volta dello [**Jotunheimen National Park**](https://jotunheimen.com/en/), letteralmente la “dimora dei giganti”, parco nazionale di 1151 kmq con vette oltre 2300 m, strette valli e laghi profondi. Il parco si trova a nord-ovest rispetto a Lillehammer e, per raggiungerlo, intendiamo per correre una serie di strade segnalate dalla guida della [Lonely Planet](https://shop.lonelyplanetitalia.it/prodotto/guida-di-viaggio-norvegia) come particolarmente panoramiche. La prima di queste è la [**Peer Gynt Vegen**](http://www.peergyntvegen.no/) che si snoda per 57 km da Skei a [Espedalen](https://en.wikipedia.org/wiki/Espedalen), seguendo il tragitto percorso da [Peer Gynt](https://it.wikipedia.org/wiki/Peer_Gynt), leggendario personaggio creato da [Henrik Ibsen](https://it.wikipedia.org/wiki/Henrik_Ibsen).
 
-{% include img.html img="IMG_20190702_150554 - peer gynt vegen.jpg" cap="Punto di accesso alla Peer Gynt Vegen dove il pedaggio si paga con carta di credito: il sistema è completamente automatizzato" %}
+{% include img.html id=31 cap="Punto di accesso alla Peer Gynt Vegen dove il pedaggio si paga con carta di credito: il sistema è completamente automatizzato" %}
 
 {% include img.html img="peer-gynt-vegen_a.jpg" cap="Cartina raffigurante l'itinerario della Peer Gynt Vegen (tratta dal [sito web Jannekes](http://www.jannekeswereld.nl/2015/06/13/peer-gynt-vegen-bergweg-noorwegen/))" %}
 
 Ci risulta ci sia un pedaggio da pagare ma non ci è ancora chiaro come pagheremo in quanto, per accedere alla Peer Gynt Vegen, ci stiamo inerpicando su per i monti, lontano dalla civiltà. Oltretutto, provando ad impostare la strada come itinerario nel navigatore di [Google Maps](https://www.google.com/maps/@44.4786135,11.3724806,15z), il software cerca di indirizzarci verso altri tragitti e lo street view non la copre. Lungo la strada, però, troviamo cartelli che indicano proprio “Peer Gynt Vegen”, a mano a mano che ci avviciniamo ad essa: poco dopo l’accesso ci si presenta davanti il casello del pedaggio con sbarra automatica. Il sistema è completamente meccanizzato e accetta carte di credito. Paghiamo e iniziamo il percorso. Il paesaggio è selvaggio e verdeggiante con prevalenza di arbusti. Incontriamo rare macchine. Ci fermiamo a pranzare a un tavolo da picnic accanto a un bucolico corso d’acqua: che pace! Riprendiamo il percorso sterrato e procediamo fino al termine dell’itinerario.
 
-{% include img.html img="IMGP3373 - peer gynt vegen.jpg" cap="Paesaggio lungo la Peer Gynt Vegen" %}
+{% include img.html id=33 cap="Paesaggio lungo la Peer Gynt Vegen" %}
 
 ## Jotunheimvegen
 
@@ -38,13 +41,13 @@ Da qui siamo intenti ad intraprendere anche la [**Jotunheimvegen**](https://jotu
 
 {% include img.html img="IMG_20190702_180006.jpg" cap="Cartello informativo a Skåbu recante indicazioni sugli itinerari percorribili nella zona" %}
 
-{% include img.html img="IMG_20190702_181031 - jotunheimvegen.jpg" cap="Indicazione relativa all'accesso alla Jotunheimvegen" %}
+{% include img.html id=36 cap="Indicazione relativa all'accesso alla Jotunheimvegen" %}
 
 La Jotunheimvegen attraversa da est a ovest un’area caratterizzata da ampi spazi verdi, offrendo bei panorami con vegetazione arbustiva e specchi d’acqua. A metà del percorso comincia a piovigginare e presto la pioggia si tramuta in nevischio. Percorriamo la strada che costeggia il lago [Vinstre](https://en.wikipedia.org/wiki/Vinstre), costellato di numerose casette rosse sulla sponda settentrionale, e ci immettiamo sulla Fv51.
 
-{% include img.html img="IMGP3387 - jotunheimvegen.jpg" cap="Uno dei numerosi specchi d'acqua lungo la Jotunheimvegen" %}
+{% include img.html id=34 cap="Uno dei numerosi specchi d'acqua lungo la Jotunheimvegen" %}
 
-{% include img.html img="IMGP3390 - jotunheimvegen.jpg" cap="Lungo la Jotunheimvegen il paesaggio progressivamente si apre, permettendo allo sguardo di spaziare a 360°" %}
+{% include img.html id=37 cap="Lungo la Jotunheimvegen il paesaggio progressivamente si apre, permettendo allo sguardo di spaziare a 360°" %}
 
 ## Valdresflye
 
