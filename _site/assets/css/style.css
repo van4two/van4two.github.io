@@ -14,7 +14,12 @@ section:last-child { padding-bottom: 50px; }
 /*body .container { max-width: 100%; width: 1170px; }*/
 article.container { display: flex; flex-direction: row; justify-content: space-between; }
 
-/*.col-1 { width: 70%; height: 100vh; text-align: center; margin-right: 32px; } .col-2 { width: 30%; padding: 30px; height: 100vh; margin: 50px; } .col:not(:last-child) { margin-right: 32px; flex-basis: 66%; //flex-basis: 0; flex-grow: 1; }*/
+.col-1 { width: 70%; height: 100vh; text-align: center; margin-right: 32px; }
+
+.col-2 { width: 30%; padding: 30px; height: 100vh; margin: 50px; }
+
+.col:not(:last-child) { margin-right: 32px; flex-basis: 66%; flex-grow: 1; }
+
 .blogroll-img { width: 50px; }
 
 .image_link { margin-block-start: 0; margin-block-end: 0; margin-left: 0; margin-right: 0; }
