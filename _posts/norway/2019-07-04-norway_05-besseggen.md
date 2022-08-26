@@ -41,7 +41,7 @@ Dopo una decina di minuti siamo già fermi, come la quasi totalità degli escurs
 
 Proseguiamo salendo sempre più fra le alture innevate, costeggiando laghi dalle svariate tonalità di blu che contrastano con il bianco della neve. Ogni tanto lungo il sentiero compaiono cartelli che precisano le distanze dal Memurubu e dallo Gjendesheim. Comincia a delinearsi davanti a noi, in lontananza, il profilo del Besseggen vero e proprio che, come descritto da [Lonely Planet](https://shop.lonelyplanetitalia.it/prodotto/guida-di-viaggio-norvegia), appare piuttosto ripido e stretto (ma si tratterebbe solo di apparenza). Il cielo si apre e sprazzi di blu cominciano a predominare sulle nuvole. Terminata la prima lunga salita, costeggiamo un primo piccolo specchio d’acqua seguito, a breve, dal lago **Bjørnbøltjønne** con lo sfondo del monte [Besshø](https://en.wikipedia.org/wiki/Bessh%C3%B8): stando alle informazioni riportate sul [sito web del trekking](https://besseggen.net/information/?lang=en), qui è possibile riempire la borraccia presso il corso d’acqua che si incontra circa 200 m dopo il lago.
 
-{% include img.html id=52 cap="L'acqua del ruscello che si incontra subito dopo il lago Bjørnbøltjønne è potabile" %}
+{% include img.html id=55 cap="L'acqua del ruscello che si incontra subito dopo il lago Bjørnbøltjønne è potabile" %}
 
 ## The Strip
 
@@ -71,7 +71,7 @@ Avevamo inteso da alcune recensioni su internet che, lungo un tratto della crest
 
 Terminata la cresta, decidiamo di proseguire fino alla cima vera e propria, **Veslefjell** (1743 m), che si raggiunge con una salita morbida, per poi fermarci a pranzare lì. Intanto il cielo si rannuvola. Arrivati sulla cima, cerchiamo un angolo un po’ riparato dal vento per consumare il nostro spuntino: siamo rapidi perché, senza sole ed esposti al vento, fa freddo.
 
-{% include img.html id=71 cap="Terminata la cresta si prosegue facilmente fino a Veslefjell, spazzata dal vento" %}
+{% include img.html img="IMG_20190704_141223 - veslefjell.jpg" cap="Terminata la cresta si prosegue facilmente fino a Veslefjell, spazzata dal vento" %}
 
 Cominciamo la discesa di 5 km verso lo Gjendesheim, anche questa piuttosto comoda, almeno nel primo tratto. Incontriamo qualche escursionista che sale in direzione opposta a noi, approcciando quindi il Besseggen in discesa. Il cielo si apre di nuovo mentre percorriamo l’ultima parte del tragitto fino allo Gjendesheim, dove arriviamo poco dopo le 16: abbiamo completato l’itinerario in 7 ore, soste comprese. Ci fermiamo al rifugio per una cioccolata calda, scoprendo, nostro malgrado, che le bevande calde, pur con prezzi da bar, provengono invece da un distributore automatico. Bevuta la cioccolata seduti in uno dei tavoli all’aperto, prendiamo lo shuttle che ci riporta al parcheggio.
 
