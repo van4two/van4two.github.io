@@ -13,10 +13,6 @@
 
     <link rel="stylesheet" type="text/css" href="/assets/css/gallery.css" />
 
-    {% include head-custom.html %}
-    {% include head-custom-css.html %}
-    {% include head-custom-js.html %}
-    
   </head>
 
   <body>
@@ -42,8 +38,13 @@
             picture.setAttribute("alt", "");
             
             // <div class="overlay"><span>Image title</span></div>
+            let overlay = document.createElement('div');
+            overlay.className = "overlay";
+            overlay.innerHTML = "<span>" + i + "</span>";
 
             tile.appendChild(picture);
+            tile.appendChild(overlay);
+
             gallery.appendChild(tile);
         }
 
