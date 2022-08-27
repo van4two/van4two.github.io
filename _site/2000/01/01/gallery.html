@@ -112,8 +112,13 @@
             picture.setAttribute("alt", "");
             
             // <div class="overlay"><span>Image title</span></div>
+            let overlay = document.createElement('div');
+            overlay.className = "overlay";
+            overlay.innerHTML = "<span>" + i + "</span>";
 
             tile.appendChild(picture);
+            tile.appendChild(overlay);
+
             gallery.appendChild(tile);
         }
 
