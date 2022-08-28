@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere escursione lago montagna neve pedaggio strada-panoramica
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2019/10/IMGP3483_gjende.jp
 ---
 
 {% google_photos page.gallery_url none %}
@@ -83,6 +83,10 @@ Prima di riprendere il nostro viaggio, visto il cielo sereno, decidiamo di riper
 ## Slådalsvegen
 
 A questo punto ci indirizziamo verso nord, intenti a percorrere un po’ di strada e a cercare una location per la notte. Vorremmo evitare strade a grande percorrenza come la E6, quindi, passando per [Vågåmo](https://www.nasjonalparkriket.no/en/vaga), imbocchiamo la [Slådalsvegen](https://no.wikipedia.org/wiki/Sl%C3%A5dalsvegen), a pagamento come le altre strade di montagna, che corre lungo il confine orientale dello [**Reinheimen National Park**](https://www.nasjonalparkriket.no/nasjonalparker/reinheimen-nasjonalpark). Anche qui il panorama è gratificante, peccato che il sole stia scomparendo dietro i monti. Ci fermiamo in un’ampia area di sosta nei pressi di un ruscello, segnalata su [park4night](https://park4night.com/lieu/97541//unnamed-road/norway/lesja-kommune#.XTQtQugzaUk). Un camper solitario è già posizionato in mezzo al prato. Qua e là pascolano pecore curiose che, mentre ceniamo, si avvicinano al furgone sbirciando dal vetro. Al sole si alterna una pioggerella mista a nevischio; stanchi ma soddisfatti della giornata, andiamo a dormire.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eDOmlqNRKrfT_hYQmBJ3ie2fAvB2j3-_" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

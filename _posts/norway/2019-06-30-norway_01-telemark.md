@@ -39,6 +39,10 @@ Tornati al furgone partiamo, quindi, in direzione nord percorrendo la Rv41, allo
 
 {% include img.html id=12 cap="Il piccolo abitato di Treungen si trova in una piacevole posizione lungo la costa sud-orientale del lago Nisser" %}
 
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EltzSCCxXC5K_3hLPHXtzWosN-6FJVyt" width="640" height="480"></iframe>
+{% endcontentfor %}
+
 {% contentfor sidebar %}
 
 **Tips**

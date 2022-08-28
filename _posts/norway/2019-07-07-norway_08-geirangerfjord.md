@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: belvedere crociera fiordi lago montagna strada-panoramica
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2020/02/IMGP3894-2-geirangerfjord-scaled.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -63,6 +63,10 @@ Procediamo lungo la strada che percorre la vallata, incontrando presto il lago [
 {% include img.html id=122 cap="Gli ultimi raggi di sole accompagnano un&#039;escursione in canoa sul lago Lovatnet" %}
 
 Dopo aver letto recensioni positive su Google, optiamo per il [Sande camping](https://sande-camping.no/?lang=en), le cui piazzole si trovano sulla riva del lago. Il campeggio è quasi pieno e veniamo sistemati proprio sulla riva, accanto al molo dove sono ricoverati una serie di canoe, un pedalò e un paio di piccole barche. Il campeggio è stato recentemente ristrutturato e presenta spazi comuni pulitissimi e moderni: apprezziamo in particolar modo la cucina con sala da pranzo e loggia aperta con vista lago. Trascorriamo qui una serata tranquilla con tramonto sul lago.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-2rQfZ2EZ-1sPL9fzjy6kO7rGPcxQuGu" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

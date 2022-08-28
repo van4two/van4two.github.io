@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere montagna strada panoramica
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2019/11/IMGP3373-2.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -63,6 +63,10 @@ Il tratto di quest’ultima che va da Garli a Hindsæter, ovvero la [**Valdresfl
 Procedendo, sulla sinistra troviamo il lago [Gjende](https://en.wikipedia.org/wiki/Gjende) e, alle sue spalle, la cresta di [**Besseggen**](https://www.youtube.com/watch?v=wPxlB2YwLH4), su cui passa l’omonimo trekking tanto apprezzato. Decidiamo di effettuare una rapida ricognizione sulla logistica dell’escursione imboccando la strada che conduce allo [Gjendesheim lodge](https://gjendesheim.dnt.no/en/), presso cui si prende il [ferry](https://www.gjende.no/en/) per il [Memurubu lodge](https://www.memurubu.no/), punto di partenza del trekking. Il vento soffia forte e la temperatura è decisamente calata rispetto a questa mattina. Nel parcheggio presso il lodge non si può lasciare la macchina per più di due ore e viene indicato di utilizzare, invece, il [Reinsvangen long term parking](https://www.besseggen1743.no/en/home), situato all’inizio della strada, da cui si può prendere gratuitamente uno shuttle per il molo dei ferry. Entriamo nel lodge, che fa anche servizio bar e ristorante, e veniamo accolti da un invitante odore di pane tostato e burro fritto: usciamo prima di farci cogliere dalla tentazione!
 
 Terminata la ricognizione ci spostiamo al vicino [camping di Maurvangen](https://www.maurvangen.no/en/), l’unico nella zona. Prendiamo una piazzola semplice senza elettricità e due gettoni per la doccia ma fa talmente freddo che decidiamo di rimandarla al mattino successivo. Approfittiamo della cucina comune, che odora un po’ di chiuso, e del pentolame messo a disposizione dal campeggio. Dopo cena, rintanati nel furgone, crolliamo direttamente a letto.  
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UlPX6e0voR7pnQlOgIa5A0x9KwUFiyGn" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

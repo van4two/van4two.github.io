@@ -20,6 +20,7 @@ Briksdalsbreen
 Brudesløret
 Bygdin
 campervan
+cassettina
 Catinaccio
 Ciampedie
 cioccolateria
@@ -28,6 +29,7 @@ copripantaloni
 corten
 Dalsnibba
 Dalsnibbba
+dell'anticima
 Djupvatnet
 Domkirkeodden
 Duron
@@ -38,6 +40,7 @@ Espedalen
 Fannefjord
 Fjordline
 Fjordsightseeing
+Fosdøla
 Galdhøpiggen
 Gamle
 Gardeccia
@@ -69,6 +72,8 @@ Kårvåg
 Kesselkogel
 Kjenndalsbreen
 Kjeragbolten
+Klakegg
+Klouman
 Kristiansund
 Langfjord
 Larsech
@@ -77,6 +82,7 @@ Ligger
 Lillehammer
 Linge
 Lodalen
+Loelva
 Loen
 Lovatnet
 Maurvangen
@@ -115,6 +121,9 @@ Skaala
 Skåbu
 Skagastølstind
 Skåla
+Skålabu
+Skålatårnet
+Skålavatnet
 Skei
 Slådalsvegen
 Slettafossen
@@ -122,6 +131,7 @@ Snøhetta
 Snøvegen
 Sognefjellet
 Sølsnes
+Stardalselva
 stengt
 Stigfossen
 Storfjord

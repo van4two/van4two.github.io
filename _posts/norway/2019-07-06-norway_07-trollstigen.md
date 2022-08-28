@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: belvedere fiordi strada panoramica traghetto
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2020/02/IMGP3731-2-trollstigen-scaled.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -57,6 +57,10 @@ Nel frattempo, girato il minuscolo paesino, ci fermiamo al [Geiranger Sjokolade]
 {% include img.html id=104 cap="La cioccolata calda norvegese viene preparata scaldando il latte fino ad ottenere una schiuma calda nella quale poi si versano pezzetti di cioccolato (al latte, fondente, bianco a seconda dei gusti): il risultato è inaspettatamente ottimo!" %}
 
 Il cielo rimane plumbeo; prendiamo il furgone e risaliamo la strada a tornanti che porta al belvedere sul fiordo Dalsnibba, fermandoci per la notte in una [piazzola erbosa](https://park4night.com/lieu/170408//11-prim%C3%A6r-fylkesveg-63/norway/#.YwPvBnZByUl) lungo uno di essi.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ahNIs50XlTuBIy9gwQiVXU5YYZcniZAj" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

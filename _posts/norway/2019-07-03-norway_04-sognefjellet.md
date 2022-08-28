@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere montagna strada-panoramica neve
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2019/11/IMG_163730-2.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -35,6 +35,10 @@ A Lom ci fermiamo nuovamente e, approfittando della connessione Wi-Fi del visito
 {% include img.html id=43 cap="Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio" %}
 
 Torniamo verso Gjende e, sulla Rv51, cerchiamo uno spot dove dormire, non lontano dal Gjendesheim. Nella sterrata laterale Riddersprangvegen troviamo un [posticino confortevole](https://park4night.com/en/lieu/164084//lom-riddersprangvegen/norway//Surrounded-by-nature#.YwJp0nZByUl) a mezz'ora di macchina dal lodge. Riscaldato il furgone, cuciniamo una zuppa calda, prepariamo gli zaini, ci copriamo bene e andiamo a letto mentre fuori pioviggina.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16-HyIdpM1bTonArYKBydTBU1MINpmBP1" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

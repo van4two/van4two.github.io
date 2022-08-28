@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: montagna pedaggio strada-panoramica traghetto porto
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2020/02/IMGP3626-2-atlanterhavsveien-scaled.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -59,6 +59,10 @@ Proseguiamo fino a [**Bud**](https://www.visitnorway.com/places-to-go/fjord-norw
 {% include img.html id=87 cap="Gabbiani raccolti su una delle case di legno sul mare a Bud" %}
 
 Terminato il percorso panoramico, rientriamo ad Åndalsnes per fermarci all’omonimo [campeggio](https://www.andalsnes-camping.net/home), poco a sud dell’abitato. Stanchi della lunga giornata, andiamo a letto con il rumore della E136 subito oltre il fiume, un po’ fastidioso.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SEGAy5yIbwbklc6DKS6mJ1GvfRPRxPsf" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

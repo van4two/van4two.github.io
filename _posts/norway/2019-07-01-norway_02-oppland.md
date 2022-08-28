@@ -5,7 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: architettura campagna chiesa nuotare pedaggio
 folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+#image: /wp-content/uploads/2019/10/IMGP3307-2.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -58,6 +58,10 @@ Imbocchiamo la E6, strada piuttosto trafficata e costellata di lavori in corso c
 {% include img.html id=28 cap="Dell'antica chiesa medievale, poi rimaneggiata, rimangono le parti sopravvissute all'incendio scoppiato durante la guerra nordica dei sette anni (XVI secolo)" %}
 
 Proseguiamo fino a [**Lillehammer**](https://www.visitnorway.it/dove-andare/norvegia-orientale/la-regione-di-lillehammer/), sede dei giochi olimpici invernali del 1994, dove ci inerpichiamo per la Saksumdalsvegen, una strada che si snoda sopra al paese, fermandoci per la notte in uno spot accanto al piccolo lago Tjernshaugtjenet. Purtroppo ci sono già due furgoni che occupano le posizioni migliori vicino al laghetto. Ci posizioniamo in uno slargo poco più distante, cuciniamo mentre fuori piove e in breve andiamo a letto.
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1N3Ul0AHLKuFg_w07oysm9B5eIYNXeDCd" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% contentfor sidebar %}
 

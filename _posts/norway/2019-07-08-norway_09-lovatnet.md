@@ -46,6 +46,10 @@ Nell’ultimo tratto di strada troviamo cartelli che indicano l’estensione del
 
 Arriviamo al fronte e la temperatura scende drasticamente. Il cielo è ancora grigio. Dopo qualche foto torniamo sui nostri passi, fino a raggiungere il parcheggio. Con il furgone riprendiamo la strada già percorsa all’andata in direzione opposta. Pranziamo sui tavoli di legno di un’ampia area picnic e ci riavviamo verso Loen. Ci accomodiamo nella loggia del camping e studiamo il trekking allo Skåla: ultimo check alle meteo, che sono ottime, e ci convinciamo definitivamente. Cuciniamo pastasciutta e andiamo a letto carichi per domani.
 
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LJbRXacgKN7ykDpNOnsHNslT2PZhtExo" width="640" height="480"></iframe>
+{% endcontentfor %}
+
 {% contentfor sidebar %}
 
 **Tips**
