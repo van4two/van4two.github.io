@@ -22,6 +22,7 @@ exclude:
 - '.devcontainer'
 - '*.code-workspace'
 - 'Gemfile*'
+- 'wp-jekyll'
 
 jekyll-archives:
   enabled: [year, month, tags]

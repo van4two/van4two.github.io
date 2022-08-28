@@ -1,0 +1,80 @@
+---
+id: 4280
+title: 'Catinaccio d&#8217;Antermoia (Kesselkogel) via Scalette trail'
+date: '2021-07-24T00:01:00+00:00'
+author: admin
+layout: post
+guid: 'https://www.van42.com/?p=4280'
+permalink: /en/2021/07/24/catinaccio-dantermoia-kesselkogel-via-scalette-trail/
+video_url:
+    - ''
+wp_typography_post_enhancements_disabled:
+    - ''
+image: /wp-content/uploads/2022/07/IMGP0768-scaled-1.jpg
+categories:
+    - Europe
+    - Italy
+tags:
+    - hiking
+    - lake
+    - mountain
+---
+
+<div class="wp-container-212 wp-block-columns has-2-columns"><div class="wp-container-210 wp-block-column"><div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-261"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2022/07/IMGP0768-scaled-1-150x150.jpg)](https://www.van42.com/imgp0768-scaled/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-261-4324"> Lago di Antermoia e Croda del Lago / Lake Antermoia and Croda del Lago </figcaption></figure> </div></div>Lake Antermoia is one of the crown jewels of the [**Catinaccio**](https://www.suedtirolerland.it/en/highlights/nature-and-landscape/mountains-in-south-tyrol/dolomites/catinaccio-group/) massif area, a trip we’ve been dreaming about for quite some time. A couple of years have passed since we had it planned and then postponed, at first because of bad weather and then because of… well… life! But eventually this summer weekend was the perfect opportunity to get to explore the **[Val di Fassa](https://www.fassa.com/index.asp?l=en)**, this corner of the Dolomites that we know so little about.
+
+The lake can be reached hiking more classic itineraries through the [Val di Vajolet](https://it.wikipedia.org/wiki/Val_di_Vajolet), [Val Duron](https://it.wikipedia.org/wiki/Val_Duron), Val di Dona and [Val Udai](https://it.wikipedia.org/wiki/Val_Udai) (many of these hikes are described on the [Facebook group Val di Fassa Trekking](https://it-it.facebook.com/groups/1687224161308440/)). But it’s a weekend of mid July and we’re really looking for a less beaten path in the hope to avoid the crowd. On the[ Volpi del Vajolet blog](https://www.volpidelvajolet.it/2016/08/escursione-ad-anello-dalla-gardeccia-al.html) we stumbled upon a promising alternative that follows the classic Val di Vajolet on the way up, but takes the so called Sentiero delle Scalette on the way back.
+
+However, we decide to hike it in the opposite direction, so counterclockwise, as suggested by [Sentres.com](https://www.sentres.com/en/tour/hiking-trail/kesselkogel-circuit-over-the-passo-delle-scalette/58389876/) and the[ Gardeccia hut website](https://www.dolomitenschutzhuette.it/trekking-e-ferrate). We prefer to take up the aided path of the Scalette in morning while we’re still fresh and the chance of bad weather is low, and leave the less demanding descent from Passo Principe hut for the return in the afternoon.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-262"><figure class="gallery-item"><div class="gallery-icon portrait"> [![](https://www.van42.com/wp-content/uploads/2021/08/itinerario-antermoia-150x150.jpg)](https://www.van42.com/itinerario-antermoia/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-262-3955"> Mappa dell'itinerario / Trail map </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0698-150x150.jpg)](https://www.van42.com/imgp0698/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-262-3934"> Gruppo del Larsech / Larsech Group </figcaption></figure> </div></div>Overall, the loop is a long hike with a substantial elevation gain. It starts from the Gardeccia hut, reachable from Ciampedie along the CAI 540 path, and follows the 583 path to the Antermoia hut, then continues on the 584 to the Vajolet hut and, from there, returns to Gardeccia via the 546.   
+The CAI 583 called “Scalette trail” is partly aided with a couple of sections equipped with steel cable and artificial steps.
+
+## Towards Gardeccia
+
+We spend the night before in our campervan, parked ina [laybay in the woods](https://park4night.com/it/lieu/127219/circondato-dalla-natura/vigo-di-fassa-strada-de-valongia-/-str-veia/italy/provincia-di-trento#.Ytv8sXZByUn) on a secondary road just outside Vigo di Fassa. We drive to the village early in the morning to be able to get on the first ride of the [cable car](https://infofassaefiemme.com/item/funivia-vigo-ciampedie/) to [Ciampedie](http://www.rifugiociampedie.com/en/index.htm) at 8am. It’s a short ride and in few minutes we’ve reached the start of our hike. We take the easy path 540 which, crossing the forest and some meadows that in winter turn into ski slopes, in about 40 ‘ takes us to the [Gardeccia hut](https://www.dolomitenschutzhuette.it/gardeccia-hutte) (1949 m).
+
+## Scalette trail
+
+We fill our flasks at the fountain on the trailcross in front of the hut and we proceed along path 583 which quickly leads us under the Larsech group. Flanking the southern side, we gradually gain altitude until we properly get on to the [**Scalette trail**](https://www.rifugidelcatinaccio.it/en/tour.asp?id=25) which winds its way between the Gran Cront and the Pala de La Lacia.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-263"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0701-150x150.jpg)](https://www.van42.com/imgp0701/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-263-3935"> Gruppo del Larsech / Larsech Group </figcaption></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0704-150x150.jpg)](https://www.van42.com/imgp0704/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-263-3971"> Sentiero delle Scalette / Scalette trail </figcaption></figure> </div></div>The terrain and the progression change completely: the woods leave room to the rocks and we begin to climb, as the trail does. The path is well marked even if the terrain is rough. After the two short aided sections we continue to climb up till we reach the [**Scalette** **pass**](https://it.wikipedia.org/wiki/Passo_delle_Scalette) (2348 m).
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-264"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0721-150x150.jpg)](https://www.van42.com/imgp0721/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-264-3936"> Laghetto subito dopo il passo delle Scalette / Small lake immediately after Scalette pass </figcaption></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0725-150x150.jpg)](https://www.van42.com/imgp0725/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-264-3937"> Val di Laussa – Passo dei camosci / Laussa valley – Passo dei camosci </figcaption></figure> </div></div>## Laussa valley
+
+Leaving the pass we first cross a verdant plateau dotted with yellow flowers and then go through the wide valley of Laussa (or Lausa), crossing some roe deer just before the **Forcella dei Camosci** (2648 m), so called because of how frequent animals can be spotted into the wild in this uncrowded area.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-265"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0742-150x150.jpg)](https://www.van42.com/imgp0742/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-265-3938"> Val di Laussa / Laussa valley </figcaption></figure> </div></div><div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-266"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0749-150x150.jpg)](https://www.van42.com/imgp0749/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-266-3981"> Val di Laussa / Laussa valley </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0752-150x150.jpg)](https://www.van42.com/imgp0752/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-266-3939"> Passo di Laussa / Laussa pass </figcaption></figure> </div></div>The landscape gradually becomes more and more barren and lunar until we reach the **Laussa pass** (2700 m) from which, finally, we descend to the [Antermoia hut](https://www.rifugioantermoia.com/?lang=en) (2496 m) and lake.
+
+## Lake Antermoia
+
+The [Lake Antermoia](https://it.wikipedia.org/wiki/Lago_d'Antermoia) lives definitely up to its fame. Flanked by the Croda del Lago on the northern shore, its waters take on gorgeous shades of blues and greens as soon as the sun peaks out of the clouds. We stop 15min on the lake shore for a quick snack and for the first real break since the beginning of the hike.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-267"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0761-150x150.jpg)](https://www.van42.com/imgp0761/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-267-4005"> Lago di Antermoia e Croda del Lago / Lake Antermoia and Croda del Lago </figcaption></figure> </div></div><div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4280 gallery-columns-3 gallery-size-thumbnail" id="gallery-268"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2022/07/IMGP0766-scaled-1-150x150.jpg)](https://www.van42.com/imgp0766-scaled/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-268-4321"> Lago di Antermoia / Lake Antermoia </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0780-150x150.jpg)](https://www.van42.com/imgp0780/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-268-4008"> Lago di Antermoia / Lake Antermoia </figcaption></figure> </div></div>A bit refreshed, we soon leave the beautiful lake behind and proceed west along path 584 which runs through the vast Antermoia valley towards the massive [Catinaccio d’Antermoia](https://it.wikipedia.org/wiki/Catinaccio_d'Antermoia) (Kesselkogel) that towers at the other end. The flat, bottom end of the valley is scattered with debris transported by the melting winter snow and ice, and as we walk past the debris zone the trail starts to climb steeply in the direction of the Antermoia pass, the narrow passage that separates the valley we’re in from the Vajolet valley.
+
+The progression is slow now due to the snow, but still manageable without crampons. Once we reach the top of the Antermoia pass, the view sweeps all around and it’s definitely something unique.
+
+## Vajolet valley
+
+The descent on the other side is steep and we’ve to proceed carefully, but at least there’s no snow left on this side, so we soon reach [Passo Principe hut](http://www.rifugiopassoprincipe.com/) where, attracted by the scent of rosemary potatoes, we indulge in a quick meal.
+
+Before relaxing too much we get back on track, which is all downhill from here. We quickly reach down to the [Vajolet](https://www.rifugiovajolet.com/eng/Default.asp) and [Preuss](http://www.rifugiopaulpreuss.com/) huts, another quite classic crossroads since from here starts the itinerary 542 that leads to Re Alberto hut and the Vajolet Towers. We finally make it back to Gardeccia, along the easy and very popular path 546, continuing then to Ciampedie where, with the cable car (last ride at 18:30) we get back down to Vigo.
+
+</div><div class="wp-container-211 wp-block-column">> **Basic info** departure: Ciampedie  
+> arrival: Ciampedie  
+> itinerary length: 19 km  
+> uphill altitude difference: 1290 m  
+> duration: 7 h  
+> type of itinerary: circular route  
+> cartography: [Tabacco 25.000, sheet 06](https://www.tabaccoeditrice.it/cartografie/25000/06-val-di-fassa-e-dolomiti-fassane/)
+
+> **Logistics**  
+> Access: from Vigo di Fassa via cable car to Ciampedie; from Pera di Fassa via chairlift (three lengths). Alternatively you can go up directly on foot from Pera. In this last case, however, timing and distances, already considerable, are expanded ([lifts info and timetable](https://www.catinacciodolomiti.it/it//orari-impianti-estate/))
+> 
+> The Scalette path includes two short sections equipped with a metal cable and rungs driven into the rock
+> 
+> **Tips**  
+> It is advisable to follow the itinerary anticlockwise so as to take the path of the Scalette uphill, still rested and in the morning, when the probability of bad weather is generally less, reserving the more comfortable descent on the less demanding path from the Passo Principe hut for the return in the afternoon
+> 
+> It is advisable to contact the huts in the area (we phoned Gardeccia) to check the conditions of the route and the presence of snow
+
+</div></div>

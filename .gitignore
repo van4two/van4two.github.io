@@ -3,3 +3,4 @@
 .jekyll-metadata
 .vscode/*.log
 Gemfile.lock
+wp-jekyll/wp-content

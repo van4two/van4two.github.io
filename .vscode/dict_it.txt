@@ -16,6 +16,7 @@ Bonvicini
 Bøverdalen
 Bøvra
 Breiddalsvatnet
+Briksdalsbreen
 Brudesløret
 Bygdin
 campervan
@@ -60,6 +61,7 @@ IMGP
 Istra
 Jannekes
 Jettegrytene
+Jostedal
 Jostedalsbreen
 Jotunheimen
 Jotunheimvegen
@@ -78,6 +80,7 @@ Lodalen
 Loen
 Lovatnet
 Maurvangen
+Melkevollbreen
 Memurubu
 Moena
 Molde
@@ -85,6 +88,9 @@ Næroyfjord
 Nærøyfjord
 Nedre
 Nisser
+Nordfjord
+Oldedalen
+Oldevatnet
 Oppland
 Ørnesvingen
 Oscarshaug

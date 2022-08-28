@@ -1,0 +1,44 @@
+---
+id: 4381
+title: Sognefjellet
+date: '2022-08-01T12:37:39+00:00'
+author: admin
+layout: post
+guid: 'https://www.van42.com/?p=4381'
+permalink: '/en/?p=4381'
+video_url:
+    - ''
+image: /wp-content/uploads/2019/11/IMG_163730-2.jpg
+categories:
+    - Europe
+    - Norway
+tags:
+    - hiking
+    - mountain
+    - 'scenic route'
+    - snow
+    - viewpoint
+---
+
+<div class="wp-container-35 wp-block-columns has-2-columns"><div class="wp-container-33 wp-block-column"><div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4381 gallery-columns-3 gallery-size-thumbnail" id="gallery-30"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Sognefjellet](https://www.van42.com/wp-content/uploads/2019/11/IMG_163730-2-150x150.jpg)](https://www.van42.com/img_163730-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-30-2334"> Seguendo il corso del fiume Bøvra, la Sognefjellet attraversa la vallata di Bøverdalen per cominciare gradualmente a salire / Following the course of the Bøvra River, the Sognefjellet crosses the Bøverdalen valley to gradually begin to rise </figcaption></figure> </div></div>We wake up semi-frozen in [Maurvangen campsite](https://www.maurvangen.no/). We spend the 4 minutes of showering with our hands almost burning under hot water. While we prepare breakfast we take stock of the situation: today the sky is overcast, the air is freezing and the forecast indicates rain, perhaps snow, so the hike to the [Besseggen](https://besseggen.net/?lang=en) ridge is not mentioned at all. Tomorrow, however, the weather looks more promising: no rainfall and perhaps a few rays of sunshine. Our intention, therefore, is to stay in the area and dedicate tomorrow to trekking, covering ourselves well. Sold!
+
+## Lom
+
+Leaving the campsite, we head towards [Lom](https://en.wikipedia.org/wiki/Lom,_Norway) where we want to learn more about the conditions of the Besseggen at the park tourist office, do a mini shopping and from there, then, take the **[Sognefjellet](https://www.nasjonaleturistveger.no/en/routes/sognefjellet)**, one of the national tourist routes that we had already planned to travel when planning the trip. At the Lom visitors center we check the short-term weather, noting that even here, as at the Lillehammer [tourist office](https://en.lillehammer.com/?_ga=2.220187929.1600739022.1563625152-1046737073.1563625152) , the reference is the [storm.no](http://www.storm.no) website. The forecast for tonight is for drizzle / sleet, while those for tomorrow indicate clear / variable. We ask if the Sognefjellet road is open and we are answered yes, specifying however that at 8 pm the gates will be closed due to the risk of snow during the night. We have enough time, so we get back in the car and leave for the Sognefjellet.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4381 gallery-columns-3 gallery-size-thumbnail" id="gallery-31"><figure class="gallery-item"><div class="gallery-icon portrait"> [![Sognefjellet brochure](https://www.van42.com/wp-content/uploads/2019/11/sognefjellet-brochure-1-150x150.jpg)](https://www.van42.com/sognefjellet-brochure-1/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-31-2342"> Copertina della brochure che illustra l'itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi (tratta da https://www.nasjonaleturistveger.no/en/routes/sognefjellet) / Cover of the brochure illustrating the Sognefjellet itinerary, one of the 18 Norwegian Scenic Routes (taken from https://www.nasjonaleturistveger.no/en/routes/sognefjellet) </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![Sognefjellet map](https://www.van42.com/wp-content/uploads/2019/11/sognefjellet-map-150x150.jpg)](https://www.van42.com/2018-11-05-sognefjellet-webkart/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-31-2343"> Mappa dell'itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi (tratta da https://www.nasjonaleturistveger.no/en/routes/sognefjellet) / Map of the Sognefjellet itinerary, one of the 18 Norwegian Scenic Routes (taken from https://www.nasjonaleturistveger.no/en/routes/sognefjellet) </figcaption></figure> </div></div>## Sognefjellet
+
+The route crosses the beautiful **[Bøverdalen](https://en.wikipedia.org/wiki/B%C3%B8verdal)** valley, following the course of the [Bøvra](https://en.wikipedia.org/wiki/B%C3%B8vra) river and alongside some lakes. Unfortunately, the further we drive towards the peaks of [Galdhøpiggen](https://en.wikipedia.org/wiki/Galdh%C3%B8piggen) e [Store Skagastølstind](https://en.wikipedia.org/wiki/Store_Skagast%C3%B8lstind), the more the weather gets worse. From cloudy it begins to rain and soon the rain turns into snow. The route is however suggestive and continues to climb; we arrive at the pass at an altitude of 1400 m and proceed a little further up to the [Nedre Oscarshaug](https://www.nasjonaleturistveger.no/en/routes/sognefjellet?attraction=Nedre%20Oscarshaug) viewpoint, before [Turtagrø](https://www.turtagro.no/), where we decide to turn around and return to avoid the risk of finding the barrier closed.
+
+<figure class="wp-block-image">![](http://www.van42.org/wp-content/uploads/2019/11/IMGP3401-3-1024x646.jpg)<figcaption>Once you get to the pass, the landscape appears powdered with snow, the wind blows strongly and, unfortunately, the visibility is rather limited.</figcaption></figure>In Lom we stop again and, taking advantage of the visitors center’s Wi-Fi connection, still a little hesitant, we book the [ferry](https://www.gjende.no/en/) to the [Memurubu lodge](https://www.memurubu.no/en/home/) for tomorrow morning: the first one, that of 7:45 am, is already full. We hurry to buy two tickets for the second one, departing at 8:30.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-4381 gallery-columns-3 gallery-size-thumbnail" id="gallery-32"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Sognefjellet](https://www.van42.com/wp-content/uploads/2019/11/IMG_180310-2-150x150.jpg)](https://www.van42.com/img_180310-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-32-2336"> Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio / Along the way we meet numerous sheep, most of the time indifferent to the cold and rain mixed with sleet </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![Pecore](https://www.van42.com/wp-content/uploads/2019/11/IMG_175402-2-150x150.jpg)](https://www.van42.com/img_175402-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-32-2335"> Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio / Along the way we meet numerous sheep, most of the time indifferent to the cold and rain mixed with sleet </figcaption></figure> </div></div>Torniamo verso Gjende e, sulla Rv51, cerchiamo uno spot dove dormire, non lontano dal Gjendesheim. Nella sterrata laterale Riddersprangvegen troviamo un [posticino confortevole](https://park4night.com/en/lieu/164084//lom-riddersprangvegen/norway//Surrounded-by-nature#.XcpRsldKiUk) a mezz’ora di macchina dal lodge. Riscaldato il furgone, cuciniamo una zuppa calda, prepariamo gli zaini, ci copriamo bene e andiamo a letto mentre fuori pioviggina.
+
+</div><div class="wp-container-34 wp-block-column"><iframe height="480" loading="lazy" src="https://www.google.com/maps/d/u/0/embed?mid=16-HyIdpM1bTonArYKBydTBU1MINpmBP1" width="640"></iframe>> **Tips**  
+> [Maurvangen](https://www.maurvangen.no/) camping: 260 nkr for 2 people + campervan; shower: 15 nkr (duration 4′)
+> 
+> [Ferry](https://www.gjende.no/en/) [Gjendesheim](https://gjendesheim.dnt.no/en/)–[Memurubu](https://www.memurubu.no/en/home/): 160 nkr/person (booking is recommended)
+> 
+> Unless otherwise specified, the sites visited are free to access
+
+</div></div>

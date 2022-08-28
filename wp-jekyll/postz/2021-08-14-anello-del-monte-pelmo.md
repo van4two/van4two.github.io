@@ -1,0 +1,66 @@
+---
+id: 2612
+title: 'Anello del Monte Pelmo'
+date: '2021-08-14T00:00:00+00:00'
+author: admin
+layout: post
+guid: 'http://www.van42.org/?p=2612'
+permalink: /2021/08/14/anello-del-monte-pelmo/
+video_url:
+    - ''
+wp_typography_post_enhancements_disabled:
+    - ''
+image: /wp-content/uploads/2021/08/IMGP0947-scaled.jpg
+categories:
+    - Europa
+    - Italia
+tags:
+    - montagna
+    - trekking
+---
+
+<div class="wp-container-215 wp-block-columns has-2-columns"><div class="wp-container-213 wp-block-column"><div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-269"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0947-150x150.jpg)](https://www.van42.com/imgp0947/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-269-4057"> Monte Pelmo: spalla est </figcaption></figure> </div></div>Soprannominato *el Caregón de ‘l Pareterno* (“il Trono del Padreterno”) per via della peculiare forma che ricorda un enorme sedile, con la sua sagoma imponente il **[monte Pelmo](https://it.wikipedia.org/wiki/Pelmo)** domina le [**Dolomiti di Zoldo**](https://it.wikipedia.org/wiki/Dolomiti_di_Zoldo), separando la [val Fiorentina](https://it.wikipedia.org/wiki/Val_Fiorentina) e la [val di Zoldo](https://it.wikipedia.org/wiki/Val_di_Zoldo) dalla [valle del Boite](https://it.wikipedia.org/wiki/Valle_del_Boite). Avendolo intravisto fino a questo momento solo in lontananza percorrendo alcuni sentieri fra la [Croda da Lago](https://it.wikipedia.org/wiki/Croda_da_Lago) e i Bastioni di [Mondeval](https://it.wikipedia.org/wiki/Mondeval), decidiamo di concentrarci su un itinerario che lo abbia come protagonista.
+
+Il periplo del Pelmo può essere intrapreso da differenti punti di accesso ma il più classico (di cui troviamo descrizione sul sito web del [Consorzio di Promozione Turistica Cadore Dolomiti](https://www.dolomiti.org/it/cadore/esperienze/trekking/trekking-giro-del-monte-pelmo/) e sul blog [Itinerari di montagna](https://www.itineraridimontagna.it/anello-del-monte-pelmo/)) è certamente il passo Staulanza, sovrastato dalla parte occidentale del monte costituita dal Pelmetto. Attraverso il sentiero CAI 472 si procede in direzione sud-est fino al passo di Rutorto, per poi proseguire sul 471 fino al rifugio Venezia, poco oltre. Da qui comincia la salita lungo il sentiero 480, noto anche come sentiero Flaibani, per guadagnare la forcella Val d’Arcia, punto più alto dell’intero percorso. Si continua poi sul 480 in discesa fino a un bivio da cui è possibile tornare al passo Staulanza passando per il rifugio città di Fiume (sentieri 480 e 472) o in maniera più diretta, fiancheggiando il nevaio di val d’Arcia.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-270"><figure class="gallery-item"><div class="gallery-icon portrait"> [![](https://www.van42.com/wp-content/uploads/2021/08/itinerario-150x150.jpg)](https://www.van42.com/itinerario/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-270-4082"> Mappa dell'itinerario </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0925-pelmetto-150x150.jpg)](https://www.van42.com/imgp0925-pelmetto/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-270-4053"> Monte Pelmo: spalla sud e Pelmetto </figcaption></figure> </div></div>## Verso il rifugio Venezia
+
+In ragione di un giugno che ha visto ancora tanta neve anche a bassa quota e di un luglio carico di pioggia, ci troviamo ad intraprendere l’escursione proprio nell’affollato week-end di ferragosto. Arriviamo a**l [passo Staulanza](https://it.wikipedia.org/wiki/Passo_Staulanza)** (1766 m) alle 8 del mattino, trovando già poco posto per parcheggiare e ci mettiamo subito in marcia, notando altri escursionisti che si accingono ad iniziare l’itinerario alcuni in una direzione, alcuni nell’altra.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-271"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0921-anello-pelmo-150x150.jpg)](https://www.van42.com/imgp0921-anello-pelmo/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-271-4052"> Le Mandre </figcaption></figure> </div></div>Il sentiero si snoda nel bosco, inizialmente senza prendere quota, avvicinandosi progressivamente all’imponente sagoma del Pelmo. La parte visibile lungo questo primo tratto è il **Pelmetto** (2990 m), cima secondaria la cui parte terminale risulta fisicamente staccata rispetto alla cima principale dal canalone della Fisura. Dopo aver incrociato il sentiero 474 che sale da [Palafavera](https://www.infodolomiti.it/dormire-e-mangiare/rifugi-alpini-ed-escursionistici/palafavera/7541-l1.html) (altro possibile punto di partenza), si procede per pascoli cosparsi di mughi, attraversando Le Mandre e passando sotto la formazione rocciosa denominata La Dambra, la cui forma ricorda uno zoccolo equino. In direzione sud-ovest si nota l’imponente profilo di un altro dei protagonisti di questa parte delle [Dolomiti](https://www.dolomiti.org/it?place=dolomiti), il [monte Civetta](https://it.wikipedia.org/wiki/Monte_Civetta).
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-272"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0937-pelmo-150x150.jpg)](https://www.van42.com/imgp0937-pelmo/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-272-4054"> Monte Pelmo: spalla sud </figcaption></figure> </div></div>Salendo gradualmente si guadagna il passo di Rutorto (1931 m) da cui si apre, per la prima volta, la vista sulla valle del Boite. Di qui in pochi minuti si raggiunge in [rifugio Venezia](http://www.rifugiovenezia.it/) (1946 m).
+
+## Il sentiero Flaibani
+
+Dalla sua posizione lungo la parete est del Pelmo, il rifugio Venezia funge da spartiacque fra il comodo sentiero 472 e il più ripido itinerario 480 che si arrampica su ghiaioni attraversandoli trasversalmente in salita. Scenari e ritmo di progressione cambiano completamente. Il paesaggio si fa progressivamente più brullo: prati e pini mughi scompaiono per lasciare posto a ghiaia, ciottoli e roccia. Camminiamo fiancheggiando la Spalla Est (3024 m) del Pelmo: vediamo qualcuno avventurarsi sulla via Normale. Sulla destra invece si apre l’ampia vallata del Boite con la sagoma piramidale dell’[Antelao](https://it.wikipedia.org/wiki/Antelao) e, più lontano, il [gruppo del Sorapiss](https://it.wikipedia.org/wiki/Gruppo_del_Sorapiss).
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-273"><figure class="gallery-item"><div class="gallery-icon portrait"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0956-150x150.jpg)](https://www.van42.com/imgp0956/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-273-4059"> Sentiero Flaibani verso la forcella Val d'Arcia </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0948-antelao-150x150.jpg)](https://www.van42.com/imgp0948-antelao/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-273-4058"> Monte Antelao </figcaption></figure> </div></div>L’itinerario, che qui assume la denominazione di **sentiero Flaibani**, prosegue sempre più in salita ormai accanto alla parete orientale del Pelmo: sopra di noi svetta la Croda di Forca Rossa.
+
+## La forcella Val d’Arcia
+
+Davanti a noi si staglia quella che assumiamo essere la forcella Val d’Arcia che, a dire il vero, ci sembra piuttosto minuta, considerando che dovrebbe costituire il tratto più impegnativo del percorso. Oggettivamente ripida ma piuttosto breve.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-274"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0981-150x150.jpg)](https://www.van42.com/imgp0981/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-274-4064"> Sentiero Flaibani verso la forcella Val d'Arcia </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0982-150x150.jpg)](https://www.van42.com/imgp0982/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-274-4065"> Sentiero Flaibani; in lontananza, fra i prati, si scorge il rifugio Venezia </figcaption></figure> </div></div>Raggiungiamo la sella per renderci conto che siamo arrivati solamente all’ “anti forcella”. Di fronte a noi si staglia ora la vera e propria **forcella Val d’Arcia** (2476 m), lunga tre volte la precedente “rampetta” e altrettanto ripida. Alcuni brevi tratti un po’ esposti sono dotati di cavo ferrato. La progressione risulta faticosa, soprattutto nell’ultima sezione, ma mai veramente pericolosa.
+
+## La discesa
+
+Raggiungiamo lo stretto pianoro della forcella, dove già sostano alcuni altri escursionisti e ci fermiamo anche noi a riposare. Immaginiamo che il sentiero possa diventare decisamente più impegnativo con la presenza di neve e ghiaccio, per esempio alla fine della primavera e in autunno.
+
+<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-2612 gallery-columns-3 gallery-size-thumbnail" id="gallery-275"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://www.van42.com/wp-content/uploads/2021/08/IMGP0993-forcella-val-darcia-150x150.jpg)](https://www.van42.com/imgp0993-forcella-val-darcia/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-275-4070"> Forcella Val d'Arcia vista dal ghiaione sul lato nord del Pelmo </figcaption></figure> </div></div>Ci rimettiamo in cammino per un facile sentiero che attraversa il ghiaione lungo il lato nord del Pelmo. Senza farci particolarmente caso, ci teniamo piuttosto alti rispetto al sentiero 480, seguendo una traccia utilizzata d’inverno per lo scialpinismo. Non ce ne accorgiamo subito in quando la maggior parte degli escursionisti che vediamo segue il nostro stesso itinerario. Così facendo però manchiamo il bivio per la forcella Forata (1977 m) e per il [rifugio Città di Fiume](https://www.rifugiocittadifiume.it/) (1918 m). Continuiamo quindi per l’itinerario più diretto che, passando sotto al **nevaio di Val d’Arcia**, attraversa l’omonima valle scendendo per un faticoso ghiaione, fino a raggiungere l’angolo nordovest del Pelmetto, chiamato Croda Toronda (dove scopriamo esserci anche una [piccola falesia](https://www.planetmountain.com/it/notizie/arrampicata/arrampicata-nuovo-settore-alla-crepa-toronda-del-monte-pelmo-in-dolomiti.html)). Scendiamo rapidamente nel bosco e torniamo senza difficoltà al passo Staulanza.
+
+</div><div class="wp-container-214 wp-block-column">> ****Info base trekking**** partenza: Passo Staulanza  
+> arrivo: Passo Staulanza  
+> lunghezza itinerario: 13 km   
+> dislivello in salita: 900 m  
+> durata: 6 h  
+> tipologia itinerario: percorso ad anello  
+> cartografia: [Tabacco 1:25.000, foglio 025](https://www.tabaccoeditrice.it/cartografie/25000/025-dolomiti-di-zoldo-cadorine-e-agordine/)
+> 
+> ****Logistica**** Accesso: da Selva di Cadore 13′ in auto, da Forno di Zoldo 20′; parcheggio presso il passo, lungo la strada
+> 
+> ****Tips**** L’itinerario può essere percorso in entrambe le direzioni; intraprendere l’anello in senso antiorario consente di affrontare la parte più ripida della forcella Val d’Arcia in salita
+> 
+> Si consiglia di contattare il [rifugio Venezia](http://www.rifugiovenezia.it/) per verificare le condizioni del percorso e l’eventuale presenza di neve, specialmente in corrispondenza della forcella
+
+</div></div>

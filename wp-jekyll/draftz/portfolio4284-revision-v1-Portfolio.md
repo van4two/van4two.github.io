@@ -1,0 +1,15 @@
+---
+id: 4285
+title: Portfolio
+date: '2022-07-23T11:55:17+00:00'
+author: admin
+layout: revision
+guid: 'https://www.van42.com/?p=4285'
+permalink: '/?p=4285'
+---
+
+<div class="wp-block-visual-portfolio"><div class="vp-portfolio vp-uid-4b741cbf vp-id-861ac34f" data-vp-content-source="post-based" data-vp-items-click-action="url" data-vp-items-gap="30" data-vp-items-gap-vertical="" data-vp-items-style="fade" data-vp-layout="tiles" data-vp-next-page-url="" data-vp-pagination="paged" data-vp-tiles-type="3|1,1|"><div class="vp-portfolio__preloader-wrap"><div class="vp-portfolio__preloader"> ![Visual Portfolio, Posts & Image Gallery for WordPress](http://www.van42.com/wp-content/plugins/visual-portfolio/assets/images/logo-dark.svg) </div> </div><div class="vp-portfolio__items-wrap"><div class="vp-portfolio__items vp-portfolio__items-style-fade vp-portfolio__items-show-overlay-hover"> <article class="vp-portfolio__item-wrap post-17 page type-page status-publish has-post-thumbnail hentry vp-portfolio__item-uid-9cfc6800" data-vp-filter=""><div class="vp-portfolio__item-popup" data-vp-popup-img="https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1920x1280.jpg" data-vp-popup-img-size="1920x1280" data-vp-popup-img-srcset="https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1920x1280.jpg 1920w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-300x200.jpg 300w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1024x683.jpg 1024w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-768x512.jpg 768w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-500x333.jpg 500w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-800x533.jpg 800w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1280x853.jpg 1280w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1536x1024.jpg 1536w, https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-2048x1365.jpg 2048w" data-vp-popup-md-img="https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-800x533.jpg" data-vp-popup-md-img-size="800x533" data-vp-popup-sm-img="https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-500x333.jpg" data-vp-popup-sm-img-size="500x333" style="display: none;">### norway. 14.6
+
+ </div> <figure class="vp-portfolio__item"><div class="vp-portfolio__item-img-wrap"><div class="vp-portfolio__item-img"> [ ![Trolltunga](https://www.van42.com/wp-content/uploads/2020/04/IMGP4985-3-trolltunga-1920x1280.jpg) ](http://www.van42.com/) </div></div><figcaption class="vp-portfolio__item-overlay vp-portfolio__item-align-center"><div class="vp-portfolio__item-meta-wrap vp-portfolio__custom-scrollbar"> [##  Home
+
+ ](http://www.van42.com/) </div></figcaption> </figure> </article> </div> </div><div class="vp-portfolio__layout-elements vp-portfolio__layout-elements-bottom vp-portfolio__layout-elements-align-center"><div class="vp-portfolio__pagination-wrap"> </div> </div> </div> </div>

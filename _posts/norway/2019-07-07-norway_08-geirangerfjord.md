@@ -5,6 +5,7 @@ pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: belvedere crociera fiordi lago montagna strada-panoramica
 folder: _posts/norway
+#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
 ---
 
 {% google_photos page.gallery_url none %}
