@@ -12,13 +12,13 @@ folder: _posts/norway
 
 {% include img.html id=137 cap="I rilievi del Jostedalsbreen National Park si specchiano sul lago Lovatnet nella luce del primo mattino" %}
 
-Sveglia 6:45: il cielo è completamente sereno e il lago **[Lovatnet](https://www.nordfjord.no/en/kayak-fjord-and-lake-lovatnet)** , illuminato dal sole del primo mattino, è meraviglioso. Ci perdiamo in una serie infinita di fotografie prima della colazione. Prepariamo gli zaini: rispetto all’escursione alla cresta [Besseggen](http://www.van42.org/2019/07/04/besseggen/), oggi ci vestiamo a strati ma con indumenti più leggeri e ci avviamo in furgone verso la partenza dell’itinerario.
+Sveglia 6:45: il cielo è completamente sereno e il lago **[Lovatnet](https://www.nordfjord.no/en/kayak-fjord-and-lake-lovatnet)** , illuminato dal sole del primo mattino, è meraviglioso. Ci perdiamo in una serie infinita di fotografie prima della colazione. Prepariamo gli zaini: rispetto all’escursione alla cresta [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}), oggi ci vestiamo a strati ma con indumenti più leggeri e ci avviamo in furgone verso la partenza dell’itinerario.
 
 {% include img.html id=135 cap="I rilievi del Jostedalsbreen National Park si specchiano sul lago Lovatnet nella luce del primo mattino" %}
 
 {% include img.html id=140 cap="Il lago Lovatnet pare uno specchio…" %}
 
-Lungo la strada attraverso la [Lodalen](https://www.nordfjord.no/en/lodalen-0) ci soffermiamo più volte per fotografare nuovamente il lago che pare uno specchio: meraviglioso!
+Lungo la strada attraverso la [Lodalen](https://www.nordfjord.no/en/lodalen-valley) ci soffermiamo più volte per fotografare nuovamente il lago che pare uno specchio: meraviglioso!
 
 {% include img.html id=138 cap="Il lago Lovatnet pare uno specchio…" %}
 
@@ -28,7 +28,7 @@ Lungo la strada attraverso la [Lodalen](https://www.nordfjord.no/en/lodalen-0) c
 
 Arrivati al parcheggio erboso lungo la Fv723, in corrispondenza del punto in cui il fiume Fosdøla si immette nel Loelva, lasciamo l’obolo nell’apposita cassetta di legno e ci avviamo sul sentiero per il monte Skåla: sono le 8:50. Lo **[Skåla](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/hiking-to-skala/)**, alto 1848 m, è il monte norvegese che raggiunge la più alta quota avendo contemporaneamente un “piede” nel fiordo. L’escursione parte dall'abitato di [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), ha uno sviluppo di 8 km e raggiunge la vetta con un dislivello di più di 1800 m, dal momento che la partenza è appena sopra la riva del fiordo a 29 m s.l.m. Ogni anno, a metà agosto, viene organizzata la competizione **[La Sportiva Skaala](http://www.skaala.no/)** che vede il record di 1 h 7’6″ per arrivare in vetta partendo da Loen.
 
-Quasi subito il sentiero, che segue una mulattiera per trattori, comincia a salire. E come al [Besseggen](http://www.van42.org/2019/07/04/besseggen/), anche qui ci troviamo ben presto a toglierci di dosso qualche strato. Abbiamo altre persone davanti e dietro di noi, a piccoli gruppi, ma siamo molti di meno rispetto alla precedente escursione.
+Quasi subito il sentiero, che segue una mulattiera per trattori, comincia a salire. E come al [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}), anche qui ci troviamo ben presto a toglierci di dosso qualche strato. Abbiamo altre persone davanti e dietro di noi, a piccoli gruppi, ma siamo molti di meno rispetto alla precedente escursione.
 
 {% include img.html id=146 cap="Trekking al monte Skåla: comincia la salita!" %}
 
@@ -50,7 +50,7 @@ Poco oltre lo Skålavatnet, cosparso di neve ai margini, cominciano le prime dif
 
 {% include img.html id=151 cap="Ed ecco che cominciano i primi nevai!" %}
 
-Procediamo con calma, puntando bene i piedi ma, di tanto in tanto, si scivola. Vediamo altri escursionisti con gli scarponi da montagna e i bastoncini che procedono molto più agevolmente di noi. Ma c’è anche tanta gente nelle nostre stesse condizioni. D’altra parte, avendo consultato il [visitors center](http://www.jostedalsbreenadventure.com/) del **[Jostedalsbreen National Park](https://www.visitnorway.nl/listings/jostedalsbreen-national-park/5160/)**, mostrando le nostre calzature, credevamo di andare un po’ a colpo sicuro.
+Procediamo con calma, puntando bene i piedi ma, di tanto in tanto, si scivola. Vediamo altri escursionisti con gli scarponi da montagna e i bastoncini che procedono molto più agevolmente di noi. Ma c’è anche tanta gente nelle nostre stesse condizioni. D’altra parte, avendo consultato il [visitors center](http://visitjostedalsbreen.no/en/) del **[Jostedalsbreen National Park](https://www.visitnorway.nl/listings/jostedalsbreen-national-park/5160/)**, mostrando le nostre calzature, credevamo di andare un po’ a colpo sicuro.
 
 {% include img.html id=153 cap="Girandosi verso il fiordo si assiste alla spettacolare vista sul Nordfjord con le vette circostanti spruzzate di bianco" %}
 
@@ -78,7 +78,7 @@ Procediamo con calma; la progressione in discesa, comunque, è più facile del p
 
 La giornata in effetti prosegue spettacolare, con tanto sole, quindi ci sono buone possibilità di vedere il tramonto e l’alba con il cielo sereno. Terminata la scorta d’acqua, quando arriviamo al torrente Fosdøla, seguendo le indicazioni degli opuscoli illustrativi che dicono si possa bere e imitando gli altri escursionisti, beviamo anche noi, super assetati. Arriviamo alla macchina alle 18, decisamente stanchi ma soddisfatti dell’ascesa e degli spettacolari panorami.
 
-Ripassiamo lungo il Nordfjord e attraversiamo [Olden](https://en.wikipedia.org/wiki/Olden,_Norway), proseguendo sulla Fv60 e poi sulla E39 in direzione sud, verso [Skei](https://www.fjordtours.com/places-to-visit-in-norway/skei/). Prima della cittadina, in corrispondenza di Klakegg, seguendo le indicazioni di [park4night](https://park4night.com/lieu/62264//unnamed-road/norway/j%C3%B8lster#.XTai5OgzaUk), imbocchiamo la valle del fiume Stardalselva percorrendo la Fv453, alla ricerca di una location wild per la notte. La valle è molto piacevole, costellata di fattorie e caratterizzata dalla presenza del fiume. Al suo termine si intravede un ghiacciaio sempre parte del [Jostedal](http://jostedal.com/en/experience/brevandring/). Non trovando di meglio, ci posteggiato [accanto alla strada](https://park4night.com/lieu/170764/#.Xkxd0GhKiUk), su un praticello di fianco al fiume. Ceniamo e, sfiniti, ci addormentiamo subito.
+Ripassiamo lungo il Nordfjord e attraversiamo [Olden](https://en.wikipedia.org/wiki/Olden,_Norway), proseguendo sulla Fv60 e poi sulla E39 in direzione sud, verso [Skei](https://en.wikipedia.org/wiki/Skei,_Vestland). Prima della cittadina, in corrispondenza di Klakegg, seguendo le indicazioni di [park4night](https://park4night.com/lieu/62264//unnamed-road/norway/j%C3%B8lster#.XTai5OgzaUk), imbocchiamo la valle del fiume Stardalselva percorrendo la Fv453, alla ricerca di una location wild per la notte. La valle è molto piacevole, costellata di fattorie e caratterizzata dalla presenza del fiume. Al suo termine si intravede un ghiacciaio sempre parte del Jostedal. Non trovando di meglio, ci posteggiato accanto alla strada, su un praticello di fianco al fiume. Ceniamo e, sfiniti, ci addormentiamo subito.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AWx1cYB9qRiY8QVBFNo-5O_3Pkp8UGIJ" width="640" height="480"></iframe>
