@@ -1,6 +1,7 @@
 Åfarnes
 Åndalsnes
 Antermoia
+Ardal
 Atlanterhavsveien
 audioguida
 Averøya
@@ -40,12 +41,16 @@ Espedalen
 Fannefjord
 Fjordline
 Fjordsightseeing
+Flærlandsfjorden
+Førde
 Fosdøla
+Fylingsvatnet
 Galdhøpiggen
 Gamle
 Gardeccia
 Garli
 Gaularfjellet
+Gaurlarfjellet
 Geiranger
 Geirangerfjord
 Gjende
@@ -56,8 +61,11 @@ Gynt
 Haag
 Hamar
 Haugsjåsund
+Hella
 Hellesylt
 Herefossfjorden
+Hestad
+Hestadfjorden
 Hindsæter
 Hirtshals
 IMGP
@@ -75,6 +83,7 @@ Kjeragbolten
 Klakegg
 Klouman
 Kristiansund
+Læerdal
 Langfjord
 Larsech
 Laussa
@@ -100,6 +109,7 @@ Oldevatnet
 Oppland
 Ørnesvingen
 Oscarshaug
+Øvre
 Preikestolen
 Preuss
 primaloft
@@ -140,6 +150,7 @@ Stryn
 Strynefjellsvegen
 Sunnylvsfjord
 Systrene
+Tindevegen
 Tjernshaugtjenet
 Tovdalselva
 Treungen
@@ -158,5 +169,6 @@ Vegen
 Veslefjell
 Vevang
 Videsæter
+Viksdalsvatnet
 Vinstre
 visitnorway
