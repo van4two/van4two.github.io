@@ -12,11 +12,11 @@ folder: _posts/norway
 
 {% include img.html id=199 cap="Di fronte al lago Hornsvatnet lungo la Snøvegen" %}
 
-Ci svegliamo con la luce del sole che attraversa gli spiragli fra le tende del furgone; facciamo colazione con le girelle alla cannella prese [ieri pomeriggio]({% link {{page.folder}}/2019-07-10-norway_11-gaularfjellet.md %}) al [Lustrabui](http://lustrabui.no/index.html), scaldate appena su un padellino. Discrete, ma niente a che vedere con quelle mangiate l’anno scorso a [Reykjavik](http://www.van42.org/2018/07/28/islanda/). Passa qualche rara macchina/moto diretta a Vindedalen, dove finisce la strada.
+Ci svegliamo con la luce del sole che attraversa gli spiragli fra le tende del furgone; facciamo colazione con le girelle alla cannella prese [ieri pomeriggio]({% link {{page.folder}}/2019-07-10-norway_11-gaularfjellet.md %}) al [Lustrabui](https://www.lustrabui.com/), scaldate appena su un padellino. Discrete, ma niente a che vedere con quelle mangiate l’anno scorso a [Reykjavik](/). Passa qualche rara macchina/moto diretta a Vindedalen, dove finisce la strada.
 
 ## Snøvegen
 
-Lasciamo lo [spot](https://park4night.com/lieu/127464//vindedalen-unnamed-road/norway/l%C3%A6rdal-kommune#.Xoo4S4gzaUl) dove abbiamo trascorso la notte e ci mettiamo in moto alla volta della **Snøvegen**, la “strada della neve”, che collega Læerdal con [Aurland](https://en.sognefjord.no/fjord-villages/towns-and-villages/aurland). Il nome ufficiale della strada è in realtà **[Aurlandsfjellet](https://www.nasjonaleturistveger.no/en/routes/aurlandsfjellet)** ed è considerata una delle [strade turistiche nazionali](https://www.nasjonaleturistveger.no/en/routes) della Norvegia.
+Lasciamo lo [spot](https://park4night.com/lieu/127464//vindedalen-unnamed-road/norway/l%C3%A6rdal-kommune#.Xoo4S4gzaUl) dove abbiamo trascorso la notte e ci mettiamo in moto alla volta della **Snøvegen**, la “strada della neve”, che collega Læerdal con [Aurland](https://www.fjordtours.com/places-to-visit-in-norway/aurland/). Il nome ufficiale della strada è in realtà **[Aurlandsfjellet](https://www.nasjonaleturistveger.no/en/routes/aurlandsfjellet)** ed è considerata una delle [strade turistiche nazionali](https://www.nasjonaleturistveger.no/en/routes) della Norvegia.
 
 {% include img.html img="IMGP4369-2-flotvatnet-scaled.jpg" cap="Di fronte al lago Flotvatnet lungo la Snøvegen" %}
 
@@ -50,7 +50,7 @@ Cambio di programma! Ci rimettiamo in moto e arriviamo nel minuscolo paesino di 
 
 {% include img.html id=207 cap="Nave da crociera attraccata nel porto di Flåm" %}
 
-Parcheggiamo (incredibile: la sosta è gratuita ovunque!) e ci dirigiamo al [centro informazioni](https://www.visitflam.com/) che vende i biglietti per le escursioni nella zona. Chiediamo le disponibilità per le crociere e ci viene detto che per quella delle 14 ci sono ancora posti disponibili ma che il bus del ritorno è pieno quindi dovremmo aspettare il successivo, un’ora dopo. Accettiamo comunque in quanto ci siamo documentati un po’ [sul web](https://www.tripadvisor.com/ShowTopic-g230076-i1516-k11812885-Best_time_of_the_day_to_do_Flamsbana_and_Naeroyfjord_cruise-Flam_Aurland_Municipality_Sogn.html) e l’intervallo fra le 14 e le 17 pare essere quello con la luce migliore. Chiediamo informazioni anche sulla [Flåmsbana](https://www.visitflam.com/flamsbana/) – il treno che da Flåm raggiunge Myrdal – per domani mattina, e compriamo i [biglietti](https://booking.visitflam.com/en/to-do/a1488268/the-fl%C3%A5m-railway/showdetails) andata e ritorno per il treno delle 11: ci vengono consigliate le ore centrali della giornata in quanto il treno attraversa una valle in alcuni punti un po’ stretta. Torniamo al furgone, mangiamo veloci un boccone improvvisato e, vedendo arrivare l’imbarcazione che ci porterà nel fiordo, ci spostiamo sul molo dove c’è già una lunga coda di persone in attesa.
+Parcheggiamo (incredibile: la sosta è gratuita ovunque!) e ci dirigiamo al [centro informazioni](https://www.visitflam.com/) che vende i biglietti per le escursioni nella zona. Chiediamo le disponibilità per le crociere e ci viene detto che per quella delle 14 ci sono ancora posti disponibili ma che il bus del ritorno è pieno quindi dovremmo aspettare il successivo, un’ora dopo. Accettiamo comunque in quanto ci siamo documentati un po’ [sul web](https://www.tripadvisor.com/ShowTopic-g230076-i1516-k11812885-Best_time_of_the_day_to_do_Flamsbana_and_Naeroyfjord_cruise-Flam_Aurland_Municipality_Sogn.html) e l’intervallo fra le 14 e le 17 pare essere quello con la luce migliore. Chiediamo informazioni anche sulla [Flåmsbana](https://www.visitflam.com/flamsbana/) – il treno che da Flåm raggiunge Myrdal – per domani mattina, e compriamo i biglietti andata e ritorno per il treno delle 11: ci vengono consigliate le ore centrali della giornata in quanto il treno attraversa una valle in alcuni punti un po’ stretta. Torniamo al furgone, mangiamo veloci un boccone improvvisato e, vedendo arrivare l’imbarcazione che ci porterà nel fiordo, ci spostiamo sul molo dove c’è già una lunga coda di persone in attesa.
 
 ## Næroyfjord
 
@@ -75,7 +75,7 @@ Arrivati a Flåm ci dirigiamo al vicino [Flåm Camping &amp; Hostel](https://www
 **Tips**
 Parcheggio Briksdalsbreen: 50 nkr
 
-Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://booking.visitflam.com/en/to-do/a1488268/the-fl%C3%A5m-railway/showdetails) a/r: 1185 nkr a persona
+Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://www.norwaysbest.com/flamsbana/) a/r: 1185 nkr a persona
 
 [Flåm Camping &amp; Hostel](https://www.flaam-camping.no/): 290 nkr per 2 persone + campervan; doccia: 10 nkr (durata 6′)
 
