@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=218 cap="Vista da uno di finestrini della Flåmsbana mentre il treno procede in direzione Myrdal" %}
 
-Ci svegliamo con un sole splendente che ci invita a fare colazione sul prato del [campeggio](https://www.flaam-camping.no/) in costume. Mentre beviamo il caffè, studiamo il percorso dei prossimi giorni: il nostro itinerario prevederebbe di visitare [Bergen](https://www.visitnorway.com/places-to-go/fjord-norway/bergen/) domani e di affrontare il trekking al [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/) il [giorno dopo](http://www.van42.org/2019/07/13/trolltunga/). Le [previsioni meteo](https://www.yr.no/place/Norway/) prefigurano un’intera giornata di sole per domani e tempo più variabile per domenica; facciamo una verifica anche sul sito meteo [storm.no](https://www.storm.no/) e ipotizziamo di invertire le tappe, soluzione che comporterebbe di allungare un po’ il percorso ma che ci consentirebbe di affrontare la lunga camminata (20 o 27 km a seconda del punto di partenza) con le migliori condizioni meteorologiche. Carichiamo il furgone e ci spostiamo in uno dei parcheggi gratuiti di [Flåm](https://www.visitflam.com/) per poi recarci in stazione, pronti per la **[Flåmsbana](https://www.visitflam.com/flamsbana/)** di cui abbiamo già preso i biglietti [ieri]({% link {{page.folder}}/2019-07-11-norway_12-snovegen.md %}).
+Ci svegliamo con un sole splendente che ci invita a fare colazione sul prato del [campeggio](https://www.flaam-camping.no/) in costume. Mentre beviamo il caffè, studiamo il percorso dei prossimi giorni: il nostro itinerario prevederebbe di visitare [Bergen](https://www.visitnorway.com/places-to-go/fjord-norway/bergen/) domani e di affrontare il trekking al [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/) il [giorno dopo](/). Le [previsioni meteo](https://www.yr.no/place/Norway/) prefigurano un’intera giornata di sole per domani e tempo più variabile per domenica; facciamo una verifica anche sul sito meteo [storm.no](https://www.storm.no/) e ipotizziamo di invertire le tappe, soluzione che comporterebbe di allungare un po’ il percorso ma che ci consentirebbe di affrontare la lunga camminata (20 o 27 km a seconda del punto di partenza) con le migliori condizioni meteorologiche. Carichiamo il furgone e ci spostiamo in uno dei parcheggi gratuiti di [Flåm](https://www.visitflam.com/) per poi recarci in stazione, pronti per la **[Flåmsbana](https://www.visitflam.com/flamsbana/)** di cui abbiamo già preso i biglietti [ieri]({% link {{page.folder}}/2019-07-11-norway_12-snovegen.md %}).
 
 ## Flåmsbana
 
@@ -34,7 +34,7 @@ Arriviamo a Myrdal, salutiamo la ragazza conosciuta sul treno e rimaniamo seduti
 
 ## Stalheimskleiva
 
-La strada passa per Gudvangen, dove siamo approdati [ieri](http://www.van42.org/2019/07/11/snovegen-e-naeroyfjord/) con la crociera sul **[Næroyfjord](https://www.visitnorway.com/listings/the-unesco-n%C3%A6r%C3%B8yfjord/12020/)**: ne approfittiamo per dare una seconda occhiata al fiordo sperando nel tempo migliore ma la vista che si godeva in navigazione era certamente più suggestiva. Scattiamo qualche foto e ripartiamo.
+La strada passa per Gudvangen, dove siamo approdati [ieri]({% link {{page.folder}}/2019-07-11-norway_12-snovegen.md %}) con la crociera sul **[Næroyfjord](https://www.visitnorway.com/listings/the-unesco-n%C3%A6r%C3%B8yfjord/12020/)**: ne approfittiamo per dare una seconda occhiata al fiordo sperando nel tempo migliore ma la vista che si godeva in navigazione era certamente più suggestiva. Scattiamo qualche foto e ripartiamo.
 
 {% include img.html id=220 cap="La bucolica vallata di Næroydalen vista dalla terrazza panoramica dello Stalheim Hotel" %}
 
@@ -54,7 +54,7 @@ Propendiamo per prenotare un posto a P3 (600 nkr) per evitare i 4 km di tornanti
 
 ## Hardangerfjord
 
-Passiamo per [Voss](https://www.visitnorway.com/places-to-go/fjord-norway/voss/) e, in breve, raggiungiamo numerose, che attraversiamo sullo spettacolare e ventoso **[Hardanger bridge](https://en.wikipedia.org/wiki/Hardanger_Bridge)**, il ponte sospeso con gallerie alle due estremità più lungo al mondo. Di qui, lungo la Rv13, seguiamo il fiordo fiancheggiando lo stretto e lungo braccio sud che punta verso [Odda](https://en.hardangerfjord.com/odda).
+Passiamo per [Voss](https://www.visitnorway.com/places-to-go/fjord-norway/voss/) e, in breve, raggiungiamo numerose, che attraversiamo sullo spettacolare e ventoso **[Hardanger bridge](https://en.wikipedia.org/wiki/Hardanger_Bridge)**, il ponte sospeso con gallerie alle due estremità più lungo al mondo. Di qui, lungo la Rv13, seguiamo il fiordo fiancheggiando lo stretto e lungo braccio sud che punta verso [Odda](https://it.wikipedia.org/wiki/Odda).
 
 {% include img.html id=224 cap="Distese di frutteti lungo il braccio del Hardangerfjord che punta verso Odda" %}
 
@@ -75,7 +75,7 @@ Proseguiamo e ci fermiamo in un’[area di sosta](https://park4night.com/lieu/82
 **Tips**
 [Flåm Camping &amp; Hostel](https://www.flaam-camping.no/): 290 nkr per 2 persone + campervan; doccia: 10 nkr (durata 6′)
 
-Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://booking.visitflam.com/en/to-do/a1488268/the-fl%C3%A5m-railway/showdetails) a/r: 1185 nkr a persona
+Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://www.visitflam.com/flamsbana/) a/r: 1185 nkr a persona
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
