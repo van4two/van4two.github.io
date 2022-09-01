@@ -75,6 +75,7 @@ Gudvangen
 Gynt
 Haag
 Hamar
+Hardangerfjord
 Haugsjåsund
 Hella
 Hellesylt
@@ -99,6 +100,7 @@ Kårvåg
 Kesselkogel
 Kjenndalsbreen
 Kjeragbolten
+Kjosfossen
 Klakegg
 Klouman
 Kristiansund
@@ -124,12 +126,14 @@ Melkevollbreen
 Memurubu
 Moena
 Molde
+Næroydalen
 Næroyfjord
 Nærøyfjord
 Nedre
 Nisser
 Nordfjord
 Nystølsvatnet
+Odda
 Oldedalen
 Oldevatnet
 Oppland
@@ -171,6 +175,8 @@ Sogndal
 Sognefjellet
 Sognefjord
 Sølsnes
+Stalheim
+Stalheimskleiva
 Stardalselva
 Stegastein
 stengt
