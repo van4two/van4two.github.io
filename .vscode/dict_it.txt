@@ -40,6 +40,7 @@ Djupvatnet
 Domkirkeodden
 Dragsvik
 Drasvik
+droni
 Duron
 Eidsdal
 Eikelandsfossen
@@ -126,6 +127,7 @@ Melkevollbreen
 Memurubu
 Moena
 Molde
+Mytrails
 Næroydalen
 Næroyfjord
 Nærøyfjord
@@ -147,6 +149,7 @@ Ramnefjell
 Reinheimen
 Reinsvangen
 Riddersprangvegen
+Ringedalsvatnet
 Rjupa
 Romsdal
 Romsdalen
@@ -175,6 +178,7 @@ Sogndal
 Sognefjellet
 Sognefjord
 Sølsnes
+specchievolezza
 Stalheim
 Stalheimskleiva
 Stardalselva
@@ -207,6 +211,7 @@ Valldøla
 Vedahaugane
 Vegen
 Veslefjell
+Vetlavatnet
 Vetlefjord
 Vevang
 Videsæter
