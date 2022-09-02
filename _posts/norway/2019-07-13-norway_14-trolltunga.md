@@ -48,27 +48,39 @@ Ogni tanto notiamo cartelli che vietano campeggio e volo di droni, ma sembra che
 
 Sono le 8:34: 3h 30' precise da P2: ottimo tempo!! C’è già una piccola coda di 6-7 ragazzi per salire sul trampolino di granito, qualcuno è agghindato con vesti strane e colorate. La luce è buona: il Trolltunga è già al sole. Decidiamo di fotografarci a turno sulla “lingua del troll”. Mi metto in coda io. Dopo circa mezzora di attesa, è il mio turno e raggiungo il bordo del Trolltunga anche se mi sento un po’ “infastidita” dalla presenza delle tante persone in attesa che desiderano solo che io mi sbrighi.
 
-{% include img.html id=238cap="Trolltunga, la 'lingua del troll'" %}
+{% include img.html id=238 cap="Trolltunga, la 'lingua del troll'" %}
 
 {% include img.html id=241 cap="Trolltunga, la 'lingua del troll'" %}
 
 Stefano deve attendere invece 45′ perché, nel frattempo, la coda si è allungata. Qualcuno, poco rispettoso, prova a “passare avanti” facendo finta di niente. Abbiamo escluso subito l’idea di farci fotografare insieme perché questo avrebbe comportato lasciare la reflex ad uno sconosciuto che avrebbe dovuto, oltretutto, aspettare pazientemente il nostro turno.
 
-<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-1633 gallery-columns-3 gallery-size-thumbnail" id="gallery-212"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Coda per il Trolltunga](https://www.van42.com/wp-content/uploads/2020/04/IMGP5059-2-trolltunga-150x150.jpg)](https://www.van42.com/imgp5059-2-trolltunga/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-212-3391"> Attesa per la foto sul Trolltunga, ore 11 </figcaption></figure> </div></div>Restiamo al Trolltunga complessivamente circa tre ore: ormai la coda è lunghissima e c’è un sacco di gente ovunque… e pensare che sono solo le 11! Documentiamo la creatività dei vari personaggi che si avvicendano sul trampolino di roccia, compresa una proposta di matrimonio!!
+{% include img.html id=251 cap="Attesa per la foto sul Trolltunga, ore 11" %}
 
-<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-1633 gallery-columns-3 gallery-size-thumbnail" id="gallery-213"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Sfilata sul Trolltunga](https://www.van42.com/wp-content/uploads/2020/04/trolltunga-collage-150x150.jpg)](https://www.van42.com/trolltunga-collage/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-213-3392"> In posa sul Trolltunga </figcaption></figure> </div></div>## Discesa
+Restiamo al Trolltunga complessivamente circa tre ore: ormai la coda è lunghissima e c’è un sacco di gente ovunque… e pensare che sono solo le 11! Documentiamo la creatività dei vari personaggi che si avvicendano sul trampolino di roccia, compresa una proposta di matrimonio!!
+
+{% include img.html id=244 cap="In posa sul Trolltunga, ore 11" %}
+
+## Discesa
 
 Cominciamo la discesa. Il lago Ringedalsvatnet appare in tutta la sua bellezza e “specchievolezza”. Incrociamo fin da subito un’impressionante “carovana” di gente che sale. Oltretutto ora fa molto caldo quindi salire adesso è certamente più faticoso. A uno dei pianori con i laghetti, facciamo rifornimento d’acqua, basandoci sulle [indicazioni reperite](https://norwaytravelguide.no/norwegian-nature/hiking-trolltunga).
 
-<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-1633 gallery-columns-3 gallery-size-thumbnail" id="gallery-214"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Bonari della vecchia funicolare](https://www.van42.com/wp-content/uploads/2020/04/IMG_20190713_145921-trolltunga-150x150.jpg)](https://www.van42.com/img_20190713_145921-trolltunga/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-214-3410"> Quel che resta dei binari della vecchia funicolare </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![Porto di Odda](https://www.van42.com/wp-content/uploads/2020/04/IMG_20190713_164124-odda-150x150.jpg)](https://www.van42.com/img_20190713_164124-odda/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-214-3411"> Passeggiando nel porto di Odda </figcaption></figure> </div></div>L’ultimo tratto, i tornanti su strada, è il più sudato: ormai siamo sfiniti e l’asfalto irradia calore. Ancora gente che sale, sotto al solleone, alcuni con tenda in spalla, in vista del pernottamento lungo il sentiero o in vetta. Notiamo, all’ingresso di P2, un cartello che indica parcheggio pieno! E lo stesso troviamo a P1!
+{% include img.html id=254 cap="Quel che resta dei binari della vecchia funicolare" %}
 
-<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-1633 gallery-columns-3 gallery-size-thumbnail" id="gallery-215"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Kalvanes](https://www.van42.com/wp-content/uploads/2020/04/IMGP5070-2-kalvanes-150x150.jpg)](https://www.van42.com/imgp5070-2-kalvanes/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-215-3393"> La località di Kalvanes, vicino a Odda </figcaption></figure> </div></div>Tornati sulla RV13, ci fermiamo a [Odda](https://en.hardangerfjord.com/odda), dove adocchiamo una gelateria proprio vicino al porticciolo. Prendiamo una cialda gigante di un ottimo gelato che gustiamo seduti sul molo. Il paese di Odda si trova in fondo ad uno strettissimo e lungo braccio dell’[**Hardangerfjord**](https://en.hardangerfjord.com/), dalle acque chiare.
+{% include img.html id=257 cap="Passeggiando nel porto di Odda" %}
+
+L’ultimo tratto, i tornanti su strada, è il più sudato: ormai siamo sfiniti e l’asfalto irradia calore. Ancora gente che sale, sotto al solleone, alcuni con tenda in spalla, in vista del pernottamento lungo il sentiero o in vetta. Notiamo, all’ingresso di P2, un cartello che indica parcheggio pieno! E lo stesso troviamo a P1!
+
+{% include img.html id=255 cap="La località di Kalvanes, vicino a Odda" %}
+
+Tornati sulla RV13, ci fermiamo a [Odda](https://en.hardangerfjord.com/odda), dove adocchiamo una gelateria proprio vicino al porticciolo. Prendiamo una cialda gigante di un ottimo gelato che gustiamo seduti sul molo. Il paese di Odda si trova in fondo ad uno strettissimo e lungo braccio dell’[**Hardangerfjord**](https://en.hardangerfjord.com/), dalle acque chiare.
 
 ## Verso Bergen
 
 Ci mettiamo in moto, direzione [Bergen](https://www.visitnorway.com/places-to-go/fjord-norway/bergen/): avremmo voluto esplorare meglio questo fiordo, in particolare verso est, dove sorge l’altopiano dell’[Hardangervidda National Park](https://hardangervidda.com/en/hardangervidda-national-park/) ma il tempo a nostra disposizione non è sufficiente. A questo punto, seppure un po’ a malincuore, invece del percorso più panoramico, optiamo per quello più rapido, dal momento che siamo attivi dalle 4 del mattino e che la stanchezza comincia a farsi sentire.
 
-<div class="wp-block-dgwt-justified-gallery"><div class="gallery galleryid-1633 gallery-columns-3 gallery-size-thumbnail" id="gallery-216"><figure class="gallery-item"><div class="gallery-icon landscape"> [![Hardangerfjord](https://www.van42.com/wp-content/uploads/2020/04/IMGP5071-2-hardangerfjord-150x150.jpg)](https://www.van42.com/imgp5071-2-hardangerfjord/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-216-3414"> Scorcio sull'Hardangerfjord </figcaption></figure> </div></div>Da Odda imbocchiamo la Fv550, costeggiando un breve tratto del fiordo e la abbandoniamo quasi subito per la Fv551, che si dirige con decisione verso nord-ovest, proseguendo fino a Jondal dove attraversiamo l’Hardangerfjord con un traghetto che porta sulla sponda opposta del fiordo, a Tørvikbygd. Da qui la Fv49 risale un breve tratto del fiordo fino a Norheimsund, dove imbocchiamo la Fv7 che, serpeggiando fra i rilievi, prosegue ancora verso ovest, fino ad avvicinarsi a Bergen. Dei due campeggi posti ad est della città, [Lone camping](https://www.lonecamping.no/) e [Bratland camping](https://www.bratlandcamping.no/), scegliamo il primo che, a parità di servizi, sembra più economico. In realtà il nostro Scudo viene considerato dai gestori del camping come una motorhome. Contrariati, intavoliamo una lunga, seppur cordiale, discussione al termine della quale, sfiniti dalla lunga giornata, lasciamo perdere e paghiamo quanto richiestoci.
+{% include img.html id=256 cap="Scorcio sull'Hardangerfjord" %}
+
+Da Odda imbocchiamo la Fv550, costeggiando un breve tratto del fiordo e la abbandoniamo quasi subito per la Fv551, che si dirige con decisione verso nord-ovest, proseguendo fino a Jondal dove attraversiamo l’Hardangerfjord con un traghetto che porta sulla sponda opposta del fiordo, a Tørvikbygd. Da qui la Fv49 risale un breve tratto del fiordo fino a Norheimsund, dove imbocchiamo la Fv7 che, serpeggiando fra i rilievi, prosegue ancora verso ovest, fino ad avvicinarsi a Bergen. Dei due campeggi posti ad est della città, [Lone camping](https://www.lonecamping.no/) e [Bratland camping](https://www.bratlandcamping.no/), scegliamo il primo che, a parità di servizi, sembra più economico. In realtà il nostro Scudo viene considerato dai gestori del camping come una motorhome. Contrariati, intavoliamo una lunga, seppur cordiale, discussione al termine della quale, sfiniti dalla lunga giornata, lasciamo perdere e paghiamo quanto richiestoci.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1XesleEHatRUQL-Z_yt6I1x54Ktz6pO8a&ehbc=2E312F" width="640" height="480"></iframe>
@@ -87,7 +99,7 @@ dislivello in salita: 1200 m
 
 tempo di percorrenza a/r: 10-12h (noi ci abbiamo messo 7h)
 
-**Logistica** 
+**Logistica**
 L’itinerario può essere intrapreso partendo dal parcheggio principale ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013)) o, se si trova posto, da quello alto ([P3](https://www.trolltunganorway.com/en_GB/parking)): nel primo caso si percorrono 28 km (a/r), nel secondo solo 20, risparmiando i primi 400 m di dislivello su tornanti asfaltati. In alternativa, uno [shuttle](https://www.trolltunganorway.com/en_GB/activity/100402/bus-from-skjeggedal-to-maagelitopp-to-the-upper-starting-point-for-the-trolltunga-hike) collega i due parcheggi ogni mezzora.
 
 Il percorso è ben indicato e, nella seconda sezione del tracciato, sono presenti due bivacchi per le emergenze. Il rientro avviene per lo stesso itinerario della salita. Vista la lunghezza dell’escursione e l’alta frequentazione, si consiglia di partire presto al mattino.

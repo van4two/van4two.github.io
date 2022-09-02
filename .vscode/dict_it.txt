@@ -21,6 +21,7 @@ Bjørvika
 Bonvicini
 Bøverdalen
 Bøvra
+Bratland
 Breiddalsvatnet
 Briksdalsbreen
 Brudesløret
@@ -77,6 +78,7 @@ Gynt
 Haag
 Hamar
 Hardangerfjord
+Hardangervidda
 Haugsjåsund
 Hella
 Hellesylt
@@ -93,10 +95,12 @@ IMGP
 Istra
 Jannekes
 Jettegrytene
+Jondal
 Jostedal
 Jostedalsbreen
 Jotunheimen
 Jotunheimvegen
+Kalvanes
 Kårvåg
 Kesselkogel
 Kjenndalsbreen
@@ -134,6 +138,7 @@ Nærøyfjord
 Nedre
 Nisser
 Nordfjord
+Norheimsund
 Nystølsvatnet
 Odda
 Oldedalen
@@ -190,10 +195,12 @@ Storseisundbrua
 Stryn
 Strynefjellsvegen
 sull'Aurlandsfjord
+sull'Hardangerfjord
 Sunnylvsfjord
 Systrene
 Tindevegen
 Tjernshaugtjenet
+Tørvikbygd
 Tovdalselva
 Treungen
 Trollstigen
