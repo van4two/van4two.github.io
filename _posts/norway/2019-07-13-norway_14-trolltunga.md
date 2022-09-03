@@ -90,13 +90,9 @@ Da Odda imbocchiamo la Fv550, costeggiando un breve tratto del fiordo e la abban
 
 **Info base trekking**  
 partenza: Vetlavatnet ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013))  
-
 arrivo: [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/)
-
 lunghezza itinerario a/r: 28 km
-
 dislivello in salita: 1200 m
-
 tempo di percorrenza a/r: 10-12h (noi ci abbiamo messo 7h)
 
 **Logistica**
