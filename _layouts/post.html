@@ -30,6 +30,15 @@
 
         <!-- 1st column -->
         <section class="col1">
+          
+          <h1>
+            {% if page.title %}
+              {{ page.title | strip_html }}
+            {% else %}
+              <br/>
+            {% endif %}
+          </h1>
+
           {{ content }}
         </section>
         <!-- 2nd column -->
