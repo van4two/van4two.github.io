@@ -59,7 +59,7 @@ Risaliamo la penisola e, in breve, arriviamo a Kristiansand dove puntiamo dirett
 Sveglia alle 5: ci prepariamo rapidamente e in pochi minuti raggiungiamo il porto di Kristiansand, da cui parte il traghetto delle 6:45 della [Fjordline](https://www.fjordline.com/en) che ci riporterà in Danimarca. Arriviamo a Hirtshals in ritardo di circa mezzora. Da qui imbocchiamo la E39 in senso contrario a 20 giorni fa e cominciamo il lungo viaggio di ritorno verso Den Haag. All’altezza di Amburgo troviamo dei lavori in corso che ci costringono ad una coda di circa un’ora. Proseguiamo e arriviamo in Olanda a Den Haag in 13 ore di viaggio, alle 22:30, distrutti ma appagati.
 
 {% contentfor mymap %}
-<iframe src="https://www.google.com/maps/d/embed?mid=1LdDKUzhuFAxpkqSrMsoEjnDrqMtTHKeT&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Zq412hsHtAhB0wvIPQNmXxJQUWI1OuUB&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}
