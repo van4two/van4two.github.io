@@ -58,13 +58,13 @@ Progressivamente iniziano a formarsi file di persone in corrispondenza dei punti
 
 La giornata è spettacolare: ci sdraiamo al sole e quasi ci addormentiamo. Verso le 13:30 decidiamo di rientrare: ormai c’è tanta gente ovunque e le code per le foto si sono decisamente allungate.
 
-{% include img.html id=XXX cap="Verso metà mattina cominciano a formarsi lunghe code per le fotografie" %}
+{% include img.html id=291 cap="Verso metà mattina cominciano a formarsi lunghe code per le fotografie" %}
 
 ## Discesa
 
 La discesa è meno rapida del previsto, da un lato perché parecchi escursionisti rientrano insieme a noi, dall’altro perché altrettanta gente sta salendo. A tratti si formano addirittura piccoli ingorghi. Ci sono famiglie con bambini e diverse persone anziane, ognuno con il suo passo. Dopo il Trolltunga, comunque, ci aspettavamo una situazione del genere, considerate anche la lunghezza più ridotta di questo itinerario e la notorietà del Preikestolen. Arrivati al parcheggio ci togliamo con gusto le scarpe e ci spostiamo verso Jørstedalen dove compriamo da mangiare al [Kiwi](https://kiwi.no/) locale.
 
-{% include img.html id=XXX cap="Se non fosse chiaro, divieto di sosta!" %}
+{% include img.html id=291 cap="Se non fosse chiaro, divieto di sosta!" %}
 
 {% include img.html img="IMG_20190715_074445a.jpg" cap="I divieti di campeggio libero e di volo droni vengono, purtroppo, spesso ignorati" %}
 
@@ -72,7 +72,7 @@ La discesa è meno rapida del previsto, da un lato perché parecchi escursionist
 
 Procacciato il pranzo, cerchiamo una location amena dove consumarlo. Andiamo ad istinto guardando la mappa di Google e basandoci su un [report di park4night](https://park4night.com/lieu/54712//varlandsvegen/norway/strand#prettyPhoto). Percorrendo la Kvalvågvegen, che si dirama dalla Rv13, costeggiamo una piccola baia per poi allontanarci da essa, dirigendoci verso sud fino al lago **[Erlandsdalsvatnet](https://www.facebook.com/pages/Erlandsdalsvatnet/1660410797518406)**, in corrispondenza del quale imbocchiamo la strada senza uscita Varlandsvegen, che segue l’andamento del lago stesso. Ci fermiamo quasi subito presso un piccolo molo di legno attorniato da ninfee. Pranziamo e ci sdraiamo al sole: goduria! A tratti il sole pare cuocerci, a tratti si copre e il vento si fa sentire.
 
-{% include img.html id=XXX cap="Le sponde del tranquillo lago Erlandsdalsvatnet sono perfette per riposarsi dopo l'escursione al Preikestolen" %}
+{% include img.html id=291 cap="Le sponde del tranquillo lago Erlandsdalsvatnet sono perfette per riposarsi dopo l'escursione al Preikestolen" %}
 
 ## Kjeragbolten: pianificazione
 

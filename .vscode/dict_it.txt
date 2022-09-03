@@ -17,6 +17,7 @@ Besseggen
 Besshø
 Bessvatnet
 biomorfa
+Bjødnsiåna
 Bjørnbøl
 Bjørnbøltjønne
 Bjørvika
@@ -33,8 +34,10 @@ Bygdin
 campervan
 cassettina
 Catinaccio
+cengetta
 Ciampedie
 cioccolateria
+clavette
 contentfor
 copripantaloni
 corten
@@ -48,6 +51,7 @@ Dragsvik
 Drasvik
 droni
 Duron
+Egersund
 Eidsdal
 Eikelandsfossen
 Eldhusøya
@@ -60,6 +64,7 @@ Fjordsightseeing
 Flærlandsfjorden
 Flåm
 Flåmsbana
+Flekkefjord
 Flotane
 Flotvatnet
 Førde
@@ -89,6 +94,7 @@ Hardangerfjord
 Hardangervidda
 Haugsjåsund
 Hella
+Helleren
 Hellesylt
 Herefossfjorden
 Hermansverk
@@ -105,6 +111,7 @@ Jannekes
 Jettegrytene
 Jondal
 Jørstedalen
+Jøssingfjord
 Jostedal
 Jostedalsbreen
 Jotunheimen
@@ -112,11 +119,14 @@ Jotunheimvegen
 Kalvanes
 Kårvåg
 Kesselkogel
+kitesurf
 Kjenndalsbreen
+Kjerag
 Kjeragbolten
 Kjosfossen
 Klakegg
 Klouman
+Kollfattjødn
 Kristiansund
 Kvalvågvegen
 Læerdal
@@ -131,6 +141,7 @@ Likholefossen
 Lillehammer
 Linge
 Linkholefossen
+Litle
 Lodalen
 Loelva
 Loen
@@ -153,12 +164,14 @@ Næroydalen
 Næroyfjord
 Nærøyfjord
 Nedre
+Nesatind
 Nisser
 Nordfjord
 Norheimsund
 Nystølsvatnet
 Oanes
 Odda
+Ogna
 Oldedalen
 Oldevatnet
 Oppland
@@ -166,11 +179,13 @@ Oppland
 Oscarshaug
 Øvre
 Øygardstøl
+Pennica
 Preikestolen
 Preikestolhytta
 Preikestolvegen
 Preuss
 primaloft
+Raiway
 Ramnefjell
 Reinheimen
 Reinsvangen
@@ -183,6 +198,7 @@ Rogaland
 Romsdal
 Romsdalen
 Romsdalsfjord
+sabbiolina
 Saksumdalsvegen
 Sande
 Sandvikvåg
@@ -202,11 +218,13 @@ Skålavatnet
 Skei
 Skjersvika
 Skjolden
+slackline
 Slådalsvegen
 Slettafossen
 Snøhetta
 Snøvegen
 Sogndal
+Sogndalstrand
 Sognefjellet
 Sognefjord
 Sølsnes
@@ -218,6 +236,7 @@ Stegastein
 stengt
 Stigfossen
 Stord
+Stordalen
 Storfjord
 Storseisundbrua
 Stryn
