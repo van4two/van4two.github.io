@@ -111,9 +111,26 @@ a.site-title {
 }
 
 
-
-
 span.mega-indicator:after {
     font-family: 'FontAwesome' !important;
     content: "\f041" !important;
 }
+
+// navigation previous, next page
+.nav_prev_next {
+    font-size: 14px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+  }
+  
+  .nav_prev_next a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+  }
+  
+  .nav_prev_next .next {
+    text-align: right;
+  }

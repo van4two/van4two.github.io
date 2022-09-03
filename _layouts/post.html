@@ -23,9 +23,11 @@
 
       <header>
         {% include nav.html %}
+        {% include nav_prev_next.html %}
       </header>
 
       <article class="container">
+
         <!-- 1st column -->
         <section class="col1">
           {{ content }}
@@ -36,7 +38,6 @@
           {% include table.html %}
         </section>
       </article>
-
 
     </div>
     
