@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=236 cap="Sul Trolltunga, la 'lingua del troll'" %}
 
-Sveglia alle 4! Nell’[area di sosta](https://park4night.com/lieu/82594//riksveg-13/norway/ullensvang#prettyPhoto) dove ci siamo fermati [ieri sera]({% link {{page.folder}}/2019-07-12-norway_13-flamsbana.md %}) tutti dormono ancora. A quest’ora c’è già luce ma il sole ancora non è sorto. È fresco ma si intuisce che la giornata sarà calda. Sulla base delle due esperienze del [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}) e del [Monte Skåla]({% link {{page.folder}}/2019-07-09-norway_10-skala.md %}) e considerate le [previsioni meteorologiche](https://www.yr.no/place/Norway/) per oggi al Trolltunga, optiamo per un abbigliamento leggero ma comunque a strati.
+Sveglia alle 4! Nell’[area di sosta](https://park4night.com/lieu/82594//riksveg-13/norway/ullensvang#prettyPhoto) dove ci siamo fermati [ieri sera]({% link {{page.folder}}/2019-07-12-norway_13-flamsbana.md %}) tutti dormono ancora. A quest’ora c’è già luce ma il sole ancora non è sorto. È fresco ma si intuisce che la giornata sarà calda. Sulla base delle due esperienze del [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}) e del [Monte Skåla]({% link {{page.folder}}/2019-07-09-norway_10-skala.md %}) e considerate le [previsioni meteorologiche](https://www.yr.no/nb) per oggi al Trolltunga, optiamo per un abbigliamento leggero ma comunque a strati.
 
 ## Dove parcheggiare
 
