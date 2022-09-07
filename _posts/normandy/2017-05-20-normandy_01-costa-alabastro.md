@@ -45,7 +45,7 @@ Arriviamo alle pendici della **falaise d’Aval** sovrastante una caratteristica
 
 {% include img.html id=44 cap="La falaise d’Aval con la guglia e la caratteristica formazione a proboscide di elefante" %}
 
-{% include img.html id=15cap="Gabbiani in riva al mare" %}
+{% include img.html id=15 cap="Gabbiani in riva al mare" %}
 
 Dopo esserci appisolati al sole sull'erba che ricopre la sommità della falesia, torniamo alla macchina e ci dirigiamo, ormai già nel tardo pomeriggio, verso Honfleur, nostra destinazione per la serata. Con un po’ di dispiacere saltiamo la tappa prevista a [Le Havre](http://whc.unesco.org/en/list/1181), sito UNESCO noto per l’architettura in cemento armato risalente alla ricostruzione del secondo dopoguerra. La strada obbligata passa sul [**pont de Normandie**](https://en.wikipedia.org/wiki/Pont_de_Normandie) (pedaggio 5,4 €) che, coprendo una luce libera di 850 m, è il più grande ponte strallato d’Europa.
 

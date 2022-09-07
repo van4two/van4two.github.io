@@ -1,0 +1,43 @@
+/* override Minimal theme style.css */
+body { padding-top: 0; }
+
+header { width: 100%; position: inherit; padding-top: 30px; padding-bottom: 30px; }
+
+section:first-child { padding-bottom: 50px; padding-right: 30px; }
+
+section:last-child { padding-bottom: 50px; }
+
+.table { background: #f3f3f3; padding: 20px; }
+
+.wrapper { max-width: 100%; width: 1170px; margin: auto; }
+
+/*body .container { max-width: 100%; width: 1170px; }*/
+article.container { display: flex; flex-direction: row; justify-content: space-between; }
+
+.col-1 { width: 70%; height: 100vh; text-align: center; margin-right: 32px; }
+
+.col-2 { width: 30%; padding: 30px; height: 100vh; margin: 50px; }
+
+.col:not(:last-child) { margin-right: 32px; flex-basis: 66%; flex-grow: 1; }
+
+.blogroll-img { width: 50px; }
+
+.image_link { margin-block-start: 0; margin-block-end: 0; margin-left: 0; margin-right: 0; }
+
+.container { padding-left: 15px; padding-right: 15px; }
+
+.header-menu { width: 100%; margin: auto; display: block; line-height: 30px; }
+
+a.site-title { font-family: 'Architects Daughter', sans-serif; font-size: 26px; font-weight: bold; float: left; margin-right: 10px; }
+
+.site-description { display: block; }
+
+span.mega-indicator:after { font-family: 'FontAwesome' !important; content: "\f041" !important; }
+
+.nav_prev_next { font-size: 14px; display: block; width: auto; overflow: hidden; }
+
+.nav_prev_next a { display: block; width: 50%; float: left; margin: 1em 0; }
+
+.nav_prev_next .next { text-align: right; }
+
+/*# sourceMappingURL=style.css.map */
