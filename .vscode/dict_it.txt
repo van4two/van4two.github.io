@@ -26,7 +26,9 @@ Bjødnsiåna
 Bjørnbøl
 Bjørnbøltjønne
 Bjørvika
+Bliquetuit
 Bonvicini
+Boucles
 boulangerie
 Bøverdalen
 Bøvra
@@ -38,11 +40,16 @@ Bryggen
 Butin
 Buvika
 Bygdin
+Cafè
 campervan
+caricavivande
 cassettina
 Catinaccio
 cengetta
 Chapelle
+chaumière
+chaumières
+chocolat
 Ciampedie
 cidre
 cioccolateria
@@ -81,6 +88,7 @@ Espedalen
 Étretat
 Fagnet
 falaise
+Famille
 Fannefjord
 Fécamp
 Félícíté
@@ -101,6 +109,9 @@ furgo
 Furgoperfecto
 Fylingsvatnet
 Galdhøpiggen
+galette
+Galette
+galettes
 Gamle
 Gardeccia
 Garli
@@ -123,6 +134,7 @@ Hamar
 Hardangerfjord
 Hardangervidda
 Haugsjåsund
+Hauville
 Hella
 Helleren
 Hellesylt
@@ -147,6 +159,7 @@ Jostedal
 Jostedalsbreen
 Jotunheimen
 Jotunheimvegen
+Jumièges
 Kalvanes
 Kårvåg
 Kesselkogel
@@ -184,6 +197,7 @@ Lustrafjord
 Lysebotn
 Lysefjord
 Lysevegen
+Marais
 Mastrafjorden
 Maurvangen
 Melkevollbreen
@@ -202,6 +216,7 @@ Nesatind
 Nisser
 Nordfjord
 Norheimsund
+Normande
 Normandie
 Nystølsvatnet
 Oanes
@@ -224,6 +239,7 @@ Preuss
 primaloft
 Raiway
 Ramnefjell
+Régional
 Reinheimen
 Reinsvangen
 Rennesøy
@@ -294,6 +310,7 @@ Trollstigen
 Trolltunga
 Trollveggen
 Trøndelag
+turisticità
 Turtagrø
 Udai
 Utsikten
