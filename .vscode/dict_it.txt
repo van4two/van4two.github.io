@@ -28,6 +28,7 @@ Bjørnbøl
 Bjørnbøltjønne
 Bjørvika
 Bláa
+Bláhnjúkur
 Bliquetuit
 Bonvicini
 Boucles
@@ -36,6 +37,7 @@ Bøverdalen
 Bøvra
 Bratland
 Breiddalsvatnet
+Brennisteinsalda
 Briksdalsbreen
 Brudesløret
 Bryggen
@@ -95,6 +97,8 @@ Famille
 Fannefjord
 Fécamp
 Félícíté
+fiappi
+Fjallabak
 Fjordline
 Fjordsightseeing
 Flærlandsfjorden
@@ -129,6 +133,7 @@ Geysir
 Gjáin
 Gjende
 Gjendesheim
+Grænagil
 Grímsnes
 Grotli
 Gudbrandsjuvet
@@ -146,6 +151,7 @@ Hardangervidda
 Haugsjåsund
 Haukadalur
 Hauville
+Hekla
 Hella
 Helleren
 Hellesylt
@@ -196,10 +202,13 @@ Kvalvågvegen
 Læerdal
 Lærdal
 Lærdalsfjord
+Landeyjahöfn
 Landmannalaugar
 Langfjord
 Langjökull
 Larsech
+Laugahraun
+Laugavegur
 Laussa
 Lauvvik
 Lieutenance
@@ -287,7 +296,9 @@ Sande
 Sandvikvåg
 scaldacollo
 Schakenda
+Seljalandsfoss
 Seltún
+semideserta
 semideserto
 Sentres
 Seydisholar
@@ -375,3 +386,4 @@ Voiello
 Þingvallavatn
 Þingvellir
 Þjórsárdalur
+Þórsmörk
