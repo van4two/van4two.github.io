@@ -4,6 +4,7 @@ Agder
 Almannagjá
 Åndalsnes
 Antermoia
+arctica
 Ardal
 Arromanches
 Arsvågen
@@ -83,6 +84,7 @@ Dragsvik
 Drasvik
 droni
 Duron
+Dyrhólaey
 Egersund
 Eidsdal
 Eikelandsfossen
@@ -112,6 +114,7 @@ Førde
 Forsand
 Fosdøla
 Fournil
+Fratercula
 furgo
 Furgoperfecto
 Fylingsvatnet
@@ -172,6 +175,8 @@ IMGP
 Istra
 Jannekes
 Jettegrytene
+Jokulsarlon
+Jökulsárlón
 Jondal
 Jørstedalen
 Jøssingfjord
@@ -187,6 +192,9 @@ Kerhóll
 Kerid
 Kerið
 Kesselkogel
+Kirkjubæjarklausturl
+Kirkjubaer
+Kirkjubær
 kitesurf
 Kjenndalsbreen
 Kjerag
@@ -221,9 +229,11 @@ Litle
 Lodalen
 Loelva
 Loen
+Loftsalahellir
 Lónið
 Loue
 Lovatnet
+lundi
 Lustrabui
 Lustrafjord
 Lysebotn
@@ -280,6 +290,8 @@ Rennesøy
 Resvatnet
 Reykjanes
 Reykjanesfólkvangur
+Reynisdrangar
+Reynisfjara
 Riddersprangvegen
 Ringedalsvatnet
 Rjupa
@@ -306,6 +318,7 @@ Sinnes
 Sjokolade
 Skaala
 Skåbu
+Skaftafell
 Skagastølstind
 Skåla
 Skålabu
@@ -314,6 +327,7 @@ Skålavatnet
 Skei
 Skjersvika
 Skjolden
+Skógafoss
 slackline
 Slådalsvegen
 Slettafossen
@@ -324,6 +338,7 @@ Sogndal
 Sogndalstrand
 Sognefjellet
 Sognefjord
+Sólheimasandur
 Sølsnes
 specchievolezza
 Stalheim
@@ -379,6 +394,7 @@ Vevang
 Videsæter
 Viksdalsvatnet
 Vindedalen
+Vinir
 Vinstre
 visitnorway
 Voiello
