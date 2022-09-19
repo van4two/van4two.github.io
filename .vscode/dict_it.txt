@@ -1,6 +1,7 @@
 accomodations
 Åfarnes
 Agder
+Almannagjá
 Åndalsnes
 Antermoia
 Ardal
@@ -41,6 +42,7 @@ Bryggen
 Butin
 Buvika
 Bygdin
+cabinotto
 Cafè
 campervan
 caricavivande
@@ -123,12 +125,17 @@ Gaularvassdraget
 Gaurlarfjellet
 Geiranger
 Geirangerfjord
+Geysir
+Gjáin
 Gjende
 Gjendesheim
+Grímsnes
 Grotli
 Gudbrandsjuvet
 Gudvanga
 Gudvangen
+Gullfoss
+Gullni
 Gustave
 Gynt
 Haag
@@ -137,6 +144,7 @@ Hamar
 Hardangerfjord
 Hardangervidda
 Haugsjåsund
+Haukadalur
 Hauville
 Hella
 Helleren
@@ -147,9 +155,11 @@ Hestad
 Hestadfjorden
 Hindsæter
 Hirtshals
+Hjálparfoss
 Honfleur
 Hornsvatnet
 Høyheimsvik
+hringurinn
 Hringvegur
 Huldefossen
 IMGP
@@ -167,6 +177,8 @@ Jumièges
 Kalvanes
 Kårvåg
 Keflavik
+Kerhóll
+Kerid
 Kerið
 Kesselkogel
 kitesurf
@@ -184,7 +196,9 @@ Kvalvågvegen
 Læerdal
 Lærdal
 Lærdalsfjord
+Landmannalaugar
 Langfjord
+Langjökull
 Larsech
 Laussa
 Lauvvik
@@ -233,10 +247,12 @@ Odda
 Ogna
 Oldedalen
 Oldevatnet
+Ölfusá
 Oppland
 Ørnesvingen
 Oscarshaug
 Øvre
+Öxaráfoss
 Øygardstøl
 Pennica
 Piccardia
@@ -258,6 +274,7 @@ Reykjanesfólkvangur
 Riddersprangvegen
 Ringedalsvatnet
 Rjupa
+Rjúpnavellir
 Rogaland
 Romsdal
 Romsdalen
@@ -265,6 +282,7 @@ Romsdalsfjord
 sabbiolina
 Saksumdalsvegen
 Salut
+Samkaup
 Sande
 Sandvikvåg
 scaldacollo
@@ -272,6 +290,7 @@ Schakenda
 Seltún
 semideserto
 Sentres
+Seydisholar
 Sinnes
 Sjokolade
 Skaala
@@ -287,6 +306,7 @@ Skjolden
 slackline
 Slådalsvegen
 Slettafossen
+Snæfoksstaðir
 Snøhetta
 Snøvegen
 Sogndal
@@ -305,6 +325,7 @@ Stord
 Stordalen
 Storfjord
 Storseisundbrua
+Strokkur
 Stryn
 Strynefjellsvegen
 sull'Aurlandsfjord
@@ -313,11 +334,13 @@ Sunnylvsfjord
 svele
 Systrene
 Tindevegen
+Tjarnarholar
 Tjernshaugtjenet
 Tørvikbygd
 Tovdalselva
 Tréport
 Treungen
+Trex
 Trollstigen
 Trolltunga
 Trollveggen
@@ -329,6 +352,7 @@ Utsikten
 Vågåmo
 Vajolet
 Valdresflye
+Vallakrókur
 Valldalen
 Valldøla
 Varlandsvegen
@@ -347,3 +371,7 @@ Vindedalen
 Vinstre
 visitnorway
 Voiello
+Þingi
+Þingvallavatn
+Þingvellir
+Þjórsárdalur
