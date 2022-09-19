@@ -26,6 +26,7 @@ Bjødnsiåna
 Bjørnbøl
 Bjørnbøltjønne
 Bjørvika
+Bláa
 Bliquetuit
 Bonvicini
 Boucles
@@ -114,6 +115,8 @@ Galette
 galettes
 Gamle
 Gardeccia
+Garðskagi
+Garður
 Garli
 Gaularfjellet
 Gaularvassdraget
@@ -147,6 +150,7 @@ Hirtshals
 Honfleur
 Hornsvatnet
 Høyheimsvik
+Hringvegur
 Huldefossen
 IMGP
 Istra
@@ -163,6 +167,7 @@ Jumièges
 Kalvanes
 Kårvåg
 Keflavik
+Kerið
 Kesselkogel
 kitesurf
 Kjenndalsbreen
@@ -170,9 +175,11 @@ Kjerag
 Kjeragbolten
 Kjosfossen
 Klakegg
+Kleifarvatn
 Klouman
 Kollfattjødn
 Kristiansund
+Krisúvík
 Kvalvågvegen
 Læerdal
 Lærdal
@@ -191,6 +198,7 @@ Litle
 Lodalen
 Loelva
 Loen
+Lónið
 Loue
 Lovatnet
 Lustrabui
@@ -246,6 +254,7 @@ Reinsvangen
 Rennesøy
 Resvatnet
 Reykjanes
+Reykjanesfólkvangur
 Riddersprangvegen
 Ringedalsvatnet
 Rjupa
@@ -260,6 +269,7 @@ Sande
 Sandvikvåg
 scaldacollo
 Schakenda
+Seltún
 semideserto
 Sentres
 Sinnes
