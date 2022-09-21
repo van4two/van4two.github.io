@@ -17,6 +17,7 @@ Bains
 Bakeriet
 Bandet
 Baneheia
+baracchina
 Bénerville
 Bénouville
 Besseggen
@@ -84,6 +85,7 @@ Dragsvik
 Drasvik
 droni
 Duron
+Dverghamrar
 Dyrhólaey
 Egersund
 Eidsdal
@@ -113,6 +115,7 @@ Flotvatnet
 Førde
 Forsand
 Fosdøla
+Foss
 Fournil
 Fratercula
 furgo
@@ -165,12 +168,14 @@ Hestadfjorden
 Hindsæter
 Hirtshals
 Hjálparfoss
+Höfn
 Honfleur
 Hornsvatnet
 Høyheimsvik
 hringurinn
 Hringvegur
 Huldefossen
+Hvalnes
 IMGP
 Istra
 Jannekes
@@ -247,6 +252,7 @@ Mémorial
 Memurubu
 Moena
 Molde
+moletto
 Mortavika
 mymap
 Mytrails
@@ -304,6 +310,7 @@ sabbiolina
 Saksumdalsvegen
 Salut
 Samkaup
+sandar
 Sande
 Sandvikvåg
 scaldacollo
@@ -314,17 +321,21 @@ semideserta
 semideserto
 Sentres
 Seydisholar
+Síðu
 Sinnes
 Sjokolade
 Skaala
 Skåbu
 Skaftafell
+Skaftafellsjökull
 Skagastølstind
 Skåla
 Skålabu
 Skålatårnet
 Skålavatnet
 Skei
+Skeiðarárjökull
+Skeiðarársandur
 Skjersvika
 Skjolden
 Skógafoss
@@ -357,7 +368,10 @@ Strynefjellsvegen
 sull'Aurlandsfjord
 sull'Hardangerfjord
 Sunnylvsfjord
+Svartifoss
 svele
+Svinafellsjökull
+Svínafellsjökull
 Systrene
 Tindevegen
 Tjarnarholar
@@ -382,6 +396,7 @@ Vallakrókur
 Valldalen
 Valldøla
 Varlandsvegen
+Vatnajökull
 Vedahaugane
 Vegen
 Veslefjell
@@ -398,6 +413,7 @@ Vinir
 Vinstre
 visitnorway
 Voiello
+volumetricamente
 Þingi
 Þingvallavatn
 Þingvellir
