@@ -20,6 +20,7 @@ Baneheia
 baracchina
 Bénerville
 Bénouville
+Berufjörður
 Besseggen
 Besshø
 Bessvatnet
@@ -33,12 +34,14 @@ Bláa
 Bláhnjúkur
 Bliquetuit
 Bonvicini
+Borgarfjörður
 Boucles
 boulangerie
 Bøverdalen
 Bøvra
 Bratland
 Breiddalsvatnet
+Breiðdalsvík
 Brennisteinsalda
 Briksdalsbreen
 Brudesløret
@@ -79,6 +82,7 @@ dall
 Dalsnibba
 Dalsnibbba
 dell'anticima
+Djúpivogur
 Djupvatnet
 Domkirkeodden
 Dragsvik
@@ -88,6 +92,7 @@ Duron
 Dverghamrar
 Dyrhólaey
 Egersund
+Egilsstaðir
 Eidsdal
 Eikelandsfossen
 Eldhusøya
@@ -99,6 +104,8 @@ Fagnet
 falaise
 Famille
 Fannefjord
+Fáskrúðsfjörður
+Fauskasandur
 Fécamp
 Félícíté
 fiappi
@@ -139,6 +146,7 @@ Geysir
 Gjáin
 Gjende
 Gjendesheim
+gopro
 Grænagil
 Grímsnes
 Grotli
@@ -150,6 +158,7 @@ Gullni
 Gustave
 Gynt
 Haag
+Hafnarnes
 Halhjem
 Hamar
 Hardangerfjord
@@ -197,6 +206,7 @@ Kerhóll
 Kerid
 Kerið
 Kesselkogel
+kirkjan
 Kirkjubæjarklausturl
 Kirkjubaer
 Kirkjubær
@@ -235,6 +245,7 @@ Lodalen
 Loelva
 Loen
 Loftsalahellir
+longboard
 Lónið
 Loue
 Lovatnet
@@ -261,6 +272,7 @@ Næroyfjord
 Nærøyfjord
 Nedre
 Nesatind
+Nesquik
 Nisser
 Nordfjord
 Norheimsund
@@ -280,6 +292,7 @@ Oscarshaug
 Öxaráfoss
 Øygardstøl
 Pennica
+perimetrato
 Piccardia
 pommeau
 Preikestolen
@@ -294,6 +307,7 @@ Reinheimen
 Reinsvangen
 Rennesøy
 Resvatnet
+Reyðarfjörður
 Reykjanes
 Reykjanesfólkvangur
 Reynisdrangar
@@ -320,6 +334,8 @@ Seltún
 semideserta
 semideserto
 Sentres
+Seyðisfjarðarvegur
+Seyðisfjörður
 Seydisholar
 Síðu
 Sinnes
@@ -358,6 +374,7 @@ Stardalselva
 Stegastein
 stengt
 Stigfossen
+Stöðvarfjörður
 Stord
 Stordalen
 Storfjord
@@ -378,6 +395,7 @@ Tjarnarholar
 Tjernshaugtjenet
 Tørvikbygd
 Tovdalselva
+trasferitisi
 Tréport
 Treungen
 Trex
