@@ -15,13 +15,13 @@ tags: chiesa faro fiordi porto scogliera spiaggia walter-mitty
 
 Ci svegliamo nella [spiaggia](https://www.park4night.com/lieu/39281//Picnic-area#.XDO_8jAo_if) della [**Hvalnes Nature Reserve**](https://www.nat.is/travelguideeng/plofin_hvalnes.htm) dove abbiamo trascorso la notte e ci avventuriamo ad esplorarla. Troviamo pecore che brucano non lontane dall’acqua ma che si spaventano non appena ci avviciniamo.
 
-## Fauskasandur 
+## Fauskasandur
 
 Ci rimettiamo sulla strada e, poco oltre il capo, troviamo il sole che illumina una bellissima costa rocciosa articolata da promontori e piccoli faraglioni. Ci fermiamo in un’[area picnic](https://park4night.com/lieu/111259/#prettyPhoto) con vista spettacolare sulla bellissima spiaggia nera di **[Fauskasandur](https://mapcarta.com/17609446)**, caratterizzata da un unico faraglione imponente. Avremmo dovuto dormire qui!! Bellissima!
 
 {% include img.html id=212 cap="La solitaria spiaggia nera di Fauskasandur, battuta dal vento e dalle onde" %}
 
-## Djúpivogur 
+## Djúpivogur
 
 Procediamo sul Ring che asseconda il profilo della costa, fino al porticciolo di **[Djúpivogur ](https://www.east.is/en/inspiration/town/djupivogur)**in cui facciamo un giro a piedi, osservando da lontano il relativo faro posto sul capo settentrionale. Si tratta del primo di numerosi fari di questa tipologia che vedremo lungo il viaggio: basso, tozzo, a pianta quadrata, tinteggiato di arancione con infissi bianchi e lanterna centrale rossa.
 
@@ -51,7 +51,7 @@ Prima di percorrere il Fáskrúðsfjörður, intravediamo da lontano il colorati
 
 Ora la strada costeggia la prima parte del fiordo per poi dirigersi nell’entroterra, riaffacciandosi sulla costa per un breve tratto in corrispondenza del più profondo [**Reyðarfjörður**](https://www.east.is/en/inspiration/town/reydarfjordur). Da qui rapidamente raggiungiamo [Egilsstaðir](http://www.visitegilsstadir.is/en) dove facciamo la spesa al supermercato [Nettò](https://netto.is/).
 
-## Seyðisfjörður 
+## Seyðisfjörður
 
 Il nostro programma prevede ora di muoverci verso il Seyðisfjörður dove si annida il grazioso omonimo paesino. La strada n. 93, **[Seyðisfjarðarvegur](https://it.wikipedia.org/wiki/Sey%C3%B0isfjar%C3%B0arvegur)**, dove è stata girata la [scena](https://www.youtube.com/watch?time_continue=1&v=cT_Wuzag6VU) del film *[The secret life of Walter Mitty](https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film))* con la longboard è spettacolare! Montiamo la gopro e ci godiamo il paesaggio e le curve pronunciate del nastro d’asfalto perimetrato da paletti gialli, ascoltando la colonna sonora del film.
 
@@ -62,9 +62,9 @@ Il nostro programma prevede ora di muoverci verso il Seyðisfjörður dove si an
 Arriviamo al grazioso abitato di **[Seyðisfjörður](https://www.visitseydisfjordur.com/)**, situato nella parte più protetta del lungo fiordo omonimo. Adocchiamo un bel baretto, il [Nordic restaurant](https://www.facebook.com/aldanhotel/), annesso all’Hotel Aldan e ci fermiamo a fare merenda: ordiniamo una cioccolata calda (praticamente latte e Nesquik) e una fetta di torta al caramello (un po’ sostanziosa ma valida), scoprendo che barista e cameriera sono italiani, trasferitisi lì da un paio di mesi. Rifocillati, torniamo fuori al vento ed esploriamo il piccolo abitato scoprendo la strada colorata che conduce alla chiesetta azzurra [Bláa kirkjan](https://www.visitseydisfjordur.com/is/project/blaa-kirkjan/) e i tanti scorci che vedono le case specchiarsi nell’acqua del fiordo.
 
 {% include img.html id=256 cap="La chiesetta azzurra Bláa kirkjan si raggiunge percorrendo un breve sentiero dalle mattonelle che ricalcano i colori dell'arcobaleno" %}
- 
+
 {% include img.html id=255 cap="Alcune abitazioni di Seyðisfjörður mostrano colori sgargianti" %}
- 
+
 Ripercorriamo in senso opposto la strada n. 93 fino a raggiungere Egilsstaðir, dove ci fermiamo al [campeggio](https://park4night.com/lieu/110736/#.XDkL5VySPic) del paese per la notte.
 
 {% contentfor mymap %}

@@ -34,6 +34,7 @@ Bláa
 Bláhnjúkur
 Bliquetuit
 Bonvicini
+Borgarfjarðarhöfn
 Borgarfjörður
 Boucles
 boulangerie
@@ -82,6 +83,7 @@ dall
 Dalsnibba
 Dalsnibbba
 dell'anticima
+Dettifoss
 Djúpivogur
 Djupvatnet
 Domkirkeodden
@@ -90,6 +92,7 @@ Drasvik
 droni
 Duron
 Dverghamrar
+Dyrfjöll
 Dyrhólaey
 Egersund
 Egilsstaðir
@@ -100,6 +103,7 @@ endcontentfor
 Erlandsdalsvatnet
 Espedalen
 Étretat
+Eystri
 Fagnet
 falaise
 Famille
@@ -110,6 +114,7 @@ Fécamp
 Félícíté
 fiappi
 Fjallabak
+Fjöllum
 Fjordline
 Fjordsightseeing
 Flærlandsfjorden
@@ -159,6 +164,7 @@ Gustave
 Gynt
 Haag
 Hafnarnes
+Hafragilsfoss
 Halhjem
 Hamar
 Hardangerfjord
@@ -189,6 +195,8 @@ IMGP
 Istra
 Jannekes
 Jettegrytene
+Jökulsá
+Jökulsárgljúfur
 Jokulsarlon
 Jökulsárlón
 Jondal
@@ -219,12 +227,14 @@ Klakegg
 Kleifarvatn
 Klouman
 Kollfattjødn
+Krafla
 Kristiansund
 Krisúvík
 Kvalvågvegen
 Læerdal
 Lærdal
 Lærdalsfjord
+Lagarfljot
 Landeyjahöfn
 Landmannalaugar
 Langfjord
@@ -238,6 +248,7 @@ Lieutenance
 Ligger
 Likholefossen
 Lillehammer
+Lindarbakki
 Linge
 Linkholefossen
 Litle
@@ -267,6 +278,7 @@ moletto
 Mortavika
 mymap
 Mytrails
+Mývatn
 Næroydalen
 Næroyfjord
 Nærøyfjord
@@ -308,6 +320,7 @@ Reinsvangen
 Rennesøy
 Resvatnet
 Reyðarfjörður
+Reykjahlíð
 Reykjanes
 Reykjanesfólkvangur
 Reynisdrangar
@@ -329,6 +342,7 @@ Sande
 Sandvikvåg
 scaldacollo
 Schakenda
+Selfoss
 Seljalandsfoss
 Seltún
 semideserta
@@ -379,6 +393,7 @@ Stord
 Stordalen
 Storfjord
 Storseisundbrua
+Stórurð
 Strokkur
 Stryn
 Strynefjellsvegen
@@ -399,6 +414,7 @@ trasferitisi
 Tréport
 Treungen
 Trex
+tridactyla
 Trollstigen
 Trolltunga
 Trollveggen
@@ -415,6 +431,7 @@ Valldalen
 Valldøla
 Varlandsvegen
 Vatnajökull
+Vatnsskarð
 Vedahaugane
 Vegen
 Veslefjell
