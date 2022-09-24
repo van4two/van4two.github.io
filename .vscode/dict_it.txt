@@ -3,6 +3,7 @@ accomodations
 Agder
 Almannagjá
 Åndalsnes
+Antelao
 Antermoia
 arctica
 Ardal
@@ -33,6 +34,7 @@ Bjørvika
 Bláa
 Bláhnjúkur
 Bliquetuit
+Boite
 Bonvicini
 Borgarfjarðarhöfn
 Borgarfjörður
@@ -53,6 +55,7 @@ Bygdin
 cabinotto
 Cafè
 campervan
+Caregón
 caricavivande
 cassettina
 Catinaccio
@@ -76,12 +79,14 @@ crêpes
 Curlu
 d'Albâtre
 d'Amont
+d'Arcia
 d'Aval
 d’Albâtre
 d’Aval
 dall
 Dalsnibba
 Dalsnibbba
+Dambra
 dell'anticima
 Dettifoss
 Djúpivogur
@@ -113,11 +118,13 @@ Fauskasandur
 Fécamp
 Félícíté
 fiappi
+Fisura
 Fjallabak
 Fjöllum
 Fjordline
 Fjordsightseeing
 Flærlandsfjorden
+Flaibani
 Flåm
 Flåmsbana
 Flekkefjord
@@ -266,6 +273,7 @@ Lustrafjord
 Lysebotn
 Lysefjord
 Lysevegen
+Mandre
 Marais
 Mastrafjorden
 Maurvangen
@@ -275,6 +283,7 @@ Memurubu
 Moena
 Molde
 moletto
+Mondeval
 Mortavika
 mymap
 Mytrails
@@ -303,6 +312,10 @@ Oscarshaug
 Øvre
 Öxaráfoss
 Øygardstøl
+Palafavera
+Pareterno
+Pelmetto
+Pelmo
 Pennica
 perimetrato
 Piccardia
@@ -314,6 +327,7 @@ Preuss
 primaloft
 Raiway
 Ramnefjell
+rampetta
 Régional
 Reinheimen
 Reinsvangen
@@ -333,6 +347,7 @@ Rogaland
 Romsdal
 Romsdalen
 Romsdalsfjord
+Rutorto
 sabbiolina
 Saksumdalsvegen
 Salut
@@ -381,10 +396,12 @@ Sognefjellet
 Sognefjord
 Sólheimasandur
 Sølsnes
+Sorapiss
 specchievolezza
 Stalheim
 Stalheimskleiva
 Stardalselva
+Staulanza
 Stegastein
 stengt
 Stigfossen
@@ -409,6 +426,7 @@ Systrene
 Tindevegen
 Tjarnarholar
 Tjernshaugtjenet
+Toronda
 Tørvikbygd
 Tovdalselva
 trasferitisi
@@ -450,6 +468,7 @@ Vinstre
 visitnorway
 Voiello
 volumetricamente
+Zoldo
 Þingi
 Þingvallavatn
 Þingvellir
