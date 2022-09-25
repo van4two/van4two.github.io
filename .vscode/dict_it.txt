@@ -76,6 +76,7 @@ Côte
 Côté
 creperia
 crêpes
+Cront
 Curlu
 d'Albâtre
 d'Amont
@@ -238,6 +239,7 @@ Krafla
 Kristiansund
 Krisúvík
 Kvalvågvegen
+Lacia
 Læerdal
 Lærdal
 Lærdalsfjord
@@ -249,6 +251,7 @@ Langjökull
 Larsech
 Laugahraun
 Laugavegur
+Lausa
 Laussa
 Lauvvik
 Lieutenance
@@ -320,6 +323,7 @@ Pennica
 perimetrato
 Piccardia
 pommeau
+pratoni
 Preikestolen
 Preikestolhytta
 Preikestolvegen
@@ -343,6 +347,7 @@ Riddersprangvegen
 Ringedalsvatnet
 Rjupa
 Rjúpnavellir
+roccette
 Rogaland
 Romsdal
 Romsdalen
