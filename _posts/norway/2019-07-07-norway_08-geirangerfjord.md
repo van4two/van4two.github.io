@@ -44,7 +44,7 @@ Con il tempo che va migliorando, riprendiamo il nostro itinerario fiancheggiando
 
 {% include img.html id=118 cap="Le acque scintillanti del lago Breiddalsvatnet" %}
 
-## Jostedalsbreen National Park 
+## Jostedalsbreen National Park
 
 Tornando indietro di poco, quindi, proseguiamo sulla Rv15 nella direzione opposta, arrivando in breve a [Stryn](https://www.visitnorway.com/places-to-go/fjord-norway/stryn/). Nel frattempo ci siamo documentati su un trekking in zona che ci ispira molto ma che viene definito anche estremamente faticoso: la salita al monte [**Skåla**](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/hiking-to-skala/). Lo Skåla, alto 1848 m è la cima norvegese che raggiunge la più alta quota avendo contemporaneamente un “piede” nel fiordo. L’escursione parte dall'abitato di Loen, ha uno sviluppo di 8 km da percorrere andata e ritorno (per un totale quindi di 16 km) in circa 8 h e un dislivello di più di 1800 m. Incuriositi, decidiamo di fermarci al [centro visitatori](http://visitjostedalsbreen.no/en/) del [**Jostedalsbreen National Park**](https://www.visitnorway.nl/listings/jostedalsbreen-national-park/5160/), lungo la strada, per avere qualche informazione in più. Ci viene detto che il sentiero è percorribile e, alla domanda se ci sia neve e se possiamo intraprenderlo con scarpe da escursione (mostrando quelle che stiamo calzando), ci viene spiegato che un po’ di neve c’è ma che comunque le scarpe vanno bene. A differenza degli altri visitors center in cui siamo stati (che fanno riferimento a [storm.no](https://www.storm.no/)), per le meteo qui viene utilizzato il sito web [yr.no](https://www.yr.no/nb): ci viene riferito che il tempo domani sarà discreto, senza pioggia e con un po’ di sole.
 

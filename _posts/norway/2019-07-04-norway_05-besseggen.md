@@ -26,7 +26,7 @@ Arrivati al [Reinsvangen long term parking](https://www.besseggen1743.no/en/home
 
 In 10 minuti siamo al molo di fronte allo Gjendesheim dove prendiamo il ferry delle 8:30 prenotato ieri sera, ora completamente pieno (evidentemente gli altri escursionistici non hanno i nostri stessi dubbi in merito alla percorribilità e sicurezza dell’itinerario); in 20 minuti raggiungiamo [**Memurubu**](https://www.memurubu.no/), situato sulla riva del lago, indicativamente a metà del Gjende. Durante la traversata esce il sole.
 
-{% include img.html id=47 cap="In un'ora di navigazione il ferry ci porta alla partenza dell&#039;itinerario, in corrispondenza del rifugio Memurubu" %}
+{% include img.html id=47 cap="In 20' di navigazione il ferry ci porta alla partenza dell'itinerario, in corrispondenza del rifugio Memurubu" %}
 
 ## Bjørnbøl
 

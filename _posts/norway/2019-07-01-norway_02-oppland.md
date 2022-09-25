@@ -12,17 +12,15 @@ folder: _posts/norway
 
 {% include img.html id=15 cap="Risveglio in riva al lago Nisser" %}
 
-{{page.folder}}
-
 Ci svegliamo intorno alle 7 nell’[area di sosta](https://park4night.com/lieu/64873/#.Yv3Oj3ZByUl) individuata [ieri sera]({% link {{page.folder}}/2019-06-30-norway_01-telemark.md %}) a [Treungen](https://www.visitnorway.com/listings/r%C3%B8yrodden-treungen/8484/), sulle sponde del lago [Nisser](https://www.visitnorway.com/listings/canoe-cayak-on-lake-nisser-(vr%C3%A5dal)/11380/), nella contea di [Telemark](https://www.visittelemark.com/). Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
+
+## Jettegrytene
 
 Partiamo per [**Jettegrytene**](https://www.visitnorway.com/listings/potholes/9970/), una serie di pozze d’acqua, vasche e scivoli scavati nella roccia dallo scorrere di un torrente in un’area poco distante da dove ci troviamo ora. Un [post su youtube](https://www.youtube.com/watch?v=EmCzANPiCSc&t=53s) del 2016 le definisce un’amenità nota soltanto ai locali. A soli tre anni di distanza, in realtà, informazioni seppur sommarie sulle pozze si trovano sulla pagina dedicata su [visitnorway.com](https://www.visitnorway.com/listings/potholes/9970/) e su [quella](https://www.visittelemark.com/things-to-do/potholes-p544563) della regione di Telemark. Inoltre, leggendo il [forum di Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g2419721-d4598375-Reviews-Jettegrytene_i_Nissedal-Nissedal_Municipality_Telemark_Eastern_Norway.html), apprendiamo che la strada per raggiungere le pozze è stata recentemente chiusa per un periodo non precisato. Dal momento che ormai siamo qui decidiamo comunque di andare in esplorazione.
 
 {% include img.html img="IMG_20190701_081050-2.jpg" cap="L'area di sosta dove abbiamo pernottato e dove facciamo colazione si trova in una piacevole posizione ai margini dell'abitato in riva al lago" %}
 
 {% include img.html id=16 cap="A quanto pare le Jettegrytene non sono al momento raggiungibili" %}
-
-## Jettegrytene
 
 Percorriamo a ritroso la Rv41, passiamo di fronte al campeggio di [Haugsjåsund](https://www.visitnorway.com/listings/haugsj%C3%A5sund-familiecamping/7291/) e imbocchiamo la Fv352; dopo un po’ compare un cartello con l’indicazione delle pozze ma con del nastro adesivo rosso applicato sopra a formare una croce di Sant'Andrea. Uhm, qui c’è odore di chiusura. Al termine della strada asfaltata, dove comincia l’ultimo tratto di sterrato, infatti, troviamo un cantiere in essere. Chiediamo informazioni a un operaio secondo cui la strada è chiusa per lavori ma si può, comunque, proseguire a piedi. Parcheggiamo e ci troviamo di fronte un cancello metallico che non consente il passaggio né ai veicoli, né ai pedoni. Dalla direzione verso cui stiamo andando arriva un signore in macchina che scende ad aprire il cancello per uscire; avendo letto che le pozze si trovano su terreno privato, gli chiediamo, in inglese, se è consentito accedere a piedi, ottenendo risposta negativa: le pozze non sono al momento visitabili e nemmeno visibili per la troppa acqua presente in questo periodo, che le copre completamente.
 
@@ -50,7 +48,8 @@ Poco al largo del lungomare galleggia la scultura di vetro e acciaio inossidabil
 
 {% include img.html id=24 cap="L'installazione sul lungomare ad ovest del teatro dell'opera" %}
 
-Hamar
+## Hamar
+
 Imbocchiamo la E6, strada piuttosto trafficata e costellata di lavori in corso che attraversa in direzione sud-nord l’[Oppland](https://it.wikipedia.org/wiki/Oppland) fino alle regioni di [Romsdal](https://it.wikipedia.org/wiki/Romsdal) e [Trøndelag](https://it.wikipedia.org/wiki/Tr%C3%B8ndelag), sul Mar di Norvegia. Usciamo ad [**Hamar**](https://www.visitnorway.com/places-to-go/eastern-norway/the-hamar-region/) dove visitiamo i resti della chiesa medievale [**Domkirkeodden**](https://domkirkeodden.no/en), la “cattedrale di vetro”, ovvero le rovine del principale edificio di culto cittadino racchiuse in una struttura protettiva vetrata. La chiesa romanica, completata intorno al 1200, venne successivamente ampliata in stile gotico e, dopo essere stata per tre secoli uno dei più importanti siti liturgici da Oslo a Trondheim, prese fuoco durante la guerra nordica dei sette anni (1563–70) e, da quel momento, venne lasciata a rudere.
 
 {% include img.html id=27 cap="La 'cattedrale di vetro' è costituita dalle rovine della chiesa medievale conservate in una sorta di grande teca vetrata" %}
@@ -66,7 +65,11 @@ Proseguiamo fino a [**Lillehammer**](https://www.visitnorway.it/dove-andare/norv
 {% contentfor sidebar %}
 
 **Tips**
-Traghetto Fjordline: 101 €, due persone + Fiat Scudo, solo andata; partenza 23:30 — arrivo 01:45 (durata: 2h 15′)
+[Jettegrytene](https://www.visitnorway.com/listings/potholes/9970/): i cartelli indicano 50 nkr/testa, facendo intendere che siano da pagare in contanti (informazione non verificata per via della temporanea chiusura delle pozze)
+
+Pedaggi stradali: informazioni su [Euro Parking Collection](https://www.epcplc.com/)
+
+[Parcheggio](https://onepark.no/) ad Oslo nei pressi del quartiere Bjørvika: 90 nkr/h
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 

@@ -20,7 +20,7 @@ Avvisiamo i gestori del campeggio della nostra intenzione di rimanere di più, i
 
 {% include img.html id=129 cap="La vallata di Oldedalen è caratterizzata dalla presenza del lago Oldevatnet, uno specchio come il vicino Lovatnet" %}
 
-Avendo già attraversato interamente la Lodalen [ieri](http://www.van42.org/2019/07/07/geirangerfjord/), scegliamo la seconda opzione per poter esplorare anche l’altra valle. Passato [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), costeggiamo un tratto del **[Nordfjord](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/)** che offre una vista meravigliosa sull'ampio fiordo. Ci infiliamo nella Oldedalen, vallata molto simile alla Lodalen, anch'essa con un ampio lago, l’[Oldevatnet](https://en.wikipedia.org/wiki/Oldevatnet), il cui colore turchese è dovuto ancora ai limi glaciali presenti nell’acqua.
+Avendo già attraversato interamente la Lodalen [ieri]({% link {{page.folder}}/2019-07-07-norway_08-geirangerfjord.md %}), scegliamo la seconda opzione per poter esplorare anche l’altra valle. Passato [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), costeggiamo un tratto del **[Nordfjord](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/)** che offre una vista meravigliosa sull'ampio fiordo. Ci infiliamo nella Oldedalen, vallata molto simile alla Lodalen, anch'essa con un ampio lago, l’[Oldevatnet](https://en.wikipedia.org/wiki/Oldevatnet), il cui colore turchese è dovuto ancora ai limi glaciali presenti nell’acqua.
 
 ## Briksdalsbreen
 
@@ -47,7 +47,7 @@ Nell’ultimo tratto di strada troviamo cartelli che indicano l’estensione del
 Arriviamo al fronte e la temperatura scende drasticamente. Il cielo è ancora grigio. Dopo qualche foto torniamo sui nostri passi, fino a raggiungere il parcheggio. Con il furgone riprendiamo la strada già percorsa all’andata in direzione opposta. Pranziamo sui tavoli di legno di un’ampia area picnic e ci riavviamo verso Loen. Ci accomodiamo nella loggia del camping e studiamo il trekking allo Skåla: ultimo check alle meteo, che sono ottime, e ci convinciamo definitivamente. Cuciniamo pastasciutta e andiamo a letto carichi per domani.
 
 {% contentfor mymap %}
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LJbRXacgKN7ykDpNOnsHNslT2PZhtExo" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1AWx1cYB9qRiY8QVBFNo-5O_3Pkp8UGIJ&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}

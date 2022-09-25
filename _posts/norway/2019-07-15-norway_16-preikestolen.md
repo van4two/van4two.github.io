@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=291 cap="L'imponente pulpito di roccia svetta sulle calme acque del Lysefjord" %}
 
-Sveglia alle 5. Anche oggi siamo i primi ad alzarci nell’[area di sosta Skjersvika](https://park4night.com/lieu/35327//j%C3%B8rpeland-ryfylkevegen/norway/strand#prettyPhoto). Il cielo è coperto: in effetti le [previsioni meteo](https://www.yr.no/) dichiaravano nuvolo fin verso le 8-9 del mattino, poi sole pieno. Ormai siamo rapidi nella preparazione: come per il [Trolltunga](http://www.van42.org/2019/07/13/trolltunga/), ci vestiamo a strati ma relativamente leggeri, sulla base delle temperature previste e del fatto che questo itinerario è più breve rispetto ai precedenti. Ci spostiamo al non lontano parcheggio da cui accederemo a piedi al **[Preikestolen](https://www.visitnorway.com/listings/preikestolen/185743/)**.
+Sveglia alle 5. Anche oggi siamo i primi ad alzarci nell’[area di sosta Skjersvika](https://park4night.com/lieu/35327//j%C3%B8rpeland-ryfylkevegen/norway/strand#prettyPhoto). Il cielo è coperto: in effetti le [previsioni meteo](https://www.yr.no/) dichiaravano nuvolo fin verso le 8-9 del mattino, poi sole pieno. Ormai siamo rapidi nella preparazione: come per il [Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}), ci vestiamo a strati ma relativamente leggeri, sulla base delle temperature previste e del fatto che questo itinerario è più breve rispetto ai precedenti. Ci spostiamo al non lontano parcheggio da cui accederemo a piedi al **[Preikestolen](https://www.visitnorway.com/listings/preikestolen/185743/)**.
 
 ## Dove parcheggiare
 
@@ -26,7 +26,7 @@ Il parcheggio principale di accesso all’escursione si trova di fianco al rifug
 
 ## Salita
 
-Ore 6:30 siamo in marcia: inizia subito una salita costante ma non ripida su terreno comodo. Ci rendiamo conto immediatamente che, nonostante il sentiero sia facile e non lungo, non abbiamo ancora recuperato completamente dal [Trolltunga](http://www.van42.org/2019/07/13/trolltunga/).
+Ore 6:30 siamo in marcia: inizia subito una salita costante ma non ripida su terreno comodo. Ci rendiamo conto immediatamente che, nonostante il sentiero sia facile e non lungo, non abbiamo ancora recuperato completamente dal [Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}).
 
 {% include img.html id=271 cap="Lungo il primo tratto del sentiero per il Preikestolen, avvolti da nuvole basse" %}
 
@@ -34,7 +34,7 @@ Piano piano le nuvole basse che ci avvolgono cominciano ad alzarsi ma permane an
 
 ## Preikestolen
 
-Affrontiamo una lunga salita su gradoni di roccia, simile a quelle già percorse allo [Skåla](http://www.van42.org/2019/07/09/monte-skala/) e al [Trolltunga](http://www.van42.org/2019/07/13/trolltunga/), e fatichiamo più di quanto non sia necessario – immaginiamo – per il troppo breve riposo fra un trekking e l’altro.
+Affrontiamo una lunga salita su gradoni di roccia, simile a quelle già percorse allo [Skåla]({% link {{page.folder}}/2019-07-09-norway_10-skala.md %}) e al [Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}), e fatichiamo più di quanto non sia necessario – immaginiamo – per il troppo breve riposo fra un trekking e l’altro.
 
 {% include img.html id=275 cap="La sagoma del Preikestolen si staglia davanti a noi avvolta dalla foschia" %}
 
@@ -52,19 +52,19 @@ Finalmente, con un po’ di pazienza, il cielo si apre, il vento spazza via le n
 
 {% include img.html id=294 cap="Il Preikestolen si protende verso il Lysefjord, il 'fiordo della luce'" %}
 
-Progressivamente iniziano a formarsi file di persone in corrispondenza dei punti del Preikestolen più scenografici: niente di paragonabile, comunque, rispetto alle code viste al [Trolltunga](http://www.van42.org/2019/07/13/trolltunga/). Continua ad arrivare gente. Ci inerpichiamo fino al più punto più alto presente nei paraggi, che domina il possente pulpito di roccia e tutto il Lysefjord. Vediamo ogni tanto un’imbarcazione solcare le acque blu del fiordo.
+Progressivamente iniziano a formarsi file di persone in corrispondenza dei punti del Preikestolen più scenografici: niente di paragonabile, comunque, rispetto alle code viste al [Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}). Continua ad arrivare gente. Ci inerpichiamo fino al più punto più alto presente nei paraggi, che domina il possente pulpito di roccia e tutto il Lysefjord. Vediamo ogni tanto un’imbarcazione solcare le acque blu del fiordo.
 
 {% include img.html id=292 cap="Il Preikestolen si erge sul Lysefjord con pareti di 604 m a picco sul fiordo" %}
 
 La giornata è spettacolare: ci sdraiamo al sole e quasi ci addormentiamo. Verso le 13:30 decidiamo di rientrare: ormai c’è tanta gente ovunque e le code per le foto si sono decisamente allungate.
 
-{% include img.html id=291 cap="Verso metà mattina cominciano a formarsi lunghe code per le fotografie" %}
+{% include img.html img="IMG_20190715_131107 - preikestolen.jpg" cap="Verso metà mattina cominciano a formarsi lunghe code per le fotografie" %}
 
 ## Discesa
 
 La discesa è meno rapida del previsto, da un lato perché parecchi escursionisti rientrano insieme a noi, dall’altro perché altrettanta gente sta salendo. A tratti si formano addirittura piccoli ingorghi. Ci sono famiglie con bambini e diverse persone anziane, ognuno con il suo passo. Dopo il Trolltunga, comunque, ci aspettavamo una situazione del genere, considerate anche la lunghezza più ridotta di questo itinerario e la notorietà del Preikestolen. Arrivati al parcheggio ci togliamo con gusto le scarpe e ci spostiamo verso Jørstedalen dove compriamo da mangiare al [Kiwi](https://kiwi.no/) locale.
 
-{% include img.html id=291 cap="Se non fosse chiaro, divieto di sosta!" %}
+{% include img.html img="IMGP5552 - preikestolen.jpg" cap="Se non fosse chiaro, divieto di sosta!" %}
 
 {% include img.html img="IMG_20190715_074445a.jpg" cap="I divieti di campeggio libero e di volo droni vengono, purtroppo, spesso ignorati" %}
 
@@ -72,16 +72,16 @@ La discesa è meno rapida del previsto, da un lato perché parecchi escursionist
 
 Procacciato il pranzo, cerchiamo una location amena dove consumarlo. Andiamo ad istinto guardando la mappa di Google e basandoci su un [report di park4night](https://park4night.com/lieu/54712//varlandsvegen/norway/strand#prettyPhoto). Percorrendo la Kvalvågvegen, che si dirama dalla Rv13, costeggiamo una piccola baia per poi allontanarci da essa, dirigendoci verso sud fino al lago **[Erlandsdalsvatnet](https://www.facebook.com/pages/Erlandsdalsvatnet/1660410797518406)**, in corrispondenza del quale imbocchiamo la strada senza uscita Varlandsvegen, che segue l’andamento del lago stesso. Ci fermiamo quasi subito presso un piccolo molo di legno attorniato da ninfee. Pranziamo e ci sdraiamo al sole: goduria! A tratti il sole pare cuocerci, a tratti si copre e il vento si fa sentire.
 
-{% include img.html id=291 cap="Le sponde del tranquillo lago Erlandsdalsvatnet sono perfette per riposarsi dopo l'escursione al Preikestolen" %}
+{% include img.html img="IMGP5567 - erlandsdalsvatnet.jpg" cap="Le sponde del tranquillo lago Erlandsdalsvatnet sono perfette per riposarsi dopo l'escursione al Preikestolen" %}
 
 ## Kjeragbolten: pianificazione
 
 Cotti a puntino, dopo un’oretta ci rimettiamo in moto per raggiungere la meta di questa sera: una qualche location prossima all’attacco del sentiero per il [Kjeragbolten](https://www.fjordnorway.com/top-attractions/preikestolen/kjerag). L’idea iniziale per raggiungere la zona era quella di prendere un ferry da [Forsand](https://en.wikipedia.org/wiki/Forsand_(village)) in direzione [Lysebotn](https://www.visitnorway.com/places-to-go/fjord-norway/the-stavanger-region/listings-stavanger/lysebotn-tourist-information/185661/) attraversando il Lysefjord, così da cogliere anche l’occasione per vedere sia il Preikestolen che il Kjeragbolten dall’acqua. Purtroppo, però, la maggior parte dei traghetti che percorre il fiordo parte da [Stavanger](https://www.regionstavanger-ryfylke.com/) e [non tutti trasportano auto](https://www.visitnorway.com/listings/tourist-car-ferry-on-the-lysefjord/185786/). Ci sono sporadici ferry da Forsand (circa uno al giorno) in orari relativamente comodi per noi ma con posti auto contati, ovviamente [già prenotati](https://www.kolumbus.no/en/tickets/-prices-and-products/single-ferry-tickets/). Su alcuni ferry, addirittura, non troviamo più nemmeno posto passeggeri. Evidentemente ci siamo mossi un po’ troppo tardi ma, con tutti questi cambi di programma in itinere legati all’evolversi delle meteo, non siamo riusciti a pianificare per tempo anche questi spostamenti.
 
-Non ci resta che raggiungere il Kjeragbolten via terra, prendendo il traghetto da [Oanes](https://en.wikipedia.org/wiki/Oanes) a Lauvvik in senso opposto a quello di [ieri](http://www.van42.org/2019/07/14/bergen/) e percorrendo un breve tratto della Rv13, proseguendo poi sulla Fv508 e sulla Fv45 fino a Sinnes; la prima parte dell’itinerario, in particolare subito dopo l’attraversamento del fiordo, presenta paesaggi particolarmente bucolici; da Sinnes proseguiamo sulla Fv975 e poi sulla Fv986 attraversando luoghi altrettanto meravigliosi, con rilievi variegati e tanti laghetti. Al confine tra il [Vest Agder](https://en.wikipedia.org/wiki/Vest-Agder) il [Rogaland](https://en.wikipedia.org/wiki/Rogaland), la strada cambia denominazione e diventa la Fv500. Qui cominciamo a guardarci attorno per la notte. Il paesaggio continua a presentare splendidi scorci fino all’arrivo a [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norway/listings-lister/hike-from-%C3%98ygardst%C3%B8l-to-langavatn-via-kjerag/7736/), dove si trova il [parcheggio](https://www.facebook.com/kjeragtouristinformation/) del Kjeragbolten e dove attacchiamo il primo tratto della [Lysevegen](https://www.visitnorway.com/listings/lysevegen-road/185655/), strada a ripidi tornanti che scende verso Lysebotn. Dopo un paio di curve ci fermiamo presso un’[area di sosta](https://park4night.com/lieu/85169//lysebotn-1-sekund%C3%A6r-fylkesveg-500/norway/forsand#.XUVprugzaUk) quasi piena in corrispondenza di una cascata, segnalata su park4night. Decidiamo di fermarci qui, ceniamo, laviamo i piatti nella limpida pozza d’acqua sotto alla cascata e andiamo a letto, pronti per il Kjeragbolten.
+Non ci resta che raggiungere il Kjeragbolten via terra, prendendo il traghetto da [Oanes](https://en.wikipedia.org/wiki/Oanes) a Lauvvik in senso opposto a quello di [ieri]({% link {{page.folder}}/2019-07-14-norway_15-bergen.md %}) e percorrendo un breve tratto della Rv13, proseguendo poi sulla Fv508 e sulla Fv45 fino a Sinnes; la prima parte dell’itinerario, in particolare subito dopo l’attraversamento del fiordo, presenta paesaggi particolarmente bucolici; da Sinnes proseguiamo sulla Fv975 e poi sulla Fv986 attraversando luoghi altrettanto meravigliosi, con rilievi variegati e tanti laghetti. Al confine tra il [Vest Agder](https://en.wikipedia.org/wiki/Vest-Agder) il [Rogaland](https://en.wikipedia.org/wiki/Rogaland), la strada cambia denominazione e diventa la Fv500. Qui cominciamo a guardarci attorno per la notte. Il paesaggio continua a presentare splendidi scorci fino all’arrivo a [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norway/listings-lister/hike-from-%C3%98ygardst%C3%B8l-to-langavatn-via-kjerag/7736/), dove si trova il [parcheggio](https://www.facebook.com/kjeragtouristinformation/) del Kjeragbolten e dove attacchiamo il primo tratto della [Lysevegen](https://www.visitnorway.com/listings/lysevegen-road/185655/), strada a ripidi tornanti che scende verso Lysebotn. Dopo un paio di curve ci fermiamo presso un’[area di sosta](https://park4night.com/lieu/85169//lysebotn-1-sekund%C3%A6r-fylkesveg-500/norway/forsand#.XUVprugzaUk) quasi piena in corrispondenza di una cascata, segnalata su park4night. Decidiamo di fermarci qui, ceniamo, laviamo i piatti nella limpida pozza d’acqua sotto alla cascata e andiamo a letto, pronti per il Kjeragbolten.
 
 {% contentfor mymap %}
-<iframe src="https://www.google.com/maps/d/embed?mid=1wnqWoRxQOE_lzrnNbEhF8G6kRHexYzqp&ehbc=2E312F" width="640" height="480"></iframe>\
+<iframe src="https://www.google.com/maps/d/embed?mid=1-AsHvZSAav6AxQLpoeQnWZ70urbJahSb&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}

@@ -81,7 +81,7 @@ La giornata in effetti prosegue spettacolare, con tanto sole, quindi ci sono buo
 Ripassiamo lungo il Nordfjord e attraversiamo [Olden](https://en.wikipedia.org/wiki/Olden,_Norway), proseguendo sulla Fv60 e poi sulla E39 in direzione sud, verso [Skei](https://en.wikipedia.org/wiki/Skei,_Vestland). Prima della cittadina, in corrispondenza di Klakegg, seguendo le indicazioni di [park4night](https://park4night.com/lieu/62264//unnamed-road/norway/j%C3%B8lster#.XTai5OgzaUk), imbocchiamo la valle del fiume Stardalselva percorrendo la Fv453, alla ricerca di una location wild per la notte. La valle è molto piacevole, costellata di fattorie e caratterizzata dalla presenza del fiume. Al suo termine si intravede un ghiacciaio sempre parte del Jostedal. Non trovando di meglio, ci posteggiato accanto alla strada, su un praticello di fianco al fiume. Ceniamo e, sfiniti, ci addormentiamo subito.
 
 {% contentfor mymap %}
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AWx1cYB9qRiY8QVBFNo-5O_3Pkp8UGIJ" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1LJbRXacgKN7ykDpNOnsHNslT2PZhtExo&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}

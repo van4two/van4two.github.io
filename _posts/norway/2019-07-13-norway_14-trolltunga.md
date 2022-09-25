@@ -16,7 +16,7 @@ Sveglia alle 4! Nell’[area di sosta](https://park4night.com/lieu/82594//riksve
 
 ## Dove parcheggiare
 
-Partiamo e in 20’ arriviamo al parcheggio principale del [**Trolltunga**](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/), [P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013). Salendo da [Tyssedal](https://en.wikipedia.org/wiki/Tyssedal) abbiamo notato il parcheggio più basso, P1, e sappiamo che, oltre i ripidi tornanti davanti a noi, c’è il piccolo parcheggio privato [P3](https://www.trolltunganorway.com/en_GB/parking). Sulla logistica dei parcheggi abbiamo già fatto un po’ di ricerca e riflessioni [ieri](http://www.van42.org/2019/07/12/flamsbana/): dal momento che P3 risultava già interamente prenotato e che i primi posti disponibili sullo [shuttle](https://www.trolltunganorway.com/en_GB/activity/100402/bus-from-skjeggedal-to-maagelitopp-to-the-upper-starting-point-for-the-trolltunga-hike) (che collega P2 con P3) erano alle 9:30, abbiamo deciso di partire a piedi direttamente da P2.
+Partiamo e in 20’ arriviamo al parcheggio principale del [**Trolltunga**](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/), [P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013). Salendo da [Tyssedal](https://en.wikipedia.org/wiki/Tyssedal) abbiamo notato il parcheggio più basso, P1, e sappiamo che, oltre i ripidi tornanti davanti a noi, c’è il piccolo parcheggio privato [P3](https://www.trolltunganorway.com/en_GB/parking). Sulla logistica dei parcheggi abbiamo già fatto un po’ di ricerca e riflessioni [ieri]({% link {{page.folder}}/2019-07-12-norway_13-flamsbana.md %}): dal momento che P3 risultava già interamente prenotato e che i primi posti disponibili sullo [shuttle](https://www.trolltunganorway.com/en_GB/activity/100402/bus-from-skjeggedal-to-maagelitopp-to-the-upper-starting-point-for-the-trolltunga-hike) (che collega P2 con P3) erano alle 9:30, abbiamo deciso di partire a piedi direttamente da P2.
 
 {% include img.html img="IMG_20190713_050336-trolltunga-scaled.jpg" cap="Schema dell'itinerario con partenza da P2 e da P3 fino al Trolltunga. Immagine tratta da [hardangerfjord.com](https://www.hardangerfjord.com/ullensvang/fotturar/trolltunga?fbclid=IwAR1YOY-xJyvF80\_wK-Xumcb946jJiFaRX-myDgoSfnxEWqAeZqTcm7lcJXo)" %}
 
@@ -38,7 +38,7 @@ Arriviamo al sole e guadagniamo un alto pianoro costellato in qua e in là da la
 
 Procediamo seguendo il percorso sulla app [Mytrails](https://play.google.com/store/apps/details?id=com.frogsparks.mytrails&hl=en). Di tanto in tanto incontriamo cartelli che ci indicano quanti chilometri mancano al Trolltunga. Più o meno ne troviamo uno ogni chilometro. Si apre una bellissima vista su una sorta di caldera che contiene il lago blu **[Ringedalsvatnet](https://en.wikipedia.org/wiki/Ringedalsvatnet)**. I raggi di sole ancora bassi creano una bellissima atmosfera. Procediamo e fatichiamo a capire, a distanza, in quale direzione proseguirà il sentiero, su quale cucuzzolo si inerpicherà, cercando di individuare da lontano il Trolltunga.
 
-{% include img.html id=232 cap="Vista sullo spettacolare lago Ringedalsvatnet" %}
+{% include img.html id=252 cap="Vista sullo spettacolare lago Ringedalsvatnet" %}
 
 ## Trolltunga
 
