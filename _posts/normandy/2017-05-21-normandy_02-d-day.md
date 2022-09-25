@@ -24,7 +24,7 @@ Dopo aver fatto il pieno di carburante, ci dirigiamo verso la costa che la matti
 
 Proseguendo per il nostro itinerario, lungo la D27 veniamo attratti da un angolo di campagna decisamente bucolico: un prato alberato accanto ad un ruscello con mucche al pascolo sulla sponda opposta: cediamo alla voglia di una sosta rigenerante, bagnandoci nell’acqua fresca e trasparente e appisolandoci al sole.
 
-{% include img.html id=61 cap="Pausa in riva al fiume nella campagna del Calvados" %}
+{% include img.html id=69 cap="Pausa in riva al fiume nella campagna del Calvados" %}
 
 ## L’esplorazione dei luoghi del D-Day
 

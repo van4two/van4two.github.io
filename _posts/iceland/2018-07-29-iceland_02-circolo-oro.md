@@ -54,11 +54,11 @@ Dopo una mini spesa ad un supermercato [Samkaup](https://www.samkaup.is/) e il p
 
 Fra questi si trova [**Geysir**](https://guidetoiceland.is/travel-iceland/drive/geysir), la sorgente calda per antonomasia, quella da cui deriva lo stesso termine “geyser” utilizzato per identificare le fonti di acqua bollente che producono eruzioni intermittenti creando colonne di acqua ad alta temperatura e vapore. Dal momento che Geysir sta attraversando un lungo periodo di calma senza mostrare alcun segno di attività, al suo posto osserviamo [**Strokkur**](https://guidetoiceland.is/travel-iceland/drive/strokkur), un altro geyser situato a breve distanza dal primo, che spara una colonna d’acqua improvvisa ogni 5-10′.
 
-{% include img.html id=29 cap="La sorgente di acqua cristallina Blesi (vasca settentrionale)" %}
+{% include img.html id=39 cap="La sorgente di acqua cristallina Blesi (vasca settentrionale)" %}
 
 Subito oltre notiamo [**Blesi**](http://www.volcanic-springs.com/index.php?section=Iceland&icelandsection=geysir&icelandsubsection=centralgroup), una hot spring composta da due pozze coloratissime: la prima, caratterizzata da acqua calda e trasparente, lascia intravedere perfettamente il foro di alimentazione, e la seconda, che raccoglie le acque provenienti dalla prima pozza, quindi raffreddate, mostra un colore azzurro intenso quasi lattescente.
 
-{% include img.html id=36 cap="Il colore azzurro della seconda pozza (vasca meridionale), alimentata dalla precedente, è dovuto alla precipitazione di microscopiche particelle silicee" %}
+{% include img.html id=35 cap="Il colore azzurro della seconda pozza (vasca meridionale), alimentata dalla precedente, è dovuto alla precipitazione di microscopiche particelle silicee" %}
 
 ## Gullfoss
 
