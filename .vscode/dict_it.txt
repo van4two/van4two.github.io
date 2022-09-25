@@ -58,8 +58,10 @@ Butin
 Buvika
 Bygdin
 cabinotto
+Cadini
 Cafè
 campervan
+Carbonin
 Caregón
 caricavivande
 Casòn
@@ -71,7 +73,12 @@ chaumière
 chaumières
 chocolat
 Ciampedie
+ciaspe
+Ciaspolata
+ciaspolatori
+ciaspole
 cidre
+Cimabanche
 cioccolateria
 clavette
 Colleville
@@ -300,6 +307,7 @@ Maurvangen
 Melkevollbreen
 Mémorial
 Memurubu
+Misurina
 Moena
 Molde
 moletto
@@ -345,6 +353,7 @@ Perrero
 Piccardia
 pommeau
 pratoni
+Pratopiazza
 Preikestolen
 Preikestolhytta
 Preikestolvegen
@@ -384,6 +393,7 @@ Sande
 Sandvikvåg
 scaldacollo
 Schakenda
+scialpinisti
 Selfoss
 Seljalandsfoss
 Seltún
@@ -446,6 +456,7 @@ Storseisundbrua
 Stórurð
 strabordanti
 Strokkur
+Strudelkopf
 Stryn
 Strynefjellsvegen
 sull'Aurlandsfjord
@@ -480,6 +491,7 @@ Vågåmo
 Vajolet
 Valdresflye
 Vallakrókur
+Vallandro
 Valldalen
 Valldøla
 Varlandsvegen
