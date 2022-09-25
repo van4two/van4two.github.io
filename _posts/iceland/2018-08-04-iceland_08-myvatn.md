@@ -12,7 +12,7 @@ folder: _posts/iceland
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="GoogleDrive_IMGP8332.jpg" cap="Soffioni e fumarole nella Hverir geothermal area" %}
+{% include img.html img="IMGP8689.jpg" cap="Soffioni e fumarole nella Hverir geothermal area" %}
 
 Ci svegliamo nel piccolo [campeggio di Vogar](https://www.vogartravelservice.com/camping) di primo mattino come al solito: pioviggina. Facciamo colazione e ci mettiamo in marcia, pur consapevoli che le previsioni, in questa zona, dicono pioggia per tutta la giornata.
 
