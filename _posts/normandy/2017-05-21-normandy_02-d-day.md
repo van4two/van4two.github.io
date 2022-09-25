@@ -4,6 +4,7 @@ title: Le spiagge del D-Day
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: patrimonio-culturale storia
+folder: _posts/normandy
 #image: /wp-content/uploads/2018/12/GoogleDrive_2017.05.21-55.-colleville.jpg
 #{% contentfor sidebar %}
 #{% endcontentfor %}

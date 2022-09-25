@@ -399,6 +399,7 @@ Skeiðarársandur
 Skjersvika
 Skjolden
 Skógafoss
+skyr
 slackline
 Slådalsvegen
 Slettafossen
@@ -443,6 +444,7 @@ Systrene
 Tindevegen
 Tjarnarholar
 Tjernshaugtjenet
+Tongariro
 Toronda
 Tørvikbygd
 Tovdalselva

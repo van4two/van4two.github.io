@@ -4,6 +4,7 @@ title: La Côte d'Albâtre
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: marea scogliera
+folder: _posts/normandy
 #image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
 #{% contentfor sidebar %}
 #{% endcontentfor %}
@@ -31,7 +32,7 @@ Ci dirigiamo verso la costa arrivando in due ore e mezza a **Veules-les-Roses**,
 
 Ripartiamo in direzione Fécamp, fermandoci lungo la strada che segue la costa a Veulettes-sur-Mer dove gustiamo una crêpes al cioccolato alla creperia [Côté Plage](https://www.google.nl/maps/place/C%C3%B4t%C3%A9+Plage/@49.8527454,0.599219,15z/data=!4m2!3m1!1s0x0:0x15f013f0dc38107a?sa=X&ved=0ahUKEwjdkJO2yd3VAhVOK1AKHYl-BnUQ_BIIhAEwDg) seduti sul lungomare, che in questa stagione è ancora tranquillo.
 
-Proseguiamo e, poco prima della cittadina portuale di Fécamp, seguiamo le indicazioni per **Cap Fagnet**, belvedere che affaccia sull'abitato, offrendo ampie viste sulle ripide scogliere bianche. Qui troviamo alcune costruzioni in cemento armato, postazioni tedesche che risalgono ai tempi del secondo conflitto mondiale: sono solo le prime delle tante che vedremo il [giorno successivo, dedicato alle spiagge del D-Day](http://www.van42.org/it/2017/05/21/le-spiagge-del-d-day/).
+Proseguiamo e, poco prima della cittadina portuale di Fécamp, seguiamo le indicazioni per **Cap Fagnet**, belvedere che affaccia sull'abitato, offrendo ampie viste sulle ripide scogliere bianche. Qui troviamo alcune costruzioni in cemento armato, postazioni tedesche che risalgono ai tempi del secondo conflitto mondiale: sono solo le prime delle tante che vedremo il [giorno successivo, dedicato alle spiagge del D-Day]({% link {{page.folder}}/2017-05-21-normandy_02-d-day.md %}).
 
 {% include img.html id=32 cap="Scogliere d’alabastro viste da Cap Fagnet" %}
 
@@ -50,6 +51,8 @@ Arriviamo alle pendici della **falaise d’Aval** sovrastante una caratteristica
 Dopo esserci appisolati al sole sull'erba che ricopre la sommità della falesia, torniamo alla macchina e ci dirigiamo, ormai già nel tardo pomeriggio, verso Honfleur, nostra destinazione per la serata. Con un po’ di dispiacere saltiamo la tappa prevista a [Le Havre](http://whc.unesco.org/en/list/1181), sito UNESCO noto per l’architettura in cemento armato risalente alla ricostruzione del secondo dopoguerra. La strada obbligata passa sul [**pont de Normandie**](https://en.wikipedia.org/wiki/Pont_de_Normandie) (pedaggio 5,4 €) che, coprendo una luce libera di 850 m, è il più grande ponte strallato d’Europa.
 
 Al nostro arrivo a Honfleur troviamo i due campeggi del paese con la reception già chiusa, probabilmente perché siamo in bassa stagione. Ripieghiamo sul parcheggio libero della [Plage du Butin](https://www.google.it/maps/place/Plage+du+Butin/@49.4251503,0.2148617,16.9z/data=!4m13!1m7!3m6!1s0x47e033a5e30f5dc5:0x40c14484fbceaf0!2sHonfleur,+France!3b1!8m2!3d49.418762!4d0.233262!3m4!1s0x0:0x7a6a21118e9ec7c2!8m2!3d49.4266698!4d0.2200162), dotato di servizi, dove ceniamo con baguettes croccanti e formaggi locali.
+
+{% include img.html id=49 cap="Tramonto su Le Havre" %}
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1xt_LeQwH7WDZ3UjWT-mjYefG2NI&ehbc=2E312F" width="640" height="480"></iframe>
