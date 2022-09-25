@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html img="IMGP5840-2-lindesnes-scaled.jpg" cap="Dalla penisola di Lindesnes, l'omonimo faro sorveglia il Mare del Nord" %}
 
-Sveglia alle 8 nel [campeggio di Ogna](https://www.ognacamping.no/en/): rispetto ai giorni precedenti, caratterizzati da escursioni e trekking per i quali abbiamo preferito metterci in moto presto ([Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}), [Preikestolen]({% link {{page.folder}}/2019-07-15-norway_16-preikestolen.md %}) e [Kjeragbolten]({% link {{page.folder}}/2019-07-16-norway_17-kierag.md %}), oggi facciamo tutto con più calma. In tarda mattina muoviamo il furgone in direzione est. La giornata è più bella di quanto previsto dalle meteo, ancora sole pieno!
+Sveglia alle 8 nel [campeggio di Ogna](https://www.ognacamping.no/en/): rispetto ai giorni precedenti, caratterizzati da escursioni e trekking per i quali abbiamo preferito metterci in moto presto ([Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}), [Preikestolen]({% link {{page.folder}}/2019-07-15-norway_16-preikestolen.md %}) e [Kjeragbolten]({% link {{page.folder}}/2019-07-16-norway_17-kjerag.md %}), oggi facciamo tutto con più calma. In tarda mattina muoviamo il furgone in direzione est. La giornata è più bella di quanto previsto dalle meteo, ancora sole pieno!
 
 ## Costa sud
 
