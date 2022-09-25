@@ -1,6 +1,7 @@
 accomodations
 Åfarnes
 Agder
+Akureyri
 allemannsrett
 Almannagjá
 Åndalsnes
@@ -29,6 +30,7 @@ Besshø
 Bessvatnet
 Bidonnière
 biomorfa
+Bjarnarflag
 Bjødnsiåna
 Bjørnbøl
 Bjørnbøltjønne
@@ -51,6 +53,7 @@ Brennisteinsalda
 Briksdalsbreen
 Brudesløret
 Bryggen
+Brynja
 Butin
 Buvika
 Bygdin
@@ -94,6 +97,7 @@ Dambra
 dell'anticima
 Dettifoss
 Dibona
+Dimmuborgir
 Djúpivogur
 Djupvatnet
 Domkirkeodden
@@ -113,6 +117,7 @@ endcontentfor
 Erlandsdalsvatnet
 Espedalen
 Étretat
+Eyjafjörður
 Eystri
 Fagnet
 falaise
@@ -165,6 +170,7 @@ ghiaietto
 Gjáin
 Gjende
 Gjendesheim
+Goðafoss
 gopro
 Grænagil
 Grímsnes
@@ -186,6 +192,7 @@ Hardangervidda
 Haugsjåsund
 Haukadalur
 Hauville
+Héðinsfjörður
 Hekla
 Hella
 Helleren
@@ -205,6 +212,7 @@ hringurinn
 Hringvegur
 Huldefossen
 Hvalnes
+Hverir
 IMGP
 Istra
 Jannekes
@@ -245,6 +253,7 @@ Krafla
 Kristiansund
 Krisúvík
 Kvalvågvegen
+l'Ólafsfjörður
 Lacia
 Læerdal
 Lærdal
@@ -302,6 +311,7 @@ Mývatn
 Næroydalen
 Næroyfjord
 Nærøyfjord
+Námaskarð
 Nedre
 Nesatind
 Nesquik
@@ -314,6 +324,7 @@ Nystølsvatnet
 Oanes
 Odda
 Ogna
+Ólafsfjörður
 Oldedalen
 Oldevatnet
 Ölfusá
@@ -348,6 +359,7 @@ Reinsvangen
 Rennesøy
 Resvatnet
 Reyðarfjörður
+Reykjahlid
 Reykjahlíð
 Reykjanes
 Reykjanesfólkvangur
@@ -382,6 +394,7 @@ Seyðisfjarðarvegur
 Seyðisfjörður
 Seydisholar
 Síðu
+Siglufjörður
 Sinnes
 Sjokolade
 Skaala
@@ -399,6 +412,7 @@ Skeiðarársandur
 Skjersvika
 Skjolden
 Skógafoss
+Skútustaðagígar
 skyr
 slackline
 Slådalsvegen
@@ -415,6 +429,7 @@ Sølsnes
 sommitale
 Sorapiss
 specchievolezza
+Stakholstjorn
 Stalheim
 Stalheimskleiva
 Stardalselva
