@@ -134,3 +134,8 @@ span.mega-indicator:after {
   .nav_prev_next .next {
     text-align: right;
   }
+
+
+  .row {
+    display: flex; /* equal height of the children */
+  }
