@@ -139,3 +139,11 @@ span.mega-indicator:after {
   .row {
     display: flex; /* equal height of the children */
   }
+
+.tags ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    padding: 5px 10px;
+    background-color: #ddd;
+    margin-right: 10px;
+}

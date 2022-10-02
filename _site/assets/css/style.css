@@ -42,4 +42,6 @@ span.mega-indicator:after { font-family: 'FontAwesome' !important; content: "\f0
 
 .row { display: flex; /* equal height of the children */ }
 
+.tags ul > li { display: inline-block; /* You can also add some margins here to make it look prettier */ padding: 5px 10px; background-color: #ddd; margin-right: 10px; }
+
 /*# sourceMappingURL=style.css.map */
