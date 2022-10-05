@@ -24,6 +24,8 @@ exclude:
 - 'Gemfile*'
 - 'wp-jekyll'
 
+#permalinks: pretty
+
 jekyll-archives:
   enabled: [year, month, tags]
   layout: archive
