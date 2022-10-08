@@ -56,7 +56,7 @@ Inizialmente incerti se fermarci a rilassarci un po’ ai noti [**Myvatn nature 
 
 Lasciatoci alle spalle il lago di Mývatn, ci dirigiamo verso [**Goðafoss**](https://www.northiceland.is/en/destinations/nature/waterfalls/godafoss-waterfall), poco distante dal Ring. Ci fermiamo presso l’imponente cascata, visibile da più punti e da entrambi i lati del fiume: non compie un salto particolarmente alto ma si presenta piuttosto ampia, gettandosi in una sorta di piccola baia da cui il fiume riprende a scorrere. Dopo un po’ di scatti torniamo alla macchina, parcheggiata nei pressi della cascata stessa, e ci dirigiamo verso [**Akureyri**](https://www.visitakureyri.is/en).
 
-{% include img.html id=110 cap="La cascata Goðafoss" %}
+{% include img.html id=111 cap="La cascata Goðafoss" %}
 
 Ci fermiamo in città solo per una sosta, senza l’intenzione di una vera e propria visita. Assaggiamo il leggendario gelato di Brynja, da molti decantato come il più buono di tutta l’Islanda. Onestamente il gelato in sé non è niente di speciale in quanto si tratta di soft ice-cream disponibile in soli tre gusti; quello che colpisce è la moltitudine di topping, biscotti, praline, cioccolate, sciroppi e frutta con cui è possibile guarnire e personalizzare il proprio gelato. Dopo alcuni rapidi acquisti al [Nettò](https://www.google.com/maps/place/Nett%C3%B3/@65.6774326,-18.1187146,15z/data=!4m5!3m4!1s0x0:0x5767f3d03bab7c08!8m2!3d65.6774326!4d-18.1187146) ci rimettiamo in marcia, decisi a guadagnare un altro po’ di strada prima di fermarci per la notte.
 
