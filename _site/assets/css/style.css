@@ -11,7 +11,8 @@ section:last-child { padding-bottom: 50px; }
 
 .wrapper { max-width: 100%; width: 1170px; margin: auto; }
 
-/*body .container { max-width: 100%; width: 1170px; }*/
+/*body .container { max-width: 100%; width: 1170px;
+}*/
 article.container { display: flex; flex-direction: row; justify-content: space-between; }
 
 .col-1 { width: 70%; height: 100vh; text-align: center; margin-right: 32px; }
@@ -51,5 +52,3 @@ span.mega-indicator:after { font-family: 'FontAwesome' !important; content: "\f0
 .tile:hover .overlay { opacity: 1; }
 
 .tile-overlay { position: absolute; left: 0; right: 0; height: 100%; width: 100%; opacity: 0; transition: .5s ease; background-color: #000; text-align: center; }
-
-/*# sourceMappingURL=style.css.map */
