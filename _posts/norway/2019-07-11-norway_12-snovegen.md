@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=199 cap="Di fronte al lago Hornsvatnet lungo la Snøvegen" %}
 
-Ci svegliamo con la luce del sole che attraversa gli spiragli fra le tende del furgone; facciamo colazione con le girelle alla cannella prese [ieri pomeriggio]({% link {{page.folder}}/2019-07-10-norway_11-gaularfjellet.md %}) al [Lustrabui](https://www.lustrabui.com/), scaldate appena su un padellino. Discrete, ma niente a che vedere con quelle mangiate l’anno scorso a [Reykjavik](/). Passa qualche rara macchina/moto diretta a Vindedalen, dove finisce la strada.
+Ci svegliamo con la luce del sole che attraversa gli spiragli fra le tende del furgone; facciamo colazione con le girelle alla cannella prese [ieri pomeriggio]({% post_url norway/2019-07-10-norway_11-gaularfjellet %}) al [Lustrabui](https://www.lustrabui.com/), scaldate appena su un padellino. Discrete, ma niente a che vedere con quelle mangiate l’anno scorso a [Reykjavik](/). Passa qualche rara macchina/moto diretta a Vindedalen, dove finisce la strada.
 
 ## Snøvegen
 

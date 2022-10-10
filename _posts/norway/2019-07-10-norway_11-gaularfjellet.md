@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=179 cap="La Gaularfjellet si snoda lungo un paesaggio bucolico, fiancheggiando una serie di laghi spettacolari: qui sulle sponde del Nystølsvatnet" %}
 
-Ci svegliamo nella valle del fiume Stardalselva provati dal trekking di ieri al monte [Skåla]({% link {{page.folder}}/2019-07-09-norway_10-skala.md %}). Anche questa giornata è meravigliosa: facciamo colazione al sole quasi in costume da bagno: la temperatura è spettacolare!
+Ci svegliamo nella valle del fiume Stardalselva provati dal trekking di ieri al monte [Skåla]({% post_url norway/2019-07-09-norway_10-skala %}). Anche questa giornata è meravigliosa: facciamo colazione al sole quasi in costume da bagno: la temperatura è spettacolare!
 
 ## Gaularfjellet
 
@@ -36,7 +36,7 @@ Il panorama continua a non deluderci. Poco oltre troviamo il ponte sul fiume in 
 
 {% include img.html id=178 cap="Paesaggio bucolico presso le cascate Likholefossen, lungo la Gaularfjellet" %}
 
-Passati il belvedere [**Utsikten**](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet?attraction=Utsikten) e il successivo tratto di strada a tornanti ripidi che ci ricorda la [Trollstigen]({% link {{page.folder}}/2019-07-06-norway_07-trollstigen.md %}), arriviamo sul Vetlefjord, braccio laterale del Sognefjord, che percorriamo fino a Dragsvik.
+Passati il belvedere [**Utsikten**](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet?attraction=Utsikten) e il successivo tratto di strada a tornanti ripidi che ci ricorda la [Trollstigen]({% post_url norway/2019-07-06-norway_07-trollstigen %}), arriviamo sul Vetlefjord, braccio laterale del Sognefjord, che percorriamo fino a Dragsvik.
 
 {% include img.html id=180 cap="Lago di Nystølsvatnet, lungo la Gaularfjellet" %}
 
@@ -64,7 +64,7 @@ Arrivati a [Skjolden](https://skjolden.com/en/) la strada comincia ad inerpicars
 
 ## Tindevegen
 
-Proseguendo, la strada si ricollega con il tratto della [**Sognefjellet**](https://www.nasjonaleturistveger.no/en/routes/sognefjellet) già percorso diverso [giorni fa]({% link {{page.folder}}/2019-07-03-norway_04-sognefjellet.md %}), fino ad arrivare a Lom. Noi invece prendiamo la **[Tindevegen](https://tindevegen.no/en/)**, la “strada delle vette”, che prosegue in una zona altrettanto bella. Siamo quasi tentati di fermarci a dormire da qualche parte qui, vista la bellezza del luogo, ma vogliamo avvicinarci di più a Læerdal per via dell’intenso programma di domani. Paghiamo il pedaggio della Tindevegen e proseguiamo, sempre attraverso scenari panoramici, rovinati un po’ dalla grande quantità di piloni con cavi elettrici. La strada scende a picco su [Øvre Ardal](https://en.wikipedia.org/wiki/%C3%98vre_%C3%85rdal) e, da qui, prosegue verso [Ardal](https://www.fjordnorway.com/en/destinations/aardal) e poi Lærdal: percorriamo la strada che fiancheggia il fiordo in direzione Vindedalen alla ricerca di una piazzola segnalata da park4night e ci fermiamo [qui](https://park4night.com/lieu/127464//vindedalen-unnamed-road/norway/l%C3%A6rdal-kommune#.XTf_XegzaUk). Ceniamo e di godiamo il tramonto sul Lærdalsfjord.
+Proseguendo, la strada si ricollega con il tratto della [**Sognefjellet**](https://www.nasjonaleturistveger.no/en/routes/sognefjellet) già percorso diverso [giorni fa]({% post_url norway/2019-07-03-norway_04-sognefjellet %}), fino ad arrivare a Lom. Noi invece prendiamo la **[Tindevegen](https://tindevegen.no/en/)**, la “strada delle vette”, che prosegue in una zona altrettanto bella. Siamo quasi tentati di fermarci a dormire da qualche parte qui, vista la bellezza del luogo, ma vogliamo avvicinarci di più a Læerdal per via dell’intenso programma di domani. Paghiamo il pedaggio della Tindevegen e proseguiamo, sempre attraverso scenari panoramici, rovinati un po’ dalla grande quantità di piloni con cavi elettrici. La strada scende a picco su [Øvre Ardal](https://en.wikipedia.org/wiki/%C3%98vre_%C3%85rdal) e, da qui, prosegue verso [Ardal](https://www.fjordnorway.com/en/destinations/aardal) e poi Lærdal: percorriamo la strada che fiancheggia il fiordo in direzione Vindedalen alla ricerca di una piazzola segnalata da park4night e ci fermiamo [qui](https://park4night.com/lieu/127464//vindedalen-unnamed-road/norway/l%C3%A6rdal-kommune#.XTf_XegzaUk). Ceniamo e di godiamo il tramonto sul Lærdalsfjord.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1knyhH0_9PpBdXYp5X1RWp8-pwYuXtJZu" width="640" height="480"></iframe>

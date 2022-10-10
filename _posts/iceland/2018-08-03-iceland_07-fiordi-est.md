@@ -39,7 +39,7 @@ Prima di salire la scala metallica che porta nel cuore della colonia montiamo su
 
 {% include img.html id=14 cap="Due gabbiani tridattili litigano emettendo versi estremamente acuti" %}
 
-Dopo questa prima ricognizione saliamo la scala che conduce alla colonia di puffins, sulla cima del piccolo promontorio roccioso e rimaniamo immediatamente colpiti dalla quantità di questi buffi e simpatici uccelli che ci troviamo davanti. Rispetto ai pochi esemplari visti a [Reynisfjara]({% link {{page.folder}}/2018-07-31-iceland_04-reynisfjara.md %}), qui ce ne sarà almeno un centinaio! Molti sono pressoché immobili, sembrano quasi dei modelli pronti a farsi fotografare.
+Dopo questa prima ricognizione saliamo la scala che conduce alla colonia di puffins, sulla cima del piccolo promontorio roccioso e rimaniamo immediatamente colpiti dalla quantità di questi buffi e simpatici uccelli che ci troviamo davanti. Rispetto ai pochi esemplari visti a [Reynisfjara]({% post_url iceland/2018-07-31-iceland_04-reynisfjara %}), qui ce ne sarà almeno un centinaio! Molti sono pressoché immobili, sembrano quasi dei modelli pronti a farsi fotografare.
 
 {% include img.html id=42 cap="La colonia di Borgarfjarðarhöfn conta numerosissimi esemplari di puffins" %}
 

@@ -56,7 +56,7 @@ Ci fermiamo accanto a uno dei tanti laghetti che si incontrano, in zona **Bjødn
 
 ## Verso sud
 
-Destinazione, costa sud-ovest: abbiamo battezzato, come possibile meta per la sera, l’abitato di [Ogna](https://en.wikipedia.org/wiki/Ogna) che ci risulta essere dotato di campeggio. Ammirando nuovamente il paesaggio lungo la Rv975, già attraversato [ieri]({% link {{page.folder}}/2019-07-15-norway_16-preikestolen.md %}), arriviamo a Sinnes e, da qui, proseguiamo lungo la Fv468, che poi si immette nella Fv42 che percorriamo fino a [**Egersund**](https://www.fjordnor2way.com/places-to-go/egersund-town-centre-p1086743); qui, tramite la Fv44, in breve raggiungiamo l’[Ogna camping](https://www.ognacamping.no/en/).
+Destinazione, costa sud-ovest: abbiamo battezzato, come possibile meta per la sera, l’abitato di [Ogna](https://en.wikipedia.org/wiki/Ogna) che ci risulta essere dotato di campeggio. Ammirando nuovamente il paesaggio lungo la Rv975, già attraversato [ieri]({% post_url norway/2019-07-15-norway_16-preikestolen %}), arriviamo a Sinnes e, da qui, proseguiamo lungo la Fv468, che poi si immette nella Fv42 che percorriamo fino a [**Egersund**](https://www.fjordnor2way.com/places-to-go/egersund-town-centre-p1086743); qui, tramite la Fv44, in breve raggiungiamo l’[Ogna camping](https://www.ognacamping.no/en/).
 
 {% include img.html id=69 cap="Attraversando un nastro di alti fili d'erba verde, dal campeggio di Ogna raggiungiamo la spiaggia" %}
 

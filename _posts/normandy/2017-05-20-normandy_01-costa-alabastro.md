@@ -32,7 +32,7 @@ Ci dirigiamo verso la costa arrivando in due ore e mezza a **Veules-les-Roses**,
 
 Ripartiamo in direzione Fécamp, fermandoci lungo la strada che segue la costa a Veulettes-sur-Mer dove gustiamo una crêpes al cioccolato alla creperia [Côté Plage](https://www.google.nl/maps/place/C%C3%B4t%C3%A9+Plage/@49.8527454,0.599219,15z/data=!4m2!3m1!1s0x0:0x15f013f0dc38107a?sa=X&ved=0ahUKEwjdkJO2yd3VAhVOK1AKHYl-BnUQ_BIIhAEwDg) seduti sul lungomare, che in questa stagione è ancora tranquillo.
 
-Proseguiamo e, poco prima della cittadina portuale di Fécamp, seguiamo le indicazioni per **Cap Fagnet**, belvedere che affaccia sull'abitato, offrendo ampie viste sulle ripide scogliere bianche. Qui troviamo alcune costruzioni in cemento armato, postazioni tedesche che risalgono ai tempi del secondo conflitto mondiale: sono solo le prime delle tante che vedremo il [giorno successivo, dedicato alle spiagge del D-Day]({% link {{page.folder}}/2017-05-21-normandy_02-d-day.md %}).
+Proseguiamo e, poco prima della cittadina portuale di Fécamp, seguiamo le indicazioni per **Cap Fagnet**, belvedere che affaccia sull'abitato, offrendo ampie viste sulle ripide scogliere bianche. Qui troviamo alcune costruzioni in cemento armato, postazioni tedesche che risalgono ai tempi del secondo conflitto mondiale: sono solo le prime delle tante che vedremo il [giorno successivo, dedicato alle spiagge del D-Day]({%  post_url normandy/2017-05-21-normandy_02-d-day %}).
 
 {% include img.html id=32 cap="Scogliere d’alabastro viste da Cap Fagnet" %}
 

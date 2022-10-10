@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html img="IMGP5840-2-lindesnes-scaled.jpg" cap="Dalla penisola di Lindesnes, l'omonimo faro sorveglia il Mare del Nord" %}
 
-Sveglia alle 8 nel [campeggio di Ogna](https://www.ognacamping.no/en/): rispetto ai giorni precedenti, caratterizzati da escursioni e trekking per i quali abbiamo preferito metterci in moto presto ([Trolltunga]({% link {{page.folder}}/2019-07-13-norway_14-trolltunga.md %}), [Preikestolen]({% link {{page.folder}}/2019-07-15-norway_16-preikestolen.md %}) e [Kjeragbolten]({% link {{page.folder}}/2019-07-16-norway_17-kjerag.md %}), oggi facciamo tutto con più calma. In tarda mattina muoviamo il furgone in direzione est. La giornata è più bella di quanto previsto dalle meteo, ancora sole pieno!
+Sveglia alle 8 nel [campeggio di Ogna](https://www.ognacamping.no/en/): rispetto ai giorni precedenti, caratterizzati da escursioni e trekking per i quali abbiamo preferito metterci in moto presto ([Trolltunga]({% post_url norway/2019-07-13-norway_14-trolltunga %}), [Preikestolen]({% post_url norway/2019-07-15-norway_16-preikestolen %}) e [Kjeragbolten]({% post_url norway/2019-07-16-norway_17-kjerag %}), oggi facciamo tutto con più calma. In tarda mattina muoviamo il furgone in direzione est. La giornata è più bella di quanto previsto dalle meteo, ancora sole pieno!
 
 ## Costa sud
 
@@ -52,7 +52,7 @@ Qui, fra le insenature rocciose, visitiamo il **[faro di Lindesnes](https://www.
 
 {% include img.html id=82 cap="Dalla penisola di Lindesnes, l'omonimo faro sorveglia il Mare del Nord" %}
 
-Risaliamo la penisola e, in breve, arriviamo a Kristiansand dove puntiamo direttamente il parcheggio dei laghi [Baneheia](https://park4night.com/lieu/58798//kristiansand-10-svarttj%C3%B8nnveien/norway/kristiansand#prettyPhoto), già visitati all’[andata]({% link {{page.folder}}/2019-06-30-norway_01-telemark.md %}). Ceniamo su uno dei numerosi tavoli in legno presenti nel parco. C’è ancora qualcuno che fa il bagno perché il sole non è ancora tramontato. Torniamo al [parcheggio](https://park4night.com/lieu/58798//kristiansand-10-svarttj%C3%B8nnveien/norway/kristiansand#prettyPhoto) dove trascorriamo la notte.
+Risaliamo la penisola e, in breve, arriviamo a Kristiansand dove puntiamo direttamente il parcheggio dei laghi [Baneheia](https://park4night.com/lieu/58798//kristiansand-10-svarttj%C3%B8nnveien/norway/kristiansand#prettyPhoto), già visitati all’[andata]({% post_url norway/2019-06-30-norway_01-telemark %}). Ceniamo su uno dei numerosi tavoli in legno presenti nel parco. C’è ancora qualcuno che fa il bagno perché il sole non è ancora tramontato. Torniamo al [parcheggio](https://park4night.com/lieu/58798//kristiansand-10-svarttj%C3%B8nnveien/norway/kristiansand#prettyPhoto) dove trascorriamo la notte.
 
 ## Ritorno
 

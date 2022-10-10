@@ -16,7 +16,7 @@ Sveglia alle 6:30: l’intenzione di oggi è quella di partecipare al primo tour
 
 ## Geirangerfjord
 
-Scendiamo a [Geiranger](https://www.fjordnorway.com/en/destinations/geiranger), posteggiando nella stessa strada di [ieri]({% link {{page.folder}}/2019-07-06-norway_07-trollstigen.md %}) e facciamo un giro a piedi. L’immensa nave da crociera che era attraccata al molo non c’è più e il paesino è ancora semideserto con la maggior parte dei negozi chiusi.
+Scendiamo a [Geiranger](https://www.fjordnorway.com/en/destinations/geiranger), posteggiando nella stessa strada di [ieri]({% post_url norway/2019-07-06-norway_07-trollstigen %}) e facciamo un giro a piedi. L’immensa nave da crociera che era attraccata al molo non c’è più e il paesino è ancora semideserto con la maggior parte dei negozi chiusi.
 
 {% include img.html id=105 cap="Un vecchio pulmino Volkswagen nel piccolo paese di Geiranger" %}
 
@@ -38,7 +38,7 @@ Non completamente soddisfatti per via del cielo coperto, riprendiamo il furgone 
 
 {% include img.html id=114 cap="Il lago Djupvatnet attorniato da nuvole basse; accanto ad esso sorge il rifugio Djupvasshytta" %}
 
-Con il tempo che va migliorando, riprendiamo il nostro itinerario fiancheggiando il lago in direzione [Grotli](https://en.wikipedia.org/wiki/Grotli), intenti a percorrere la Fv258 ovvero la [**Gamle Strynefjellsvegen**](https://www.nasjonaleturistveger.no/en/routes/gamle-strynefjellsvegen), [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) che si snoda ad ovest di Stryn, appunto da Grotli a Videsæter e che viene definita spettacolare. Purtroppo, arrivati all’incrocio fra la Rv15 e la Fv258, troviamo un cartello che riporta il termine “stengt” che, in norvegese, significa “chiuso”. Non ci sono sbarre né ulteriori istruzioni ma, consci di com’è andata alle [Jettegrytene]({% link {{page.folder}}/2019-07-01-norway_02-oppland.md %}) e con il serbatoio del furgone in direzione riserva, preferiamo non avventurarci oltre. Peccato!
+Con il tempo che va migliorando, riprendiamo il nostro itinerario fiancheggiando il lago in direzione [Grotli](https://en.wikipedia.org/wiki/Grotli), intenti a percorrere la Fv258 ovvero la [**Gamle Strynefjellsvegen**](https://www.nasjonaleturistveger.no/en/routes/gamle-strynefjellsvegen), [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) che si snoda ad ovest di Stryn, appunto da Grotli a Videsæter e che viene definita spettacolare. Purtroppo, arrivati all’incrocio fra la Rv15 e la Fv258, troviamo un cartello che riporta il termine “stengt” che, in norvegese, significa “chiuso”. Non ci sono sbarre né ulteriori istruzioni ma, consci di com’è andata alle [Jettegrytene]({% post_url norway/2019-07-01-norway_02-oppland %}) e con il serbatoio del furgone in direzione riserva, preferiamo non avventurarci oltre. Peccato!
 
 {% include img.html id=117 cap="La valle selvaggia subito oltre il lago Djupvatnet" %}
 

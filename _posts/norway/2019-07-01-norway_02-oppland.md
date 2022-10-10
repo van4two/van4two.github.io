@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=15 cap="Risveglio in riva al lago Nisser" %}
 
-Ci svegliamo intorno alle 7 nell’[area di sosta](https://park4night.com/lieu/64873/#.Yv3Oj3ZByUl) individuata [ieri sera]({% link {{page.folder}}/2019-06-30-norway_01-telemark.md %}) a [Treungen](https://www.visitnorway.com/listings/r%C3%B8yrodden-treungen/8484/), sulle sponde del lago [Nisser](https://www.visitnorway.com/listings/canoe-cayak-on-lake-nisser-(vr%C3%A5dal)/11380/), nella contea di [Telemark](https://www.visittelemark.com/). Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
+Ci svegliamo intorno alle 7 nell’[area di sosta](https://park4night.com/lieu/64873/#.Yv3Oj3ZByUl) individuata [ieri sera]({% post_url norway/2019-06-30-norway_01-telemark %}) a [Treungen](https://www.visitnorway.com/listings/r%C3%B8yrodden-treungen/8484/), sulle sponde del lago [Nisser](https://www.visitnorway.com/listings/canoe-cayak-on-lake-nisser-(vr%C3%A5dal)/11380/), nella contea di [Telemark](https://www.visittelemark.com/). Poco per volta esce il sole, a quest’ora già alto ma coperto da qualche nuvola. Dal momento che la temperatura è piacevole, apriamo il tavolino pieghevole e allestiamo la colazione all’esterno, mentre nei camper accanto a noi ancora si dorme.
 
 ## Jettegrytene
 

@@ -20,7 +20,7 @@ Avvisiamo i gestori del campeggio della nostra intenzione di rimanere di più, i
 
 {% include img.html id=129 cap="La vallata di Oldedalen è caratterizzata dalla presenza del lago Oldevatnet, uno specchio come il vicino Lovatnet" %}
 
-Avendo già attraversato interamente la Lodalen [ieri]({% link {{page.folder}}/2019-07-07-norway_08-geirangerfjord.md %}), scegliamo la seconda opzione per poter esplorare anche l’altra valle. Passato [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), costeggiamo un tratto del **[Nordfjord](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/)** che offre una vista meravigliosa sull'ampio fiordo. Ci infiliamo nella Oldedalen, vallata molto simile alla Lodalen, anch'essa con un ampio lago, l’[Oldevatnet](https://en.wikipedia.org/wiki/Oldevatnet), il cui colore turchese è dovuto ancora ai limi glaciali presenti nell’acqua.
+Avendo già attraversato interamente la Lodalen [ieri]({% post_url norway/2019-07-07-norway_08-geirangerfjord %}), scegliamo la seconda opzione per poter esplorare anche l’altra valle. Passato [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), costeggiamo un tratto del **[Nordfjord](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/)** che offre una vista meravigliosa sull'ampio fiordo. Ci infiliamo nella Oldedalen, vallata molto simile alla Lodalen, anch'essa con un ampio lago, l’[Oldevatnet](https://en.wikipedia.org/wiki/Oldevatnet), il cui colore turchese è dovuto ancora ai limi glaciali presenti nell’acqua.
 
 ## Briksdalsbreen
 

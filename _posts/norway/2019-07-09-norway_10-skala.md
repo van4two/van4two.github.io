@@ -12,7 +12,7 @@ folder: _posts/norway
 
 {% include img.html id=137 cap="I rilievi del Jostedalsbreen National Park si specchiano sul lago Lovatnet nella luce del primo mattino" %}
 
-Sveglia 6:45: il cielo è completamente sereno e il lago **[Lovatnet](https://www.nordfjord.no/en/kayak-fjord-and-lake-lovatnet)** , illuminato dal sole del primo mattino, è meraviglioso. Ci perdiamo in una serie infinita di fotografie prima della colazione. Prepariamo gli zaini: rispetto all’escursione alla cresta [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}), oggi ci vestiamo a strati ma con indumenti più leggeri e ci avviamo in furgone verso la partenza dell’itinerario.
+Sveglia 6:45: il cielo è completamente sereno e il lago **[Lovatnet](https://www.nordfjord.no/en/kayak-fjord-and-lake-lovatnet)** , illuminato dal sole del primo mattino, è meraviglioso. Ci perdiamo in una serie infinita di fotografie prima della colazione. Prepariamo gli zaini: rispetto all’escursione alla cresta [Besseggen]({% post_url norway/2019-07-04-norway_05-besseggen %}), oggi ci vestiamo a strati ma con indumenti più leggeri e ci avviamo in furgone verso la partenza dell’itinerario.
 
 {% include img.html id=135 cap="I rilievi del Jostedalsbreen National Park si specchiano sul lago Lovatnet nella luce del primo mattino" %}
 
@@ -28,7 +28,7 @@ Lungo la strada attraverso la [Lodalen](https://www.nordfjord.no/en/lodalen-vall
 
 Arrivati al parcheggio erboso lungo la Fv723, in corrispondenza del punto in cui il fiume Fosdøla si immette nel Loelva, lasciamo l’obolo nell’apposita cassetta di legno e ci avviamo sul sentiero per il monte Skåla: sono le 8:50. Lo **[Skåla](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/hiking-to-skala/)**, alto 1848 m, è il monte norvegese che raggiunge la più alta quota avendo contemporaneamente un “piede” nel fiordo. L’escursione parte dall'abitato di [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/), ha uno sviluppo di 8 km e raggiunge la vetta con un dislivello di più di 1800 m, dal momento che la partenza è appena sopra la riva del fiordo a 29 m s.l.m. Ogni anno, a metà agosto, viene organizzata la competizione **[La Sportiva Skaala](http://www.skaala.no/)** che vede il record di 1 h 7’6″ per arrivare in vetta partendo da Loen.
 
-Quasi subito il sentiero, che segue una mulattiera per trattori, comincia a salire. E come al [Besseggen]({% link {{page.folder}}/2019-07-04-norway_05-besseggen.md %}), anche qui ci troviamo ben presto a toglierci di dosso qualche strato. Abbiamo altre persone davanti e dietro di noi, a piccoli gruppi, ma siamo molti di meno rispetto alla precedente escursione.
+Quasi subito il sentiero, che segue una mulattiera per trattori, comincia a salire. E come al [Besseggen]({% post_url norway/2019-07-04-norway_05-besseggen %}), anche qui ci troviamo ben presto a toglierci di dosso qualche strato. Abbiamo altre persone davanti e dietro di noi, a piccoli gruppi, ma siamo molti di meno rispetto alla precedente escursione.
 
 {% include img.html id=146 cap="Trekking al monte Skåla: comincia la salita!" %}
 

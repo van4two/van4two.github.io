@@ -22,7 +22,7 @@ feature_row:
     {% if post.layout contains "cover" %}
     <div class="tile">
       <img src="{{ post.image }}" alt="" class="tile-img">
-      <a href="{{ post.permalink }}" class="tile-overlay"> {{ post.title }} </a>
+      <a href="{{ post.url }}" class="tile-overlay"> {{ post.title }} </a>
     </div>
     {% endif %}
   {% endfor %}
