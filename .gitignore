@@ -4,3 +4,4 @@
 .vscode/*.log
 Gemfile.lock
 wp-jekyll/wp-content
+CNAME
