@@ -22,7 +22,8 @@ plugins:
 #- jekyll-maps
 #- jekyll-contentblocks
 
-exclude:
+exclude: 
+- vendor
 - '*.sh'
 - '.devcontainer'
 - '*.code-workspace'
