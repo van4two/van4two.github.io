@@ -9,7 +9,7 @@ url: https://www.van42.com
 repository: van4two/van4two.github.io
 
 # https://jekyllrb.com/docs/configuration/incremental-regeneration/
-incremental: true
+#incremental: true
 
 # https://jekyllrb.com/docs/plugins/installation/
 plugins:
@@ -20,7 +20,7 @@ plugins:
 #- jekyll-target-blank # https://github.com/keithmifsud/jekyll-target-blank
 - jekyll-google-photos
 #- jekyll-maps
-- jekyll-contentblocks
+#- jekyll-contentblocks
 
 exclude:
 - '*.sh'
