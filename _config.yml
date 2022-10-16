@@ -1,12 +1,9 @@
 title: van42 - A campervan travel log
 
-#url: https://www.van42.com
-
-#theme: jekyll-theme-minimal
-#theme: jekyll-theme-architect
-#remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+url: https://www.van42.com
 
 # fixes this: https://talk.jekyllrb.com/t/error-your-site-could-not-be-built-no-repo-name-found/5688
 repository: van4two/van4two.github.io
@@ -23,6 +20,7 @@ plugins:
 #- jekyll-target-blank # https://github.com/keithmifsud/jekyll-target-blank
 - jekyll-google-photos
 #- jekyll-maps
+- jekyll-contentblocks
 
 exclude:
 - '*.sh'
