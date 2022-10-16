@@ -38,6 +38,7 @@ Bjørvika
 Bláa
 Bláhnjúkur
 Bliquetuit
+Blönduós
 Boite
 Bonvicini
 Borgarfjarðarhöfn
@@ -153,6 +154,7 @@ Førde
 Forsand
 Fosdøla
 Foss
+Fosslaug
 Fournil
 Fratercula
 furgo
@@ -177,6 +179,7 @@ ghiaietto
 Gjáin
 Gjende
 Gjendesheim
+Glaumbær
 Goðafoss
 gopro
 Grænagil
@@ -218,8 +221,11 @@ Høyheimsvik
 hringurinn
 Hringvegur
 Huldefossen
+Hunaver
 Hvalnes
+Hvammstangi
 Hverir
+Hvítserkur
 IMGP
 Istra
 Jannekes
@@ -277,6 +283,7 @@ Lausa
 Laussa
 Lauvvik
 Lavaredo
+Laxárdalsvegur
 Lieutenance
 Ligger
 Likholefossen
@@ -321,6 +328,7 @@ Næroydalen
 Næroyfjord
 Nærøyfjord
 Námaskarð
+nebbiosissimo
 Nedre
 Nesatind
 Nesquik
@@ -412,6 +420,7 @@ Skaala
 Skåbu
 Skaftafell
 Skaftafellsjökull
+Skagafjörður
 Skagastølstind
 Skåla
 Skålabu
@@ -440,6 +449,7 @@ Sølsnes
 sommitale
 Sorapiss
 specchievolezza
+Staður
 Stakholstjorn
 Stalheim
 Stalheimskleiva
@@ -480,6 +490,7 @@ Tréport
 Treungen
 Trex
 tridactyla
+Tröllaskagi
 Trollstigen
 Trolltunga
 Trollveggen
@@ -496,7 +507,9 @@ Vallandro
 Valldalen
 Valldøla
 Varlandsvegen
+Varmahlíð
 Vatnajökull
+Vatnsnes
 Vatnsskarð
 Vecio
 Vedahaugane
@@ -516,6 +529,7 @@ Vinstre
 visitnorway
 Voiello
 volumetricamente
+wurstel
 Zoldo
 Þingi
 Þingvallavatn
