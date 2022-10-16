@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 tags: area-geotermale cascata fiordi geologia porto pulcinella-di-mare vulcano
 cat: iceland
 header:
-    teaser: /assets/slider/iceland/02.jpg
+    teaser: /assets/img/cover/iceland/07.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 tags: belvedere escursione fiordi mare trekking
 cat: norway
 header:
-    teaser: /assets/slider/norway/01.jpg
+    teaser: /assets/img/cover/norway/17.jpg
 ---
 
 {% google_photos page.gallery_url none %}

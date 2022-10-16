@@ -6,8 +6,7 @@ gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: architettura campagna chiesa nuotare pedaggio
 cat: norway
 header:
-    teaser: /assets/slider/norway/02.jpg
-
+    teaser: /assets/img/cover/norway/02.jpg
 ---
 
 {% google_photos page.gallery_url none %}

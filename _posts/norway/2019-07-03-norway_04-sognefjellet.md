@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere montagna strada-panoramica neve
 cat: norway
 header:
-    teaser: /assets/slider/norway/04.jpg
+    teaser: /assets/img/cover/norway/04.jpg
 ---
 
 {% google_photos page.gallery_url none %}

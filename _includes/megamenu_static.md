@@ -22,7 +22,7 @@ id="mega-menu-item-577"
 >
 <a
     class="mega-menu-link"
-    href="http://www.van42.com/"
+    href="{{site.url | relative_url}}"
     tabindex="0"
     data-wpel-link="internal"
     >/ about</a
@@ -82,7 +82,7 @@ id="mega-menu-item-45"
                 >
                 <a
                     class="mega-menu-link"
-                    href="{{site.url}}}/2017/05/19/normandia/"
+                    href="{{site.url | relative_url}}/2017/05/19/normandia/"
                     data-wpel-link="internal"
                     >Francia - Normandia</a
                 >
@@ -101,7 +101,7 @@ id="mega-menu-item-45"
                 >
                 <a
                     class="mega-menu-link"
-                    href="{{site.url}}/2018/07/28/iceland_00.html"
+                    href="{{site.url | relative_url}}/2018/07/28/iceland_00.html"
                     data-wpel-link="internal"
                     >Islanda</a
                 >
@@ -120,7 +120,7 @@ id="mega-menu-item-45"
                 >
                 <a
                     class="mega-menu-link"
-                    href="{{site.url}}/2019/06/30/norway_00.html"
+                    href="{{site.url | relative_url}}/2019/06/30/norway_00.html"
                     data-wpel-link="internal"
                     >Norvegia</a
                 >

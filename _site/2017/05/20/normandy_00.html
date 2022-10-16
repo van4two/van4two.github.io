@@ -26,7 +26,7 @@
 <!-- End Jekyll SEO tag -->
 
     
-    <link rel="stylesheet" href="/assets/css/style.css?v=c3a53c1c576b2b4ec7112719deb23768022fd7f3">
+    <link rel="stylesheet" href="/assets/css/style.css?v=ae43fe58159d282ad19cfe38d1d97da428cedfce">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -172,7 +172,7 @@ id="mega-menu-item-577"
 >
 <a
     class="mega-menu-link"
-    href="http://www.van42.com/"
+    href="http://localhost:4000"
     tabindex="0"
     data-wpel-link="internal"
     >/ about</a
@@ -232,7 +232,7 @@ id="mega-menu-item-45"
                 >
                 <a
                     class="mega-menu-link"
-                    href="http://localhost:4000}/2017/05/19/normandia/"
+                    href="http://localhost:4000/2017/05/19/normandia/"
                     data-wpel-link="internal"
                     >Francia - Normandia</a
                 >
@@ -505,13 +505,21 @@ id="mega-menu-item-1743-it"
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0f" />
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0g" />
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0h" />
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0i" />
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0j" />
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0f"></label>
+              <label class="carousel__control carousel__control--backward" for="0j"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -557,23 +565,67 @@ id="mega-menu-item-1743-it"
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0e"></label>
+              <label class="carousel__control carousel__control--forward" for="0g"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0f"></label>
+              <label class="carousel__control carousel__control--forward" for="0h"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0g"></label>
+              <label class="carousel__control carousel__control--forward" for="0i"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0h"></label>
+              <label class="carousel__control carousel__control--forward" for="0j"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0i"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/01.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/01.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/02.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/02.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/03.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/03.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/04.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/04.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/05.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/05.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/slider/normandy/06.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/06.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/07.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/08.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/09.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/slider/normandy/10.jpg');"></li>
             
           </ul>
         </div>
@@ -590,6 +642,14 @@ id="mega-menu-item-1743-it"
               <label class="carousel__indicator" for="0e"></label>
             
               <label class="carousel__indicator" for="0f"></label>
+            
+              <label class="carousel__indicator" for="0g"></label>
+            
+              <label class="carousel__indicator" for="0h"></label>
+            
+              <label class="carousel__indicator" for="0i"></label>
+            
+              <label class="carousel__indicator" for="0j"></label>
             
         </div>
     </div>
@@ -748,6 +808,98 @@ id="mega-menu-item-1743-it"
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(7):checked ~ .carousel__track {
+  -webkit-transform: translateX(-600%);
+          transform: translateX(-600%);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__slide:nth-of-type(7) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__controls:nth-of-type(7) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(8):checked ~ .carousel__track {
+  -webkit-transform: translateX(-700%);
+          transform: translateX(-700%);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__slide:nth-of-type(8) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__controls:nth-of-type(8) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(8) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(9):checked ~ .carousel__track {
+  -webkit-transform: translateX(-800%);
+          transform: translateX(-800%);
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__slide:nth-of-type(9) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__controls:nth-of-type(9) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(9) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(10):checked ~ .carousel__track {
+  -webkit-transform: translateX(-900%);
+          transform: translateX(-900%);
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__slide:nth-of-type(10) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__controls:nth-of-type(10) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(10) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -847,6 +999,26 @@ id="mega-menu-item-1743-it"
           transform: translateX(500%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(7) {
+  -webkit-transform: translateX(600%);
+          transform: translateX(600%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(8) {
+  -webkit-transform: translateX(700%);
+          transform: translateX(700%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(9) {
+  -webkit-transform: translateX(800%);
+          transform: translateX(800%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(10) {
+  -webkit-transform: translateX(900%);
+          transform: translateX(900%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -899,6 +1071,30 @@ id="mega-menu-item-1743-it"
 
 .carousel__slide:nth-of-type(6),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(7),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(8),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(8) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(9),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(9) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(10),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(10) {
   background-size: cover;
   background-position: center;
 }
@@ -1044,6 +1240,8 @@ id="mega-menu-item-1743-it"
     
   </article>
 </div>
+    
+  
     
   
     

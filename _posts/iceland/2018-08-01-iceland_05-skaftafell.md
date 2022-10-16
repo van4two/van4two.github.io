@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 tags: cascata ghiacciaio iceberg laguna-glaciale spiaggia walter-mitty
 cat: iceland
 header:
-    teaser: /assets/slider/iceland/02.jpg
+    teaser: /assets/img/cover/iceland/05.jpg
 ---
 
 {% google_photos page.gallery_url none %}

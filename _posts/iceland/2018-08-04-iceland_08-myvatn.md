@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 tags: area-geotermale cascata fiordi geologia vulcano
 cat: iceland
 header:
-    teaser: /assets/slider/iceland/02.jpg
+    teaser: /assets/img/cover/iceland/08.jpg
 ---
 
 {% google_photos page.gallery_url none %}

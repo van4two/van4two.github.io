@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: patrimonio-culturale storia
 cat: normandy
 header:
-    teaser: /assets/slider/normandy/01.jpg
+    teaser: /assets/img/cover/normandy/02.jpg
 ---
 
 {% google_photos page.gallery_url none %}

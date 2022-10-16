@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: architettura fiordi patrimonio-culturale porto traghetto unesco
 cat: norway
 header:
-    teaser: /assets/slider/norway/01.jpg
+    teaser: /assets/img/cover/norway/15.jpg
 ---
 
 {% google_photos page.gallery_url none %}
