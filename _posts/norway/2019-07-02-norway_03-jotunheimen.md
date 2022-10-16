@@ -4,8 +4,10 @@ title: Jotunheimen
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: trekking belvedere montagna strada panoramica
-folder: _posts/norway
-#image: /wp-content/uploads/2019/11/IMGP3373-2.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/03.jpg
+
 ---
 
 {% google_photos page.gallery_url none %}

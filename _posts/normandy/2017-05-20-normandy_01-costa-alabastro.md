@@ -4,10 +4,9 @@ title: La Côte d'Albâtre
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: marea scogliera
-folder: _posts/normandy
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
-#{% contentfor sidebar %}
-#{% endcontentfor %}
+cat: normandy
+header:
+    teaser: /assets/slider/normandy/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

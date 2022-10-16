@@ -1,11 +1,12 @@
 title: van42 - A campervan travel log
 
-url: http://localhost:4000
+#url: https://www.van42.com
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-architect
-remote_theme: pages-themes/minimal@v0.2.0
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 
 # fixes this: https://talk.jekyllrb.com/t/error-your-site-could-not-be-built-no-repo-name-found/5688
 repository: van4two/van4two.github.io
@@ -29,6 +30,7 @@ exclude:
 - '*.code-workspace'
 - 'Gemfile*'
 - 'wp-jekyll'
+- '_drafts'
 
 navigation:
 - text: / about
@@ -50,6 +52,12 @@ navigation:
     - name: Oceania
 - text: / news
   url: blog.html
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5GR4QMJ8M4"
+    anonymize_ip: false # default
 
 #permalinks: pretty
 

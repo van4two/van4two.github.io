@@ -14,9 +14,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     
-    {% include head-custom.html %}
-    {% include head-custom-css.html %}
-    {% include head-custom-js.html %}
+    {% include head/custom.html %}
 
   </head>
   <body>
@@ -32,16 +30,13 @@
         <section class="col1">
           
           {{ content }}
-
-          {% for post in site.posts %}
-            {{post.title}}
-          {% endfor %}
-
+          
         </section>
   
         <!-- 2nd column -->
         <section class="col2">
           {% include table.html %}
+          {% include mymap.html %}
         </section>
       
       </article>
@@ -53,11 +48,6 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script type="text/javascript" src="/assets/js/lightbox.js"></script>
-    <link rel="stylesheet" href="/assets/css/lightbox.css">
-
-    <script type="text/javascript" src="/assets/js/maxmegamenu.js"></script>
-
+  
   </body>
 </html>

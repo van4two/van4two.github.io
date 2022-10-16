@@ -17,6 +17,9 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
+<!-- Google Map-->
+{% include map.html %}
+
 <div class="tiles">
   {% for post in site.posts %}
     {% if post.layout contains "cover" %}

@@ -45,36 +45,55 @@ section:last-child {
 
 // two-column layout
 // see flex: https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
 article.container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.col-1 {
-    width: 70%;
+.col1 {
+    flex-basis: 66%;
     height: 100vh;
     text-align: center;
     margin-right: 32px;
 }
-.col-2 {
-    width: 30%;
-    padding: 30px;
+.col2 {
+    flex-basis: 33%;
     height: 100vh;
-    margin: 50px;
 }
-.col:not(:last-child) {
+/*.col:not(:last-child) {
     margin-right: 32px;
     flex-basis: 66%;
     //flex-basis: 0;
     flex-grow: 1;
-}
+}*/
 
 // end two column layout
 
+// diary
+.entries-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+}
 
+.grid__item {
+    flex-basis: 23%;
+    margin: 0px 1%;
+}
 
-.blogroll-img {
-    width: 50px;
+.archive__item-teaser {
+    //width: 50px;
+}
+h2.archive__item-title {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 8px;
 }
 
 .image_link {
@@ -84,10 +103,7 @@ article.container {
     margin-right: 0;
 }
 
-.container {
-    padding-left: 15px;
-    padding-right: 15px;
-}
+
 
 
 

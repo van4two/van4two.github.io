@@ -4,8 +4,9 @@ title: Lovatnet
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: ghiacciaio lago
-folder: _posts/norway
-#image: /wp-content/uploads/2020/02/IMGP4004-2-lovatnet-scaled.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

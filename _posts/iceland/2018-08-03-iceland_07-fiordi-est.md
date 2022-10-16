@@ -4,10 +4,9 @@ title: Fiordi est 2
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 tags: area-geotermale cascata fiordi geologia porto pulcinella-di-mare vulcano
-folder: _posts/iceland
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
-#{% contentfor sidebar %}
-#{% endcontentfor %}
+cat: iceland
+header:
+    teaser: /assets/slider/iceland/02.jpg
 ---
 
 {% google_photos page.gallery_url none %}

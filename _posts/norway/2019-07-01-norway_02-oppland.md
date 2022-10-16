@@ -4,8 +4,10 @@ title: Verso l'Oppland
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: architettura campagna chiesa nuotare pedaggio
-folder: _posts/norway
-#image: /wp-content/uploads/2019/10/IMGP3307-2.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/02.jpg
+
 ---
 
 {% google_photos page.gallery_url none %}

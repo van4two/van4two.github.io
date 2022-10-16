@@ -4,8 +4,9 @@ title: Trollstigen
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: belvedere fiordi strada panoramica traghetto
-folder: _posts/norway
-#image: /wp-content/uploads/2020/02/IMGP3731-2-trollstigen-scaled.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

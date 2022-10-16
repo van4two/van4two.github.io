@@ -4,8 +4,9 @@ title: Atlanterhavsveien
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: montagna pedaggio strada-panoramica traghetto porto
-folder: _posts/norway
-#image: /wp-content/uploads/2020/02/IMGP3626-2-atlanterhavsveien-scaled.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

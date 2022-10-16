@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 #gem 'jekyll', '~> 4.0'
-
 #gem 'webrick'
 
 group :jekyll_plugins do
+    gem "jekyll-include-cache"
     gem 'jekyll-google-photos', git: 'https://github.com/cooked/jekyll-google-photos.git', branch: 'patch-1_jekyll-4'
    
     gem 'github-pages', '~> 227'
@@ -20,6 +20,3 @@ group :jekyll_plugins do
     # fix: https://stackoverflow.com/a/28442337
      
 end
-#gem 'jekyll-toc'
-#gem 'jekyll-archives'
-#gem 'jekyll-theme-minimal'

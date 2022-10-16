@@ -4,10 +4,9 @@ title: Il circolo d'oro
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 tags: area-geotermale cascata geologia geyser vulcano
-folder: _posts/iceland
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
-#{% contentfor sidebar %}
-#{% endcontentfor %}
+cat: iceland
+header:
+    teaser: /assets/slider/iceland/02.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -4,8 +4,9 @@ title: Kjeragbolten
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 tags: belvedere escursione fiordi mare trekking
-folder: _posts/norway
-#image: /wp-content/uploads/2020/02/IMGP5662-kjeragbolten-scaled.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -4,8 +4,9 @@ title: Snøvegen e Næroyfjord
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: belvedere crociera fiordi lago strada-panoramica unesco
-folder: _posts/norway
-#image: /wp-content/uploads/2020/04/IMGP4417-2-hornsvatnet-scaled.jpg
+cat: norway
+header:
+    teaser: /assets/slider/norway/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -4,10 +4,9 @@ title: Mont Saint-Michel
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: patrimonio-culturale architettura campagna marea
-folder: _posts/normandy
-#image: /wp-content/uploads/2018/12/GoogleDrive_2017.05.22-48.-mont-st-michel.jpg
-#{% contentfor sidebar %}
-#{% endcontentfor %}
+cat: normandy
+header:
+    teaser: /assets/slider/normandy/01.jpg
 ---
 
 {% google_photos page.gallery_url none %}
