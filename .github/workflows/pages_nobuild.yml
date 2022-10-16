@@ -17,7 +17,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Deploy
-      - uses: EdricChan03/action-build-deploy-ghpages@v3.0.0
+        uses: EdricChan03/action-build-deploy-ghpages@v3.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          gh_pages_token: ${{ secrets.GH_PAGES_TOKEN }} 
+          gh_pages_token: ${{ secrets.GH_PAGES_TOKEN }}
+          
