@@ -82,7 +82,7 @@ id="mega-menu-item-45"
                 >
                 <a
                     class="mega-menu-link"
-                    href="{{site.url | relative_url}}/2017/05/19/normandia/"
+                    href="{{site.url | relative_url}}/2017/05/20/normandy_00.html"
                     data-wpel-link="internal"
                     >Francia - Normandia</a
                 >
