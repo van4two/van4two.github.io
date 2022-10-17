@@ -3,7 +3,7 @@
 # https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Deploy GH Pages starter
 
 on:
   # Runs on pushes targeting the default branch
