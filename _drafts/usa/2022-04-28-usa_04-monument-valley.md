@@ -4,7 +4,7 @@ title: Monument Valley
 pics: 2022-04-25-usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: arizona utah escursione state-park
-cat: usa parks
+cat: usa
 header:
     teaser: /assets/img/cover/usa-parks/04.jpg
 
