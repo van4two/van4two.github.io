@@ -79,7 +79,37 @@ Considerato il gelo patito la notte scorsa a questa quota, siamo convinti di vol
 
 {% contentfor sidebar %}
 
+**Info base trekking**
+partenza: South Kaibab Trailhead, Desert view Drive
+arrivo: Bright Angel Trailhead, Grand Canyon Village
+lunghezza itinerario: 27 km
+dislivello in salita: 1813 m
+durata: 10h 30'
+tipologia itinerario: percorso a senso unico
+tappe: South Kaibab trailhead (7:00) - Cedar Ridge (7:38) - Skeleton Point (8:31) - Tip Off (9:25) - Black Bridge (10:30) - Sosta spiaggia - Phantom Ranch (11:15-12:00) - River Rest House (13:00) - Indian Garden (14:25) - 3 Mile Rest House (15:30) - 1.5 Mile Rest House (16:25) - Bright Angel trailhead (17:30)
+
+**Logistica**
+Accesso: il South Kaibab Trailhead non è raggiunge in auto ma solo con l'[orange shuttle](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm) gratuito: [percorso e orari](https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm)
+
+Dal momento che l'attacco del trekking (South Kaibab Trailhead) si trova in un'altra zona del South Rim rispetto al punto di arrivo (Bright Angel Trailhead), conviene parcheggiare la macchina presso il visitor center, prendere la navetta arancione ([orange route](https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm)) per recarsi alla partenza e, un volta terminato l'itinerario, da qui salire sulla navetta blu ([blue route](https://www.nps.gov/grca/planyourvisit/village-blue-route.htm)), che riporta al visitor center
+
+South Kaibab Trail dal [sito ufficiale](https://www.nps.gov/places/000/south-kaibab-trail.htm): itinerario e informazioni
+
+Bright Angel Trail dal [sito ufficiale](https://www.nps.gov/places/000/bright-angel-trail.htm): itinerario e informazioni
+
+Senso di percorrenza: la scelta di intraprendere l'itinerario a partire da SK, terminando con il BA, deriva dal fatto che il primo è interamente esposto al sole, privo di ombra e acqua; al contrario lungo il BA, tutta l'area attorno all'Indian Garden è caratterizzata dalla presenza di vegetazione che contribuisce ad alleviare il caldo oltre a fornire un po' d'ombra e conta della disponibilità di acqua proprio all'Indian Garden e, stagionalmente, presso la 3 mile e la 1.5 mile Resthouse
+
+Si consiglia grande cautela prima di intraprendere l'intero itinerario in giornata, fortemente sconsigliato dal sito ufficiale del Grand Canyon: uno degli elementi di difficoltà è dato dal fatto che tutta la prima parte del percorso è in discesa e, solo arrivati in fondo al canyon comincia la salita, quando "tornare indietro" verrebbe comunque a coincidere con il risalire per l'itinerario appena percorso. Si consideri, inoltre, la grande differenza di temperatura fra il South Rim e il fondo del canyon, caratterizzato da parecchi gradi in più. Questi elementi rendono, a nostro avviso, fortemente sconsigliabile l'intero trekking in estate, quando le temperature diventano proibitive. Percorrendolo in primavera (26 aprile) siamo partiti dal South Kaibab Trailhead con il piumino e abbiamo intrapreso la salita dal Bright Bridge in soli pantaloncini corti.
+
 **Tips**
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che per 80 $ consente l'accesso a tutti i parchi nazionali americani (ma non ai parchi statali). Il [costo](https://www.nps.gov/grca/planyourvisit/fees.htm) dell'ingresso al parco, altrimenti, è di 35 $ che si riferisce al visitatore e al suo veicolo purché privato, nonché agli altri passeggeri (max 15).
+
+Il sito web dedicato al [Gran Canyon National Park](https://www.nps.gov/grca/index.htm) contiene parecchio materiale utile ad organizzare la propria visita al parco, fra cui mappe, orari e percorsi degli shuttle e informazioni sui principali trekking
+
+[Brochures e mappe](https://www.nps.gov/grca/planyourvisit/brochures.htm) scaricabili gratuitamente, alcune anche in italiano
+
+[Clima e condizioni meteorologiche](https://www.nps.gov/grca/planyourvisit/weather-condition.htm) del Gran Canyon NP
+
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
 {% endcontentfor %}
