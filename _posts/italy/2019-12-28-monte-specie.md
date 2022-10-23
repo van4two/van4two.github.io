@@ -33,6 +33,10 @@ L’escursione è lunga ma poco impegnativa e di semplicissima lettura: il primo
 
 {% include img.html id=23 cap="Dalla cima lo sguardo spazia verso est sulle Dolomiti di Sesto, soffermandosi sulle Tre cime di Lavaredo, fino ai Cadini di Misurina" %}
 
+{% contentfor mymap %}
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117155954&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+{% endcontentfor %}
+
 {% contentfor sidebar %}
 **Info base trekking**
 partenza: Carbonin

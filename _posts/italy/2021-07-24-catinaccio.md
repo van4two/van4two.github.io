@@ -71,6 +71,10 @@ Attraverso una ripida e non agevole discesa, comunque priva di neve, raggiungiam
 
 Prima di rischiare di rilassarci troppo, riprendiamo la marcia: ora è tutta discesa! Rapidamente scendiamo ai rifugi [Vajolet](https://www.rifugiovajolet.com/ita/Default.asp) e [Preuss](http://www.rifugiopaulpreuss.com/), altro interessante crocevia: di qui infatti parte l’itinerario 542 per il Rifugio Re Alberto e le Torri del Vajolet, che da lontano sovrastano la valle. Infine, percorrendo il comodo e assai frequentato sentiero 546, torniamo al Gardeccia e, proseguendo, a Ciampedie dove, con la funivia (ultima corsa ore 18:30) rientriamo a Vigo.
 
+{% contentfor mymap %}
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117043709&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+{% endcontentfor %}
+
 {% contentfor sidebar %}
 **Info base trekking**
 partenza: Ciampedie
