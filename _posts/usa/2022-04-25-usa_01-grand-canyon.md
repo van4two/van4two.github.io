@@ -34,7 +34,7 @@ Ci dirigiamo poi verso [Williams](https://experiencewilliams.com/) per proseguir
 
 ## Grand Canyon National Park
 
-Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - prevede un tour per i principali punti panoramici del [**South Rim**](https://www.nps.gov/grca/planyourvisit/placestogo.htm), così da dedicare domani interamente a un’escursione a piedi. Il parco del Grand Canyon è caratterizzato dai due Rim, ovvero "bordi" del canyon stesso, il North e il South Rim, non lontanissimi l'uno dall'altro in linea d'aria (pur essendo il Grand Canyon particolarmente ampio) ma posti a distanza di circa 4 ore di guida. La maggior parte dei visitatori si reca solamente al South Rim. Il [**North Rim**](https://www.nps.gov/grca/planyourvisit/north-rim.htm), che ci sarebbe piaciuto visitare, si trova in una posizione più remota e isolata e, in virtù della maggiore altitudine a cui si trova (oltre 2500 m), è caratterizzato da una stagione più breve. Nel 2022 l'apertura è prevista a metà maggio - troppo avanti rispetto al nostro viaggio - e la strada per raggiungerlo rimarrà chiusa fino a quella data.
+Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - prevede un tour per i principali punti panoramici del [**South Rim**](https://www.nps.gov/grca/planyourvisit/placestogo.htm), così da dedicare domani interamente a un’[escursione a piedi](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Il parco del Grand Canyon è caratterizzato dai due Rim, ovvero "bordi" del canyon stesso, il North e il South Rim, non lontanissimi l'uno dall'altro in linea d'aria (pur essendo il Grand Canyon particolarmente ampio) ma posti a distanza di circa 4 ore di guida. La maggior parte dei visitatori si reca solamente al South Rim. Il [**North Rim**](https://www.nps.gov/grca/planyourvisit/north-rim.htm), che ci sarebbe piaciuto visitare, si trova in una posizione più remota e isolata e, in virtù della maggiore altitudine a cui si trova (oltre 2500 m), è caratterizzato da una stagione più breve. Nel 2022 l'apertura è prevista a metà maggio - troppo avanti rispetto al nostro viaggio - e la strada per raggiungerlo rimarrà chiusa fino a quella data.
 
 Parcheggiamo in prossimità del [**Bright Angel Lodge**](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/) e raggiungiamo a piedi la prima fermata della [navetta rossa](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), quella che percorre la Hermit road. Subito veniamo colpiti dalla vista di un gruppo di cervi praticamente accanto alla strada: non sembrano particolarmente disturbati dalla presenza umana.
 
@@ -52,27 +52,27 @@ Torniamo alla fermata del bus ad aspettare la prossima navetta (sono piuttosto f
 
 {% include img.html id=17 cap="Vista sul Grand Canyon da Pima Point. In lontananza sono visibili alcune delle rapide del Colorado river" %}
 
-## Grand Canyon Village
+## Grand Canyon village
 
 Ci spostiamo alla Market plaza, location del [Grand Canyon Village](https://www.visitarizona.com/places/cities/grand-canyon-village/) dedicata ai servizi, dove facciamo acqua (il distributore di acqua fresca gratuita è all’interno del supermercato).
 
-{% include img.html id=3 cap="Uno scuolabus nei pressi del Grand Canyon Village" %}
+{% include img.html id=3 cap="Uno scuolabus nei pressi del Grand Canyon village" %}
 
 {% include img.html id=34 cap="Water station gratuita all'interno del supermercato che affaccia sulla Market Plaza" %}
 
-Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per domani. Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco in quanto proprio di fronte al cento visitatori.
+Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco in quanto proprio di fronte al cento visitatori.
 
 {% include img.html id=31 cap="Il frequentato belvedere Mather Point al tramonto" %}
 
-## Desert view Drive
+## Desert view drive
 
 Tornati in macchina ci spingiamo fino al [**Grandview point**](https://www.nps.gov/places/000/grandview-point.htm) per vedere il tramonto (l’ideale sarebbe stato il [**Lipan point**](https://www.nps.gov/places/000/lipan-point.htm) ma temiamo di non arrivare in tempo). Notando che, con il calare del sole, comincia a scendere anche la temperatura, ci fermiamo a cenare nella prima piazzola con tavoli da pic-nic che troviamo lungo la [**Desert view drive**](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm).
 
 {% include img.html id=32 cap="Vista sul Grand Canyon dal Grandview Point, punto di osservazione lungo la Desert view Drive" %}
 
-## Kaibab Forest
+## Kaibab forest
 
-Per dormire, invece, ci spostiamo verso la [**Kaibab national Forest**](https://www.fs.usda.gov/kaibab), subito oltre l'ingresso sud del parco, dove è consentito il [campeggio libero](https://www.fs.usda.gov/activity/kaibab/recreation/camping-cabins/?recid=11652&actid=34). Si tratta di una parte di bosco piena di spiazzi lungo la strada sterrata. Il fatto che sia immediatamente fuori dal parco la rende molto appetibile (all’interno dei parchi, infatti, è vietato il campeggio libero se non in apposite aree e su rilascio di specifici permessi, in genere a pagamento). Probabilmente proprio per questo è frequentatissima! Guardando fra un camper, una tenda e un falò, troviamo un angolino anche per noi. La temperatura è scesa. Temendo di patire freddo, ci mettiamo addosso gli strati di abbigliamento tecnico più pesanti che abbiamo, uniamo i sacchi a pelo e andiamo a dormire.
+Per dormire, invece, ci spostiamo verso la [**Kaibab national forest**](https://www.fs.usda.gov/kaibab), subito oltre l'ingresso sud del parco, dove è consentito il [campeggio libero](https://www.fs.usda.gov/activity/kaibab/recreation/camping-cabins/?recid=11652&actid=34). Si tratta di una parte di bosco piena di spiazzi lungo la strada sterrata. Il fatto che sia immediatamente fuori dal parco la rende molto appetibile (all’interno dei parchi, infatti, è vietato il campeggio libero se non in apposite aree e su rilascio di specifici permessi, in genere a pagamento). Probabilmente proprio per questo è frequentatissima! Guardando fra un camper, una tenda e un falò lungo il [Long Jim loop](https://freecampsites.net/#!126559&query=sitedetails), troviamo un angolino anche per noi. La temperatura è scesa. Temendo di patire freddo, ci mettiamo addosso gli strati di abbigliamento tecnico più pesanti che abbiamo, uniamo i sacchi a pelo e andiamo a dormire.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1aIiDT07QdJorBi44nurelExf7JgPE-DJ&ehbc=2E312F" width="640" height="480"></iframe>
