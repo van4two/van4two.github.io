@@ -13,7 +13,7 @@ header {
     width: 100%;
     position: inherit;
     padding-top: 30px;
-    padding-bottom: 30px;
+    //padding-bottom: 10px;
 }
 
 section:first-child {
@@ -54,6 +54,15 @@ article.container {
     flex-direction: row;
     justify-content: space-between;
 }
+article h1 {
+    font-family: 'Architects Daughter', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left
+}
+article h2 {
+    text-align: left
+}
 .col1 {
     flex-basis: 66%;
     //height: 100vh;
@@ -63,6 +72,7 @@ article.container {
 .col2 {
     flex-basis: 33%;
     //height: 100vh;
+    padding-top: 80px; // align to article title bottom
 }
 /*.col:not(:last-child) {
     margin-right: 32px;
