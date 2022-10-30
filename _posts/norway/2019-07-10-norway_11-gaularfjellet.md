@@ -73,7 +73,7 @@ Proseguendo, la strada si ricollega con il tratto della [**Sognefjellet**](https
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 Ferry Drasvik-Hella: 101 nkr per 2 persone + campervan
 
 Pedaggio [Tindevegen](https://tindevegen.no/en/): 90 nkr

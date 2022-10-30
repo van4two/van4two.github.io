@@ -58,7 +58,7 @@ Da qui, nell’ormai tardo pomeriggio, ci dirigiamo verso la parte sud-ovest del
 {% endcontentfor %}
 
 {% contentfor sidebar %}
-**Tips**
+**Tips**  
 I siti storici legati allo sbarco in Normandia da noi visitati e citati in questo articolo sono gratuiti
 
 AC [La Bidonniere](https://www.labidonniere.fr/): campervan + due persone + elettricità = 10,70 €, doccia con gettone a parte. Soluzione complessivamente valida in un’area dove le alternative presentano costi superiori

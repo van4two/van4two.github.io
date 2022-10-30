@@ -65,7 +65,7 @@ Proseguiamo fino a [**Lillehammer**](https://www.visitnorway.it/dove-andare/norv
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 [Jettegrytene](https://www.visitnorway.com/listings/potholes/9970/): i cartelli indicano 50 nkr/testa, facendo intendere che siano da pagare in contanti (informazione non verificata per via della temporanea chiusura delle pozze)
 
 Pedaggi stradali: informazioni su [Euro Parking Collection](https://www.epcplc.com/)

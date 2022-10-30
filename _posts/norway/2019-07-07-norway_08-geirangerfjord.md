@@ -71,7 +71,7 @@ Dopo aver letto recensioni positive su Google, optiamo per il [Sande camping](ht
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 Crociera [Fjordsightseeing](https://www.geirangerfjord.no/searchresult-package) sul Geirangerfjord: 360 nkr a persona, durata 60′ con audioguida anche in italiano compresa nel prezzo
 
 [Sande camping](https://sande-camping.no/?lang=en): 280 nkr per 2 persone + campervan; doccia: 10 nkr (durata 5′)

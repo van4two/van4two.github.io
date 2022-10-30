@@ -50,7 +50,7 @@ La nostra avventura normanna termina qui: riprendiamo il furgone e ci dirigiamo 
 {% endcontentfor %}
 
 {% contentfor sidebar %}
-**Tips**
+**Tips**  
 [Abbazia di Jumièges](http://www.abbayedejumieges.fr/en/home-2/): 6,50 €
 
 {% endcontentfor %}

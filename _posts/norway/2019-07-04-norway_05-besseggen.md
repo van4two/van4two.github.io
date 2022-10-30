@@ -93,14 +93,14 @@ A questo punto ci indirizziamo verso nord, intenti a percorrere un po’ di stra
 
 {% contentfor sidebar %}
 
-**Info base trekking**
-partenza: [Memurubu](https://www.memurubu.no/)
-arrivo: [Gjendesheim](https://gjendesheim.dnt.no/en/)
-lunghezza itinerario: 13.3 km
-dislivello in salita: 950 m
+**Info base trekking**  
+partenza: [Memurubu](https://www.memurubu.no/)  
+arrivo: [Gjendesheim](https://gjendesheim.dnt.no/en/)  
+lunghezza itinerario: 13.3 km  
+dislivello in salita: 950 m  
 tempo di percorrenza: 6–8h
 
-**Logistica**
+**Logistica**  
 Come spiegato sul [sito web dedicato](https://besseggen.net/information/?lang=en), il trekking è percorribile in entrambi i sensi: la maggior parte degli escursionisti sceglie di partire da [Memurubu](https://www.memurubu.no/) lasciando la macchina allo [Gjendesheim](https://gjendesheim.dnt.no/en/) in modo da prendere subito il [ferry](https://www.gjende.no/en/) ed essere poi indipendente (percorrendo il tragitto al contrario, invece, occorre terminarlo in tempo per poter prendere l’ultimo ferry per tornare allo Gjendesheim e al parcheggio)
 
 [Reinsvangen long term parking](https://www.besseggen1743.no/en/home): 150 nkr/giorno, dotato di servizi igienici. Uno shuttle gratuito collega il parcheggio con il molo dei ferry presso lo Gjendesheim lodge
@@ -113,7 +113,7 @@ L’itinerario segue una traccia evidente, marcata con delle “T” (trail) dip
 
 Il tempo può cambiare molto rapidamente, quindi si consiglia di vestirsi a strati tenendo nello zaino indumenti caldi e impermeabili. La cresta Besseggen può essere molto ventosa
 
-**Tips**
+**Tips**  
 Pedaggio [Slådalsvegen](https://no.wikipedia.org/wiki/Sl%C3%A5dalsvegen): 50 nkr (solo carta di credito)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito

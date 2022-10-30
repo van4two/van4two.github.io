@@ -76,21 +76,21 @@ Prima di rischiare di rilassarci troppo, riprendiamo la marcia: ora è tutta dis
 {% endcontentfor %}
 
 {% contentfor sidebar %}
-**Info base trekking**
-partenza: Ciampedie
+**Info base trekking**  
+partenza: Ciampedie  
 arrivo: Ciampedie  
-lunghezza itinerario: 19 km
+lunghezza itinerario: 19 km  
 dislivello in salita: 1290 m  
 durata: 7 h  
 tipologia itinerario: percorso ad anello  
 cartografia: [Tabacco 1:25.000, foglio 06](https://www.tabaccoeditrice.it/cartografie/25000/06-val-di-fassa-e-dolomiti-fassane/)
 
-**Logistica**
+**Logistica** 
 Accesso: da Vigo di Fassa in funivia per Ciampedie; da Pera di Fassa in seggiovia (tre tronchi). In alternativa si può salire direttamente a piedi da Pera, dilatando però le tempistiche e le distanze già considerevoli ([info e orario impianti](https://www.catinacciodolomiti.it/it//orari-impianti-estate/))
 
 Il sentiero delle Scalette prevede due brevi sezioni attrezzate con cavo metallico e pioli infissi nella roccia
 
-**Tips**
+**Tips**  
 Conviene percorrere l’itinerario in senso antiorario così da intraprendere il sentiero delle Scalette in salita, ancora riposati e al mattino, quando le probabilità di cattivo tempo sono generalmente più scarse, riservando la più comoda discesa su sentiero meno impegnativo dal rifugio Passo Principe per il ritorno nel pomeriggio
 
 Si consiglia di contattare i rifugi della zona (noi abbiamo telefonato al Gardeccia) per verificare le condizioni del percorso e l’eventuale presenza di neve

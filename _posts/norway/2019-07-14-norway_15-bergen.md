@@ -57,7 +57,7 @@ Ci dirigiamo verso l'[area di sosta Skjersvika](https://park4night.com/lieu/3532
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 [Lone camping](https://www.lonecamping.no/): 315 nkr per 2 persone + campervan; doccia: 10 nkr (durata 5′)
 
 Parcheggio-garage a Bergen (Bryggen): [Euro park pier p-house](https://www.apcoa.no/en/find-parking/bergen/radisson-blu-royal-hotell/): 44 nkr/h

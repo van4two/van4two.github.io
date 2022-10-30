@@ -67,7 +67,7 @@ Terminato il percorso panoramico, rientriamo ad Åndalsnes per fermarci all’om
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 Pedaggio [Slådalsvegen](https://no.wikipedia.org/wiki/Sl%C3%A5dalsvegen): 50 nkr (solo carta di credito) 
 
 [Ferry Åfarnes-Sølsnes](https://www.fjord1.no/eng/Timetables/Moere-og-Romsdal/AAfarnes-Soelsnes): 150 nkr/tratta per 2 persone + campervan
