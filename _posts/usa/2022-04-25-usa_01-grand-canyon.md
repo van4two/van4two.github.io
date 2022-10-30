@@ -3,7 +3,7 @@ layout: post
 title: Grand Canyon
 pics: 2022-04-25-usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
-tags: arizona canyon fiume colorado national-park belvedere strada panoramica foresta
+tags: arizona canyon fiume colorado national-park belvedere strada-panoramica foresta
 cat: usa
 header:
     teaser: /assets/img/cover/usa-parks/01.jpg
@@ -35,6 +35,10 @@ Ci dirigiamo poi verso [Williams](https://experiencewilliams.com/) per proseguir
 ## Grand Canyon National Park
 
 Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - prevede un tour per i principali punti panoramici del [**South Rim**](https://www.nps.gov/grca/planyourvisit/placestogo.htm), così da dedicare domani interamente a un’[escursione a piedi](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Il parco del Grand Canyon è caratterizzato dai due Rim, ovvero "bordi" del canyon stesso, il North e il South Rim, non lontanissimi l'uno dall'altro in linea d'aria (pur essendo il Grand Canyon particolarmente ampio) ma posti a distanza di circa 4 ore di guida. La maggior parte dei visitatori si reca solamente al South Rim. Il [**North Rim**](https://www.nps.gov/grca/planyourvisit/north-rim.htm), che ci sarebbe piaciuto visitare, si trova in una posizione più remota e isolata e, in virtù della maggiore altitudine a cui si trova (oltre 2500 m), è caratterizzato da una stagione più breve. Nel 2022 l'apertura è prevista a metà maggio - troppo avanti rispetto al nostro viaggio - e la strada per raggiungerlo rimarrà chiusa fino a quella data.
+
+{% include img.html img="south-rim.jpg" cap="Mappa del South Rim tratta dal [sito ufficiale del parco](https://www.nps.gov/grca/learn/news/upload/trip-planner-grca.pdf)" %}
+
+{% include img.html img="south-rim-village.jpg" cap="Mappa del South Rim - sezione principale - tratta dal [sito ufficiale del parco](https://www.nps.gov/grca/learn/news/upload/grca_italian.pdf)" %}
 
 Parcheggiamo in prossimità del [**Bright Angel Lodge**](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/) e raggiungiamo a piedi la prima fermata della [navetta rossa](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), quella che percorre la Hermit road. Subito veniamo colpiti dalla vista di un gruppo di cervi praticamente accanto alla strada: non sembrano particolarmente disturbati dalla presenza umana.
 
