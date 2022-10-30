@@ -78,8 +78,8 @@ La lunga giornata termina con una bella doccia e una cena condita dalla brezza m
 **Info base trekking**  
 partenza: [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norway/listings-lister/hike-from-%C3%98ygardst%C3%B8l-to-langavatn-via-kjerag/7736/)  
 arrivo: [Kjeragbolten](https://www.fjordnorway.com/top-attractions/preikestolen/kjerag)  
-lunghezza itinerario a/r: 11 km
-dislivello in salita: 800 m
+lunghezza itinerario a/r: 11 km  
+dislivello in salita: 800 m  
 tempo di percorrenza a/r: 6h (noi ci abbiamo messo 3h30’)
 
 **Logistica**  
@@ -88,7 +88,7 @@ L’itinerario si apre con una salita ripidissima, accompagnata da cavi metallic
 Øygardstøl parking: 300 nkr/giorno
 
 Il tempo può cambiare molto rapidamente, quindi si consiglia di vestirsi a strati tenendo nello zaino indumenti caldi e impermeabili
->  
+
 **Tips**  
 [Ogna camping](https://www.ognacamping.no/en/): 220 nkr per 2 persone + campervan; gettone doccia ed elettricità comprese nel prezzo
 

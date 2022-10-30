@@ -89,14 +89,14 @@ Ripassiamo lungo il Nordfjord e attraversiamo [Olden](https://en.wikipedia.org/w
 
 {% contentfor sidebar %}
 
-**Info base trekking**
-partenza: [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/)
-arrivo: [Skålatårnet](https://en.wikipedia.org/wiki/Sk%C3%A5la_(Sogn_og_Fjordane))
-lunghezza itinerario a/r: 16 km
-dislivello in salita: 1829 m
-tempo di percorrenza a/r: 8h
+**Info base trekking**  
+partenza: [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord/one-lotfy-new-attraction-and-11-other-things-to-do-in-loen/)  
+arrivo: [Skålatårnet](https://en.wikipedia.org/wiki/Sk%C3%A5la_(Sogn_og_Fjordane))  
+lunghezza itinerario a/r: 16 km  
+dislivello in salita: 1829 m  
+tempo di percorrenza a/r: 8h  
 
-**Logistica** 
+**Logistica**  
 L’itinerario prevede una costante e faticosa salita, inizialmente lungo sentieri in mezzo al verde, per poi procedere nella neve oltre il lago Skålavatnet. Una volta arrivati in vetta si può pernottare in uno dei due bivacchi, [Skålatårnet](https://en.wikipedia.org/wiki/Sk%C3%A5la_(Sogn_og_Fjordane)) e [Skålabu](https://ut.no/hytte/101254/skalabu), entrambi gestiti dalla [Norwegian Trekking Association](https://www.dnt.no/) (DNT) ma privi di personale sul posto. Il rientro avviene per lo stesso itinerario della salita. L’escursione può essere effettuata anche in giornata.
 
 Skåla parking: 50 nkr/giorno, da lasciare in contanti in un’apposita cassettina
@@ -105,7 +105,7 @@ Skåla parking: 50 nkr/giorno, da lasciare in contanti in un’apposita cassetti
 
 Il tempo può cambiare molto rapidamente, quindi si consiglia di vestirsi a strati tenendo nello zaino indumenti caldi e impermeabili
 
-**Tips**
+**Tips**  
 [Sande camping](https://sande-camping.no/?lang=en): 280 nkr per 2 persone + campervan; doccia: 10 nkr (durata 5′)
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito

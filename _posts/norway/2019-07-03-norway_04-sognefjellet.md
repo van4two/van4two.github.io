@@ -43,7 +43,7 @@ Torniamo verso Gjende e, sulla Rv51, cerchiamo uno spot dove dormire, non lontan
 
 {% contentfor sidebar %}
 
-Tips
+**Tips**  
 [Camping di Maurvangen](https://www.maurvangen.no/): 260 nkr per 2 persone + campervan; doccia: 15 nkr (durata 4′)
 
 [Ferry](https://www.gjende.no/en/) [Gjendesheim](https://gjendesheim.dnt.no/en/)-[Memurubu](https://www.memurubu.no/): 160 nkr/persona (si consiglia la prenotazione)

@@ -79,16 +79,16 @@ Considerato il gelo patito la notte scorsa a questa quota, siamo convinti di vol
 
 {% contentfor sidebar %}
 
-**Info base trekking**
-partenza: South Kaibab trailhead, [Desert view drive](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm)
-arrivo: [Bright Angel trailhead](https://www.nps.gov/places/000/bright-angel-trailhead.htm?utm_source=place&utm_medium=website&utm_campaign=experience_more&utm_content=small), [Grand Canyon village](https://www.visitarizona.com/places/cities/grand-canyon-village/)
-lunghezza itinerario: 27 km
-dislivello in salita: 1813 m
-durata: 10h 30' soste comprese
-tipologia itinerario: percorso a senso unico
+**Info base trekking**  
+partenza: South Kaibab trailhead, [Desert view drive](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm)  
+arrivo: [Bright Angel trailhead](https://www.nps.gov/places/000/bright-angel-trailhead.htm?utm_source=place&utm_medium=website&utm_campaign=experience_more&utm_content=small), [Grand Canyon village](https://www.visitarizona.com/places/cities/grand-canyon-village/)  
+lunghezza itinerario: 27 km  
+dislivello in salita: 1813 m  
+durata: 10h 30' soste comprese  
+tipologia itinerario: percorso a senso unico  
 tappe: South Kaibab trailhead (7:00) - Cedar ridge (7:38) - Skeleton point (8:31) - Tipoff (9:25) - Black bridge (10:30) - Sosta spiaggia - Phantom ranch (11:15-12:00) - River resthouse (13:00) - Indian garden (14:25) - 3 mile resthouse (15:30) - 1.5 mile resthouse (16:25) - Bright Angel trailhead (17:30)
 
-**Logistica**
+**Logistica**  
 Accesso: il South Kaibab trailhead non è raggiungibile in auto ma solo con l'[orange shuttle](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm) gratuito: [percorso e orari](https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm)
 
 Dal momento che l'attacco del trekking (South Kaibab trailhead) si trova in un'altra zona del South Rim rispetto al punto di arrivo (Bright Angel trailhead), conviene parcheggiare la macchina presso il visitor center, prendere la navetta arancione ([orange route](https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm)) per recarsi alla partenza e, un volta terminato l'itinerario, da qui salire sulla navetta blu ([blue route](https://www.nps.gov/grca/planyourvisit/village-blue-route.htm)), che riporta al visitor center
@@ -101,7 +101,7 @@ Senso di percorrenza: la scelta di intraprendere l'itinerario a partire dal SK, 
 
 Si consiglia grande cautela prima di intraprendere l'intero itinerario in giornata, fortemente sconsigliato dal sito ufficiale del [Grand Canyon](https://www.nps.gov/grca/index.htm): uno degli elementi di criticità è dato dal fatto che tutta la prima parte del percorso è in discesa e, solo arrivati in fondo al canyon, comincia la salita, quando "tornare indietro" verrebbe comunque a coincidere con il risalire per l'itinerario appena percorso. Si consideri, inoltre, la grande differenza di temperatura fra il South Rim e il fondo del canyon, caratterizzato da parecchi gradi in più. Questi elementi rendono, a nostro avviso, fortemente sconsigliabile intraprendere l'intero trekking in estate, quando le temperature diventano proibitive. Percorrendolo in primavera (26 aprile) siamo partiti dal South Kaibab trailhead con il piumino e abbiamo intrapreso la salita dal Bright bridge in soli pantaloncini corti.
 
-**Tips**
+**Tips**  
 Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani (ma non ai parchi statali). Il [costo](https://www.nps.gov/grca/planyourvisit/fees.htm) dell'ingresso al parco, altrimenti, è di 35 $, riferiti al visitatore e al suo veicolo, purché privato, nonché agli altri passeggeri (max 15).
 
 Il sito web dedicato al [Gran Canyon National Park](https://www.nps.gov/grca/index.htm) contiene parecchio materiale utile ad organizzare la propria visita al parco, fra cui mappe, orari e percorsi degli shuttle e informazioni sui principali trekking

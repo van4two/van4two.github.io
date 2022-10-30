@@ -73,7 +73,7 @@ Arrivati a Flåm ci dirigiamo al vicino [Flåm Camping &amp; Hostel](https://www
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 Parcheggio Briksdalsbreen: 50 nkr
 
 Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://www.norwaysbest.com/flamsbana/) a/r: 1185 nkr a persona

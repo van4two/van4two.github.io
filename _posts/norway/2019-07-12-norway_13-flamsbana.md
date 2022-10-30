@@ -73,7 +73,7 @@ Proseguiamo e ci fermiamo in un’[area di sosta](https://park4night.com/lieu/82
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 [Flåm Camping &amp; Hostel](https://www.flaam-camping.no/): 290 nkr per 2 persone + campervan; doccia: 10 nkr (durata 6′)
 
 Pacchetto [crociera](https://www.visitflam.com/packages/naeroyfjord-round-trip/) Flåm-Gudvangen sul Næroyfjord (durata 2 h) con rientro in bus + [Flåmsbana](https://www.visitflam.com/flamsbana/) a/r: 1185 nkr a persona

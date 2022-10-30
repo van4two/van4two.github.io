@@ -60,7 +60,7 @@ Sazi e appagati andiamo alla ricerca dell’[area camper indicata dai Furgoperfe
 {% endcontentfor %}
 
 {% contentfor sidebar %}
-**Tips**
+**Tips**  
 [Mont Saint-Michel](http://www.bienvenueaumontsaintmichel.com/en): accesso libero. [Parcheggio](http://www.bienvenueaumontsaintmichel.com/en/preparing-your-visit/prices): 6 € per 2h30′, 11,70 € per tutto il giorno. [Abbazia benedettina](http://www.abbaye-mont-saint-michel.fr/en/): 10 €
 
 [Mulino di Hauville](https://moulinavent27.wixsite.com/hauville): 3 €

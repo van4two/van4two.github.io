@@ -65,7 +65,7 @@ Sveglia alle 5: ci prepariamo rapidamente e in pochi minuti raggiungiamo il port
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 [Ogna camping](https://www.ognacamping.no/en/): 220 nkr per 2 persone + campervan; gettone doccia ed elettricità comprese nel prezzo
 
 [Faro di Lindesnes](https://www.visitnorway.com/places-to-go/southern-norway/lindesnes/listings-lindesnes-region/lindesnes-lighthouse/3644/): 80 nkr/persona

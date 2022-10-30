@@ -65,7 +65,7 @@ Il cielo rimane plumbeo; prendiamo il furgone e risaliamo la strada a tornanti c
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 [Åndalsnes camping](https://www.andalsnes-camping.net/home): 270 nkr per 2 persone + campervan; doccia: 15 nkr (durata 5′)
 
 [Ferry Linge-Eidsdal](https://www.fjord1.no/Ruteoversikt/Moere-og-Romsdal/Eidsdal-Linge?from=150015248081&to=150015248080): 119 nkr per 2 persone + campervan

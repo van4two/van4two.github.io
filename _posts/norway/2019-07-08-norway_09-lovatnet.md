@@ -53,7 +53,7 @@ Arriviamo al fronte e la temperatura scende drasticamente. Il cielo è ancora gr
 
 {% contentfor sidebar %}
 
-**Tips**
+**Tips**  
 Parcheggio Briksdalsbreen: 50 nkr
 
 [Sande camping](https://sande-camping.no/?lang=en): 280 nkr per 2 persone + campervan; doccia: 10 nkr (durata 5′)

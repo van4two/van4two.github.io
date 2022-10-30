@@ -93,12 +93,12 @@ Da Odda imbocchiamo la Fv550, costeggiando un breve tratto del fiordo e la abban
 
 **Info base trekking**  
 partenza: Vetlavatnet ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013))  
-arrivo: [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/)
-lunghezza itinerario a/r: 28 km
-dislivello in salita: 1200 m
+arrivo: [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/)  
+lunghezza itinerario a/r: 28 km  
+dislivello in salita: 1200 m  
 tempo di percorrenza a/r: 10-12h (noi ci abbiamo messo 7h)
 
-**Logistica**
+**Logistica**  
 L’itinerario può essere intrapreso partendo dal parcheggio principale ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013)) o, se si trova posto, da quello alto ([P3](https://www.trolltunganorway.com/en_GB/parking)): nel primo caso si percorrono 28 km (a/r), nel secondo solo 20, risparmiando i primi 400 m di dislivello su tornanti asfaltati. In alternativa, uno [shuttle](https://www.trolltunganorway.com/en_GB/activity/100402/bus-from-skjeggedal-to-maagelitopp-to-the-upper-starting-point-for-the-trolltunga-hike) collega i due parcheggi ogni mezzora.
 
 Il percorso è ben indicato e, nella seconda sezione del tracciato, sono presenti due bivacchi per le emergenze. Il rientro avviene per lo stesso itinerario della salita. Vista la lunghezza dell’escursione e l’alta frequentazione, si consiglia di partire presto al mattino.
@@ -109,7 +109,7 @@ Il percorso è ben indicato e, nella seconda sezione del tracciato, sono present
 
 Il tempo può cambiare molto rapidamente, quindi si consiglia di vestirsi a strati tenendo nello zaino indumenti caldi e impermeabili
 
-**Tips**
+**Tips**  
 Ferry Jondal-Tørvikbygd: 150 nkr per 2 persone + campervan
 
 [Lone camping](https://www.lonecamping.no/): 315 nkr per 2 persone + campervan; doccia: 10 nkr (durata 5′)
