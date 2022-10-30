@@ -24,24 +24,16 @@ section:first-child {
 section:last-child {
     padding-bottom: 50px;
 }
-
 .table {
     background: #f3f3f3;
     padding: 20px;
     //font-style: italic;
 }
-
-
 .wrapper {
     max-width: 100%;
     width: 1170px;
     margin: auto;
 }
-// TODO: merge with .wrapper
-/*body .container {
-    max-width: 100%;
-    width: 1170px;
-}*/
 
 // two-column layout
 // see flex: https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/
@@ -49,6 +41,18 @@ section:last-child {
     padding-left: 15px;
     padding-right: 15px;
 }
+.col1 {
+    flex-basis: 66%;
+    //height: 100vh;
+    text-align: center;
+    margin-right: 32px;
+}
+.col2 {
+    flex-basis: 33%;
+    //height: 100vh;
+    padding-top: 80px; // align to article title bottom
+}
+
 article.container {
     display: flex;
     flex-direction: row;
@@ -63,17 +67,24 @@ article h1 {
 article h2 {
     text-align: left
 }
-.col1 {
-    flex-basis: 66%;
-    //height: 100vh;
-    text-align: center;
-    margin-right: 32px;
+article figcaption {
+    font-size: 10px;
+    margin: 0 auto;
+    max-width: 60%;
+    padding-bottom: 30px;
+    text-align: justify;
 }
-.col2 {
-    flex-basis: 33%;
-    //height: 100vh;
-    padding-top: 80px; // align to article title bottom
+
+.tags ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    padding: 0px 10px;
+    background-color: #ddd;
+    margin-right: 10px;
+    border-radius: 5px;
 }
+
+
 /*.col:not(:last-child) {
     margin-right: 32px;
     flex-basis: 66%;
@@ -176,15 +187,6 @@ span.mega-indicator:after {
   .nav_prev_next .next {
     text-align: right;
   }
-
-
-.tags ul > li {
-    display: inline-block;
-    /* You can also add some margins here to make it look prettier */
-    padding: 5px 10px;
-    background-color: #ddd;
-    margin-right: 10px;
-}
 
 
 // home masonry
