@@ -84,7 +84,7 @@ Per dormire, invece, ci spostiamo verso la [**Kaibab national forest**](https://
 
 {% contentfor sidebar %}
 
-**Tips** 
+**Tips**  
 Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani (ma non ai parchi statali). Il [costo](https://www.nps.gov/grca/planyourvisit/fees.htm) dell'ingresso al parco, altrimenti, è di 35 $, riferiti al visitatore e al suo veicolo, purché privato, nonché agli altri passeggeri (max 15).
 
 Il sito web dedicato al [Gran Canyon National Park](https://www.nps.gov/grca/index.htm) contiene parecchio materiale utile ad organizzare la propria visita al parco, fra cui mappe, orari e percorsi degli shuttle e informazioni sui principali trekking

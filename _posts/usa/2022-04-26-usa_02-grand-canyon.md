@@ -140,6 +140,10 @@ Il sito web dedicato al [Gran Canyon National Park](https://www.nps.gov/grca/ind
 
 [Clima e condizioni meteorologiche](https://www.nps.gov/grca/planyourvisit/weather-condition.htm) del Gran Canyon NP
 
+Leggendaria limonata del [Phantom ranch](https://www.grandcanyonlodges.com/lodging/phantom-ranch/): 5.25 $
+
+[Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website), Page: si tratta di una catena di motel che ritroveremo anche in Utah; camera doppia: 83 $/notte
+
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
 {% endcontentfor %}
