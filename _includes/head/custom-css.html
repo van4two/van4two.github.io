@@ -1,5 +1,5 @@
 
-<!-- Bootstrap CSS library -->
+<!-- Bootstrap library (css here, js part in foot/custom.html)-->
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
@@ -7,16 +7,21 @@
   crossorigin="anonymous"
 />
 
-<!-- .pull-right -->
-<!-- mini icons in mega menu -->
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
-  media="all"
+<!-- about Lightbox (css here, js part in the foot/custom.html )
+    in use: 
+    https://jekyllcodex.org/without-plugin/lightbox/# 
+    others:
+    https://aldomann.com/post/using-jekyll-lightbox-and-github-pages/
+    https://aldomann.com/post/including-images-with-liquid/
+    https://jimmyxiao.me/guides/technical/2019/07/28/folder-based-jekyll-lightgallery
+
+-->
+<link 
+    rel="stylesheet" 
+    href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" 
+    media="all" 
 />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <link rel="shortcut icon" href="{{ "/assets/img/favicon.ico" | relative_url }}">
 
@@ -25,5 +30,3 @@
 <link rel="stylesheet" href="/assets/css/mega-menu.css" madia="all" />
 <link rel="stylesheet" href="/assets/css/minimal-portfolio.css" media="all" />
 <link rel="stylesheet" href="/assets/css/custom.css" media="all" />
-
-<link rel="stylesheet" href="/assets/css/lightbox.css">

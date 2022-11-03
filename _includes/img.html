@@ -10,6 +10,7 @@
     {% if include.img %} href="/assets/img/{{ page.pics }}/{{page.url | split: "_" | last |split: ".html" | first}}/{{ include.img }}"
     {% else %} href=""
     {% endif %} 
+    data-fancybox="gallery"
     >
         <img
         {% if include.id %} 
@@ -25,11 +26,14 @@
 </figure>
 
 <script>
-    var fig = document.getElementById("img_gphoto_{{include.id}}");
-    var lnk = fig.getElementsByTagName('a')[0];
-    lnk.href = googlePhotos.urls[{{include.id}}-1] + '=w0-h0';
-    var img = lnk.getElementsByTagName('img')[0];
-    img.src = googlePhotos.urls[{{include.id}}-1];
+    var fig = document.getElementById("img_gphoto_{{include.id}}")
+    if (fig) {
+        var lnk = fig.getElementsByTagName('a')[0]
+        lnk.href = googlePhotos.urls[{{include.id}}-1] + '=w0-h0'
+        var img = lnk.getElementsByTagName('img')[0]
+        img.src = googlePhotos.urls[{{include.id}}-1]
+    }
+    
 </script>
 
 {% if include.id2 %} 
