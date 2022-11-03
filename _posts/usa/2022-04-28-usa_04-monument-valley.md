@@ -12,8 +12,6 @@ header:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=1 cap="Didascalia" %}
-
 Ci svegliamo alle 4.50 a [Kayenta](https://en.wikipedia.org/wiki/Kayenta,_Arizona), all'interno della [riserva Navajo](https://www.navajo-nsn.gov/). È buio ma non particolarmente freddo. Guidiamo verso l'ingresso della Monument Valley lungo la US-163. Mentre ci troviamo ancora lungo la strada il cielo inizia a schiarirsi e cominciamo ad intravedere sagome imponenti stagliarsi contro l'orizzonte a destra e a sinistra della strada stessa. Ci emozioniamo. Arrivati a destinazione ci cambiamo rapidamente e facciamo colazione. Notiamo altri turisti radunati lungo una balaustra in muratura, una sorta di terrazza del grande edificio che segna l'ingresso alla [**Monument Valley**](https://navajonationparks.org/tribal-parks/monument-valley/). Ci affacciamo anche noi: oltre la balaustra si stagliano tre degli imponenti monumenti di roccia che a breve visiteremo. Il giro di tre ore che abbiamo prenotato è con [Sandstone Tours](https://sandstonetours.com/): vediamo alcune jeep aperte con tendalino arrivare nell'ampio parcheggio dove abbiamo lasciato la macchina. Troviamo la nostra guida. A quanto pare non ci sono altri escursionisti nel nostro gruppo quindi abbiamo il tour tutto per noi. Bene! Vedendo però che le altre jeep caricano gruppetti più numerosi, ci chiediamo se il nostro operatore abbia qualcosa in meno degli altri. D'altra parte, della grande quantità di tour operators indicati sul sito ufficiale della Monument Valley, pochissimi avevano un sito web di contatto su cui effettuare la prenotazione (gli altri fornivano solo un contatto telefonico). La nostra guida è un nativo Navajo di una certa età.
 
 ## Monument Valley
