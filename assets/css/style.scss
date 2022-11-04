@@ -16,6 +16,12 @@ header {
     //padding-bottom: 10px;
 }
 
+a:hover {
+    font-weight: bold;
+    color: #20639b;
+    text-decoration: underline;
+}
+
 section:first-child {
     //width: 500px;
     padding-bottom: 50px;
