@@ -234,3 +234,21 @@ span.mega-indicator:after {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+// lightbox
+.lightbox .lb-image {
+    border: 0px solid #000;
+}
+
+.lb-data .lb-close {
+    background-size: 100%;
+    width: 15px;
+    height: 15px;
+}
+.lb-data .lb-close {
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+.lb-data .lb-number {
+    margin-top: 5px;
+}
