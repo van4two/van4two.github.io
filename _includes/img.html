@@ -29,7 +29,7 @@
     var fig = document.getElementById("img_gphoto_{{include.id}}")
     if (fig) {
         var lnk = fig.getElementsByTagName('a')[0]
-        lnk.href = googlePhotos.urls[{{include.id}}-1] + '=w0-h0-sz3'
+        lnk.href = googlePhotos.urls[{{include.id}}-1] + '?sz1600'
         var img = lnk.getElementsByTagName('img')[0]
         img.src = googlePhotos.urls[{{include.id}}-1]
     }
