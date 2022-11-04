@@ -29,7 +29,7 @@
     var fig = document.getElementById("img_gphoto_{{include.id}}")
     if (fig) {
         var lnk = fig.getElementsByTagName('a')[0]
-        lnk.href = googlePhotos.urls[{{include.id}}-1] + '=w0-h0'
+        lnk.href = googlePhotos.urls[{{include.id}}-1] + '=w1800-h1600'
         var img = lnk.getElementsByTagName('img')[0]
         img.src = googlePhotos.urls[{{include.id}}-1]
     }
@@ -69,7 +69,7 @@
     <script>        
         var fig2 = document.getElementById("img_gphoto_{{include.id2}}");
         var lnk2 = fig2.getElementsByTagName('a')[0];
-        lnk2.href = googlePhotos.urls[{{include.id2}}-1] + '=w0-h0';
+        lnk2.href = googlePhotos.urls[{{include.id2}}-1] + '=w1800-h1600';
         var img2 = lnk2.getElementsByTagName('img')[0];
         img2.src = googlePhotos.urls[{{include.idd}}-1];
     </script>
