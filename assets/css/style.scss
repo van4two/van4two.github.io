@@ -1,45 +1,25 @@
 ---
 ---
 
-/* override Minimal theme style.css */
-// TODO: replace with theme name variable
-//@import "minimal";
-
 body {
     padding-top: 0;
 }
-
 header {
     width: 100%;
     position: inherit;
     padding-top: 30px;
-    //padding-bottom: 10px;
 }
-
 a:hover {
     font-weight: bold;
-    color: #20639b;
     text-decoration: underline;
+    color: #20639b;
 }
-
 section:first-child {
-    //width: 500px;
     padding-bottom: 50px;
     padding-right: 30px;
 }
 section:last-child {
     padding-bottom: 50px;
-}
-.table {
-    background: #f3f3f3;
-    padding: 20px;
-    //font-style: italic;
-}
-.wrapper {
-    max-width: 100%;
-    width: 1170px;
-    margin: auto;
-    padding-bottom: 20px;
 }
 
 // two-column layout
@@ -58,6 +38,20 @@ section:last-child {
     flex-basis: 33%;
     //height: 100vh;
     padding-top: 80px; // align to article title bottom
+}
+.wrapper {
+    max-width: 100%;
+    width: 1170px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.table {
+    background: #f3f3f3;
+    padding: 20px;
+    border-radius: 3px;
+}
+.mymap iframe {
+    border-radius: 3px;
 }
 
 article.container {
@@ -81,65 +75,6 @@ article figcaption {
     padding-bottom: 30px;
     text-align: justify;
 }
-
-.tags ul > li {
-    display: inline-block;
-    /* You can also add some margins here to make it look prettier */
-    padding: 0px 10px;
-    background-color: #ddd;
-    margin-right: 10px;
-    border-radius: 5px;
-}
-
-
-/*.col:not(:last-child) {
-    margin-right: 32px;
-    flex-basis: 66%;
-    //flex-basis: 0;
-    flex-grow: 1;
-}*/
-
-.row {
-    display: flex; /* equal height of the children */
-    margin-left: 0px;
-}
-
-// end two column layout
-
-// diary
-.entries-grid {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: start;
-}
-
-.grid__item {
-    flex-basis: 23%;
-    margin: 0px 1%;
-}
-
-.archive__item-teaser {
-    max-width: 200px; /* width of container */
-    max-height: 95px; /* height of container */
-    overflow: hidden;
-}
-.archive__item-teaser img {
-    //margin: -10px 0px 0px -180px;
-    width: 200px; /* width of container */
-    height: 95px; /* height of container */
-    object-fit: cover;
-    object-position: 50% 50%;
-}
-
-h2.archive__item-title {
-    font-size: 14px;
-    font-weight: bold;
-    text-align: left;
-    margin-top: 8px;
-    margin-bottom: 2px;
-}
-
 .image_link {
     margin-block-start: 0; 
     margin-block-end: 0;
@@ -147,19 +82,12 @@ h2.archive__item-title {
     margin-right: 0;
     margin-bottom: 15px;
 }
-
-
-
-
-
-
 .header-menu {
     width: 100%;
     margin: auto;
     display: block;
     line-height: 30px;
 }
-
 a.site-title {
     font-family: 'Architects Daughter', sans-serif;
     font-size: 26px;
@@ -172,10 +100,84 @@ a.site-title {
 }
 
 
+// carousel
+.carousel {
+    border-radius: 3px;
+}
+.carousel__indicators {
+    display: none;
+}
+.carousel__control {
+    opacity: 0.3 !important;
+    height: 15px !important;
+    width: 15px !important;
+    border-width: 3px 3px 0 0 !important;
+}
+.carousel__control:hover {
+    opacity: 1 !important;
+}
+
+
+// tags
+.tags {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.tags ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    padding: 0px 10px;
+    background-color: #ddd;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+
+// diary
+.row {
+    display: flex; /* equal height of the children */
+    margin-left: 0px;
+}
+.entries-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+}
+.grid__item {
+    flex-basis: 23%;
+    margin: 0px 1%;
+}
+.archive__item-teaser {
+    max-width: 200px; /* width of container */
+    max-height: 95px; /* height of container */
+    overflow: hidden;
+}
+.archive__item-teaser img {
+    //margin: -10px 0px 0px -180px;
+    width: 200px; /* width of container */
+    height: 95px; /* height of container */
+    object-fit: cover;
+    object-position: 50% 50%;
+    border-radius: 3px;
+}
+
+h2.archive__item-title {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 2px;
+}
+
+
+
+// megamenu
 span.mega-indicator:after {
     font-family: 'FontAwesome' !important;
     content: "\f041" !important;
 }
+
 
 // navigation previous, next page
 .nav_prev_next {
@@ -186,24 +188,22 @@ span.mega-indicator:after {
     margin-left: 15px;
     margin-right: 15px;
 }
-  
-  .nav_prev_next a {
+.nav_prev_next a {
     display: block;
     margin: 1em 0;
     padding-left: 10px;
     padding-right: 10px;
     background-color: #f4f4f4;
     border-radius: 5px;
-  }
-  
-  .nav_prev_next .prev {
+}
+.nav_prev_next .prev {
     text-align: left;
     float: left;
-  }
-  .nav_prev_next .next {
+}
+.nav_prev_next .next {
     text-align: right;
     float: right;
-  }
+}
 
 
 // home masonry
@@ -212,7 +212,6 @@ span.mega-indicator:after {
     flex-direction: row;
     flex-wrap: wrap;
 }
-
 .tile {
     margin: 5px;
     text-align: center;
@@ -223,7 +222,6 @@ span.mega-indicator:after {
 .tile:hover .overlay {
     opacity: 1;
 }
-
 .tile-overlay {
     position: absolute;
     left: 0;
@@ -234,11 +232,6 @@ span.mega-indicator:after {
     transition: .5s ease;
     background-color: #000;
     text-align: center;
-}
-
-.tags {
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 // lightbox
