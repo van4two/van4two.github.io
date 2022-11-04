@@ -6,9 +6,9 @@
 -->
 
 {% leaflet_map { "center" : [44.4949, 11.3426],
-                 "zoom" : 3,
+                 "zoom" : 2,
                  "providerBasemap": "Stamen.TonerLite" } %}
-    
+
                 {%- for post in site.posts -%}
                     {% if post.location.geojson %}
                             {% leaflet_geojson {{post.location.geojson}} %}
@@ -19,3 +19,6 @@
                 {% endfor %}
 
 {% endleaflet_map %}
+
+
+

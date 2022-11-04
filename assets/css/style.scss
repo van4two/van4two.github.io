@@ -214,7 +214,18 @@ span.mega-indicator:after {
 .leaflet-control-attribution {
     display: none;
 }
-
+.leaflet-shadow-pane {
+    display: none;
+}
+.leaflet-shadow-pane {
+    display: none;
+}
+.leaflet-marker-icon {
+    margin-left: -6px !important;
+    margin-top: -20px !important;
+    width: 13px !important;
+    height: 20px !important;
+}
 
 // home masonry
 .tiles {
