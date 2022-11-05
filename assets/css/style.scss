@@ -212,6 +212,11 @@ span.mega-indicator:after {
 
 
 // home map (leaflet)
+#map {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
 .leaflet-control-attribution {
     display: none;
 }
@@ -281,3 +286,4 @@ span.mega-indicator:after {
 .lb-data .lb-number {
     margin-top: 5px;
 }
+

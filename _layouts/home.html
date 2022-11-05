@@ -17,8 +17,16 @@
     
     {% include analytics.html %}
 
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+     integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+     crossorigin=""/>
+
     {% include head/custom.html %}
     
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js" integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+    <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script>
+    <script src="https://unpkg.com/leaflet-gesture-handling@1.1.8/dist/leaflet-gesture-handling.js"></script>
+
   </head>
   <body>
     <div class="wrapper" style="width: 1170px">
@@ -41,5 +49,8 @@
 
     {% include foot/custom.html %}
     
+    
+
+
   </body>
 </html>

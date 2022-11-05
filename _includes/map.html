@@ -5,20 +5,25 @@
 
 -->
 
-{% leaflet_map { "center" : [44.4949, 11.3426],
-                 "zoom" : 2,
-                 "providerBasemap": "Stamen.TonerLite" } %}
+<div id="map"></div>
 
-                {%- for post in site.posts -%}
-                    {% if post.location.geojson %}
-                            {% leaflet_geojson {{post.location.geojson}} %}
-                    {% elsif post.location.latitude and post.location.longitude %}
-                            {% leaflet_marker { "latitude" : {{post.location.latitude}},
-                                                "longitude" : {{post.location.longitude}} } %}
-                    {% endif %}
-                {% endfor %}
+<script>
+    // replace "toner" here with "terrain" or "watercolor"
+    var map = new L.Map("map", {
+        center: new L.LatLng(44.4949, 11.3426),
+        zoom: 2,
+        gestureHandling: true
+    });
 
-{% endleaflet_map %}
+    var layer = new L.StamenTileLayer("toner-lite");
+    map.addLayer(layer);
+    
+    L.marker([0,0], { title: 'title' } ).addTo(map);
 
+    {%- for post in site.posts -%}
+        {% if post.location.latitude and post.location.longitude %}
+            L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: '{{post.title}}'}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
+        {% endif %}
+    {% endfor %}
 
-
+</script>
