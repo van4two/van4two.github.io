@@ -17,8 +17,6 @@
 
     var layer = new L.StamenTileLayer("toner-lite");
     map.addLayer(layer);
-    
-    L.marker([0,0], { title: 'title' } ).addTo(map);
 
     {%- for post in site.posts -%}
         {% if post.location.latitude and post.location.longitude %}
