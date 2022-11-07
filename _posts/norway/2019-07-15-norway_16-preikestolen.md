@@ -3,7 +3,7 @@ layout: post
 title: Preikestolen
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
-tags: belvedere escursione fiordi lago trekking
+tags: [trekking, fiordi]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/16.jpg

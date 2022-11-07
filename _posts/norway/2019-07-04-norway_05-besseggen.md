@@ -3,7 +3,7 @@ layout: post
 title: Besseggen
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
-tags: trekking belvedere escursione lago montagna neve pedaggio strada-panoramica
+tags: [trekking, fiordi]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/05.jpg

@@ -3,7 +3,7 @@ layout: post
 title: Landmannalaugar
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
-tags: area-geotermale cascata geologia vulcano
+tags: [area geotermale, cascate]
 cat: iceland
 header:
     teaser: /assets/img/cover/iceland/03.jpg

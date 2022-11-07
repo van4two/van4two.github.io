@@ -3,7 +3,7 @@ layout: post
 title: Flåmsbana
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
-tags: belvedere crociera fiordi lago strada-panoramica unesco
+tags: [ferrovia, fiordi]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/13.jpg

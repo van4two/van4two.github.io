@@ -3,7 +3,7 @@ layout: post
 title: Mont Saint-Michel
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
-tags: patrimonio-culturale architettura campagna marea
+tags: [architettura, marea, cucina]
 cat: normandy
 header:
     teaser: /assets/img/cover/normandy/03.jpg

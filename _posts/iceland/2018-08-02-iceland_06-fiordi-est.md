@@ -3,7 +3,7 @@ layout: post
 title: Fiordi est 1
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
-tags: chiesa faro fiordi porto scogliera spiaggia walter-mitty
+tags: [scogliere, fiordi]
 cat: iceland
 header:
     teaser: /assets/img/cover/iceland/06.jpg

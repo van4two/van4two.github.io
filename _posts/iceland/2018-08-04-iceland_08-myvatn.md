@@ -3,7 +3,7 @@ layout: post
 title: Mývatn
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
-tags: area-geotermale cascata fiordi geologia vulcano
+tags: [area geotermale, cascate]
 cat: iceland
 header:
     teaser: /assets/img/cover/iceland/08.jpg

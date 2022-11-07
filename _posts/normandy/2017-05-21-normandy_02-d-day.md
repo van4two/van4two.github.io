@@ -3,7 +3,7 @@ layout: post
 title: Le spiagge del D-Day
 pics: 2017-05-20-normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
-tags: patrimonio-culturale storia
+tags: [spiaggia, storia]
 cat: normandy
 header:
     teaser: /assets/img/cover/normandy/02.jpg

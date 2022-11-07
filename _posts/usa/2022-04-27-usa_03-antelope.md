@@ -3,7 +3,7 @@ layout: post
 title: Antelope Canyon
 pics: 2022-04-25-usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
-tags: arizona slot-canyon fiume colorado trekking escursione state-park
+tags: [canyon, colorado river]
 cat: usa
 header:
     teaser: /assets/img/cover/usa-parks/03.jpg

@@ -4,7 +4,7 @@ title: Ciaspolata al Monte Specie
 #pics: 2018-07-28-iceland
 description: Monte Specie hike
 gallery_url: https://photos.app.goo.gl/22PwfAXEsewVfhJX6
-tags: montagna trekking neve ciaspole
+tags: [dolomiti, ciaspole]
 folder: _posts/italy
 #image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
 #{% contentfor sidebar %}

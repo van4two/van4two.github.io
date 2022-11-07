@@ -3,7 +3,7 @@ layout: post
 title: Geirangerfjord
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
-tags: belvedere crociera fiordi lago montagna strada-panoramica
+tags: [strada panoramica, fiordi, unesco]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/08.jpg

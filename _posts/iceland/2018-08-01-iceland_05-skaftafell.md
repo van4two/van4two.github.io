@@ -3,7 +3,7 @@ layout: post
 title: Skaftafell
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
-tags: cascata ghiacciaio iceberg laguna-glaciale spiaggia walter-mitty
+tags: [cascate, ghiacciaio]
 cat: iceland
 header:
     teaser: /assets/img/cover/iceland/05.jpg

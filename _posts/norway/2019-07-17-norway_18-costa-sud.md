@@ -3,7 +3,7 @@ layout: post
 title: Costa sud
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
-tags: faro lago mare porto traghetto
+tags:
 cat: norway
 header:
     teaser: /assets/img/cover/norway/18.jpg

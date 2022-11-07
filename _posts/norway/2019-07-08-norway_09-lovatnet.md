@@ -3,7 +3,7 @@ layout: post
 title: Lovatnet
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
-tags: ghiacciaio lago
+tags: [ghiacciaio]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/09.jpg

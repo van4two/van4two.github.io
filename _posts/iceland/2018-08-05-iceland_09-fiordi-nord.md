@@ -3,16 +3,14 @@ layout: post
 title: Fiordi nord
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
-tags: area-geotermale cascata fiordi geologia vulcano
+tags: [fiordi]
 header:
     teaser: /assets/img/cover/iceland/09.jpg
 ---
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=92 cap="Soffioni e fumarole nella Hverir geothermal area" %}
-
-Ci svegliamo sentendo dei colpi contro il furgone. Restiamo in ascolto: i bussi, sporadici, sono sul tetto. Mettiamo il naso fuori dal furgone e tutto pare tranquillo. Diamo un’occhiata al tettuccio e notiamo una serie di chiazze viola acceso, come se qualcuno avesse tirato manciate di mirtilli contro il furgone bianco: cacca di sterna artica! Evidentemente la nostra presenza deve averle infastidite e devono aver cercato di ricordarci che siamo nel loro territorio e che pertanto non siamo bene accetti. 
+Ci svegliamo sentendo dei colpi contro il furgone. Restiamo in ascolto: i bussi, sporadici, sono sul tetto. Mettiamo il naso fuori dal furgone e tutto pare tranquillo. Diamo un’occhiata al tettuccio e notiamo una serie di chiazze viola acceso, come se qualcuno avesse tirato manciate di mirtilli contro il furgone bianco: cacca di sterna artica! Evidentemente la nostra presenza deve averle infastidite e devono aver cercato di ricordarci che siamo nel loro territorio e che pertanto non siamo bene accetti.
 
 Facciamo colazione e ci spostiamo rapidamente a Siglufjörður paese, anche se di sterne non vediamo traccia. Il sole presente nel cielo quando ci siamo svegliati è ora coperto da nuvole grigie che rendono più ovattata l’atmosfera del villaggio di pescatori che dà il nome al fiordo nel quale è stato costruito. Notiamo barche dai colori accesi lungo i piccoli moli in legno e una grande quantità di uccelli (fra cui, probabilmente, anche le nostre sterne). Lungo la strada sono presenti capannoni in lamiera metallica, uno dei quali cattura la nostra attenzione per via dei colori accesi: al suo interno si trova il museo dell’aringa che Stefano trova assai interessante per via di tutti i macchinari esposti che venivano utilizzati quando l’industria dell’aringa costituiva la principale fonte dell’economia del paese, negli anni ‘40-50 del secolo scorso. Scopriamo poi per caso che il museo non apre prima delle 10 e che sarebbe a pagamento; un’addetta lo aveva aperto in anticipo per consentire l’accesso a visite guidate di gruppo.
 

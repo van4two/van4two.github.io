@@ -3,7 +3,7 @@ layout: post
 title: Bergen
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
-tags: architettura fiordi patrimonio-culturale porto traghetto unesco
+tags: [architettura, unesco]
 cat: norway
 header:
     teaser: /assets/img/cover/norway/15.jpg

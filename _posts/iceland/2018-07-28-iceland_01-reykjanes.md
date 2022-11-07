@@ -3,7 +3,7 @@ layout: post
 title: Reykjanes
 pics: 2018-07-28-iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
-tags: area-geotermale faro geologia
+tags: [area geotermale]
 cat: iceland
 header:
     teaser: /assets/img/cover/iceland/01.jpg
