@@ -11,7 +11,11 @@
     {% else %} href=""
     {% endif %} 
     data-lightbox="gallery"
-    data-title="{{ include.cap }}"
+    {% if include.link %}
+        data-title="{{ include.cap }}. Vedi <a href='{{ include.link }}'>link</a> "
+    {% else %}
+        data-title="{{ include.cap }}"
+    {% endif %} 
     >
         <img
         {% if include.id %} 
@@ -49,7 +53,11 @@
         {% else %} href=""
         {% endif %}
         data-lightbox="gallery"
-        data-title="{{ include.cap2 }}"
+        {% if include.link %}
+            data-title="{{ include.cap2 }}. Vedi <a href='{{ include.link2 }}'>link</a> "
+        {% else %}
+            data-title="{{ include.cap2 }}"
+        {% endif %} 
         >
             <img
             {% if include.id2 %} 
