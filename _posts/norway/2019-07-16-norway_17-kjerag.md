@@ -76,11 +76,11 @@ La lunga giornata termina con una bella doccia e una cena condita dalla brezza m
 {% contentfor sidebar %}
 
 **Info base trekking**  
-partenza: [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norway/listings-lister/hike-from-%C3%98ygardst%C3%B8l-to-langavatn-via-kjerag/7736/)  
-arrivo: [Kjeragbolten](https://www.fjordnorway.com/top-attractions/preikestolen/kjerag)  
-lunghezza itinerario a/r: 11 km  
-dislivello in salita: 800 m  
-tempo di percorrenza a/r: 6h (noi ci abbiamo messo 3h30’)
+Partenza: [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norway/listings-lister/hike-from-%C3%98ygardst%C3%B8l-to-langavatn-via-kjerag/7736/)  
+Arrivo: [Kjeragbolten](https://www.fjordnorway.com/top-attractions/preikestolen/kjerag)  
+Lunghezza itinerario a/r: 11 km  
+Dislivello in salita: 800 m  
+Tempo di percorrenza a/r: 6h (noi ci abbiamo messo 3h30’)
 
 **Logistica**  
 L’itinerario si apre con una salita ripidissima, accompagnata da cavi metallici con cui aiutarsi, che contribuiscono a segnalare la direzione della via; prosegue con una serie di sali scendi fino ad arrivare ad un ampio altopiano al termine del quale si trova lo stretto canyon con il grande masso incastrato. Il rientro avviene per lo stesso itinerario della salita.

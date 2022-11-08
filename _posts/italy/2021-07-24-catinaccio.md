@@ -77,13 +77,13 @@ Prima di rischiare di rilassarci troppo, riprendiamo la marcia: ora è tutta dis
 
 {% contentfor sidebar %}
 **Info base trekking**  
-partenza: Ciampedie  
-arrivo: Ciampedie  
-lunghezza itinerario: 19 km  
-dislivello in salita: 1290 m  
-durata: 7 h  
-tipologia itinerario: percorso ad anello  
-cartografia: [Tabacco 1:25.000, foglio 06](https://www.tabaccoeditrice.it/cartografie/25000/06-val-di-fassa-e-dolomiti-fassane/)
+Partenza: Ciampedie  
+Arrivo: Ciampedie  
+Lunghezza itinerario: 19 km  
+Dislivello in salita: 1290 m  
+Durata: 7 h  
+Tipologia itinerario: percorso ad anello  
+Cartografia: [Tabacco 1:25.000, foglio 06](https://www.tabaccoeditrice.it/cartografie/25000/06-val-di-fassa-e-dolomiti-fassane/)
 
 **Logistica** 
 Accesso: da Vigo di Fassa in funivia per Ciampedie; da Pera di Fassa in seggiovia (tre tronchi). In alternativa si può salire direttamente a piedi da Pera, dilatando però le tempistiche e le distanze già considerevoli ([info e orario impianti](https://www.catinacciodolomiti.it/it//orari-impianti-estate/))

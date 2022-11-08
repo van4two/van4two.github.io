@@ -58,7 +58,7 @@ Torniamo alla fermata del bus ad aspettare la prossima navetta (sono piuttosto f
 
 ## Grand Canyon village
 
-Ci spostiamo a Market plaza, location del [Grand Canyon Village](https://www.visitarizona.com/places/cities/grand-canyon-village/) dedicata ai servizi, dove facciamo acqua.
+Ci spostiamo a Market plaza, location del [Grand Canyon village](https://www.visitarizona.com/places/cities/grand-canyon-village/) dedicata ai servizi, dove facciamo acqua.
 
 {% include img.html id=3 cap="Uno scuolabus nei pressi del Grand Canyon village" %}
 
@@ -87,9 +87,9 @@ Per dormire, invece, ci spostiamo verso la [**Kaibab national forest**](https://
 **Tips**  
 [Grand Canyon National Park](https://www.nps.gov/grca/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
-Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il Grand Canyon NP rientra fra quelli inclusi.
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Il Grand Canyon NP rientra fra i parchi inclusi.
 
-Il [sito web](https://www.nps.gov/grca/index.htm) dedicato al Grand Canyon NP contiene materiale utile ad organizzare la propria visita al parco, fra cui mappe, orari e percorsi degli shuttles e informazioni sui principali trekking
+Il [sito web](https://www.nps.gov/grca/index.htm) dedicato al Grand Canyon NP contiene materiale utile ad organizzare la propria visita al parco: mappe, orari e percorsi degli shuttles, informazioni sui principali trekking, possibilità di pernottamento nel parco o nei pressi dello stesso, etc.
 
 Gli shuttles dei parchi nazionali sono gratuiti
 
