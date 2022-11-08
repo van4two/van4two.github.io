@@ -40,7 +40,7 @@ Attrattiva naturale sempre più nota - dicono - anche grazie ad [Instagram](http
 {% contentfor sidebar %}
 
 **Tips**  
-[Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website), Page: si tratta di una catena di motel che ritroveremo anche in Utah; camera doppia: 83 $/notte
+[Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website), Page: si tratta di una catena di motel che ritroveremo anche in Utah; camera doppia 83 $/notte
 
 [Lower Antelope Canyon](https://en.wikipedia.org/wiki/Antelope_Canyon) con [Dixies tours](https://www.antelopelowercanyon.com/): 66.08 $/persona, si consiglia di prenotare con forte anticipo per via delle disponibilità limitate
 
