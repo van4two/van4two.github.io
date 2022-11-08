@@ -12,9 +12,7 @@ header:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=1 cap="Didascalia" %}
-
-Ci svegliamo intorno alle 8 nel [Motel 6](https://www.google.com/search?q=motel+6+page&rlz=1C1GCEU_itIT915IT915&oq=motel+6+page&aqs=chrome.0.35i39i355j46i39i175i199j0i512j0i22i30l6j0i390.2399j0j7&sourceid=chrome&ie=UTF-8) di [Page](https://www.visitarizona.com/places/cities/page/). Una bella notte di sonno al caldo ci ha consentito di riprenderci dalla piccola impresa di [ieri](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Prima di dedicarci all'escursione di oggi, facciamo una ragionata sulle opzioni per la visita della [Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/) di domani. Timorosi di non riuscire ad accedervi con la nostra macchina, un po' per il fondo stradale sassoso (dal sito web ufficiale non è chiaro se l'utilizzo di un'auto dal SUV a crescere sia solo consigliato oppure obbligatorio), un po' per via del numero limitato degli accessi consentiti a partire da quest'anno (solo 15 auto private al giorno), optiamo per prenotare un tour guidato. Volendo vedere la Monument Valley all'alba, l'unica opzione che troviamo prenotabile online è la visita da 3 ore (90 $ a testa) con [Sandstone Tour](https://sandstonetours.com/). Acquistiamo i biglietti e lasciamo il motel.
+Ci svegliamo intorno alle 8 nel [Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website) di [Page](https://www.visitarizona.com/places/cities/page/). Una bella notte di sonno al caldo ci ha consentito di riprenderci dalla piccola impresa di [ieri](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Prima di dedicarci all'escursione di oggi, facciamo una ragionata sulle opzioni per la visita della [Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/) di [domani](https://www.van42.com/2022/04/28/usa_04-monument-valley.html). Timorosi di non riuscire ad accedervi con la nostra macchina, un po' per il fondo stradale sassoso (dal sito web ufficiale non è chiaro se l'utilizzo di un'auto dal SUV a crescere sia solo consigliato oppure obbligatorio), un po' per via del numero limitato degli accessi consentiti a partire da quest'anno (solo 15 auto private al giorno), optiamo per prenotare un tour guidato. Volendo vedere la Monument Valley all'alba, l'unica opzione che troviamo prenotabile online è la visita da 3 ore (90 $ a testa) con [Sandstone tour](https://sandstonetours.com/). Acquistiamo i biglietti e lasciamo il motel.
 
 ## Antelope Canyon
 
@@ -42,13 +40,15 @@ Attrattiva naturale sempre più nota - dicono - anche grazie ad [Instagram](http
 **Tips**  
 [Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website), Page: si tratta di una catena di motel che ritroveremo anche in Utah; camera doppia 83 $/notte
 
-[Lower Antelope Canyon](https://en.wikipedia.org/wiki/Antelope_Canyon) con [Dixies tours](https://www.antelopelowercanyon.com/): 66.08 $/persona, si consiglia di prenotare con forte anticipo per via delle disponibilità limitate
+[Lower Antelope Canyon](https://en.wikipedia.org/wiki/Antelope_Canyon) con [Dixies tours](https://www.antelopelowercanyon.com/): 66 $/persona, si consiglia di prenotare con forte anticipo per via delle disponibilità limitate. L'Antelope Canyon è al momento visitabile solo mediante tour guidati
 
-[Glen Canyon National Recreation Area](https://www.nps.gov/glca/index.htm): accesso 15 $/persona oppure 30 $/veicolo. Trattandosi di parco nazionale, è ricompreso negli ingressi coperti dal pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm).
+[Glen Canyon National Recreation Area](https://www.nps.gov/glca/index.htm): accesso 15 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. La Glen Canyon NRA rientra fra i parchi inclusi.
 
 [Horseshoe bend](https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm): accesso gratuito; costo parcheggio: 10 $
 
-Tour della [Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/) all'alba con [Sandstone Tour](https://sandstonetours.com/): 90 $/persona, durata 3h
+[Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/): tour all'alba con [Sandstone tour](https://sandstonetours.com/), 90 $/persona, durata 3h
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
