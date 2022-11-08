@@ -33,7 +33,7 @@ In 10 minuti siamo al molo di fronte allo Gjendesheim dove prendiamo il ferry de
 
 Partiamo per il **Besseggen** verso le 9:10: l’itinerario prevede una prima lunga salita, una serie di sali-scendi intermedi, la cresta vera e propria e una discesa graduale verso lo Gjendesheim: il tutto per 6–8 ore di cammino.
 
-{% include img.html img="besseggen_a-scaled.jpg" cap="Schema del percorso del Besseggen contenuto all'interno della brochure scaricabile dal [sito web dedicato](https://besseggen.net/informasjon/hike-over-besseggen/?lang=en)" %}
+{% include img.html img="besseggen_a-scaled.jpg" cap="Schema del percorso del Besseggen" link="https://besseggen.net/informasjon/hike-over-besseggen/?lang=en" %}
 
 {% include img.html id=56 cap="Dopo il primo tratto in salita in mezzo al verde, cominciamo ad addentrarci in aree spolverate di neve" %}
 

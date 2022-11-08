@@ -31,7 +31,7 @@ Partiamo quindi alla volta dello [**Jotunheimen National Park**](https://jotunhe
 
 {% include img.html id=31 cap="Punto di accesso alla Peer Gynt Vegen dove il pedaggio si paga con carta di credito: il sistema è completamente automatizzato" %}
 
-{% include img.html img="peer-gynt-vegen_a.jpg" cap="Cartina raffigurante l'itinerario della Peer Gynt Vegen (tratta dal [sito web Jannekes](http://www.jannekeswereld.nl/2015/06/13/peer-gynt-vegen-bergweg-noorwegen/))" %}
+{% include img.html img="peer-gynt-vegen_a.jpg" cap="Cartina raffigurante l'itinerario della Peer Gynt Vegen" link="http://www.jannekeswereld.nl/2015/06/13/peer-gynt-vegen-bergweg-noorwegen/" %}
 
 Ci risulta ci sia un pedaggio da pagare ma non ci è ancora chiaro come pagheremo in quanto, per accedere alla Peer Gynt Vegen, ci stiamo inerpicando su per i monti, lontano dalla civiltà. Oltretutto, provando ad impostare la strada come itinerario nel navigatore di [Google Maps](https://www.google.com/maps/@44.4786135,11.3724806,15z), il software cerca di indirizzarci verso altri tragitti e lo street view non la copre. Lungo la strada, però, troviamo cartelli che indicano proprio “Peer Gynt Vegen”, a mano a mano che ci avviciniamo ad essa: poco dopo l’accesso ci si presenta davanti il casello del pedaggio con sbarra automatica. Il sistema è completamente meccanizzato e accetta carte di credito. Paghiamo e iniziamo il percorso. Il paesaggio è selvaggio e verdeggiante con prevalenza di arbusti. Incontriamo rare macchine. Ci fermiamo a pranzare a un tavolo da picnic accanto a un bucolico corso d’acqua: che pace! Riprendiamo il percorso sterrato e procediamo fino al termine dell’itinerario.
 
@@ -55,9 +55,9 @@ La Jotunheimvegen attraversa da est a ovest un’area caratterizzata da ampi spa
 
 Il tratto di quest’ultima che va da Garli a Hindsæter, ovvero la [**Valdresflye**](https://www.nasjonaleturistveger.no/en/routes/valdresflye), è considerato [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) e attraversa una bella vallata offrendo svariati punti panoramici. Ci fermiamo al belvedere [Rjupa](https://www.nasjonaleturistveger.no/en/routes/valdresflye?attraction=Rjupa) che offre un’ampia vista sul lago Vinstre e sul paesaggio montuoso che incornicia la valle. Riprendiamo il nostro itinerario percorrendo la Fv51 verso nord. Purtroppo il cielo è grigio e a tratti piove/nevica. Notiamo un branco di renne muoversi in gruppo non lontano dalla strada: vedendo che hanno catturato la nostra attenzione, alcune di esse si fermano a guardarci a loro volta.
 
-{% include img.html img="valdresflye-brochure-1.jpg" cap="Copertina della brochure che illustra l'itinerario della Valdresflye, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/valdresflye)" %}
+{% include img.html img="valdresflye-brochure-1.jpg" cap="Copertina della brochure che illustra l'itinerario della Valdresflye, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/valdresflye" %}
 
-{% include img.html img="valdresflye-map.jpg" cap="Mappa dell'itinerario della Valdresflye, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/valdresflye))" %}
+{% include img.html img="valdresflye-map.jpg" cap="Mappa dell'itinerario della Valdresflye, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/valdresflye" %}
 
 ## Gjende
 

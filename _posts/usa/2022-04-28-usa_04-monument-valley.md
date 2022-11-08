@@ -42,7 +42,7 @@ Da qui raggiungiamo nuovamente l'asfalto sulla UT-261 e ci allunghiamo sul [**Mo
 
 ## Verso the Needles
 
-Qui visitiamo il [visitor center](https://www.utahscanyoncountry.com/monticello-visitors-center) dedicato a [Canyonlands](https://www.nps.gov/cany/index.htm): raccogliamo un po' di materiale e riceviamo indicazioni sulla strada più consigliata per raggiungere il settore del parco chiamato [The Needles](https://www.nps.gov/cany/planyourvisit/needles.htm). Dopo aver fatto acqua, benzina e un po' di spesa, imbocchiamo la North Creek road (UT-101) verso ovest e poi la Harts Draw road (UT-136), che si inoltra nella [**Manti-La Sal national forest**](https://www.fs.usda.gov/detail/mantilasal/home/?cid=fsm9_003092). 
+Qui visitiamo il [visitor center](https://www.utahscanyoncountry.com/monticello-visitors-center) dedicato a [Canyonlands](https://www.nps.gov/cany/index.htm): raccogliamo un po' di materiale e riceviamo indicazioni sulla strada più consigliata per raggiungere il settore del parco chiamato [The Needles](https://www.nps.gov/cany/planyourvisit/needles.htm). Dopo aver fatto acqua, benzina e un po' di spesa, imbocchiamo la North Creek road (UT-101) verso ovest e poi la Harts Draw road (UT-136), che si inoltra nella [**Manti-La Sal national forest**](https://www.fs.usda.gov/detail/mantilasal/home/?cid=fsm9_003092).
 
 Questo itinerario ci appare meraviglioso: sarà la vegetazione, saranno i colori del tramonto, o il fatto che ad ogni curva gruppetti di cervi ci attraversano la strada. Proseguiamo, piacevolmente colpiti, fino a immetterci nella UT-211, la strada principale che conduce a The Needles. Troviamo particolarmente panoramico anche questo tragitto ma, volendo arrivare a destinazione prima che faccia buio, non ci soffermiamo in soste fotografiche, che rimandiamo a domani. In particolare, attraversiamo l'[**Indian Creek**](https://www.visitutah.com/places-to-go/parks-outdoors/bears-ears-national-monument/indian-creek), nota [zona di arrampicata](https://www.climbing.com/places/commandments-indian-creek/) vista più volte in film e video sul web e passiamo accanto al [**Bears Ears National Monument**](https://www.visitutah.com/places-to-go/parks-outdoors/bears-ears-national-monument).
 
@@ -55,9 +55,11 @@ Per la notte puntiamo le aree per campeggio libero poco prima dell'ingresso. Qui
 {% contentfor sidebar %}
 
 **Tips**  
-Tour della Monument Valley all’alba con Sandstone Tour: 90 $/persona, durata 3h
+[Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/): tour all'alba con [Sandstone tour](https://sandstonetours.com/), 90 $/persona, durata 3h
 
-[Canyonlands NP](https://www.nps.gov/cany/index.htm): accesso 15 $/persona oppure 30 $/veicolo. Trattandosi di parco nazionale, è ricompreso negli ingressi coperti dal pass annuale America the Beautiful.
+[Canyonlands NP](https://www.nps.gov/cany/index.htm): accesso 15 $/persona oppure 30 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Canyonlands NP rientra fra i parchi inclusi.
 
 [Monticello visitor center](https://www.utahscanyoncountry.com/monticello-visitors-center): info sul Canyonlands NP, in particolare sul settore chiamato the [The Needles](https://www.nps.gov/cany/planyourvisit/needles.htm)
 

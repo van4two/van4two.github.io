@@ -19,9 +19,9 @@ Ci svegliamo nel [campeggio di Åndalsnes](https://www.andalsnes-camping.net/hom
 
 Ci dirigiamo ora verso la [**Trollstigen**](https://www.visitnorway.it/dove-andare/norvegia-dei-fiordi/trollstigen/), la “scala dei troll”, [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) considerata da brivido per via dei suoi 11 tornanti con pendenza del 12% . Purtroppo il cielo è interamente coperto.
 
-{% include img.html img="geiranger-trollstigen-brochure-1-scaled.jpg" cap="Copertina della brochure che illustra l'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/))" %}
+{% include img.html img="geiranger-trollstigen-brochure-1-scaled.jpg" cap="Copertina della brochure che illustra l'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/" %}
 
-{% include img.html img="geiranger-trollstigen-map-scaled.jpg" cap="Mappa dell'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/))" %}
+{% include img.html img="geiranger-trollstigen-map-scaled.jpg" cap="Mappa dell'itinerario della Trollstigen, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/" %}
 
 Percorriamo la Trollstigen ammirando il panorama della vallata sottostante e soffermandoci sulla cascata [Stigfossen](https://www.europeanwaterfalls.com/waterfalls/stigfossen-trollstigen/), che fiancheggia il tortuoso percorso. Non c’è modo di fermarsi lungo la strada, che si presenta ad una sola corsia con frequenti slarghi per consentire il passaggio nei due sensi di marcia.
 

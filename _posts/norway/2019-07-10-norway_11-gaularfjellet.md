@@ -19,9 +19,9 @@ Ci svegliamo nella valle del fiume Stardalselva provati dal trekking di ieri al 
 
 Partiamo in direzione Førde, intenti a percorrere la [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) **[Gaularfjellet](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet)**, che si snoda lungo il corso del Gaularvassdraget, in direzione parallela al Sognefjord. Percorrendo la E39 ci fermiamo a visitare la cascata **[Huldefossen](http://www.europeanwaterfalls.com/waterfalls/huldefossen/)** in un contesto bucolico, attorniata da mucche al pascolo, un fiume che scorre quieto e distese di fiori viola.
 
-{% include img.html img="gaularfjellet-brochure-1-scaled.jpg"  cap="Copertina della brochure che illustra l'itinerario della Gaularfjellet, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet))" %}
+{% include img.html img="gaularfjellet-brochure-1-scaled.jpg"  cap="Copertina della brochure che illustra l'itinerario della Gaularfjellet, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/gaularfjellet" %}
 
-{% include img.html img="gaularfjellet-map-scaled.jpg"  cap="Mappa dell'itinerario della Gaularfjellet, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet))" %}
+{% include img.html img="gaularfjellet-map-scaled.jpg"  cap="Mappa dell'itinerario della Gaularfjellet, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/gaularfjellet" %}
 
 Abbiamo due possibilità per percorrere la Gaurlarfjellet: prendere la Fv13 prima di Førde oppure raggiungere la città, facendo il tratto della E39 fino a Sande, e imboccare qui la Fv610. Le due varianti si uniscono poi al termine del lago **Viksdalsvatnet**. Optiamo per la seconda soluzione che sembra costituire la variante principale. Il paesaggio è magnifico, idilliaco con continui corsi d’acqua, cascate e laghetti con tanta vegetazione.
 

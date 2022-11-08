@@ -18,7 +18,7 @@ Sveglia alle 5 nella [Kaibab national forest](https://www.fs.usda.gov/kaibab), i
 L'intenzione è di recarci alla partenza del [**South Kaibab trail**](https://www.nps.gov/places/000/south-kaibab-trail.htm), percorrere il sentiero fin giù al [Colorado river](https://www.americanrivers.org/river/colorado-river-in-the-grand-canyon/), proseguire per il [Phantom ranch](https://www.grandcanyonlodges.com/lodging/phantom-ranch/) e, da lì, dopo esserci riposati, intraprendere i 1800 m di salita del [**Bright Angel trail**](https://www.nps.gov/places/000/bright-angel-trail.htm) fino a tornare sul [South Rim](https://www.nps.gov/grca/planyourvisit/placestogo.htm). Il rientro alla macchina è previsto tramite la navetta della [linea blu](https://www.nps.gov/grca/planyourvisit/village-blue-route.htm).
 Una ragazza tutta bardata con un grosso zaino in spalla si mette in fila dietro di noi. Ci chiediamo se siamo vestiti adeguatamente. Arriva la navetta: oltre a noi e alla ragazza super tecnica, sale anche un'altra coppia. Arriviamo alla nostra fermata e tutti quanti scendiamo dallo shuttle. Cerchiamo l'imbocco del sentiero. La coppia ci segue fino a che, percorrendo il bordo del Rim, lo troviamo.
 
-{% include img.html img="sk-ba.jpg" cap="Mappa dell'itinerario." link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf")" %}
+{% include img.html img="sk-ba.jpg" cap="Mappa dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
 
 ## L'attacco del South Kaibab trail
 

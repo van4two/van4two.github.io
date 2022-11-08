@@ -25,7 +25,7 @@ Ci dirigiamo verso la costa arrivando in due ore e mezza a **Veules-les-Roses**,
 
 {% include img.html id=5 cap="La Veules 'le plus petit fleuve de France'" %}
 
-{% include img.html id=7 cap="Mulino ad acqua lungo il corso della Veules – Water mill along the Veules" %}
+{% include img.html id=7 cap="Mulino ad acqua lungo il corso della Veules" %}
 
 {% include img.html id=10 cap="La Côte d'Albâtre durante la bassa marea" %}
 

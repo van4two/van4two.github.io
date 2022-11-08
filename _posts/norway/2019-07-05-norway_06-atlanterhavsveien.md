@@ -31,9 +31,9 @@ Procediamo oltre la cittadina intenti a raggiungere Kristiansund per poi percorr
 
 ## Atlanterhavsveien
 
-{% include img.html img="atlanterhavsvegen-brochure-1-scaled.jpg" cap="Copertina della brochure che illustra l'itinerario dell'Atlanterhavsveien, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen))" %}
+{% include img.html img="atlanterhavsvegen-brochure-1-scaled.jpg" cap="Copertina della brochure che illustra l'itinerario dell'Atlanterhavsveien, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen" %}
 
-{% include img.html img="atlanterhavsvegen-map-scaled.jpg" cap="Mappa dell'itinerario dell'Atlanterhavsveien, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen))" %}
+{% include img.html img="atlanterhavsvegen-map-scaled.jpg" cap="Mappa dell'itinerario dell'Atlanterhavsveien, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen" %}
 
 Poco prima di Molde, prendiamo la E39 verso nord-est e arriviamo a [**Kristiansund**](https://www.visitnorway.com/places-to-go/fjord-norway/northwest/kristiansund/) dove imbocchiamo direttamente la scenic route, ben segnalata. A tratti esce un pochino di sole. La “Strada dell’Atlantico” ha uno sviluppo di 36 km, e si snoda da Kårvåg a Bud lungo 17 piccole isole fra Vevang e Averøya con una serie di insoliti ponti.
 

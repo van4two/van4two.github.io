@@ -19,9 +19,9 @@ Ci svegliamo semi-congelati nel [camping di Maurvangen](https://www.maurvangen.n
 
 Lasciato il campeggio, ci dirigiamo verso Lom dove vogliamo approfondire le condizioni del [Besseggen](https://besseggen.net/?lang=en) presso l’ufficio turistico del parco, fare una mini spesa e da lì, poi, intraprendere la [**Sognefjellet**](https://www.nasjonaleturistveger.no/en/routes/sognefjellet), una delle strade turistiche nazionali che avevamo già messo in programma di percorrere in fase di pianificazione del viaggio. Presso il visitors center di Lom verifichiamo le meteo a breve termine, constatando che anche qui, come all’[ufficio turistico](https://en.lillehammer.com/?_ga=2.220187929.1600739022.1563625152-1046737073.1563625152) di Lillehammer, il riferimento è il sito web [storm.no](https://www.storm.no/). Le previsioni per stanotte sono di pioggerella/nevischio, mentre quelle per domani indicano sereno/variabile. Chiediamo se la strada della Sognefjellet è aperta e ci viene risposto di sì, precisando però che alle 20 i cancelli verranno chiusi per rischio neve durante la notte. Abbiamo tempo a sufficienza, quindi torniamo in macchina e partiamo alla volta della Sognefjellet.
 
-{% include img.html img="sognefjellet-brochure-1.jpg" cap="Copertina della brochure che illustra l&#039;itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/sognefjellet))" %}
+{% include img.html img="sognefjellet-brochure-1.jpg" cap="Copertina della brochure che illustra l'itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/sognefjellet" %}
 
-{% include img.html img="sognefjellet-map.jpg" cap="Mappa dell'itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi (tratta dal [sito web Norwegian Scenic Routes](https://www.nasjonaleturistveger.no/en/routes/sognefjellet))" %}
+{% include img.html img="sognefjellet-map.jpg" cap="Mappa dell'itinerario della Sognefjellet, una delle 18 Scenic Routes norvegesi" link="https://www.nasjonaleturistveger.no/en/routes/sognefjellet" %}
 
 ## Sognefjellet
 
