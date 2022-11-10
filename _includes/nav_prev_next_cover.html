@@ -1,0 +1,13 @@
+<!-- 
+    https://ajclarkson.co.uk/blog/jekyll-category-post-navigation/
+-->
+<div class="nav_prev_next">
+  {% if page.previous_in_category.url %}
+    <a href="{{page.previous_in_category.url}}" class="previous-link"> {{page.previous_in_category.title}} &raquo;</a>
+  {% endif %}
+  {% if page.next_in_category.url %}
+    <a href="{{page.next_in_category.url}}" class="next-link">&laquo; {{page.next_in_category.title}}</a>
+  {% endif %}
+</div>
+
+
