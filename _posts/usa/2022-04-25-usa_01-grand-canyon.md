@@ -36,9 +36,9 @@ Ci dirigiamo poi verso [Williams](https://experiencewilliams.com/) per proseguir
 
 Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - prevede un tour per i principali punti panoramici del [**South Rim**](https://www.nps.gov/grca/planyourvisit/placestogo.htm), così da dedicare domani interamente a un’[escursione a piedi](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Il parco del Grand Canyon è caratterizzato dai due Rim, ovvero "bordi" del canyon stesso, il North e il South Rim, non lontanissimi l'uno dall'altro in linea d'aria (pur essendo il Grand Canyon particolarmente ampio), ma posti a distanza reciproca di circa 4 ore di guida. La maggior parte dei visitatori si reca solamente al South Rim. Il [**North Rim**](https://www.nps.gov/grca/planyourvisit/north-rim.htm), che ci sarebbe piaciuto visitare, si trova in una posizione più remota e isolata e, in virtù della maggiore altitudine a cui si trova (oltre 2500 m), è caratterizzato da una stagione più breve. Nel 2022 l'apertura è prevista a metà maggio - troppo avanti rispetto al nostro viaggio - e la strada per raggiungerlo rimarrà chiusa fino a quella data.
 
-{% include img.html img="south-rim.jpg" cap="Mappa del South Rim tratta dal [sito ufficiale del parco](https://www.nps.gov/grca/learn/news/upload/trip-planner-grca.pdf)" %}
+{% include img.html img="south-rim.jpg" cap="Mappa del South Rim" link="https://www.nps.gov/grca/learn/news/upload/trip-planner-grca.pdf" %}
 
-{% include img.html img="south-rim-village.jpg" cap="Mappa del South Rim - sezione principale - tratta dal [sito ufficiale del parco](https://www.nps.gov/grca/learn/news/upload/grca_italian.pdf)" %}
+{% include img.html img="south-rim-village.jpg" cap="Mappa del South Rim - sezione principale" link="https://www.nps.gov/grca/learn/news/upload/grca_italian.pdf" %}
 
 Parcheggiamo in prossimità del [**Bright Angel lodge**](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/) e raggiungiamo a piedi la prima fermata della [navetta rossa](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), quella che percorre la Hermit road. Subito veniamo colpiti dalla vista di un gruppo di cervi praticamente accanto alla strada: non sembrano particolarmente disturbati dalla presenza umana.
 
@@ -85,9 +85,9 @@ Per dormire, invece, ci spostiamo verso la [**Kaibab national forest**](https://
 {% contentfor sidebar %}
 
 **Tips**  
-[Grand Canyon National Park](https://www.nps.gov/grca/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Grand Canyon National Park](https://www.nps.gov/grca/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15)
 
-Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Il Grand Canyon NP rientra fra i parchi inclusi.
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l'accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell'arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o da un nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Il Grand Canyon NP rientra fra i parchi inclusi
 
 Il [sito web](https://www.nps.gov/grca/index.htm) dedicato al Grand Canyon NP contiene materiale utile ad organizzare la propria visita al parco: mappe, orari e percorsi degli shuttles, informazioni sui principali trekking, possibilità di pernottamento nel parco o nei pressi dello stesso, etc.
 
