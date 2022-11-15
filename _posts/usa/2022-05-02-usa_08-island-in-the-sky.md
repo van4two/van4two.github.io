@@ -57,7 +57,7 @@ Arrivati alla macchina ripercorriamo a ritroso la strada fino a ritrovarci sulla
 **Tips**
 [Canyonlands NP](https://www.nps.gov/cany/index.htm): accesso 15 $/persona oppure 30 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
-Se si intende visitare più parchi, conviene considerare il pass annuale America the Beautiful che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Canyonlands NP rientra fra i parchi inclusi.
+Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Canyonlands NP rientra fra i parchi inclusi.
 
 [Island in the Sky](https://www.nps.gov/cany/planyourvisit/islandinthesky.htm): il settore più frequentato di Canyonlands; presso il visitor center è disponibile Wi-Fi gratuita
 

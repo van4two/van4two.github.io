@@ -12,7 +12,7 @@ header:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="IMGP4389_mod - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
+{% include img.html img="IMG20220427120502 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
 Ci svegliamo intorno alle 8 nel [Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website) di [Page](https://www.visitarizona.com/places/cities/page/). Una bella nottata di sonno al caldo ci ha consentito di riprenderci dalla piccola impresa di [ieri](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Prima di dedicarci all'escursione di oggi, facciamo una ragionata sulle opzioni per la visita della [Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/) di [domani](https://www.van42.com/2022/04/28/usa_04-monument-valley.html). Timorosi di non riuscire ad accedervi con la nostra macchina, un po' per il fondo stradale sassoso (dal sito web ufficiale non è chiaro se l'utilizzo di un'auto dal SUV a crescere sia solo consigliato oppure obbligatorio), un po' per via del numero limitato degli accessi consentiti a partire da quest'anno (solo 15 auto private al giorno), optiamo per prenotare un tour guidato. Volendo vedere la Monument Valley all'alba, l'unica opzione che troviamo acquistabile online è la visita da 3 ore con [Sandstone tour](https://sandstonetours.com/). Prendiamo i biglietti e lasciamo il motel.
 
@@ -26,8 +26,7 @@ La visita all'[**Antelope Canyon**](https://en.wikipedia.org/wiki/Antelope_Canyo
 
 Le opzioni ancora disponibili non erano tante per cui abbiamo prenotato una visita alle 11:15 e una alle 12:45 con [Dixies tours](https://www.antelopelowercanyon.com/). Confesso che, da ex teenager degli anni '90, l'Antelope Canyon mi è rimasto impresso fin da allora dal video di una [canzone](https://www.youtube.com/watch?v=IlV7RhT6zHs) di Britney Spears. Ci rechiamo sul posto: la sede operativa di Dixies è proprio in prossimità dello slot canyon. Dal momento che ci sono stati alcuni annullamenti dell'ultimo minuto, ci viene data la possibilità di effettuare la visita insieme.
 
-{% include img.html img="IMG20220427120502 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
-
+{% include img.html img="IMGP4389_mod - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 ## Lower Canyon
 
 Muniti di mascherina e macchina fotografica, attendiamo il nostro turno insieme ad altri visitatori. Veniamo divisi in gruppetti di 6-7 persone condotti ciascuno da una guida. La nostra è Jerry, di cui avevamo letto [ottime recensioni](https://www.tripadvisor.in/ShowUserReviews-g60834-d7255023-r854867871-Dixie_s_Lower_Antelope_Canyon_Tours-Page_Arizona.html) su internet. Il tour dura circa un'ora e i tempi sono, ahimè, piuttosto rigidi in relazione all'avvicendarsi dei vari gruppi uno dopo l'altro.
