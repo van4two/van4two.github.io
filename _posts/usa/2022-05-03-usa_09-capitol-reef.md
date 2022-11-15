@@ -12,8 +12,6 @@ header:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=1 cap="Didascalia" %}
-
 Ci svegliamo nei pressi di Notom Road, alle porte del [**Capitol Reef National Park**](https://www.nps.gov/care/index.htm). C'è il sole ma tira un gran vento, lo stesso che stanotte, verso le 3, ci ha svegliati scuotendo il minivan, che abbiamo dovuto spostare in una posizione meno esposta. Facciamo colazione e via, a visitare il parco.
 
 ## Capitol Reed National Park
