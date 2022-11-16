@@ -52,7 +52,7 @@ Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftro
 {% contentfor sidebar %}
 
 **Tips**  
-[Capitol Reef national park](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Capitol Reef National Park](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 l'accesso è gratuito ma la Scenic drive è a pagamento; è comunque coperta dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm)
 Se si intende visitare più parchi, infatti, conviene considerare il pass annuale America the Beautiful che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. 
 
