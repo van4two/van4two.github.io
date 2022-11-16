@@ -260,9 +260,15 @@ span.mega-indicator:after {
     text-align: center;
     line-height: 150px;
     font-size: 30px;
-    max-width: 49%;
     position: relative;
 }
+// desktop
+@media all and (min-width: 768px) {
+    .tile {
+        max-width: 49%;
+    }
+} 
+
 .tile:hover .overlay {
     opacity: 1;
 }
