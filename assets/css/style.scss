@@ -16,7 +16,6 @@ a:hover {
 }
 section:first-child {
     padding-bottom: 50px;
-    padding-right: 30px;
 }
 section:last-child {
     padding-bottom: 50px;
@@ -28,17 +27,38 @@ section:last-child {
     padding-left: 15px;
     padding-right: 15px;
 }
-.col1 {
-    flex-basis: 66%;
-    //height: 100vh;
-    text-align: center;
-    margin-right: 32px;
+article.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
-.col2 {
-    flex-basis: 33%;
-    //height: 100vh;
-    padding-top: 80px; // align to article title bottom
-}
+
+
+//mobile
+@media all and (max-width: 767px) {
+    article.container {
+        flex-wrap: wrap;
+    }
+    .col1 {
+    }
+    .col2 {
+    }
+} 
+// desktop
+@media all and (min-width: 768px) {
+    section:first-child {
+        padding-right: 30px;
+    } 
+    .col1 {
+        flex-basis: 66%;
+        text-align: center;
+        margin-right: 32px;
+    }
+    .col2 {
+        flex-basis: 33%;
+        padding-top: 80px; // align to article title bottom
+    }
+} 
 .wrapper {
     max-width: 100%;
     width: 1170px;
@@ -54,11 +74,7 @@ section:last-child {
     border-radius: 3px;
 }
 
-article.container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
+
 article h1 {
     font-family: 'Architects Daughter', sans-serif;
     font-size: 32px;
