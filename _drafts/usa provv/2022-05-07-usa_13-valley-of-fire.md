@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: nevada state-park vegas strip
 cat: usa
 header:
-    teaser: /assets/img/cover/usa-parks/13.jpg
+    teaser: /assets/img/cover/usa/13.jpg
 
 ---
 

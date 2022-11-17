@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: []
 cat: usa
 header:
-    teaser: /assets/img/cover/usa-parks/09.jpg
+    teaser: /assets/img/cover/usa/09.jpg
 
 ---
 

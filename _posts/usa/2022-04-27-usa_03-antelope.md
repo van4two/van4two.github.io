@@ -6,7 +6,7 @@ gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: [canyon, colorado river]
 cat: usa
 header:
-    teaser: /assets/img/cover/usa-parks/03.jpg
+    teaser: /assets/img/cover/usa/03.jpg
 
 ---
 
