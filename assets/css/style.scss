@@ -312,3 +312,8 @@ span.mega-indicator:after {
     margin-top: 5px;
 }
 
+// mega menu
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-disable-link > a.mega-menu-link {
+    opacity: 0.3;
+}
+

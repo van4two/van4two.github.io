@@ -31,27 +31,6 @@ exclude:
 - 'wp-jekyll'
 - '_drafts'
 
-navigation:
-- text: / about
-  url: index.html
-- text: / explore
-  url: about.html
-  columns: 2
-  sections:
-    - text: Europa
-      menu:
-      - text: Belgio - Ardenne
-        url: "#"
-      - text: Croazia
-      - text: Francia - Normandia
-      - text: Francia - Provenza
-      - text: Islanda
-    - text: Africa
-    - name: America
-    - name: Oceania
-- text: / news
-  url: blog.html
-
 analytics:
   provider: "google-gtag"
   google:

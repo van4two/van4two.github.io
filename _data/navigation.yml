@@ -1,50 +1,23 @@
-- name : Home
-  link : /
-- name : Explore
-  link : '#'
-- name : About
-  link : about.html
-- name : Blog
-  link : blog.html
-
-# primary:
-#   - title: Main Menu
-#     subfolderitems:
-#       - name: "Home"
-#         url: "../"
-#         weight: 2
-#       - name: "Pages"
-#         url: "#"
-#         weight: 3
-#         subsubfolderitems:
-#           - name: "About"
-#             url: "/about/"
-#             weight: 2
-#           - name: "Pricing"
-#             url: "/pricing/"
-#             weight: 2
-#           - name: "Faq's"
-#             url: "/faq/"
-#             weight: 2
-#           - name: "Contact"
-#             url: "/contact/"
-#             weight: 2
-#           - name: "Testimonial"
-#             url: "/testimonial/"
-#             weight: 2
-#           - name: "404"
-#             url: "/404/"
-#             weight: 2
-#       - name: "Blog"
-#         url: "#"
-#         weight: 3
-#         subsubfolderitems:
-#           - name: "Blog Listing"
-#             url: "/blog/"
-#             weight: 2
-#           - name: "Blog Single"
-#             url: "/adum-software-industry-how-achive-the-goal/"
-#             weight: 2
-#       - name: "Contact"
-#         url: "/contact/"
-#         weight: 2
+- text: / about
+- text: / travel
+  url: "#"
+  indicator: true
+  columns: 2
+  sections:
+  - text: Europa
+    column: 1
+    category: europa
+  - text: Africa
+    column: 1
+    category: africa
+  - text: America
+    column: 1
+    category: america
+  - text: Asia
+    column: 1
+    category: asia
+  - text: Oceania
+    column: 1
+    category: oceania
+- text: / hike
+- text: / social
