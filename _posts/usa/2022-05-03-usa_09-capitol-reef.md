@@ -12,6 +12,8 @@ header:
 
 {% google_photos page.gallery_url none %}
 
+{% include img.html img="IMGP5502 - fruita.jpg" cap="Il verde dell'area di Capitol Reef denominata Fruita contrasta con il rosso delle rocce retrostanti" %}
+
 Ci svegliamo nei pressi di Notom Road, alle porte del [**Capitol Reef National Park**](https://www.nps.gov/care/index.htm). C'è il sole ma tira un gran vento, lo stesso che stanotte, verso le 3, ci ha svegliati scuotendo il minivan, che abbiamo dovuto spostare in una posizione meno esposta. Facciamo colazione e via, a visitare il parco.
 
 ## Capitol Reed National Park
@@ -22,26 +24,45 @@ La strada continua ad essere panoramica come [ieri](https://www.van42.com/2022/0
 
 Cominciamo la nostra visita con il breve trekking per l'[**Hickman natural bridge**](https://www.nps.gov/care/learn/photosmultimedia/images/411%20-%20Hickman%20Trailhead%20-%20final%20resize.jpg): torniamo sulla strada principale e lasciamo l’auto nel parcheggio da cui partono diversi sentieri. Notiamo quasi subito e non con particolare entusiasmo che gli alberati attorno al parcheggio e lungo il primo tratto di sentiero sono colmi di nidi di processionarie. Una ragazza infatti ci viene incontro avvertendoci "Be careful, it’s raining caterpillars!” Anche per terra ce ne sono tantissime. Percorriamo questo primo tratto di sentiero di corsa, fino a trovarci in una zona rocciosa priva di vegetazione. Il sentiero di 1,4 km solo andata consente di raggiungere rapidamente l’imponente ponte naturale.
 
+{% include img.html img="IMGP5429 - hickman natural bridge.jpg" cap="L'imponente Hickman natural bridge" %}
+
 ## Fruita
 
 Dopo questa prima tappa ci dedichiamo a [**Fruita**](https://www.nps.gov/care/planyourvisit/fruita.htm), la parte del parco mantenuta a frutteto fin da quando venne colonizzata e vennero avanzati tentativi di rendere la terra coltivabile. Da giugno, quando gli alberi si caricano di mele, pere, pesche e prugne, i turisti possono cogliere la frutta direttamente dai rami e gustarla gratuitamente rimanendo all’interno del frutteto. E’ possibile anche acquistarne da portare via. Purtroppo ora la stagione è ancora indietro. Colpisce, comunque, questa oasi verdeggiante fra le rosse rocce assolate del deserto. Ci rechiamo alla [**Gifford house**](https://www.nps.gov/care/learn/historyculture/giffordhomestead.htm), fattoria e piccolo negozio di Fruita dove vengono venduti prodotti locali e prendiamo la loro nota torta di mele.
 
+{% include img.html img="IMGP5494 - fruita.jpg" cap="I verdeggianti frutteti di Fruita" %}
 ## Scenic drive
 
-Essendo ancora presto per il pranzo, percorriamo in auto la [**Scenic drive**](https://www.nps.gov/care/planyourvisit/scenicdrive.htm) il cui accesso è a pagamento - ma è coperto dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm). La strada corre lungo il [**Waterpocket fold**](https://www.nps.gov/care/planyourvisit/waterpocketdistrict.htm), una sorta di “piega”, di “ruga” nella roccia, come se la crosta terrestre si fosse qui ripiegata verso l’alto formando una lunga escrescenza. Ci fermiamo al parcheggio presso [**Pleasant creek**](https://www.nps.gov/care/planyourvisit/pleasant-creek.htm) - per proseguire sarebbe indicato un veicolo dal fondo alto - e pranziamo con la torta di mele. Sembra un crumble, quasi troppo zuccherato anche per gli standard di Ste, amante dei dolci. Il tempo, fino a questo momento un po’ nuvoloso, sembra migliorare. Cogliamo l’occasione per ripercorrere la Scenic drive in senso opposto a prima e ci fermiamo per una serie di tappe fotografiche presso l'**Egyptian temple** e la **Slick rock divide**. Tornati a Fruita ci inerpichiamo lungo il primo tratto del [**Cohab trail**](https://www.nps.gov/care/learn/photosmultimedia/images/507%20-%20Cohab%20Canyon%20Trail%20-%20final%20resize.jpg) fino a un belvedere che ci consente una visuale a 180° sul frutteto, la stalla dei cavalli e tutto il verde che contrasta con le rocce rosse della zona.
+Essendo ancora presto per il pranzo, percorriamo in auto la [**Scenic drive**](https://www.nps.gov/care/planyourvisit/scenicdrive.htm) il cui accesso è a pagamento - ma è coperto dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm). La strada corre lungo il [**Waterpocket fold**](https://www.nps.gov/care/planyourvisit/waterpocketdistrict.htm), una sorta di “piega”, di “ruga” nella roccia, come se la crosta terrestre si fosse qui ripiegata verso l’alto formando una lunga escrescenza.
 
+{% include img.html img="IMGP5466 - scenic drive.jpg" cap="Rilievi della Waterpocket fold lungo Scenic drive" %}
+
+Ci fermiamo al parcheggio presso [**Pleasant creek**](https://www.nps.gov/care/planyourvisit/pleasant-creek.htm) - per proseguire sarebbe indicato un veicolo dal fondo alto - e pranziamo con la torta di mele. Sembra un crumble, quasi troppo zuccherato anche per gli standard di Ste, amante dei dolci. Il tempo, fino a questo momento un po’ nuvoloso, sembra migliorare. Cogliamo l’occasione per ripercorrere la Scenic drive in senso opposto a prima e ci fermiamo per una serie di tappe fotografiche presso l'**Egyptian temple** e la **Slick rock divide**. Tornati a Fruita ci inerpichiamo lungo il primo tratto del [**Cohab trail**](https://www.nps.gov/care/learn/photosmultimedia/images/507%20-%20Cohab%20Canyon%20Trail%20-%20final%20resize.jpg) fino a un belvedere che ci consente una visuale a 180° sul frutteto, la stalla dei cavalli e tutto il verde che contrasta con le rocce rosse della zona.
+
+{% include img.html img="IMGP5446 - egyptian temple.jpg" cap="Il panorama lungo Scenic drive è costellato di formazioni geologiche come l'Egyptian temple" %}
+
+{% include img.html img="IMG_20220503_112605 - gifford house.jpg" cap="La caratteristica apple pie della Gifford house" %}
 ## Lungo la UT-24
 
-Dopo aver fatto acqua presso il visitor center, torniamo sulla UT-24 e ci fermiamo prima presso il [**Panorama point**](https://www.nps.gov/places/panorama-point-capitol-reef.htm) e, successivamente, proseguendo lungo una strada sterrata, lasciamo l’auto e raggiungiamo a piedi il [**Sunset point**](https://www.americansouthwest.net/utah/capitol_reef/sunset-point-trail.html) (600 m solo andata) e il [**Gooseneck overlook**](https://capitolreef.org/blog/sunset-and-goosenecks-trails/) (200 m solo andata).
+Dopo aver fatto acqua presso il visitor center, torniamo sulla UT-24 e ci fermiamo prima presso il [**Panorama point**](https://www.nps.gov/places/panorama-point-capitol-reef.htm) e, successivamente, proseguendo lungo una strada sterrata, lasciamo l’auto e raggiungiamo a piedi il [**Sunset point**](https://www.americansouthwest.net/utah/capitol_reef/sunset-point-trail.html) (600 m solo andata) e il [**Goosenecks overlook**](https://capitolreef.org/blog/sunset-and-goosenecks-trails/) (200 m solo andata).
+
+{% include img.html img="IMGP5528 - panorama point.jpg" cap="Vista da Panorama point" %}
+
+{% include img.html img="IMGP5532 - goosenecks overlook.jpg" cap="Vista del sottostante canyon serpeggiante dal Goosenecks overlook" %}
 
 ## Dixie national forest
 
 Dalla UT-24, poco prima di [Torrey](https://torreyutah.gov/), imbocchiamo la UT-12 verso sud. Questa strada si snoda nella [**Dixie national forest**](https://www.fs.usda.gov/dixie) che troviamo particolarmente panoramica. Rimaniamo colpiti per come, mentre guidiamo con il sole nel cielo, vediamo nell’aria cadere fiocchi di neve! raggiunto il passo a quota 9600 piedi (quasi 3000 m), comincia la discesa. 
 
+{% include img.html img="IMGP5551 - ut-12.jpg" cap="Ampi spazi verdeggianti lungo la UT-12" %}
 ## Grand Staircase Escalante national monument
 
 La strada prosegue ancora panoramica ma con un differente carattere mentre attraversiamo il [**Grand Staircase Escalante national monument**](https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument). Il giallo e il bianco cominciano a prevalere. In particolare ci soffermiamo sul promontorio panoramico **Hogback** su cui la strada stessa passa.
 Facciamo una sosta al visitor center del parco (a quest’ora ormai chiuso), dove troviamo comunque un po’ di materiale illustrativo e i servizi igienici aperti. Notiamo inoltre una serie di vaschette d’acqua appese in vari punti e scopriamo essere disposte per i colibrì che vengono a bere numerosi.
+
+{% include img.html img="IMGP5549 - grand staircase escalante.jpg" cap="Abbeveratoio per colibrì" %}
+
+{% include img.html img="IMGP5553 - ut-12.jpg" cap="Ampi spazi lungo la UT-12" %}
 
 Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftropicut.gov/), dove abbiamo prenotato il pernottamento per una notte presso il motel [Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn) che, al di là dei problemi iniziali per cui sembra che nessuna delle nostre carte venga riconosciuta, apprezziamo particolarmente.
 
