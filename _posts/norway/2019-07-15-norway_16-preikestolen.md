@@ -16,7 +16,7 @@ header:
 
 Sveglia alle 5. Anche oggi siamo i primi ad alzarci nell’[area di sosta Skjersvika](https://park4night.com/lieu/35327//j%C3%B8rpeland-ryfylkevegen/norway/strand#prettyPhoto). Il cielo è coperto: in effetti le [previsioni meteo](https://www.yr.no/) dichiaravano nuvolo fin verso le 8-9 del mattino, poi sole pieno. Ormai siamo rapidi nella preparazione: come per il [Trolltunga]({% post_url norway/2019-07-13-norway_14-trolltunga %}), ci vestiamo a strati ma relativamente leggeri, sulla base delle temperature previste e del fatto che questo itinerario è più breve rispetto ai precedenti. Ci spostiamo al non lontano parcheggio da cui accederemo a piedi al **[Preikestolen](https://www.visitnorway.com/listings/preikestolen/185743/)**.
 
-## Dove parcheggiareS
+## Dove parcheggiare
 
 Lungo il breve tratto della Preikestolvegen che si dirama dalla Rv13 notiamo gente accampata ovunque con tende, macchine e camper e, da un certo punto in avanti, cartelli di divieto di sosta lungo ambo i lati della strada, talmente fitti da togliere ogni dubbio sulla possibilità di lasciare il proprio mezzo lì accostato.
 
