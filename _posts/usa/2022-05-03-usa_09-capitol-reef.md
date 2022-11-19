@@ -40,7 +40,7 @@ Dalla UT-24, poco prima di [Torrey](https://torreyutah.gov/), imbocchiamo la UT-
 
 ## Grand Staircase Escalante national monument
 
-La strada prosegue ancora panoramica ma con un differente carattere mentre attraversiamo il [**Grand Staircase Escalante national monument](https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument). Il giallo e il bianco cominciano a prevalere. In particolare ci soffermiamo sul promontorio panoramico **Hogback** su cui la strada stessa passa.
+La strada prosegue ancora panoramica ma con un differente carattere mentre attraversiamo il [**Grand Staircase Escalante national monument**](https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument). Il giallo e il bianco cominciano a prevalere. In particolare ci soffermiamo sul promontorio panoramico **Hogback** su cui la strada stessa passa.
 Facciamo una sosta al visitor center del parco (a quest’ora ormai chiuso), dove troviamo comunque un po’ di materiale illustrativo e i servizi igienici aperti. Notiamo inoltre una serie di vaschette d’acqua appese in vari punti e scopriamo essere disposte per i colibrì che vengono a bere numerosi.
 
 Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftropicut.gov/), dove abbiamo prenotato il pernottamento per una notte presso il motel [Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn) che, al di là dei problemi iniziali per cui sembra che nessuna delle nostre carte venga riconosciuta, apprezziamo particolarmente.
