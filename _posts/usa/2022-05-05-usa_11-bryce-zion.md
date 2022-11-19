@@ -39,6 +39,8 @@ Equipaggiati per domani, veniamo attratti da un intenso e stuzzicante odore di c
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=13YeL8fLlnIYCt2xclNAM5_L1A6vVh6k&ehbc=2E312F" width="640" height="480"></iframe>
+
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=119473584&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 {% endcontentfor %}
 
 {% contentfor sidebar %}
