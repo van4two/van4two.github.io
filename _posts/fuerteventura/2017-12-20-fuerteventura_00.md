@@ -1,6 +1,6 @@
 ---
 layout: cover
-category: cover
+categories: [cover, europa]
 title: Fuerteventura e Lanzarote
 #tags: [area geotermale, cascate, geyser, fotografia, spiaggia, bird watching, ghiacciaio, scogliere, fiordi]
 #gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
