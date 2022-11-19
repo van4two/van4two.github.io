@@ -12,8 +12,6 @@ header:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=1 cap="Didascalia" %}
-
 Sveglia alle 5 al motel [Best host inn](https://panguitch.com/business-directory/knights-inn-panguitch/) di [Panguitch](https://panguitch.com/). Ci prepariamo rapidi, effettuiamo la prenotazione per la "lotteria" studiata ieri sera per l'[Angels landing](https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm) che spereremmo di percorrere [domani]() a [Zion NP](https://www.nps.gov/zion/index.htm) ed entriamo in macchina con 26° Fahrenheit (-3.3°C!). Guidiamo verso il [**Bryce Canyon National Park**](https://www.nps.gov/brca/index.htm) ma, chiacchierando, ci distraiamo e dopo un po' cominciamo a notare indicazioni per [Phoenix](https://www.phoenix.gov/). Resici conto di aver mancato una svolta, torniamo sui nostri passi. Chissà se riusciremo ad arrivare in tempo per l'alba!
 
 ## Bryce Canyon National Park all'alba
@@ -39,6 +37,8 @@ Equipaggiati per domani, veniamo attratti da un intenso e stuzzicante odore di c
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=13YeL8fLlnIYCt2xclNAM5_L1A6vVh6k&ehbc=2E312F" width="640" height="480"></iframe>
+
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=119473584&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 {% endcontentfor %}
 
 {% contentfor sidebar %}
