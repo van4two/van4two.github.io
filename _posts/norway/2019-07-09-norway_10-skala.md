@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Monte Skåla
+categories: [hike]
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: [trekking, fiordi]

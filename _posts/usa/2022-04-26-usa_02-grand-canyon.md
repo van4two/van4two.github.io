@@ -1,6 +1,7 @@
 ---
 layout: post
 title: South Kaibab - Bright Angel trail
+categories: [hike]
 pics: 2022-04-25-usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: [canyon, colorado river, trekking]

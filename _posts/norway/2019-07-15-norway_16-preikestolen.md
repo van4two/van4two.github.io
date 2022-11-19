@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Preikestolen
+categories: [hike]
 pics: 2019-06-30-norway
 gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 tags: [trekking, fiordi]

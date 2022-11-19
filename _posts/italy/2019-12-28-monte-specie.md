@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ciaspolata al Monte Specie
+categories: [hike]
 #pics: 2018-07-28-iceland
 description: Monte Specie hike
 gallery_url: https://photos.app.goo.gl/22PwfAXEsewVfhJX6

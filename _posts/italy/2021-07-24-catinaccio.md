@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Catinaccio d'Antermoia per il sentiero delle Scalette
+categories: [hike]
 #pics: 2018-07-28-iceland
 description: Antermoia hike
 gallery_url: https://photos.app.goo.gl/HKxe99fdkdZ38Qp37
