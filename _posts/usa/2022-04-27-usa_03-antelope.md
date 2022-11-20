@@ -22,7 +22,7 @@ La visita all'[**Antelope Canyon**](https://en.wikipedia.org/wiki/Antelope_Canyo
 
 {% include img.html img="IMGP4277 - dixie's.jpg" cap="La sede operativa di Dixies si trova proprio nei pressi dell'Antelope Canyon" %}
 
-{% include img.html img="IMGP4284 - antelope.jpg" cap="L'Antelope Canyon si presenta esternamente come una fenditura el terreno'" %}
+{% include img.html img="IMGP4284 - antelope.jpg" cap="L'Antelope Canyon si presenta dall'esterno come una sottile e quasi impercettibile fenditura nel terreno" %}
 
 Le opzioni ancora disponibili non erano tante per cui abbiamo prenotato una visita alle 11:15 e una alle 12:45 con [Dixies tours](https://www.antelopelowercanyon.com/). Confesso che, da ex teenager degli anni '90, l'Antelope Canyon mi è rimasto impresso fin da allora dal video di una [canzone](https://www.youtube.com/watch?v=IlV7RhT6zHs) di Britney Spears. Ci rechiamo sul posto: la sede operativa di Dixies è proprio in prossimità dello slot canyon. Dal momento che ci sono stati alcuni annullamenti dell'ultimo minuto, ci viene data la possibilità di effettuare la visita insieme.
 
