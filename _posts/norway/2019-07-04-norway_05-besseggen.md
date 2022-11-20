@@ -97,9 +97,10 @@ A questo punto ci indirizziamo verso nord, intenti a percorrere un po’ di stra
 **Info base trekking**  
 Partenza: [Memurubu](https://www.memurubu.no/)  
 Arrivo: [Gjendesheim](https://gjendesheim.dnt.no/en/)  
-Lunghezza itinerario: 13.3 km  
+Distanza: 13.3 km  
 Dislivello in salita: 950 m  
-Tempo di percorrenza: 6–8h
+Durata: 6–8h
+Tipologia itinerario: one way
 
 **Logistica**  
 Come spiegato sul [sito web dedicato](https://besseggen.net/information/?lang=en), il trekking è percorribile in entrambi i sensi: la maggior parte degli escursionisti sceglie di partire da [Memurubu](https://www.memurubu.no/) lasciando la macchina allo [Gjendesheim](https://gjendesheim.dnt.no/en/) in modo da prendere subito il [ferry](https://www.gjende.no/en/) ed essere poi indipendente (percorrendo il tragitto al contrario, invece, occorre terminarlo in tempo per poter prendere l’ultimo ferry per tornare allo Gjendesheim e al parcheggio)

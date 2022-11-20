@@ -93,9 +93,9 @@ Non ci resta che raggiungere il Kjeragbolten via terra, prendendo il traghetto d
 **Info base trekking**  
 Partenza: Resvatnet ([Preikestolen base camp](https://preikestolenbasecamp.com/?lang=en))  
 Arrivo: [Preikestolen](https://www.visitnorway.com/places-to-go/fjord-norway/the-stavanger-region/listings-stavanger/preikestolen/185743/)  
-Lunghezza itinerario a/r: 7.6-8 km (a seconda del parcheggio di partenza)  
+Distanza a/r: 7.6-8 km (a seconda del parcheggio di partenza)  
 Dislivello in salita: 350 m  
-Tempo di percorrenza a/r: 4-5h (noi ci abbiamo messo 2h20′)
+Durata effettiva a/r: 2h20′ (indicata: 4-5h)
 
 **Logistica**  
 L’itinerario, ben segnalato, prevede una più o meno costante ma comoda salita nel bosco fino ad affacciarsi sul [Lysefjord](http://www.lysefjordeninfo.no/) in corrispondenza del Preikestolen. Il rientro avviene per lo stesso itinerario della salita.

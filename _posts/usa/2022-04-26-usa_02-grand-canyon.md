@@ -113,10 +113,10 @@ Considerato il gelo patito la notte scorsa a questa quota, siamo convinti di vol
 **Info base trekking**  
 Partenza: South Kaibab trailhead, [Desert view drive](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm)  
 Arrivo: [Bright Angel trailhead](https://www.nps.gov/places/000/bright-angel-trailhead.htm?utm_source=place&utm_medium=website&utm_campaign=experience_more&utm_content=small), [Grand Canyon village](https://www.visitarizona.com/places/cities/grand-canyon-village/)  
-Lunghezza itinerario: 27 km  
+Distanza: 27 km  
 Dislivello in salita: 1813 m  
 Durata: 10h 30' soste comprese  
-Tipologia itinerario: one way 
+Tipologia itinerario: one way  
 Tappe: South Kaibab trailhead (7:00) - Cedar ridge (7:38) - Skeleton point (8:30) - Tipoff (9:25) - Black bridge (10:30) - Boat beach - Phantom ranch (11:15-12:00) - River resthouse (13:00) - Indian garden (14:25) - 3 mile resthouse (15:30) - 1.5 mile resthouse (16:25) - Bright Angel trailhead (17:30)
 
 **Logistica**  

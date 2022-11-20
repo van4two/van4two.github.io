@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bryce Canyon - Zion
+categories: [hike]
 pics: 2022-04-25-usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: [anfiteatro naturale, camini delle fate]
@@ -21,7 +22,7 @@ Entriamo nel parco che ancora tutto tace e andiamo diretti al [**Inspiration poi
 
 ## Peek-A-Boo loop trail
 
-Verso le 7 ci spostiamo al [**Sunset point**](https://www.nps.gov/brca/planyourvisit/sunset.htm) dove ci sono tavoli da pic-nic per fare colazione, dopodiché torniamo sul Rim per qualche scatto con la bella luce del primo mattino, decisamente migliore rispetto alla situazione di [ieri](https://www.van42.com/2022/05/04/usa_10-bryce.html). Ora ci spostiamo a [**Bryce point**](https://www.nps.gov/brca/planyourvisit/brycepoint.htm): da qui infatti parte il [**Peek-A-Boo loop trail**](https://www.nps.gov/brca/planyourvisit/peekabooloop.htm). Anche questa volta Ste opta per dormire un po' in macchina pertanto intraprendo l'escursione da sola. Già solo il Bryce point offre ottime visuali su fitti gruppi di hoodoos, i "camini delle fate". Dopo una panoramica dall'alto, mi avvio per il sentiero. Il sito del parco indica dalle 3 alle 4 ore per percorrerlo. Il primo tratto scende nell'anfiteatro per 1,5 km circa: super! Viste meravigliose sui camini delle fate valorizzati dalla luce del primo mattino. Incrocio poche altre persone. Piano piano mi tolgo i vari strati di abbigliamento e comincio a pentirmi di aver tenuto indosso i [Vertigo Montura](https://www.montura.it/it/vertigo-pants-mplsv0x-ps084/). Procedo sul loop vero e proprio imboccandolo in senso orario. Il percorso consiste di una serie di sali-scendi continui, arrivando in breve al [**Wall of windows**](https://www.nps.gov/places/000/wall-of-windows-hike-the-hoodoos.htm). Nella parte alta della parete di roccia sono presenti, infatti, due "finestre" create dall'erosione prodotta dal vento. Arrivo al punto in cui il Peek-A-Boo incrocia il [Navajo loop trail](https://www.nps.gov/brca/planyourvisit/navajotrail.htm) percorso [ieri](https://www.van42.com/2022/05/04/usa_10-bryce.html): proseguo sul mio anello fino a raggiungere il punto di risalita già percorso all'andata in discesa. Chiudo l'itinerario di 7.4 km in 2h20'. Raggiungo Ste che sta ancora dormendo in macchina, facciamo una rapida tappa al [visitor center](https://www.nps.gov/brca/planyourvisit/tourvisitor.htm) per fare acqua e sfruttare un'ultima volta la connessione Wi-Fi e salutiamo il Bryce Canyon.
+Verso le 7 ci spostiamo al [**Sunset point**](https://www.nps.gov/brca/planyourvisit/sunset.htm) dove ci sono tavoli da pic-nic per fare colazione, dopodiché torniamo sul Rim per qualche scatto con la bella luce del primo mattino, decisamente migliore rispetto alla situazione di [ieri](https://www.van42.com/2022/05/04/usa_10-bryce.html). Ora ci spostiamo a [**Bryce point**](https://www.nps.gov/brca/planyourvisit/brycepoint.htm): da qui infatti parte il [**Peek-A-Boo loop trail**](https://www.nps.gov/brca/planyourvisit/peekabooloop.htm). Anche questa volta Ste opta per dormire un po' in macchina pertanto intraprendo l'escursione da sola. Già solo il Bryce point offre ottime visuali su fitti gruppi di hoodoos, i "camini delle fate". Dopo una panoramica dall'alto, mi avvio per il sentiero. Il sito del parco indica dalle 3 alle 4 ore per percorrerlo. Il primo tratto scende nell'anfiteatro per 1,5 km circa: super! Viste meravigliose sui camini delle fate valorizzati dalla luce del primo mattino. Incrocio poche altre persone. Piano piano mi tolgo i vari strati di abbigliamento e comincio a pentirmi di aver tenuto indosso i [Vertigo Montura](https://www.montura.it/it/vertigo-pants-mplsv0x-ps084/). Procedo sul loop vero e proprio imboccandolo in senso orario. Il percorso consiste di una serie di sali-scendi continui, arrivando in breve al [**Wall of windows**](https://www.nps.gov/places/000/wall-of-windows-hike-the-hoodoos.htm). Nella parte alta della parete di roccia sono presenti, infatti, due "finestre" create dall'erosione prodotta dal vento. Arrivo al punto in cui il Peek-A-Boo incrocia il [Navajo loop trail](https://www.nps.gov/brca/planyourvisit/navajotrail.htm) percorso [ieri](https://www.van42.com/2022/05/04/usa_10-bryce.html): proseguo sul mio anello fino a raggiungere il punto di risalita già percorso all'andata in discesa. Raggiungo Ste che sta ancora dormendo in macchina, facciamo una rapida tappa al [visitor center](https://www.nps.gov/brca/planyourvisit/tourvisitor.htm) per fare acqua e sfruttare un'ultima volta la connessione Wi-Fi e salutiamo il Bryce Canyon.
 
 Incredibile pensare al gelo di stamattina e al super caldo che c'è ora. Attraversiamo il [**Red canyon**](https://www.viaggi-usa.it/red-canyon-utah/) già visto ieri sera e ci fermiamo a pranzare nel parcheggio da cui partono diversi sentieri. Mentre Ste raccoglie legna per il falò che vorremmo fare una delle prossime sere - generalmente fuori dai parchi è consentito - io preparo il pranzo. Sazi, ci rimettiamo al volante, direzione [Zion National Park](https://www.nps.gov/zion/index.htm).
 
@@ -42,6 +43,13 @@ Equipaggiati per domani, veniamo attratti da un intenso e stuzzicante odore di c
 {% endcontentfor %}
 
 {% contentfor sidebar %}
+
+**Info base trekking**  
+Partenza: Bryce point  
+Arrivo: Bryce point  
+Distanza: 8.3 km  
+Dislivello in salita: 600 m  
+Durata effettiva a/r: 2h20′ (indicata: 3-4h)
 
 **Tips**
 [Bryce Canyon National Park](https://www.nps.gov/care/index.htm) accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).

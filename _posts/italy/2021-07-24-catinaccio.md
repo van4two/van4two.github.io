@@ -80,7 +80,7 @@ Prima di rischiare di rilassarci troppo, riprendiamo la marcia: ora è tutta dis
 **Info base trekking**  
 Partenza: Ciampedie  
 Arrivo: Ciampedie  
-Lunghezza itinerario: 19 km  
+Distanza: 19 km  
 Dislivello in salita: 1290 m  
 Durata: 7 h  
 Tipologia itinerario: percorso ad anello  

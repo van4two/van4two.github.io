@@ -42,7 +42,7 @@ L’escursione è lunga ma poco impegnativa e di semplicissima lettura: il primo
 **Info base trekking**  
 Partenza: Carbonin  
 Arrivo: Monte Specie  
-Lunghezza itinerario: 10 km  
+Distanza a/r: 10 km  
 Dislivello in salita: 860 m  
 
 {% endcontentfor %}
