@@ -3,7 +3,7 @@ layout: home
 ---
 
 <!-- Google Map-->
-{% include map.html %}
+{% include map.html category="cover" %}
 
 <div class="tiles">
   {% for post in site.posts %}
