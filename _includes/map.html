@@ -16,20 +16,29 @@
     map.gestureHandling.enable();
 
     var mark = L.icon({
-        iconUrl: '/assets/icon/map_pin.png',
-        iconSize:     [38, 95], // size of the icon
+        iconUrl: '/assets/icon/map_pin_red.png',
+        iconSize: [38, 95],
     });
     var mark_nok = L.icon({
         iconUrl: '/assets/icon/map_pin_dark.png',
-        iconSize:     [38, 95], // size of the icon
+        iconSize: [38, 95],
+    });
+    var mark_hike = L.icon({
+        iconUrl: '/assets/icon/map_pin_blue.png',
+        iconSize: [38, 95], 
     });
 
-    {%- for post in site.posts -%}
+    {% for post in site.posts %}
+        {% unless post.categories contains include.category %}{% continue %} {% endunless %}
         {% if post.location.latitude and post.location.longitude %}
             {% if post.location.ok %}
-                L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: '{{post.title}}', icon: mark}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
+                {% if include.category == "hike" %}
+                    L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: "{{post.title}}", icon: mark_hike}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
+                {% else %}
+                    L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: "{{post.title}}", icon: mark}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
+                {% endif %}
             {% else %}
-                L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: '{{post.title}}', icon: mark_nok}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
+                L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: "{{post.title}}", icon: mark_nok}).addTo(map).on('click', function(e) { window.open('{{post.url | relative_url}}','_self'); });
             {% endif %}
         {% endif %}
     {% endfor %}

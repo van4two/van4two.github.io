@@ -5,13 +5,7 @@
         <ul class="site-branding navbar-items nav pull-left">
           <li class="nav-item">
             <div class="branding-inner-wrap">
-              <a
-                href="{{site.url}}"
-                rel="home"
-                class="site-title"
-                data-wpel-link="internal"
-                >van42</a
-              >
+              <a href="{{site.url}}" rel="home" class="site-title" data-wpel-link="internal">van42</a>
               <p class="site-description">a campervan travel log</p>
             </div>
           </li>
@@ -24,37 +18,10 @@
               <div class="menu-close"><i class="icon-close"></i></div>
             </div>
           </div>
-          <li
-            id="site-navigation"
-            class="main-navigation nav-item"
-            role="navigation"
-          >
-
-            <div id="mega-menu-wrap-primary" class="mega-menu-wrap">
-              <div class="mega-menu-toggle">
-                <div class="mega-toggle-blocks-left"></div>
-                <div class="mega-toggle-blocks-center"></div>
-                <div class="mega-toggle-blocks-right">
-                  <div
-                    class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-1"
-                    id="mega-toggle-block-1"
-                    tabindex="0"
-                  >
-                    <span
-                      class="mega-toggle-label"
-                      role="button"
-                      aria-expanded="false"
-                      ><span class="mega-toggle-label-closed">MENU</span
-                      ><span class="mega-toggle-label-open">MENU</span></span
-                    >
-                  </div>
-                </div>
-              </div>
-              
-              <!-- megamenu <ul> include here -->
-              {% include megamenu.md %}
-
-            </div>
+          <li id="site-navigation" class="main-navigation nav-item" role="navigation">
+          
+            {% include megamenu.md %}
+          
           </li>
         </ul>
         <!-- .navigation-section -->

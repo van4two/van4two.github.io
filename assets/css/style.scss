@@ -194,11 +194,17 @@ h2.archive__item-title {
 
 
 // megamenu
-span.mega-indicator:after {
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-disable-link > a.mega-menu-link {
+    opacity: 0.3;
+}
+#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span#mega-indicator-travel::after {
     font-family: 'FontAwesome' !important;
     content: "\f041" !important;
 }
-
+#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span#mega-indicator-hike::after {
+    font-family: 'FontAwesome' !important;
+    content: "\f6ec" !important;
+}
 
 // navigation previous, next page
 .nav_prev_next {
@@ -257,14 +263,17 @@ span.mega-indicator:after {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 .tile {
-    margin: 5px;
     text-align: center;
     line-height: 150px;
     font-size: 30px;
     position: relative;
+    width: calc(25% - 5px);
+    margin-bottom: 5px;
 }
+
 // desktop
 @media all and (min-width: 768px) {
     .tile {
@@ -279,12 +288,13 @@ span.mega-indicator:after {
     display: inline;
 }
 .tile-overlay {
+    display: inline-block;
     position: absolute;
-    float: left;
+    //float: left;
     left: 0;
     right: 0;
     height: 100%;
-    line-height: 330px;
+    //line-height: 330px;
     transition: .5s ease;
     text-align: center;
     color: rgba($color: #fff, $alpha: 0);
@@ -294,6 +304,8 @@ span.mega-indicator:after {
     color: rgba($color: #fff, $alpha: 1);
     background-color: rgba($color: #000000, $alpha: 0.5);
 }
+
+
 
 // lightbox
 .lightbox .lb-image {
@@ -312,8 +324,5 @@ span.mega-indicator:after {
     margin-top: 5px;
 }
 
-// mega menu
-#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-disable-link > a.mega-menu-link {
-    opacity: 0.3;
-}
+
 

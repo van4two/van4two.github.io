@@ -1,3 +1,17 @@
+<div id="mega-menu-wrap-primary" class="mega-menu-wrap">
+<div class="mega-menu-toggle">
+<div class="mega-toggle-blocks-left"></div>
+<div class="mega-toggle-blocks-center"></div>
+<div class="mega-toggle-blocks-right">
+    <div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-1" id="mega-toggle-block-1" tabindex="0">
+    <span class="mega-toggle-label" role="button" aria-expanded="false">
+        <span class="mega-toggle-label-closed">MENU</span>
+        <span class="mega-toggle-label-open">MENU</span>
+    </span>
+    </div>
+</div>
+</div>
+
 <ul 
 id="mega-menu-primary"
 class="mega-menu max-mega-menu mega-menu-horizontal"
@@ -26,12 +40,17 @@ data-hover-intent-interval="100">
 
     {% if link.sections  %}
     <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-right mega-menu-grid mega-menu-item-{{navIndex}}" id="mega-menu-item-{{navIndex}}">
-    <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" aria-haspopup="true" aria-expanded="false" tabindex="0"> {{ link.text }} {% if link.indicator %} <span class="mega-indicator" data-has-click-event="true"></span> {% endif %}
+    <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" aria-haspopup="true" aria-expanded="false" tabindex="0">
+    {{ link.text }} 
+    {% if link.indicator %} <span class="mega-indicator" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
     </a>
 
     {% else %}
     <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-{{navIndex}}" id="mega-menu-item-{{navIndex}}">
-    <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" tabindex="0" data-wpel-link="internal">{{link.text}}</a>
+    <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" tabindex="0" data-wpel-link="internal">
+    {{link.text}}
+    {% if link.indicator %} <span class="mega-indicator" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
+    </a>
     
     {% endif%}
 
@@ -81,3 +100,5 @@ data-hover-intent-interval="100">
 {% endfor %}
 
 </ul>
+
+</div>

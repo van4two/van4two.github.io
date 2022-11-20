@@ -42,6 +42,8 @@
                 "cSpell.language": "en,it"
             },
             "extensions": [
+                // license header manager
+                "ymotongpoo.licenser",
                 // yaml for data files
                 "redhat.vscode-yaml",
                 // liquid templating syntax highlighting

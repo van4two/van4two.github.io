@@ -5,7 +5,11 @@
 		}
 	],
 	"settings": {
-		"nrf-connect.toolchain.path": "PATH",
+		
+		"licenser.author": "van42.com",
+		"licenser.useSPDXLicenseFormat": true,
+		"licenser.license": "CC-BY-NC-ND-4",
+
 		"cSpell.customDictionaries": {
 			"dict_it": {
 				"name": "dictionary_IT",
