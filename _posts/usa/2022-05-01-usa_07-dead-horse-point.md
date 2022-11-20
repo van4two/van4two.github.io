@@ -30,9 +30,9 @@ Ci rechiamo direttamente lì: il colpo d'occhio è notevole, abbraccia una vasta
 
 {% include img.html img="IMGP5380 - dead horse point.jpg" cap="Scoiattolo in cerca di cibo" %}
 
-{% include img.html img="IMGP5225 - dead horse point.jpg" cap="Praire dog" %}
+{% include img.html img="IMGP5225 - dead horse point.jpg" cap="Prairie dog" %}
 
-{% include img.html img="IMGP5378 - dead horse point.jpg" cap="Pausa pranzo rigenerante" %}
+{% include img.html img="IMGP5378 - dead horse point_sfoc.jpg" cap="Pausa pranzo rigenerante" %}
 
 Percorriamo un tratto del **West rim**, che corre dal Dead Horse point overlook verso l'ingresso del parco. Lasciamo la macchina al punto noto come **the Neck**, lo stretto passaggio che consente di arrivare al Dead Horse point overlook, quello che, nella legenda, i cowboys chiusero lasciando numerosi cavalli dalla parte opposta  a morire di sete. Il percorso è segnato con qualche cartello e con ometti di pietre e costeggia più o meno il bordo del Rim. Alcuni punti sono estremamente esposti e si percepisce che la roccia, sotto di noi, scende a precipizio. Arriviamo al **Meander overlook** e, poco dopo, al **Shafer canyon overlook**, che avevamo appuntato come la location in cui è stata girata la scena finale di [Thelma & Louise](https://it.wikipedia.org/wiki/Thelma_%26_Louise). In realtà, visto dal vivo, non ci pare che il luogo coincida con quello del film, infatti, collegandoci ad internet più tardi, comprendiamo che la scena è stata girata nello **Shafer canyon** vero e proprio, in corrispondenza del **White rim**, quindi più sotto rispetto al belvedere dove ci troviamo noi ora.
 
