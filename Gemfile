@@ -8,9 +8,16 @@ group :jekyll_plugins do
     gem 'jekyll-google-photos', git: 'https://github.com/cooked/jekyll-google-photos.git', branch: 'patch-1_jekyll-4'
    
     gem 'github-pages', '~> 227'
-#    gem 'jekyll-menus'
-    gem 'jekyll-leaflet'
+
+    # TODsupport for Leaflet maps
+
     gem 'jekyll-contentblocks'
+
+    # liquid variables in Frontmatter
+    # https://github.com/gemfarmer/jekyll-liquify
+    # https://stackoverflow.com/questions/14487110/include-jekyll-liquid-template-data-in-a-yaml-variable
+    gem 'jekyll-liquify'
+
 
     # TODO: this gets conflicting ruby 2
     #gem 'jekyll-target-blank'   # open external links in new window

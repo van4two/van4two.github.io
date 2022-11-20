@@ -261,25 +261,31 @@ h2.archive__item-title {
 // home masonry
 .tiles {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
+    flex-direction: row;
     justify-content: space-between;
 }
 .tile {
     text-align: center;
-    line-height: 150px;
     font-size: 30px;
     position: relative;
-    width: calc(25% - 5px);
-    margin-bottom: 5px;
+    //width: calc(25% - 5px);
+    padding: 5px;
+    //margin-bottom: 5px;
+    flex: 33%;
 }
 
-// desktop
-@media all and (min-width: 768px) {
+@media (max-width: 500px) {
     .tile {
-        max-width: 49%;
+        flex: 100%;
     }
 } 
+@media (min-width: 800px) {
+    .tile {
+        flex: 50%;
+    }
+} 
+
 
 .tile:hover .overlay {
     opacity: 1;

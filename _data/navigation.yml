@@ -1,7 +1,7 @@
 - text: / about
-  url: about.html
+  url: /about.html
 - text: / travel
-  url: "#"
+  url: ""
   indicator: travel
   columns: 2
   sections:
@@ -21,6 +21,6 @@
     column: 1
     category: oceania
 - text: / hike
-  url: hike.html
+  url: /hike.html
   indicator: hike
 - text: / social
