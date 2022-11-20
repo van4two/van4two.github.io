@@ -7,7 +7,15 @@ description: Monte Specie hike
 gallery_url: https://photos.app.goo.gl/22PwfAXEsewVfhJX6
 tags: [dolomiti, ciaspole]
 folder: _posts/italy
-#image: /wp-content/uploads/2019/10/IMGP3259-2.jpg
+
+header:
+    teaser: /assets/img/cover/italy/specie.jpg
+
+location:
+  longitude: 12.2122
+  latitude: 46.6464
+  ok: true
+
 #{% contentfor sidebar %}
 #{% endcontentfor %}
 ---
@@ -35,7 +43,7 @@ L’escursione è lunga ma poco impegnativa e di semplicissima lettura: il primo
 {% include img.html id=23 cap="Dalla cima lo sguardo spazia verso est sulle Dolomiti di Sesto, soffermandosi sulle Tre cime di Lavaredo, fino ai Cadini di Misurina" %}
 
 {% contentfor mymap %}
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117155954&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117155954&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    
+    {% include seo.html %}
+    {% include analytics.html %}
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+     integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+     crossorigin=""/>
+
+    {% include head/custom.html %}
+    
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js" integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+    <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script>
+
+    <!-- leaflet map gesture handler-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-gesture-handling@1.1.8/dist/leaflet-gesture-handling.min.css">
+    <script src="https://unpkg.com/leaflet-gesture-handling@1.1.8/dist/leaflet-gesture-handling.js"></script>
+    
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+      {% include nav.html %}
+      </header>
+
+      <section style="float: none">
+      {{ content }}
+      </section>
+
+      <footer>
+      </footer>
+    </div>
+
+    {% include foot/custom.html %}
+    
+  </body>
+</html>
