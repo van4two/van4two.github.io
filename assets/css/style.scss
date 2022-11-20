@@ -4,10 +4,13 @@
 body {
     padding-top: 0;
 }
+p {
+    hyphens: auto;
+}
 header {
     width: 100%;
     position: inherit;
-    padding-top: 30px;
+    padding: 25px 0 10px 0;
 }
 a:hover {
     font-weight: bold;
@@ -102,6 +105,9 @@ article figure img {
     margin-right: 0;
     margin-bottom: 15px;
 }
+
+
+// header (incl. megamenu navigation)
 .header-menu {
     width: 100%;
     margin: auto;
@@ -117,6 +123,23 @@ a.site-title {
 }
 .site-description {
     display: block;
+}
+.site-branding {
+    float: left;
+}
+.navigation-section {
+    float: right;
+}
+
+@media (min-width: 768px) {
+    .col-md-12 {
+        display: block;
+        flex: none;
+    }
+}
+
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-disable-link > a.mega-menu-link {
+    opacity: 0.3;
 }
 
 
@@ -191,20 +214,6 @@ h2.archive__item-title {
     margin-bottom: 2px;
 }
 
-
-
-// megamenu
-#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item li.mega-disable-link > a.mega-menu-link {
-    opacity: 0.3;
-}
-#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span#mega-indicator-travel::after {
-    font-family: 'FontAwesome' !important;
-    content: "\f041" !important;
-}
-#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span#mega-indicator-hike::after {
-    font-family: 'FontAwesome' !important;
-    content: "\f6ec" !important;
-}
 
 // navigation previous, next page
 .nav_prev_next {
@@ -285,7 +294,6 @@ h2.archive__item-title {
         flex: 50%;
     }
 } 
-
 
 .tile:hover .overlay {
     opacity: 1;

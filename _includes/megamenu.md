@@ -42,14 +42,14 @@ data-hover-intent-interval="100">
     <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-right mega-menu-grid mega-menu-item-{{navIndex}}" id="mega-menu-item-{{navIndex}}">
     <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" aria-haspopup="true" aria-expanded="false" tabindex="0">
     {{ link.text }} 
-    {% if link.indicator %} <span class="mega-indicator" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
+    {% if link.indicator %} <span class="mega-indicator fa-solid fa-{{link.indicator}}" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
     </a>
 
     {% else %}
     <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-{{navIndex}}" id="mega-menu-item-{{navIndex}}">
     <a class="mega-menu-link" href="{% if link.url=="" %} # {%else%} {{ link.url }} {% endif %}" tabindex="0" data-wpel-link="internal">
     {{link.text}}
-    {% if link.indicator %} <span class="mega-indicator" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
+    {% if link.indicator %} <span class="mega-indicator fa-solid fa-{{link.indicator}}" id="mega-indicator-{{link.indicator}}" data-has-click-event="true"></span> {% endif %}
     </a>
     
     {% endif%}

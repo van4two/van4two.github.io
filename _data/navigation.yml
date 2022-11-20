@@ -1,8 +1,8 @@
 - text: / about
   url: /about.html
 - text: / travel
-  url: ""
-  indicator: travel
+  url: /index.html
+  indicator: location-dot
   columns: 2
   sections:
   - text: Europa
@@ -22,7 +22,7 @@
     category: oceania
 - text: / hike
   url: /hike.html
-  indicator: hike
+  indicator: mountain
 - text: / social
   url: ""
   indicator: social

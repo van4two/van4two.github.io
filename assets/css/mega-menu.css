@@ -975,24 +975,6 @@
     padding-left: 20px;
   }
 }
-#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator:after {
-  content: '\f140';
-  font-family: dashicons;
-  font-weight: normal;
-  display: inline-block;
-  margin: 0 0 0 6px;
-  vertical-align: top;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  transform: rotate(0);
-  color: inherit;
-  position: relative;
-  background: transparent;
-  height: auto;
-  width: auto;
-  right: auto;
-  line-height: inherit;
-}
 #mega-menu-wrap-primary #mega-menu-primary li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator {
   display: inline;
   height: auto;
