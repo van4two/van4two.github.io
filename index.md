@@ -9,8 +9,10 @@ layout: home
   {% for post in site.posts %}
     {% if post.layout contains "cover" and post.location.ok %}
     <div class="tile">
-      <img src="{{ post.image }}" alt="" class="tile-img">
-      <a href="{{ post.url }}" class="tile-overlay"> {{ post.title }} </a>
+      <a href="{{ post.url }}" class="">
+        <img src="{{ post.image }}" alt="" class="tile-img">
+        <div class="tile-overlay">{{post.title}}</div>
+      </a>
     </div>
     {% endif %}
   {% endfor %}
