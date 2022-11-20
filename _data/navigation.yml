@@ -24,3 +24,5 @@
   url: /hike.html
   indicator: hike
 - text: / social
+  url: ""
+  indicator: social
