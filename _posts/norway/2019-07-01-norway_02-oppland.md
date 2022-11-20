@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Verso l'Oppland
-pics: 2019-06-30-norway
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: [architettura]
 cat: norway
-header:
-    teaser: /assets/img/cover/norway/02.jpg
+
+gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+pics: 2019-06-30-norway
+day: "02"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

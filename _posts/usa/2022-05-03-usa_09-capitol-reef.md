@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Capitol Reef
-pics: 2022-04-25-usa
-gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: []
 cat: usa
-header:
-    teaser: /assets/img/cover/usa/09.jpg
 
+gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
+pics: 2022-04-25-usa
+day: "09"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -2,13 +2,13 @@
 layout: post
 title:  Bryce Canyon - Zion
 categories: [hike]
-pics: 2022-04-25-usa
-gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 tags: [anfiteatro naturale, camini delle fate]
 cat: usa
-header:
-    teaser: /assets/img/cover/usa/11.jpg
 
+gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
+pics: 2022-04-25-usa
+day: "10"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}
@@ -18,7 +18,6 @@ Sveglia alle 5 al motel [Best host inn](https://panguitch.com/business-directory
 ## Bryce Canyon National Park all'alba
 
 Entriamo nel parco che ancora tutto tace e andiamo diretti al [**Inspiration point**](https://www.nps.gov/brca/planyourvisit/inspiration.htm), che abbiamo letto essere una delle migliori location per vedere l'alba. Il termometro della macchina indica che fuori ci sono ancora 26° Fahrenheit. Arriviamo al parcheggio che già il cielo è più chiaro e notiamo diverse macchine. Appena giunti sul Rim, ai alza un vento gelido che rende molto difficoltose le nostre manovre per montare il cavalletto e preparare la reflex e il cellulare di Ste per un time-lapse. Ci posizioniamo battendo i denti e aprendo una confezione di "scaldini". Albeggia: proviamo a scattare una serie di foto con risultati apparentemente mediocri. L'alba di per sé sulle [guglie](https://www.nps.gov/brca/learn/nature/hoodoos.htm) del Bryce Canyon, però, è meravigliosa. Ce la godiamo nonostante il freddo. Una volta che il sole si è alzato, smontiamo il cavalletto, Ste va a rintanarsi in macchina con il riscaldamento acceso mentre io rimango ancora in po' a fare foto avanti e indietro per il Rim, approfittando della luce calda del primo mattino.
-
 
 ## Peek-A-Boo loop trail
 

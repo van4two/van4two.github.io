@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Fiordi est 2
-pics: 2018-07-28-iceland
-gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 tags: [bird watching]
 cat: iceland
-header:
-    teaser: /assets/img/cover/iceland/07.jpg
+
+gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
+pics: 2018-07-28-iceland
+day: "07"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

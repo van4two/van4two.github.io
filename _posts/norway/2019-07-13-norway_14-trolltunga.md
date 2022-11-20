@@ -2,12 +2,13 @@
 layout: post
 title: Trolltunga
 categories: [hike]
-pics: 2019-06-30-norway
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: [trekking, fiordi]
 cat: norway
-header:
-    teaser: /assets/img/cover/norway/14.jpg
+
+gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+pics: 2019-06-30-norway
+day: "14"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

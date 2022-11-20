@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Costa sud
-pics: 2019-06-30-norway
-gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
-tags:
+tags: []
 cat: norway
-header:
-    teaser: /assets/img/cover/norway/18.jpg
+
+gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
+pics: 2019-06-30-norway
+day: "18"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Fiordi est 1
-pics: 2018-07-28-iceland
-gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 tags: [scogliere, fiordi]
 cat: iceland
-header:
-    teaser: /assets/img/cover/iceland/06.jpg
+
+gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
+pics: 2018-07-28-iceland
+day: "06"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

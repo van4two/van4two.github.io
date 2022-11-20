@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Gaularfjellet
-pics: 2019-06-30-norway
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 tags: [strada panoramica, fiordi]
 cat: norway
-header:
-    teaser: /assets/img/cover/norway/11.jpg
+
+gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+pics: 2019-06-30-norway
+day: "11"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

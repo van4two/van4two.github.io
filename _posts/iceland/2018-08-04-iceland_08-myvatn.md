@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Mývatn
-pics: 2018-07-28-iceland
-gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 tags: [area geotermale, cascate]
 cat: iceland
-header:
-    teaser: /assets/img/cover/iceland/08.jpg
+
+gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
+pics: 2018-07-28-iceland
+day: "08"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: La Côte d'Albâtre
-pics: 2017-05-20-normandy
-gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 tags: [scogliere]
 cat: normandy
-header:
-    teaser: /assets/img/cover/normandy/01.jpg
+
+gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
+pics: 2017-05-20-normandy
+day: "01"
+teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
 {% google_photos page.gallery_url none %}
