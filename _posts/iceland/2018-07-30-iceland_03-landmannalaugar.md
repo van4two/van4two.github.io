@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Landmannalaugar
+categories: [hike]
 tags: [area geotermale, cascate]
 cat: iceland
 
@@ -8,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 pics: 2018-07-28-iceland
 day: "03"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  latitude: 63.9830
+  longitude: -19.0670
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
