@@ -48,5 +48,6 @@ Partenza: Carbonin
 Arrivo: Monte Specie  
 Distanza a/r: 10 km  
 Dislivello in salita: 860 m  
+Tipologia itinerario: double back
 
 {% endcontentfor %}
