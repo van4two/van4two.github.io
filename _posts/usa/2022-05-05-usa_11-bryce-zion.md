@@ -2,7 +2,7 @@
 layout: post
 title:  Bryce Canyon - Zion
 categories: [hike]
-tags: [anfiteatro naturale, camini delle fate]
+tags: [anfiteatro naturale, camini delle fate, trekking]
 cat: usa
 
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
