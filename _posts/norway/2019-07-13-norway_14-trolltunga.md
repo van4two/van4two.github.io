@@ -9,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 pics: 2019-06-30-norway
 day: "14"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 60.1242
+  latitude: 6.7400
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
@@ -98,7 +103,8 @@ Partenza: Vetlavatnet ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-
 Arrivo: [Trolltunga](https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/hiking-to-trolltunga/)  
 Distanza a/r: 28 km  
 Dislivello in salita: 1200 m  
-Durata effettiva a/r: 7h (indicata: 10-12h)
+Durata effettiva a/r: 7h (indicata: 10-12h)  
+Tipologia itinerario: double back
 
 **Logistica**  
 L’itinerario può essere intrapreso partendo dal parcheggio principale ([P2](https://www.fjordnorway.com/things-to-do/trolltunga-p958013)) o, se si trova posto, da quello alto ([P3](https://www.trolltunganorway.com/en_GB/parking)): nel primo caso si percorrono 28 km (a/r), nel secondo solo 20, risparmiando i primi 400 m di dislivello su tornanti asfaltati. In alternativa, uno [shuttle](https://www.trolltunganorway.com/en_GB/activity/100402/bus-from-skjeggedal-to-maagelitopp-to-the-upper-starting-point-for-the-trolltunga-hike) collega i due parcheggi ogni mezzora.

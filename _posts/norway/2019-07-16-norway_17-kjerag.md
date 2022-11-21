@@ -9,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 pics: 2019-06-30-norway
 day: "17"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 59.0347
+  latitude: 6.5775
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
@@ -82,7 +87,8 @@ Partenza: [Øygardstøl](https://www.visitnorway.com/places-to-go/southern-norwa
 Arrivo: [Kjeragbolten](https://www.fjordnorway.com/top-attractions/preikestolen/kjerag)  
 Distanza a/r: 11 km  
 Dislivello in salita: 800 m   
-Durata effettiva a/r: 3h30′ (indicata: 6h)
+Durata effettiva a/r: 3h30′ (indicata: 6h)  
+Tipologia itinerario: double back
 
 **Logistica**  
 L’itinerario si apre con una salita ripidissima, accompagnata da cavi metallici con cui aiutarsi, che contribuiscono a segnalare la direzione della via; prosegue con una serie di sali scendi fino ad arrivare ad un ampio altopiano al termine del quale si trova lo stretto canyon con il grande masso incastrato. Il rientro avviene per lo stesso itinerario della salita.

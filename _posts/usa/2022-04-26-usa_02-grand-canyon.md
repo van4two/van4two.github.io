@@ -9,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 pics: 2022-04-25-usa
 day: "02"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 36.0529
+  latitude: -112.0830
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}

@@ -9,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 pics: 2019-06-30-norway
 day: "10"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 61.8744
+  latitude: 6.9791
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
@@ -96,7 +101,8 @@ Partenza: [Loen](https://www.visitnorway.com/places-to-go/fjord-norway/nordfjord
 Arrivo: [Skålatårnet](https://en.wikipedia.org/wiki/Sk%C3%A5la_(Sogn_og_Fjordane))  
 Distanza a/r: 16 km  
 Dislivello in salita: 1829 m  
-Durata a/r: 8h
+Durata a/r: 8h  
+Tipologia itinerario: double back
 
 **Logistica**  
 L’itinerario prevede una costante e faticosa salita, inizialmente lungo sentieri in mezzo al verde, per poi procedere nella neve oltre il lago Skålavatnet. Una volta arrivati in vetta si può pernottare in uno dei due bivacchi, [Skålatårnet](https://en.wikipedia.org/wiki/Sk%C3%A5la_(Sogn_og_Fjordane)) e [Skålabu](https://ut.no/hytte/101254/skalabu), entrambi gestiti dalla [Norwegian Trekking Association](https://www.dnt.no/) (DNT) ma privi di personale sul posto. Il rientro avviene per lo stesso itinerario della salita. L’escursione può essere effettuata anche in giornata.

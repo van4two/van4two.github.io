@@ -9,6 +9,11 @@ gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 pics: 2019-06-30-norway
 day: "16"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 58.9864
+  latitude: 6.1904
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
@@ -96,7 +101,8 @@ Partenza: Resvatnet ([Preikestolen base camp](https://preikestolenbasecamp.com/?
 Arrivo: [Preikestolen](https://www.visitnorway.com/places-to-go/fjord-norway/the-stavanger-region/listings-stavanger/preikestolen/185743/)  
 Distanza a/r: 7.6-8 km (a seconda del parcheggio di partenza)  
 Dislivello in salita: 350 m  
-Durata effettiva a/r: 2h20′ (indicata: 4-5h)
+Durata effettiva a/r: 2h20′ (indicata: 4-5h)  
+Tipologia itinerario: double back
 
 **Logistica**  
 L’itinerario, ben segnalato, prevede una più o meno costante ma comoda salita nel bosco fino ad affacciarsi sul [Lysefjord](http://www.lysefjordeninfo.no/) in corrispondenza del Preikestolen. Il rientro avviene per lo stesso itinerario della salita.

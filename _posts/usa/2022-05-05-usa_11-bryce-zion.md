@@ -9,11 +9,16 @@ gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 pics: 2022-04-25-usa
 day: "11"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+
+location:
+  longitude: 37.6227
+  latitude: -112.1660
+  ok: true
 ---
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="IMGP5813 - inspiration point.jpg" cap="Inspiration point all'alba" %}
+{% include img.html img="IMGP5832 - sunset point.jpg" cap="Camini delle fate e Sunset point" %}
 
 Sveglia alle 5 al motel [Best host inn](https://panguitch.com/business-directory/knights-inn-panguitch/) di [Panguitch](https://panguitch.com/). Ci prepariamo rapidi, effettuiamo la prenotazione per la "lotteria" studiata ieri sera per l'[Angels landing](https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm) che spereremmo di percorrere [domani]() a [Zion NP](https://www.nps.gov/zion/index.htm) ed entriamo in macchina con 26° Fahrenheit (-3.3°C!). Guidiamo verso il [**Bryce Canyon National Park**](https://www.nps.gov/brca/index.htm) ma, chiacchierando, ci distraiamo e dopo un po' cominciamo a notare indicazioni per [Phoenix](https://www.phoenix.gov/). Resici conto di aver mancato una svolta, torniamo sui nostri passi. Chissà se riusciremo ad arrivare in tempo per l'alba!
 
@@ -21,7 +26,7 @@ Sveglia alle 5 al motel [Best host inn](https://panguitch.com/business-directory
 
 Entriamo nel parco che ancora tutto tace e andiamo diretti al [**Inspiration point**](https://www.nps.gov/brca/planyourvisit/inspiration.htm), che abbiamo letto essere una delle migliori location per vedere l'alba. Il termometro della macchina indica che fuori ci sono ancora 26° Fahrenheit. Arriviamo al parcheggio che già il cielo è più chiaro e notiamo diverse macchine. Appena giunti sul Rim, ai alza un vento gelido che rende molto difficoltose le nostre manovre per montare il cavalletto e preparare la reflex e il cellulare di Ste per un time-lapse. Ci posizioniamo battendo i denti e aprendo una confezione di "scaldini". Albeggia: proviamo a scattare una serie di foto con risultati apparentemente mediocri. L'alba di per sé sulle [guglie](https://www.nps.gov/brca/learn/nature/hoodoos.htm) del Bryce Canyon, però, è meravigliosa. Ce la godiamo nonostante il freddo. Una volta che il sole si è alzato, smontiamo il cavalletto, Ste va a rintanarsi in macchina con il riscaldamento acceso mentre io rimango ancora in po' a fare foto avanti e indietro per il Rim, approfittando della luce calda del primo mattino.
 
-{% include img.html img="IMGP5832 - sunset point.jpg" cap="Camini delle fate e Sunset point" %}
+{% include img.html img="IMGP5813 - inspiration point.jpg" cap="Inspiration point all'alba" %}
 ## Peek-A-Boo loop trail
 
 Verso le 7 ci spostiamo al [**Sunset point**](https://www.nps.gov/brca/planyourvisit/sunset.htm) dove ci sono tavoli da pic-nic per fare colazione, dopodiché torniamo sul Rim per qualche scatto con la bella luce del primo mattino, decisamente migliore rispetto alla situazione di [ieri](https://www.van42.com/2022/05/04/usa_10-bryce.html). Ora ci spostiamo a [**Bryce point**](https://www.nps.gov/brca/planyourvisit/brycepoint.htm): da qui infatti parte il [**Peek-A-Boo loop trail**](https://www.nps.gov/brca/planyourvisit/peekabooloop.htm). Anche questa volta Ste opta per dormire un po' in macchina pertanto intraprendo l'escursione da sola. Già solo il Bryce point offre ottime visuali su fitti gruppi di hoodoos, i "camini delle fate". Dopo una panoramica dall'alto, mi avvio per il sentiero. Il sito del parco indica dalle 3 alle 4 ore per percorrerlo. 
@@ -44,12 +49,11 @@ Arrivo al punto in cui il Peek-A-Boo incrocia il [Navajo loop trail](https://www
 
 {% include img.html img="IMGP5942 - bryce point.jpg" cap="Vista sull'anfiteatro da Bryce point" %}
 
-Incredibile pensare al gelo di stamattina e al super caldo che c'è ora. Attraversiamo il [**Red canyon**](https://www.viaggi-usa.it/red-canyon-utah/) già visto ieri sera e ci fermiamo a pranzare nel parcheggio da cui partono diversi sentieri. Mentre Ste raccoglie legna per il falò che vorremmo fare una delle prossime sere - generalmente fuori dai parchi è consentito - io preparo il pranzo. Sazi, ci rimettiamo al volante, direzione [Zion National Park](https://www.nps.gov/zion/index.htm).
+Incredibile pensare al gelo di stamattina e al super caldo che c'è ora. Attraversiamo il [**Red canyon**](https://www.viaggi-usa.it/red-canyon-utah/) già visto ieri sera e ci fermiamo a pranzare nel parcheggio da cui partono diversi sentieri. Mentre Ste raccoglie legna per il falò che vorremmo fare una delle prossime sere - generalmente fuori dai parchi è consentito - io preparo il pranzo. Sazi, ci rimettiamo al volante, direzione [**Zion National Park**](https://www.nps.gov/zion/index.htm).
 
 {% include img.html img="IMGP5947 - bryce canyon.jpg" cap="Prairie dog crossing" %}
 
 {% include img.html img="IMGP5949 - red canyon.jpg" cap="Red canyon" %}
-
 ## Zion National Park
 
 Verso le 16 arriviamo a [**Mt. Carmel Junction**](https://visitsouthernutah.com/communities/mt-carmel/) e qui imbocchiamo la [**Mt. Carmel Highway**](https://www.visitutah.com/places-to-go/parks-outdoors/zion/zion-mt-carmel-road), strada panoramica lungo la quale si trova l'ingresso est del parco. L'accesso non è presidiato, quindi nessuno controlla il nostro pass. Lungo la strada cominciano a presentarsi una serie di grossi "budini" di roccia color ocra chiaro, fino a raggiungere e l'ingresso del tunnel. Qui aspettiamo in coda (evidentemente fanno passare le macchine un po’ per volta), imbocchiamo il tunnel e, all'uscita, ci attende un panorama ancora più maestoso, caratterizzato da imponenti masagni di roccia arancione, quasi piccole montagna. La strada scende a tornanti consentendo di osservare il panorama. Raggiungiamo il punto di intersezione con la [**Zion canyon scenic drive**](https://www.nps.gov/zion/frequently-asked-questions-about-zion-canyon.htm): qui siamo obbligati a svoltare a sinistra in quanto, da marzo, solo gli shuttle del parco possono accedere alla strada panoramica che si sviluppa alla nostra destra. Ci fermiamo al [visitor center](https://www.nps.gov/zion/planyourvisit/visitorcenters.htm) con qualche difficoltà nel trovare parcheggio. Non appena la connessione Wi-Fi prende, verifichiamo la ricezione di una mail relativa all'esito della lotteria per l'[**Angels landing**](https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm): non abbiamo vinto. Peccato, ci speravo! Un po' demoralizzati pensiamo all'idea alternativa del trekking all'[**Observation point**](https://www.viaggi-usa.it/zion-observation-point/). Da una mappa appesa all'esterno del visitor center, però, notiamo un simbolo di divieto in corrispondenza della [**Weeping rock**](https://zionnationalpark.com/hikes/weeping-rock/), da cui dovrebbe partire il nostro itinerario alternativo. Ci mettiamo in coda per avere qualche info dai Rangers e, magari, una mappa del parco. Ci stupiamo della tanta gente presente. Il ranger risponde alle nostre domande sull'Observation point trail confermando che l'accesso dalla Weeping rock al momento è chiuso e che l'unica via alternativa é risalire la Mt. Carmel Highway, uscire dal parco da est e imboccare un secondo accesso al sentiero che si trova lì. Il risultato è un itinerario di 4 h a/r più o meno in quota.
@@ -75,11 +79,12 @@ Arrivo: Bryce point
 Distanza: 8.3 km  
 Dislivello in salita: 600 m  
 Durata effettiva a/r: 2h20′ (indicata: 3-4h)
+Tipologia itinerario: percorso ad anello
 
 **Tips**
-[Bryce Canyon National Park](https://www.nps.gov/care/index.htm) accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Bryce Canyon National Park](https://www.nps.gov/care/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
-[Zion National Park](https://www.nps.gov/zion/index.htm) accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Zion National Park](https://www.nps.gov/zion/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
 Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Bryce Canyon NP e Zion NP rientrano fra i parchi inclusi.
 
