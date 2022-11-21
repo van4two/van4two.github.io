@@ -11,8 +11,8 @@ day: "17"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 location:
-  longitude: 59.0347
-  latitude: 6.5775
+  latitude: 59.0347
+  longitude: 6.5775
   ok: true
 ---
 
