@@ -7,6 +7,7 @@
     <span class="mega-toggle-label" role="button" aria-expanded="false">
         <span class="mega-toggle-label-closed">MENU</span>
         <span class="mega-toggle-label-open">MENU</span>
+        <span class="fa-solid fa-bars"></span>
     </span>
     </div>
 </div>
