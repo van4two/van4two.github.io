@@ -1186,13 +1186,6 @@
 #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-1 {
   cursor: pointer;
 }
-#mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-1:after {
-  content: '\f140';
-  font-family: 'dashicons';
-  font-size: 14px;
-  color: #333;
-  margin: 0 0 0 5px;
-}
 #mega-menu-wrap-primary .mega-menu-toggle .mega-toggle-block-1 .mega-toggle-label {
   color: #222;
   font-size: 14px;

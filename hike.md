@@ -1,18 +1,31 @@
 ---
-layout: hikes
-entries_layout: grid
+layout: home
 ---
-
-<!--
- Copyright 2022 van42.com.
- SPDX-License-Identifier: CC-BY-NC-ND-4.0
--->
 
 {% include map.html category="hike" %}
 
-<div class="entries-{{ page.entries_layout }}">
-  {% for post in site.posts reversed %}
-    {% unless post.categories contains "hike" %}{% continue %}{% endunless %}
-    {% include hike-single.md type=page.entries_layout %}
+<div class="tiles">
+  {% for post in site.posts %}
+    {% if post.categories contains "hike" %}
+
+      <a href="{{post.url}}" class="tile-link">
+        <div class="tile">
+          <img src="{{post.teaser}}" alt="" class="tile-img">
+          <div class="tile-overlay">
+            <div class="tile-title">{{post.title}}</div>
+          </div>
+        </div>
+      </a>
+      
+    {% endif %}
   {% endfor %}
 </div>
+
+
+    
+    
+    
+
+    
+
+    

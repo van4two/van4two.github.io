@@ -5,7 +5,10 @@
 
 -->
 
-<div id="map"></div>
+<div class="map-frame">
+    <div id="map"></div>
+</div>
+
 <script>
     var map = new L.Map("map", { center: new L.LatLng(20, 11.3426), zoom: 2 });
     var layer = new L.StamenTileLayer("toner-lite");

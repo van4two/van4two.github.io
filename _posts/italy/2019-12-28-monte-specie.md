@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ciaspolata al Monte Specie
+title: Monte Specie
+desc: Dolomiti, Italia
 categories: [hike]
 tags: [dolomiti, ciaspole]
 
@@ -13,9 +14,6 @@ location:
   longitude: 12.2122
   latitude: 46.6464
   ok: true
-
-#{% contentfor sidebar %}
-#{% endcontentfor %}
 ---
 
 {% google_photos page.gallery_url none %}
@@ -41,7 +39,7 @@ L’escursione è lunga ma poco impegnativa e di semplicissima lettura: il primo
 {% include img.html id=23 cap="Dalla cima lo sguardo spazia verso est sulle Dolomiti di Sesto, soffermandosi sulle Tre cime di Lavaredo, fino ai Cadini di Misurina" %}
 
 {% contentfor mymap %}
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117155954&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe>
+  <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=117155954&measures=off&title=off&near=off&images=off&maptype=H" width="500" height="400"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}
@@ -49,7 +47,6 @@ L’escursione è lunga ma poco impegnativa e di semplicissima lettura: il primo
 Partenza: Carbonin  
 Arrivo: Monte Specie  
 Distanza a/r: 10 km  
-Dislivello in salita: 860 m   
-Tipologia itinerario: double back
+Dislivello in salita: 860 m  
 
 {% endcontentfor %}

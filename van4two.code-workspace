@@ -24,5 +24,10 @@
 		"cSpell.enableFiletypes": [
 			"!jsonc"
 		],
+
+		"files.associations": {
+			"*.md": "liquid"
+		},
+		"liquid.format.enable": false,
 	},
 }

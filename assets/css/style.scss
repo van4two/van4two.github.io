@@ -6,6 +6,7 @@ body {
 }
 p {
     hyphens: auto;
+    text-align: left;
 }
 header {
     width: 100%;
@@ -243,10 +244,13 @@ h2.archive__item-title {
 
 
 // home map (leaflet)
+.map-frame {
+    flex: 1 0 auto;
+}
 #map {
     width: 100%;
     height: 500px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .leaflet-bar {
     display: none;
@@ -269,55 +273,66 @@ h2.archive__item-title {
 
 // home masonry
 .tiles {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
+    /*justify-content: center;
+    align-items: center;*/
 }
-.tile {
-    text-align: center;
-    font-size: 30px;
+
+
+.tile-link {
     position: relative;
-    //width: calc(25% - 5px);
-    padding: 5px;
-    //margin-bottom: 5px;
-    flex: 33%;
+    display: block;
+    max-width: 33%;
+    margin-top: 0.6%;
+    color: white;
+  }
+@media (max-width: 750px) {
+    .tile-link {
+        max-width: 49.7%;
+        margin-top: 0.5%;
+    }
 }
-
 @media (max-width: 500px) {
-    .tile {
-        flex: 100%;
-    }
-} 
-@media (min-width: 800px) {
-    .tile {
-        flex: 50%;
+    .tile-link {
+        max-width: 100%;
+        margin-top: 1.5%;
     }
 } 
 
-.tile:hover .overlay {
-    opacity: 1;
-}
-.tile-img {
-    display: inline;
-}
-.tile-overlay {
-    display: inline-block;
+.tile-link .tile-overlay {
     position: absolute;
-    //float: left;
+    top: 0;
     left: 0;
-    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
     height: 100%;
-    //line-height: 330px;
-    transition: .5s ease;
     text-align: center;
+    transition: .5s ease;
     color: rgba($color: #fff, $alpha: 0);
     background-color: rgba($color: #000000, $alpha: 0);
 }
-.tile-overlay:hover {
+.tile-link:hover .tile-overlay {
     color: rgba($color: #fff, $alpha: 1);
     background-color: rgba($color: #000000, $alpha: 0.5);
 }
+.tile-img {
+   display: block;
+}
+.tile-title {
+    font-size: 24px;
+    font-family: 'Architects Daughter';
+    letter-spacing: 0.2rem;
+}
+.tile-desc {
+    font-size: 14px;
+}
+
 
 
 
