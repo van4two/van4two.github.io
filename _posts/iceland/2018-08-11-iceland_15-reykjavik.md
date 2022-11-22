@@ -2,6 +2,7 @@
 layout: post
 title: Reykjavik
 tags: []
+cat: iceland
 
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 pics: 2018-07-28-iceland
