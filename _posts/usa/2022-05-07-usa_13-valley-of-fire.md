@@ -40,9 +40,7 @@ Usciti dal locale facciamo un giro per Neonopolis, che si sviluppa principalment
 
 Vista Neonopolis, quindi, torniamo alla macchina e ci dirigiamo verso l'[Oyo Hotel & Casino](https://www.oyolasvegas.com/), che ormai conosciamo, dove lasciamo la macchina gratuitamente. La via per uscire dal parcheggio è tramite ascensori che fanno passare obbligatoriamente per il casinò (mica scemi!). In breve arriviamo all'inizio della [**Strip**](https://www.introducinglasvegas.com/strip) che cominciamo ad esplorare immersi nella bolgia di gente. Gli attraversamenti pedonali sono quasi tutti sopraelevati e questo, unito alla grande quantità di persone in giro, rallenta inevitabilmente la progressione. Il clima è lo stesso respirato a Neonopolis. Dalla finta **Statua della Libertà** raggiungiamo "[Parigi](https://www.caesars.com/paris-las-vegas)", il [Bellagio](https://bellagio.mgmresorts.com/en.html), il [Cesar Palace](https://www.caesars.com/caesars-palace), arrivando fino a "[Venezia](https://www.venetianlasvegas.com/)". Da qui, assaporata a dovere l'atmosfera caratteristica di Las Vegas torniamo all’Oyo, recuperiamo la macchina e ci spostiamo nel più tranquillo parcheggio del locale Sierra gold lungo la South Eastern Avenue, che ci pare relativamente adatto per dormire senza dover uscire dalla città. Andiamo a letto a mezzanotte passata.
 
-## Verso casa
-
-Ci svegliamo alle 7:30 nel parcheggio del Sierra Gold. Ci spostiamo al vicino Seven Eleven dove ste compra un bombolone ed entrambi approfittiamo del bagno. A questo punto ci posizioniamo nel parcheggio del centro commerciale a fianco e prepariamo i bagagli. Una volta svuotato il minivan e chiuse le borse, torniamo all’Oyo dove lasciamo la macchina che Irina verrà a recuperare più tardi mentre noi, con un Uber, arriviamo in aeroporto. Il nostro tour del ritorno prevederebbe Las Vegas > Seattle > Amsterdam > Bologna. Il volo Delta KL 7639 per Seattle però, viene cancellato. A questo punto veniamo imbarcati un paio d’ore dopo direttamente su un volo per Amsterdam, risparmiandoci così una tappa. Da qui, dopo un’altra sosta a Schiphol, prendiamo il volo per Bologna dove arriviamo a metà pomeriggio.
+Il mattino dopo prepariamo i bagagli, torniamo all’Oyo dove lasciamo la macchina noleggiata su [Turo](https://turo.com/) e, con [Uber](https://play.google.com/store/apps/details?id=com.ubercab&hl=en&gl=US), arriviamo in aeroporto. Il nostro tour del ritorno prevederebbe Las Vegas > Seattle > Amsterdam > Bologna. Il volo Delta KL 7639 per Seattle però, viene cancellato. A questo punto veniamo imbarcati un paio d’ore dopo direttamente su un volo per Amsterdam, risparmiandoci così una tappa. Da qui, dopo un’altra sosta a Schiphol, prendiamo il volo per Bologna dove arriviamo a metà pomeriggio.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1VTnCrdCki2DerHc9MJAfa5tsPHGLVeU&ehbc=2E312F" width="640" height="480"></iframe>
@@ -54,6 +52,8 @@ Ci svegliamo alle 7:30 nel parcheggio del Sierra Gold. Ci spostiamo al vicino Se
 [Valley of Fire](http://parks.nv.gov/parks/valley-of-fire): accesso 10 $/veicolo targato Nevada; 15 $/veicolo di altri stati
 
 [Hoover Dam](https://www.usbr.gov/lc/hooverdam/): accessibile esclusivamente mediante visite guidate.[Guided dam tour](https://www.usbr.gov/lc/hooverdam/service/): 30 $/persona, durata 1h30', non prenotabile online
+
+[Heart attack grill](https://www.heartattackgrill.com/): hamburger per due 40 $; le porzioni sono abbondanti
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
