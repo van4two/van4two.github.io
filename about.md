@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 <!--
  Copyright 2022 van42.com.
@@ -11,4 +12,4 @@ Alessandra, architetto, ama la fotografia, l'arrampicata e la montagna a 360 gra
 
 Stefano, ingegnere, appassionato di tecnologia e di tutti gli sport legati al vento.
 
-Dal 2010 raccontano dei loro viaggi attraverso le pagine di [van42.com](van42.com).
+Dal 2010 raccontano dei loro viaggi attraverso le pagine di [van42.com](https://www.van42.com).
