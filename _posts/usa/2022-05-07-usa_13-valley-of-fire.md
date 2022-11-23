@@ -6,7 +6,7 @@ cat: usa
 
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 pics: 2022-04-25-usa
-day: "013"
+day: "13"
 teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 ---
 
