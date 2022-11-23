@@ -12,6 +12,8 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
+{% include img.html img="IMGP6056 - fire wave.jpg" cap="Fire wave" %}
+
 Dopo una notte ventosa ma calda ci svegliamo nell'area di campeggio libero del [BLM](https://www.blm.gov/) lungo [Sand mine road](https://freecampsites.net/#!27183&query=sitedetails) vicino alla Valley of Fire. Alle 8 del mattino ci sono già 84° Fahrenheit - quasi 29°C!.
 
 ## Valley of Fire
