@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 #gem 'webrick'
 
 group :jekyll_plugins do
+    gem "jekyll-sitemap"
     gem "jekyll-include-cache"
     gem 'jekyll-google-photos', git: 'https://github.com/cooked/jekyll-google-photos.git', branch: 'patch-1_jekyll-4'
    
