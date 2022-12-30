@@ -64,7 +64,7 @@ Ci spostiamo a Market plaza, location del [Grand Canyon village](https://www.vis
 
 {% include img.html id=30 cap="Water station gratuita all'interno del supermercato che affaccia sulla Market plaza" %}
 
-Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco in quanto proprio di fronte al cento visitatori.
+Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/hike/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco in quanto proprio di fronte al cento visitatori.
 
 {% include img.html img="IMGP4057 - mather point.jpg" cap="Il frequentato belvedere Mather point al tramonto" %}
 
