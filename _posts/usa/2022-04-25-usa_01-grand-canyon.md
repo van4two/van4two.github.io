@@ -12,7 +12,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=17 cap="Vista sul Grand Canyon da Pima point, belvedere lungo la Hermit road" %}
+{% include img.html id=21 cap="Vista sul Grand Canyon da Pima point, belvedere lungo la Hermit road" %}
 
 La nostra Avventura inizia con una sveglia che suona alle 3:45 del mattino. Ieri sera preparativi fino all'ultimo e, come era da immaginarsi, abbiamo dormito solo un paio d'ore. Eppure, l'emozione e l'eccitazione per il viaggio che sta per cominciare non fanno pesare l'alzataccia. Giunti in aeroporto, il delirio. Una coda per i controlli di sicurezza vista in poche occasioni. In effetti lunedì prossimo sarà il 25 aprile, ma immaginavamo che il COVID 19 avrebbe continuato a frenare la voglia di viaggiare, che invece tende a prevalere. Facciamo il check in e appuriamo che tutti i documenti (visto, vaccino e tampone) sono in ordine, quindi ci imbarchiamo sul volo Air France AF1029 delle 6:30 per Parigi. Da qui proseguiamo con il volo intercontinentale Delta DL221 che ci porta a a Salt Lake City da cui partiamo per la nostra tappa finale: Las Vegas, con volo DL2696.
 
@@ -26,7 +26,7 @@ Provati dalla stanchezza del viaggio in aereo e dalle mancate ore di sonno, lasc
 
 Ste si sveglia poco prima delle 6 e guida fino al secondo innesto della storica [**Route 66**](https://www.viaggi-usa.it/itinerario-route-66/) con la strada che stiamo percorrendo. Mi sveglio anche io e facciamo colazione su tavoli di legno accanto a negozi al margine della strada. Cominciamo a guardarci attorno: siamo immersi in un paesaggio brullo e desertico. In cielo non c’è una nuvola e il sole è abbagliante.
 
-{% include img.html id=2 cap="La storica Route 66" %}
+{% include img.html id=6 cap="La storica Route 66" %}
 
 Studiamo un po’ l’assetto interno del minivan in modo da ottimizzare lo spazio: la comodità del Grand Dodge è data dal fatto che i sedili della seconda e terza fila sono incassabili nel "pavimento" della macchina, offrendo quindi un ampio spazio piano, ottimo per dormire con il sacco al pelo su un materassino gonfiabile. Questa soluzione ci consente grande flessibilità e capacità di improvvisazione.
 
@@ -42,27 +42,27 @@ Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - 
 
 Parcheggiamo in prossimità del [**Bright Angel lodge**](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/) e raggiungiamo a piedi la prima fermata della [navetta rossa](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), quella che percorre la Hermit road. Subito veniamo colpiti dalla vista di un gruppo di cervi praticamente accanto alla strada: non sembrano particolarmente disturbati dalla presenza umana.
 
-{% include img.html id=25 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
+{% include img.html id=29 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
 
-{% include img.html id=24 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
+{% include img.html id=28cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
 
 ## Hermit Road
 
 Prendiamo lo [shuttle](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm) e ci avviamo in direzione ovest. La [**Hermit road**](https://www.nps.gov/grca/planyourvisit/hermit-road.htm), che percorre il South Rim lungo una serie di punti panoramici, termina presso [**Hermits rest**](https://www.nps.gov/places/000/hermits-rest.htm) ed è chiusa al traffico privato. Il [**Rim trail**](https://www.nps.gov/grca/planyourvisit/upload/RimTrailMap.pdf) consente di percorrere l’intera lunghezza anche a piedi. Scendiamo alla prima fermata, [**Trailview overlook**](https://www.nps.gov/places/000/trailview-overlook-hermit-road-red-route.htm) e, finalmente, vediamo per la prima volta il Grand Canyon. La parola più azzeccata per descriverlo è immensità. La grandezza infatti è l’aspetto che più colpisce. Sul fondo del canyon si nota il [**Colorado river**](https://www.americanrivers.org/river/colorado-river-in-the-grand-canyon/) con alcune delle sue rapide e, in lontananza, il North Rim.
 
-{% include img.html id=9 cap="Vista sul Grand Canyon dal belvedere The Abyss" %}
+{% include img.html id=13 cap="Vista sul Grand Canyon dal belvedere The Abyss" %}
 
 Torniamo alla fermata del bus ad aspettare la prossima navetta (sono piuttosto frequenti). Risaliti, saltiamo un paio di fermate e optiamo per [**Hopi point**](https://www.nps.gov/places/000/hopi-point.htm): altra vista spettacolare. Questa volta decidiamo di percorrere la breve distanza per il prossimo punto panoramico a piedi lungo il Rim trail. Raggiungiamo così [**Mohave point**](https://www.nps.gov/places/000/mohave-point.htm): anche da qui sono visibili le rapide del Colorado river. Sfruttando ancora lo shuttle raggiungiamo [**The Abyss**](https://www.nps.gov/places/000/the-abyss-hermit-road-red-route.htm) e, a seguire, [**Pima point**](https://www.nps.gov/places/000/pima-point.htm). Qui riprendiamo lo shuttle direzione Grand Canyon village e torniamo alla macchina.
 
-{% include img.html id=13 cap="Vista sul Grand Canyon da Pima point. In lontananza sono visibili alcune delle rapide del Colorado river" %}
+{% include img.html id=17 cap="Vista sul Grand Canyon da Pima point. In lontananza sono visibili alcune delle rapide del Colorado river" %}
 
 ## Grand Canyon village
 
 Ci spostiamo a Market plaza, location del [Grand Canyon village](https://www.visitarizona.com/places/cities/grand-canyon-village/) dedicata ai servizi, dove facciamo acqua.
 
-{% include img.html id=3 cap="Uno scuolabus nei pressi del Grand Canyon village" %}
+{% include img.html id=7 cap="Uno scuolabus nei pressi del Grand Canyon village" %}
 
-{% include img.html id=26 cap="Water station gratuita all'interno del supermercato che affaccia sulla Market plaza" %}
+{% include img.html id=30 cap="Water station gratuita all'interno del supermercato che affaccia sulla Market plaza" %}
 
 Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco in quanto proprio di fronte al cento visitatori.
 
@@ -72,7 +72,7 @@ Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor cent
 
 Tornati in macchina ci spingiamo fino al [**Grandview point**](https://www.nps.gov/places/000/grandview-point.htm) per vedere il tramonto  - l’ideale sarebbe stato  [**Lipan point**](https://www.nps.gov/places/000/lipan-point.htm) ma temiamo di non arrivare in tempo. Notando che, con il calare del sole, comincia a scendere anche la temperatura, ci fermiamo a cenare nella prima piazzola con tavoli da pic-nic che troviamo lungo la [**Desert view drive**](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm).
 
-{% include img.html id=28 cap="Vista sul Grand Canyon dal Grandview point, punto di osservazione lungo la Desert view drive" %}
+{% include img.html id=33 cap="Vista sul Grand Canyon dal Grandview point, punto di osservazione lungo la Desert view drive" %}
 
 ## Kaibab forest
 
