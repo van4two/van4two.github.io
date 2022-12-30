@@ -44,7 +44,7 @@ Parcheggiamo in prossimità del [**Bright Angel lodge**](https://www.grandcanyon
 
 {% include img.html id=29 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
 
-{% include img.html id=28cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
+{% include img.html id=28 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
 
 ## Hermit Road
 
