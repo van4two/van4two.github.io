@@ -20,12 +20,3 @@ layout: home
     {% endif %}
   {% endfor %}
 </div>
-
-
-    
-    
-    
-
-    
-
-    
