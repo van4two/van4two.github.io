@@ -14,7 +14,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% include img.html id=21 cap="Vista sul Grand Canyon da Pima point, belvedere lungo la Hermit road" %}
 
-La nostra Avventura inizia con una sveglia che suona alle 3:45 del mattino. Ieri sera preparativi fino all'ultimo e, come era da immaginarsi, abbiamo dormito solo un paio d'ore. Eppure, l'emozione e l'eccitazione per il viaggio che sta per cominciare non fanno pesare l'alzataccia. Giunti in aeroporto, il delirio. Una coda per i controlli di sicurezza vista in poche occasioni. In effetti lunedì prossimo sarà il 25 aprile, ma immaginavamo che la recente pandemia avrebbe continuato a frenare la voglia di viaggiare, che invece si fa sentire. Facciamo il check-in e appuriamo che tutti i documenti (visto, vaccino e tampone) sono in ordine, quindi ci imbarchiamo sul volo Air France AF1029 delle 6:30 per Parigi. Da qui proseguiamo con il volo intercontinentale Delta DL221 che ci porta a a Salt Lake City da cui partiamo per la nostra tappa finale: Las Vegas, con volo DL2696.
+La nostra Avventura inizia con una sveglia che suona alle 3:45 del mattino. Ieri sera preparativi fino all'ultimo e, come era da immaginarsi, abbiamo dormito solo un paio d'ore. Eppure, l'emozione e l'eccitazione per il viaggio che sta per cominciare non fanno pesare l'alzataccia. Giunti in aeroporto, il delirio. Una coda per i controlli di sicurezza vista in poche occasioni. In effetti lunedì prossimo sarà il 25 aprile, ma immaginavamo che la recente pandemia avrebbe continuato a frenare la voglia di viaggiare, che invece si fa sentire. Facciamo il check-in e appuriamo che tutti i documenti (visto, vaccino e tampone) sono in ordine, quindi ci imbarchiamo sul volo Air France AF1029 delle 6:30 per Parigi. Da qui proseguiamo con il volo intercontinentale Delta DL221 che ci porta a Salt Lake City da cui partiamo per la nostra tappa finale: Las Vegas, con volo DL2696.
 
 ## Vegas
 
@@ -64,7 +64,7 @@ Ci spostiamo a Market plaza, location del [Grand Canyon village](https://www.vis
 
 {% include img.html id=30 cap="Water station gratuita all'interno del supermercato che affaccia sulla Market plaza" %}
 
-Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/hike/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco, in quanto proprio di fronte al cento visitatori.
+Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor center**](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm) per raccogliere informazioni sull'escursione pensata per [domani](https://www.van42.com/hike/2022/04/26/usa_02-grand-canyon.html). Purtroppo arriviamo che l’ufficio è già chiuso: cerchiamo di capire quale shuttle dovremo prendere domani mattina e la logistica più conveniente. Visto che siamo qui, ci affacciamo sul Canyon dal [**Mather point**](https://www.nps.gov/places/000/mather-point.htm), il punto panoramico più battuto del parco, in quanto proprio di fronte al centro visitatori.
 
 {% include img.html img="IMGP4057 - mather point.jpg" cap="Il frequentato belvedere Mather point al tramonto" %}
 
