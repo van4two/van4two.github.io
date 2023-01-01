@@ -4,6 +4,7 @@ RUN apk update
 RUN apk --no-cache add \
     # development packages
     ruby-dev \
+    musl \
     gcc \
     cmake \
     git \
@@ -25,6 +26,7 @@ RUN apk --no-cache add \
     git-bash-completion
 
 # # https://talk.jekyllrb.com/t/load-error-cannot-load-such-file-webrick/5417/2
+RUN gem update --system
 RUN gem install bundler -v 2.3.20
 RUN gem install jekyll
 
