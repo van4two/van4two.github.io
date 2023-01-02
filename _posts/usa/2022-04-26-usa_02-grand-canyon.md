@@ -18,7 +18,7 @@ location:
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=36 cap="A cavallo presso il Cedar ridge lungo il South Kaibab trail" %}
+{% include img.html id=41 cap="A cavallo presso il Cedar ridge lungo il South Kaibab trail" %}
 
 Sveglia alle 5 nella [Kaibab national forest](https://www.fs.usda.gov/kaibab), immediatamente fuori dal [**Grand Canyon National Park**](https://www.nps.gov/grca/index.htm). Stanotte siamo morti di freddo. Il termometro della macchina segna 32° Fahrenheit, pari a 0° Centigradi! Ci vestiamo rapidamente cercando di scaldarci. É troppo freddo per fare colazione: accendiamo il motore e guidiamo con l'intenzione di proseguire fino al punto in cui il [Long Jim loop](https://freecampsites.net/#!126559&query=sitedetails) si riallaccia alla strada principale, a valle di [Tusayan](https://www.visitarizona.com/places/cities/tusayan/), in modo da scaldare un po’ la macchina. Ci fermiamo in corrispondenza di un'area con campi sportivi, tavoli da pic-nic e bagni - che però troviamo chiusi. Il cielo si schiarisce, sembra un filo meno freddo. Cuociamo i toast preparati ieri sera e mettiamo su il caffè: piano piano cominciamo a scaldarci. Albeggia. Riprendiamo la macchina e ci dirigiamo verso l'ingresso sud del parco proseguendo fino al parcheggio del [visitor center](https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm), dove lasciamo la macchina. Ci rechiamo alla fermata della navetta arancione - [orange route](https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm) - per la [Desert view drive](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm). Abbiamo addosso quasi tutti gli strati di abbigliamento tecnico di cui disponiamo.
 L'intenzione è di recarci alla partenza del [**South Kaibab trail**](https://www.nps.gov/places/000/south-kaibab-trail.htm), percorrere il sentiero fin giù al [Colorado river](https://www.americanrivers.org/river/colorado-river-in-the-grand-canyon/), proseguire per il [Phantom ranch](https://www.grandcanyonlodges.com/lodging/phantom-ranch/) e, da lì, dopo esserci riposati, intraprendere i 1800 m di salita del [**Bright Angel trail**](https://www.nps.gov/places/000/bright-angel-trail.htm) fino a tornare sul [South Rim](https://www.nps.gov/grca/planyourvisit/placestogo.htm). Il rientro alla macchina è previsto tramite la navetta della [linea blu](https://www.nps.gov/grca/planyourvisit/village-blue-route.htm).
@@ -34,46 +34,46 @@ Fra una cosa e l'altra iniziamo a percorrere il sentiero vero e proprio alle 7 i
 
 Procediamo e, scendendo ancora, arriviamo al [**Cedar ridge**](https://explorethecanyon.com/things-to-do-cedar-ridge-hike/) (quota 1839 m, ore 7:38), un pianoro con bagni compost - molto ben tenuti - e una balaustra per legare muli e cavalli. Durante la nostra breve sosta, infatti, vediamo passare un paio di locals a cavallo e proseguire in direzione Colorado river. Ripartiamo: a mano a mano che scendiamo, notiamo come gli escursionisti diminuiscano progressivamente: la maggior parte di essi, infatti, percorre solo un tratto del sentiero per poi risalire sul Rim. Nella guida del parco il Cedar ridge è indicato come punto massimo oltre cui non avventurarsi in giornata d'estate. Incrociamo un ragazzo bulgaro con cui scambiano due chiacchiere. Vive da anni in California e, quando sente che siamo italiani e che veniamo da Bologna, esclama: "Bologna! [Zecchino d'oro](https://zecchinodoro.org/)!" Spiegandoci che in Bulgaria lo Zecchino d'oro è conosciutissimo e molto seguito.
 
-{% include img.html id=34 cap="Vista del Grand Canyon presso il Cedar ridge" %}
+{% include img.html id=39 cap="Vista del Grand Canyon presso il Cedar ridge" %}
 
-{% include img.html id=38 cap="Vista del Grand Canyon presso il Cedar ridge" %}
+{% include img.html id=43 cap="Vista del Grand Canyon presso il Cedar ridge" %}
 
 ## Skeleton point
 
 Ormai in maniche e pantaloncini corti, raggiungiamo lo **Skeleton point** (quota 1553 m): sono le 8:30. Questo è il punto oltre il quale i rangers sconsigliano di proseguire in giornata in primavera. Non ci fermiamo: un goccio d'acqua e via verso il basso. Ormai siamo ben al di sotto del Rim. Il fatto che non ci sia un salto unico ma che la progressione verso il Colorado river avvenga per gradoni rende meno drammatica l'idea della risalita che ci attende nel pomeriggio. La temperatura comincia ad aumentare, siamo sotto il sole senza ombra. Comunque, finché si scende, "tutti i santi aiutano"...! Continuiamo per il sentiero che procede a zig zag vedendo in lontananza gli ultimi salti di roccia verso il fiume. Siamo sempre in meno. L'ambiente piano piano cambia: ancora piuttosto brullo, dominato da rocce rosse, comincia però a punteggiarsi dei fiori caratteristici dei contesti semidesertici. Tra i vari notiamo i fiori di cactus, in alcuni casi gialli, in altri rosa.
 
-{% include img.html id=43 cap="Lungo il South Kaibab trail" %}
+{% include img.html id=48 cap="Lungo il South Kaibab trail" %}
 
-{% include img.html id=46 cap="Lungo il South Kaibab trail" %}
+{% include img.html id=51 cap="Lungo il South Kaibab trail" %}
 
 ## Tipoff
 
 Arriviamo al **Tipoff** (quota 1203 m) alle 9:25. Questa è l'ultima "via di fuga" e chance per evitare di arrivare fin giù. Da qui infatti parte l'[**East Tonto trail**](https://www.grandcanyontrust.org/hikes/cpe-tonto-trail-grandview-bright-angel) che, più o meno in quota, si ricongiunge con il Bright Angel trail all'altezza dell'Indian garden. Oltre al capanno dei bagni troviamo una tettoia che protegge una serie di panche di legno dove gli escursionisti possono riposarsi. Mentre riprendiamo le energie preparandoci all'ultimo tratto in discesa, notiamo uno scoiattolino aggirarsi attorno agli escursionisti in cerca di cibo. Nonostante i numerosi cartelli di monito a non nutrire gli animali del parco, evidentemente da qualcuno ricevono cibo, in quanto mostrano un po' troppa confidenza con le persone. Lungo il sentiero su cui ci accingiamo a proseguire, vediamo giungere un gruppo di muli che procede in fila indiana. I muli vengono utilizzati nel canyon per condurre i turisti e per portare i rifornimenti al Phantom ranch e al relativo campeggio vicino al fiume. Ripartiamo per l’ultimo tratto in discesa, discesa che sembra non finire più - e che poi si trasformerà in salita! Intravediamo dall’alto il Black bridge, il primo dei due ponti sul Colorado river che ci troveremo ad attraversare. Una volta arrivati giù, in alternativa all’attraversamento del fiume funzionale al raggiungimento della spiaggia, del Phantom ranch e del punto dove fare acqua, un bivio ci mostra il [**River trail**](https://www.nps.gov/grca/planyourvisit/trail-distances.htm), un sentiero che, rimanendo sulla stessa sponda, consente di andare ad imboccare direttamente il Bright Angel trail in salita.
 
-{% include img.html id=57 cap="In vista del Tipoff" %}
+{% include img.html id=62 cap="In vista del Tipoff" %}
 
-{% include img.html id=65 cap="Muli in fila indiana presso il Tipoff" %}
+{% include img.html id=70 cap="Muli in fila indiana presso il Tipoff" %}
 
 ## Black bridge
 
 Rimaniamo fedeli al nostro programma e, alle 10:30, raggiungiamo il **Black bridge** (quota 756 m). Il ponte, di metallo e legno, è lungo e imponente e si trova parecchio al di sopra dell’acqua. Una volta sull'altra sponda, raggiungiamo la prima spiaggetta che troviamo per mettere i piedi a mollo: l’acqua è gelida! Gelida ma rigenerante. Sulla stessa spiaggia sono ancorati due gommoni destinati ad escursioni tra le rapide. Abbiamo letto che, per via delle tante richieste, questo tipo di gita va prenotato fino a un anno prima! Ci rimettiamo calze e scarpe e ci avviamo verso il leggendario Phantom ranch. Ci inoltriamo per una stretta valle insolitamente verdeggiante che piano piano comincia ad arrampicarsi verso il [**North Rim**](https://www.nps.gov/grca/planyourvisit/north-rim.htm). Il prosieguo del South Kaibab trail che abbiamo appena percorso - quindi scendendo dal South Rim - sul lato nord del canyon procederebbe infatti passando proprio per di qua e prendendo il nome di [**North Kaibab trail**](https://www.grandcanyon.org/park-information/trails/north-kaibab-trail/). La temperatura dell’aria, rispetto a quella del Rim, è molto più calda, stimiamo sui 30° C. Una delle ragioni per cui questo itinerario è considerato proibitivo, infatti, risiede proprio nella grande differenza di temperatura fra il Rim e l’inner canyon, ovvero il fondo del canyon, dove scorre il Colorado river. E pensare che siamo solo ad aprile!
 
-{% include img.html id=81 cap="Verso le rapide del Colorado river" %}
+{% include img.html id=86 cap="Verso le rapide del Colorado river" %}
 
 ## Phantom ranch
 
 Percorrendo il facile sentiero tra gli alberi, attraversiamo il [**Bright Angel campground**](https://www.grandcanyontrust.org/camp/cpe-bright-angel-campground) le cui sistemazioni, prevalentemente tende, sono sparse lungo la valle. Pernottare qui, unico modo per spezzare in due l’itinerario [Rim-2River-2Rim](https://www.nationalparks.org/connect/blog/grand-canyon-rim-rim-hike) o l'ancor più ambizioso [Rim-2Rim-2Rim](https://www.trailrunproject.com/trail/7011064/rim-to-rim-to-rim-r2r2r) (South Rim - North Rim - South Rim o viceversa), è considerato estremamente ambito, proprio in relazione alla grande difficoltà di percorrere l’itinerario in giornata. Vista la grande quantità di richieste, il campeggio non è prenotabile e l’unico modo per potervi pernottare è vincere la lotteria che mette in palio i posti a disposizione ogni notte. Abbiamo sentito di gente che ha tentato la lotteria 4-5 volte e, non riuscendo ad aggiudicarsi il campeggio, ha rinunciato oppure si è allenata per essere in grado di percorrere l’itinerario in giornata.
 Arriviamo al [**Phantom ranch**](https://www.grandcanyonlodges.com/lodging/phantom-ranch/) (quota 780 m), una sorta di oasi antropizzata al termine del campeggio. Alcuni tavoli di legno sono disponibili all’aperto per gli escursionisti. Riconosciamo alcune persone già incontrate lungo il percorso. Sono le 11:15. Ci concediamo 45’ di sosta, non di più, in quanto la parte più impegnativa dell'itinerario deve ancora cominciare. Ci siamo portati toast e barrette e di fronte ai tavoli c’è una fontana di acqua fresca. Vogliamo comunque assaggiare la leggendaria limonata del Phantom ranch. Fresca e poco zuccherata, perfetta! Per il momento la migliore mai assaggiata. Un paio di scoiattolini si avvicina agli escursionisti che stanno mangiando, addirittura avventurandosi a curiosare intorno a uno zaino incustodito. Non ci facciamo intenerire, proprio perché sappiamo che è per il loro bene e non cediamo cibo. Dopo aver sfruttato gli impeccabili bagni compost del rach, a mezzogiorno in punto, ormai tolti tutti gli strati che ci eravamo portati dietro e rimanendo con indosso solo l’essenziale, ci avviamo per la nostra piccola impresa.
 
-{% include img.html id=87 cap="L'invitante Phantom ranch" %}
+{% include img.html id=92 cap="L'invitante Phantom ranch" %}
 
-{% include img.html id=86 cap="Scoiattolo in cerca di cibo presso il Phantom ranch" %}
+{% include img.html id=91 cap="Scoiattolo in cerca di cibo presso il Phantom ranch" %}
 
 ## Bright bridge
 
 In breve raggiungiamo il **Bright bridge** (quota 761 m), ponte argentato che ci consente di riattraversare il Colorado river, questa volta più a valle. Tornati sulla riva sud, percorriamo il breve ratto del River trail che costeggia il fiume e attacchiamo il sentiero per risalire, il [**Bright Angel trail**](https://www.nps.gov/places/000/bright-angel-trail.htm). La combinazione dei due sentieri in questo ordine (SK per scendere e BA per risalire) è quella generalmente scelta per due ragioni: il SK è interamente al sole mentre il BA gode di un tratto immerso nella vegetazione in corrispondenza dell’Indian garden e della parte più vicina al Rim parzialmente in ombra al pomeriggio, quindi è più consigliabile percorrere il BA in salita. La seconda ragione è legata al fatto che non c’è acqua lungo il SK mentre la stessa è disponibile in più punti - tutto l’anno presso l’Indian garden e, solo stagionalmente, presso la 3 mile resthouse e la 1.5 mile resthouse: anche questa condizione fa optare per la disponibilità di acqua al ritorno, in salita.
 
-{% include img.html id=88 cap="Sul Bright bridge" %}
+{% include img.html id=93 cap="Sul Bright bridge" %}
 
 ## River resthouse
 
@@ -81,15 +81,15 @@ La salita comincia nel momento in cui il sentiero abbandona il Colorado river in
 
 {% include img.html img="IMGP4141 - brittlebush.jpg" cap="Un cespuglio di brittlebush in mezzo alle rocce" %}
 
-{% include img.html id=72 cap="Pink hedgehog cactus" %}
+{% include img.html id=77 cap="Pink hedgehog cactus" %}
 
-{% include img.html id=85 cap="Prickly pear cactus" %}
+{% include img.html id=90 cap="Prickly pear cactus" %}
 
 ## Indian garden
 
 Proseguiamo e piano piano il paesaggio brullo comincia a popolarsi di verde: cespugli attorno al corso d’acqua che stiamo risalendo, qualche piccola pianta, fino a veri e propri alberi. Questo scenario ha un sapore quasi tropicale, spuntato dal nulla fra le rocce e a queste alte temperature. Ci illudiamo di essere arrivati all’Indian garden ma continuiamo a non veder comparire l’atteso relativo cartello in legno. Oltretutto, presso l’Indian garden è consentito campeggiare sulla base di appositi permessi, per cui è impossibile passare questa zona senza notarla. Scopriamo che l’[**Indian garden**](https://www.grandcanyontrust.org/camp/cpe-indian-garden-campground) (quota 1159 m) non è una piccola oasi in corrispondenza di una pozza d’acqua solitaria ma un lungo tratto di vegetazione cresciuta attorno al corso d’acqua che stiamo risalendo, che comincia con la formazione del **Garden creek**, fino ad arrivare alla zona di vegetazione più fitta, l’Indian garden vero e proprio. Quando finalmente ci arriviamo lo riconosciamo: 14:25, poco più del nostro amico di Youtube. La stanchezza mista a sudore e fatica comincia a farsi sentire tutta. Facciamo il pieno di acqua - alla fonte si è formata una piccola coda di persone - e ci bagniamo la testa. Ci fermiamo 5’ per mangiare due albicocche secche anche se non abbiamo fame. Notiamo un discreto via vai di gente, parte della quale probabilmente si fermerà a dormire qui. Il Rim è ancora molto lontano e cominciamo ad apprendere sulla nostra pelle la difficoltà dell’impresa che abbiamo scelto di intraprendere. E’ comunque ancora presto, il tempo non ci manca. Ripartiamo. La macchina fotografica è ormai infilata nello zaino e, diversamente dalla discesa, lungo la quale abbiamo scattato tante foto, dubitiamo di fermarmi ad utilizzarla: ormai l’obiettivo è il Rim.
 
-{% include img.html id=91 cap="Lasciandoci alle spalle l'Indian Garden" %}
+{% include img.html id=96 cap="Lasciandoci alle spalle l'Indian Garden" %}
 
 ## 3 miles resthouse
 

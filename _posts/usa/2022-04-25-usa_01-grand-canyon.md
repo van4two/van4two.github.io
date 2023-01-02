@@ -42,9 +42,9 @@ Il programma ipotizzato per questa prima giornata - ormai solo mezza giornata - 
 
 Parcheggiamo in prossimità del [**Bright Angel lodge**](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/) e raggiungiamo a piedi la prima fermata della [navetta rossa](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), quella che percorre la Hermit road. Subito veniamo colpiti dalla vista di un gruppo di cervi praticamente accanto alla strada: non sembrano particolarmente disturbati dalla presenza umana.
 
-{% include img.html id=29 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
+{% include img.html id=29 cap="Nei pressi del Bright Angel lodge, un gruppo di cervi pascola indisturbato" %}
 
-{% include img.html id=28 cap="Nei pressi del Bright Angel lodge un gruppo di cervi pascola indisturbato" %}
+{% include img.html id=28 cap="Nei pressi del Bright Angel lodge, un gruppo di cervi pascola indisturbato" %}
 
 ## Hermit Road
 
