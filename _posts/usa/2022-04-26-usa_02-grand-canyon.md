@@ -26,7 +26,7 @@ Una ragazza tutta bardata con un grosso zaino in spalla si mette in fila dietro 
 
 {% include img.html img="sk-ba.jpg" cap="Mappa dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
 
-{% include img.html img="dislivelli.jpg" cap="Mappa dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
+{% include img.html img="dislivelli.jpg" cap="Dislivelli dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
 ## L'attacco del South Kaibab trail
 
 Fra una cosa e l'altra iniziamo a percorrere il sentiero vero e proprio alle 7 in punto. Il **South Kaibab trailhead** si trova a 2195 m di altitudine. La progressione è facile e l'itinerario ben segnato. Scendiamo rapidamente al di sotto del livello del Rim. Fa uno strano effetto iniziare una simile impresa in discesa: sembra tutto così... facile! Intravediamo altri escursionisti sotto di noi. Dopo qualche tornante in discesa cominciamo già a toglierci i primi strati di abbigliamento tecnico. Il clima per ora è perfetto. In breve raggiungiamo lo **Ooh Ahh point** (quota 1939 m), sostanzialmente uno slargo panoramico in un tornante del sentiero, dove troviamo un gruppetto di persone intente a scattare fotografie.
