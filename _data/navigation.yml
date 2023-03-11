@@ -24,5 +24,11 @@
   url: /hike.html
   indicator: mountain
 - text: / social
-  url: ""
+  url: /events.html
   indicator: social
+  columns: 1
+  sections:
+  - text: Events
+    column: 1
+    category: event
+  

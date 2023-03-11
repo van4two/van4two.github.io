@@ -1,16 +1,18 @@
 ---
 layout: post
 title:  USA
-tags: []
-#cat: usa
 category: event
 
-#gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
-#pics: 2022-04-25-usa
-#day: "13"
+location:
+  longitude: -109.0452
+  latitude: 36.9990
+  ok: true
+
 #teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
-# TODO: insert poster, few lines of description, link to the slidedeck, link/embed vimeo video
+# TODO: insert few lines of description, link to the slidedeck
 ---
 
-# TODO
+![alt]({{ site.url }}{{ site.baseurl }}/assets/img/2022-04-25-usa/event/poster_usa.png)
+
+{% include video id="779626375" provider="vimeo" %}
