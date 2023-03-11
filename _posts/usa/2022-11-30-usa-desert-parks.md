@@ -16,3 +16,11 @@ location:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/img/2022-04-25-usa/event/poster_usa.png)
 
 {% include video id="779626375" provider="vimeo" %}
+
+{% contentfor sidebar %}
+
+**TODO**  
+  
+TODO
+
+{% endcontentfor %}
