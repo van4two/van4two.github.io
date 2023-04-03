@@ -6,7 +6,7 @@ title: Fuerteventura e Lanzarote
 #gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 path: fuerteventura
 
-image: /assets/img/2017-12-20-fuerteventura/cover.jpg
+image: /assets/img/2017-12-16-fuerteventura/cover.jpg
 
 # carousels:
 #   - images: 
