@@ -8,26 +8,26 @@ path: fuerteventura
 
 image: /assets/img/2017-12-16-fuerteventura/cover.jpg
 
-# carousels:
-#   - images: 
-#     - image: /assets/img/slider/iceland/01.jpg
-#     - image: /assets/img/slider/iceland/02.jpg
-#     - image: /assets/img/slider/iceland/03.jpg
-#     - image: /assets/img/slider/iceland/04.jpg
-#     - image: /assets/img/slider/iceland/05.jpg
-#     - image: /assets/img/slider/iceland/06.jpg
-#     - image: /assets/img/slider/iceland/07.jpg
-#     - image: /assets/img/slider/iceland/08.jpg
-#     - image: /assets/img/slider/iceland/09.jpg
-#     - image: /assets/img/slider/iceland/10.jpg
-
+carousels:
+  - images: 
+    - image: /assets/img/2017-12-16-fuerteventura/slider/01.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/02.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/03.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/04.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/05.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/06.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/07.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/08.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/09.jpg
+    - image: /assets/img/2017-12-16-fuerteventura/slider/10.jpg
+  
 diary: fuerteventura
 entries_layout: grid
 
 location:
   longitude: -14.0537
   latitude: 28.3587
-  #ok: true
+  ok: true
 
 # {% contentfor sidebar %}
 
