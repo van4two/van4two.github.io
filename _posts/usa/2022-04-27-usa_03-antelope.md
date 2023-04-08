@@ -12,7 +12,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="IMG20220427114618 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
+{% include img.html img="IMG20220427120502 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
 Ci svegliamo intorno alle 8 nel [Motel 6](https://www.motel6.com/en/home/motels.az.page.4013.html?lid=Local_Milestone_4013&travelAgentNumber=TA001305&corporatePlusNumber=CP792N5W&utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website) di [Page](https://www.visitarizona.com/places/cities/page/). Una bella nottata di sonno al caldo ci ha consentito di riprenderci dalla piccola impresa di [ieri](https://www.van42.com/hike/2022/04/26/usa_02-grand-canyon.html). Prima di dedicarci all'escursione di oggi, facciamo una ragionata sulle opzioni per la visita della [Monument Valley](https://navajonationparks.org/tribal-parks/monument-valley/) di [domani](https://www.van42.com/2022/04/28/usa_04-monument-valley.html). Timorosi di non riuscire ad accedervi con la nostra macchina, un po' per il fondo stradale sassoso (dal sito web ufficiale non è chiaro se l'utilizzo di un'auto dal SUV a crescere sia solo consigliato oppure obbligatorio), un po' per via del numero limitato degli accessi consentiti a partire da quest'anno (solo 15 auto private al giorno), optiamo per prenotare un tour guidato. Volendo vedere la Monument Valley all'alba, l'unica opzione che troviamo acquistabile online è la visita da 3 ore con [Sandstone tour](https://sandstonetours.com/). Prendiamo i biglietti e lasciamo il motel.
 
@@ -43,9 +43,13 @@ Raggiungiamo il canyon a piedi dalla sede di Dixies e scendiamo dentro di esso t
 
  La progressione necessita a tratti di passerelle e scalette metalliche. In altre parti le tortuose pareti del canyon si stringono tanto da consentire il passaggio di una sola persona alla volta. Ci ritroviamo più volte incantati a scattare fotografie e veniamo bonariamente richiamati all'ordine da Jerry che tiene conto dei tempi della visita.
 
+{% include img.html img="IMG20220427120418 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
+
 {% include img.html img="IMG20220427122321 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
  L'Antelope Canyon si trova all'interno della [riserva dei nativi Navajo](https://www.navajo-nsn.gov/), molti dei quali - lo stesso Jerry - lavorano nell'ambito delle attività turistiche presenti sul loro territorio. Proprio il fatto che il canyon si trovi all'interno della riserva ci ha fatto più volte ragionare sul fuso orario qui applicato. Nella riserva, infatti, vigono regole particolari di cui tenere conto in aggiunta al cambio di fuso orario già dovuto al passaggio da uno stato all'altro (per esempio dall'Arizona allo Utah). 
+
+{% include img.html img="IMG20220427114618 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
 {% include img.html img="IMG20220427114705 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
