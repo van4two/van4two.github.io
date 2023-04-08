@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Costa Atlantica
+title: Lanzarote
 tags: []
 cat: fuerteventura
 
@@ -13,7 +13,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 COMING SOON
 
 {% contentfor mymap %}
-
+<iframe src="https://www.google.com/maps/d/embed?mid=19kaBWPzZLrbYiDhkEbd0ORUdRtuMKdaQ&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
 
 {% contentfor sidebar %}

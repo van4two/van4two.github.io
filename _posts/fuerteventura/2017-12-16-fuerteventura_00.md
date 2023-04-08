@@ -1,7 +1,7 @@
 ---
 layout: cover
 categories: [cover, europa]
-title: Fuerteventura e Lanzarote
+title: Fuerteventura
 #tags: [area geotermale, cascate, geyser, fotografia, spiaggia, bird watching, ghiacciaio, scogliere, fiordi]
 #gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 path: fuerteventura
@@ -42,12 +42,11 @@ location:
 # | Campervan (FIAT Scudo 2003) |
 
 # {% endcontentfor %}
-
-
-# {% contentfor mymap %}
-# <iframe src="https://www.google.com/maps/d/embed?mid=1AVTYS1o5HOrGJoYhK8TJbPP7c07xYo--&ehbc=2E312F" width="640" height="480"></iframe>
-# {% endcontentfor %}
 ---
+
+{% contentfor mymap %}
+<iframe src="https://www.google.com/maps/d/embed?mid=1u7fufK2RqOmEy8EG3OqdKvnB9o3EQdVr&ehbc=2E312F" width="640" height="480"></iframe>
+{% endcontentfor %}
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
