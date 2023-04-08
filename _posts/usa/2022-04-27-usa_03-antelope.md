@@ -47,8 +47,6 @@ Raggiungiamo il canyon a piedi dalla sede di Dixies e scendiamo dentro di esso t
 
  L'Antelope Canyon si trova all'interno della [riserva dei nativi Navajo](https://www.navajo-nsn.gov/), molti dei quali - lo stesso Jerry - lavorano nell'ambito delle attività turistiche presenti sul loro territorio. Proprio il fatto che il canyon si trovi all'interno della riserva ci ha fatto più volte ragionare sul fuso orario qui applicato. Nella riserva, infatti, vigono regole particolari di cui tenere conto in aggiunta al cambio di fuso orario già dovuto al passaggio da uno stato all'altro (per esempio dall'Arizona allo Utah). 
 
-{% include img.html img="IMG20220427114618 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
-
 {% include img.html img="IMG20220427114705 - antelope.jpg" cap="Scorcio all'interno del Lower Antelope Canyon" %}
 
  La stessa riflessione dovremo fare per il tour alla Monument Valley di [domani](https://www.van42.com/2022/04/28/usa_04-monument-valley.html) in modo da non rischiare di perdere il tour. La visita dell'Antelope Canyon ci lascia pienamente soddisfatti, se non addirittura colpiti.
