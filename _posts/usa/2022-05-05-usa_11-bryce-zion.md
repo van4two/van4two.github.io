@@ -82,9 +82,9 @@ Durata effettiva a/r: 2h20′ (indicata: 3-4h)
 Tipologia itinerario: percorso ad anello
 
 **Tips**
-[Bryce Canyon National Park](https://www.nps.gov/care/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Bryce Canyon NP](https://www.nps.gov/care/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
-[Zion National Park](https://www.nps.gov/zion/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Zion NP](https://www.nps.gov/zion/index.htm): accesso 20 $/persona oppure 35 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 
 Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Bryce Canyon NP e Zion NP rientrano fra i parchi inclusi.
 

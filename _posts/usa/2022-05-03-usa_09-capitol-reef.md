@@ -55,9 +55,9 @@ Dopo aver fatto acqua presso il visitor center, torniamo sulla UT-24 e ci fermia
 Dalla UT-24, poco prima di [Torrey](https://torreyutah.gov/), imbocchiamo la UT-12 verso sud. Questa strada si snoda nella [**Dixie national forest**](https://www.fs.usda.gov/dixie) che troviamo particolarmente panoramica. Rimaniamo colpiti per come, mentre guidiamo con il sole nel cielo, vediamo nell’aria cadere fiocchi di neve! raggiunto il passo a quota 9600 piedi (quasi 3000 m), comincia la discesa. 
 
 {% include img.html img="IMGP5551 - ut-12.jpg" cap="Ampi spazi verdeggianti lungo la UT-12" %}
-## Grand Staircase Escalante national monument
+## Grand Staircase Escalante National Monument
 
-La strada prosegue ancora panoramica ma con un differente carattere mentre attraversiamo il [**Grand Staircase Escalante national monument**](https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument). Il giallo e il bianco cominciano a prevalere. In particolare ci soffermiamo sul promontorio panoramico **Hogback** su cui la strada stessa passa.
+La strada prosegue ancora panoramica ma con un differente carattere mentre attraversiamo il [**Grand Staircase Escalante National Monument**](https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument). Il giallo e il bianco cominciano a prevalere. In particolare ci soffermiamo sul promontorio panoramico **Hogback** su cui la strada stessa passa.
 Facciamo una sosta al visitor center del parco (a quest’ora ormai chiuso), dove troviamo comunque un po’ di materiale illustrativo e i servizi igienici aperti. Notiamo inoltre una serie di vaschette d’acqua appese in vari punti e scopriamo essere disposte per i colibrì che vengono a bere numerosi.
 
 {% include img.html img="IMGP5549 - grand staircase escalante.jpg" cap="Abbeveratoio per colibrì" %}
@@ -73,7 +73,7 @@ Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftro
 {% contentfor sidebar %}
 
 **Tips**  
-[Capitol Reef National Park](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
+[Capitol Reef NP](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
 l'accesso è gratuito ma la Scenic drive è a pagamento; è comunque coperta dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm)
 Se si intende visitare più parchi, infatti, conviene considerare il pass annuale America the Beautiful che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. 
 
