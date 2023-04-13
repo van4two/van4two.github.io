@@ -22,24 +22,24 @@ La strada continua ad essere panoramica come [ieri](https://www.van42.com/2022/0
 
 ## Hickman natural bridge
 
-Cominciamo la nostra visita con il breve trekking per l'[**Hickman natural bridge**](https://www.nps.gov/care/learn/photosmultimedia/images/411%20-%20Hickman%20Trailhead%20-%20final%20resize.jpg): torniamo sulla strada principale e lasciamo l’auto nel parcheggio da cui partono diversi sentieri. Notiamo quasi subito e non con particolare entusiasmo che gli alberati attorno al parcheggio e lungo il primo tratto di sentiero sono colmi di nidi di processionarie. Una ragazza infatti ci viene incontro avvertendoci "Be careful, it’s raining caterpillars!” Anche per terra ce ne sono tantissime. Percorriamo questo primo tratto di sentiero di corsa, fino a trovarci in una zona rocciosa priva di vegetazione. Il sentiero di 1,4 km solo andata consente di raggiungere rapidamente l’imponente ponte naturale.
+Cominciamo la nostra visita con il breve trekking per l'[**Hickman natural bridge**](https://www.nps.gov/care/learn/photosmultimedia/images/411%20-%20Hickman%20Trailhead%20-%20final%20resize.jpg): torniamo sulla strada principale e lasciamo l’auto nel parcheggio da cui partono diversi sentieri. Notiamo quasi subito e non con particolare entusiasmo che gli alberi attorno al parcheggio e lungo il primo tratto di sentiero sono colmi di nidi di processionarie. Una ragazza infatti ci viene incontro avvertendoci "Be careful, it’s raining caterpillars!” Anche per terra ce ne sono tantissime. Percorriamo questo primo tratto di sentiero di corsa, fino a trovarci in una zona rocciosa priva di vegetazione. Il sentiero di 1,4 km solo andata consente di raggiungere rapidamente l’imponente ponte naturale.
 
 {% include img.html img="IMGP5429 - hickman natural bridge.jpg" cap="L'imponente Hickman natural bridge" %}
 
 ## Fruita
 
-Dopo questa prima tappa ci dedichiamo a [**Fruita**](https://www.nps.gov/care/planyourvisit/fruita.htm), la parte del parco mantenuta a frutteto fin da quando venne colonizzata e vennero avanzati tentativi di rendere la terra coltivabile. Da giugno, quando gli alberi si caricano di mele, pere, pesche e prugne, i turisti possono cogliere la frutta direttamente dai rami e gustarla gratuitamente rimanendo all’interno del frutteto. E’ possibile anche acquistarne da portare via. Purtroppo ora la stagione è ancora indietro. Colpisce, comunque, questa oasi verdeggiante fra le rosse rocce assolate del deserto. Ci rechiamo alla [**Gifford house**](https://www.nps.gov/care/learn/historyculture/giffordhomestead.htm), fattoria e piccolo negozio di Fruita dove vengono venduti prodotti locali e prendiamo la loro nota torta di mele.
+Dopo questa prima tappa ci dedichiamo a [**Fruita**](https://www.nps.gov/care/planyourvisit/fruita.htm), la parte del parco mantenuta a frutteto fin da quando venne colonizzata e vennero effettuati tentativi di rendere la terra coltivabile. Da giugno, quando gli alberi si caricano di mele, pere, pesche e prugne, i turisti possono cogliere la frutta direttamente dai rami e gustarla gratuitamente rimanendo all’interno del frutteto. E’ possibile anche acquistarne da portare via. Purtroppo ora la stagione è ancora indietro. Colpisce, comunque, questa oasi verdeggiante fra le rosse rocce assolate del deserto. Ci rechiamo alla [**Gifford house**](https://www.nps.gov/care/learn/historyculture/giffordhomestead.htm), fattoria e piccolo negozio di Fruita dove vengono venduti prodotti locali e acquistiamo la loro nota torta di mele.
 
 {% include img.html img="IMGP5494 - fruita.jpg" cap="I verdeggianti frutteti di Fruita" %}
 ## Scenic drive
 
 Essendo ancora presto per il pranzo, percorriamo in auto la [**Scenic drive**](https://www.nps.gov/care/planyourvisit/scenicdrive.htm) il cui accesso è a pagamento - ma è coperto dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm). La strada corre lungo il [**Waterpocket fold**](https://www.nps.gov/care/planyourvisit/waterpocketdistrict.htm), una sorta di “piega”, di “ruga” nella roccia, come se la crosta terrestre si fosse qui ripiegata verso l’alto formando una lunga escrescenza.
 
-{% include img.html img="IMGP5466 - scenic drive.jpg" cap="Rilievi della Waterpocket fold lungo Scenic drive" %}
+{% include img.html img="IMGP5466 - scenic drive.jpg" cap="Rilievi della Waterpocket fold lungo la Scenic drive" %}
 
 Ci fermiamo al parcheggio presso [**Pleasant creek**](https://www.nps.gov/care/planyourvisit/pleasant-creek.htm) - per proseguire sarebbe indicato un veicolo dal fondo alto - e pranziamo con la torta di mele. Sembra un crumble, quasi troppo zuccherato anche per gli standard di Ste, amante dei dolci. Il tempo, fino a questo momento un po’ nuvoloso, sembra migliorare. Cogliamo l’occasione per ripercorrere la Scenic drive in senso opposto a prima e ci fermiamo per una serie di tappe fotografiche presso l'**Egyptian temple** e la **Slick rock divide**. Tornati a Fruita ci inerpichiamo lungo il primo tratto del [**Cohab trail**](https://www.nps.gov/care/learn/photosmultimedia/images/507%20-%20Cohab%20Canyon%20Trail%20-%20final%20resize.jpg) fino a un belvedere che ci consente una visuale a 180° sul frutteto, la stalla dei cavalli e tutto il verde che contrasta con le rocce rosse della zona.
 
-{% include img.html img="IMGP5446 - egyptian temple.jpg" cap="Il panorama lungo Scenic drive è costellato di formazioni geologiche come l'Egyptian temple" %}
+{% include img.html img="IMGP5446 - egyptian temple.jpg" cap="Il panorama lungo la Scenic drive è costellato di formazioni geologiche come l'Egyptian temple" %}
 
 {% include img.html img="IMG_20220503_112605 - gifford house.jpg" cap="La caratteristica apple pie della Gifford house" %}
 ## Lungo la UT-24
@@ -73,8 +73,8 @@ Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftro
 {% contentfor sidebar %}
 
 **Tips**  
-[Capitol Reef NP](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15).
-l'accesso è gratuito ma la Scenic drive è a pagamento; è comunque coperta dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm)
+[Capitol Reef NP](https://www.nps.gov/care/index.htm): accesso gratuito; pedaggio Scenic drive: 10 $/persona oppure 20 $/veicolo. La tariffa a veicolo si riferisce al mezzo, purché privato, e ai visitatori che porta (max 15). 
+L'accesso è gratuito ma la Scenic drive è a pagamento; è comunque coperta dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm).
 Se si intende visitare più parchi, infatti, conviene considerare il pass annuale America the Beautiful che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. 
 
 [Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn): camera doppia e colazione 95 $
