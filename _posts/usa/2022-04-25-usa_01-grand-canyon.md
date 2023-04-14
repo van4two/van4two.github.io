@@ -72,7 +72,7 @@ Decidiamo di chiudere la visita di oggi con un’ultima tappa al [**visitor cent
 
 Tornati in macchina ci spingiamo fino al [**Grandview point**](https://www.nps.gov/places/000/grandview-point.htm) per vedere il tramonto  - l’ideale sarebbe stato  [**Lipan point**](https://www.nps.gov/places/000/lipan-point.htm) ma, essendo più distante, temiamo di non arrivare in tempo. Notando che, con il calare del sole, comincia a scendere anche la temperatura, ci fermiamo a cenare nella prima piazzola con tavoli da pic-nic che troviamo lungo la [**Desert view drive**](https://www.nps.gov/grca/planyourvisit/desert-view-drive.htm).
 
-{% include img.html id=32 cap="Vista sul Grand Canyon dal Grandview point, punto di osservazione lungo la Desert view drive" %}
+{% include img.html id=31 cap="Vista sul Grand Canyon dal Grandview point, punto di osservazione lungo la Desert view drive" %}
 
 ## Kaibab forest
 
