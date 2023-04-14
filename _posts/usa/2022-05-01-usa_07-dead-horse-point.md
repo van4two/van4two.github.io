@@ -53,11 +53,11 @@ A questo punto ci concediamo almeno una cenetta, visto anche che il gran vento r
 **Tips**  
 [Dead Horse point state park](https://www.discovermoab.com/dead-horse-point-state-park/): accesso 14 $/persona a piedi oppure 20 $/veicolo (max 8 passeggeri). Trattandosi di parco statale (e non nazionale), non è ricompreso negli ingressi coperti dal pass annuale [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm)
 
-Campeggio [Sun Outdoor North](https://www.sunoutdoors.com/utah/sun-outdoors-north-moab), Moab: piazzola 40 $
+Campeggio [Sun Outdoor North](https://www.sunoutdoors.com/utah/sun-outdoors-north-moab), [Moab](https://www.discovermoab.com/): piazzola 40 $
 
-[Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn), Tropic: camera doppia e colazione 95 $
+[The Spoke on center](https://www.thespokemoab.com/), Moab: hamburger per due 48 $; le porzioni sono abbondantissime!
 
-[The Spoke on center](https://www.thespokemoab.com/): hamburger per due 48 $; le porzioni sono abbondantissime!
+[Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn), [Tropic](https://www.townoftropicut.gov/): camera doppia e colazione 95 $
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 

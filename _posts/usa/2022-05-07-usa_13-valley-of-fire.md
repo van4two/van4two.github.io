@@ -71,11 +71,11 @@ Il mattino dopo prepariamo i bagagli, torniamo all’Oyo dove lasciamo la macchi
 {% contentfor sidebar %}
 
 **Tips**
-[Valley of Fire](http://parks.nv.gov/parks/valley-of-fire): accesso 10 $/veicolo targato Nevada; 15 $/veicolo di altri stati
+[Valley of Fire state park](http://parks.nv.gov/parks/valley-of-fire): accesso 10 $/veicolo targato Nevada; 15 $/veicolo di altri stati
 
 [Hoover Dam](https://www.usbr.gov/lc/hooverdam/): accessibile esclusivamente mediante visite guidate.[Guided dam tour](https://www.usbr.gov/lc/hooverdam/service/): 30 $/persona, durata 1h30', non prenotabile online
 
-[Heart attack grill](https://www.heartattackgrill.com/): hamburger per due 40 $; le porzioni sono abbondanti
+[Heart attack grill](https://www.heartattackgrill.com/), Las Vegas: hamburger per due 40 $; le porzioni sono abbondanti
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 

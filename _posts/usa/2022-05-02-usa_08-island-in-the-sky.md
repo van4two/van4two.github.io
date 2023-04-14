@@ -61,7 +61,7 @@ Se si intende visitare più parchi, conviene considerare il pass annuale [Americ
 
 [Island in the Sky](https://www.nps.gov/cany/planyourvisit/islandinthesky.htm): il settore più frequentato di Canyonlands; presso il visitor center è disponibile Wi-Fi gratuita
 
-[Goblin state park](https://www.utah.com/destinations/state-parks/goblin-valley-state-park/):accesso 20 $, valido per due giorni
+[Goblin state park](https://www.utah.com/destinations/state-parks/goblin-valley-state-park/): accesso 20 $, valido per due giorni
 
 [Little Wild Horse canyon](https://www.utah.com/destinations/regions/the-holey-land/little-wild-horse-canyon/): accesso gratuito; è situato a breve distanza dal Goblin state park, in fondo alla Wld Horse road (CR-1013)
 

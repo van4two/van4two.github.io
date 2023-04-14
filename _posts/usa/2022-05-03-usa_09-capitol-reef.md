@@ -77,7 +77,7 @@ Dopo qualche altra sosta fotografica raggiungiamo [Tropic](https://www.townoftro
 L'accesso è gratuito ma la Scenic drive è a pagamento; è comunque coperta dal pass [America the beautiful](https://www.nps.gov/planyourvisit/passes.htm).
 Se si intende visitare più parchi, infatti, conviene considerare il pass annuale America the Beautiful che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. 
 
-[Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn): camera doppia e colazione 95 $
+[Red Ledges inn](https://www.stayinns.com/country-hearth-inn-suites/ut/tropic/red-ledges-inn), [Tropic](https://www.townoftropicut.gov/): camera doppia e colazione 95 $
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 

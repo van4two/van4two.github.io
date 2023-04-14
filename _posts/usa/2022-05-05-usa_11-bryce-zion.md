@@ -88,11 +88,11 @@ Tipologia itinerario: percorso ad anello
 
 Se si intende visitare più parchi, conviene considerare il pass annuale [America the Beautiful](https://www.nps.gov/planyourvisit/passes.htm) che, per 80 $, consente l’accesso a tutti i parchi nazionali americani - ma non ai parchi statali - nell’arco di un anno. Il pass può contenere fino a due nominativi, pertanto può essere utilizzato - per esempio da un coppia o nucleo familiare - per poi essere ceduto ad altro visitatore che apporrà la propria firma nel secondo spazio a disposizione. Bryce Canyon NP e Zion NP rientrano fra i parchi inclusi.
 
-[Best host inn](https://panguitch.com/business-directory/knights-inn-panguitch/): camera doppia e colazione 56 $
+[Best host inn](https://panguitch.com/business-directory/knights-inn-panguitch/), [Panguitch](https://panguitch.com/): camera doppia e colazione 56 $
 
-[Outfitter](https://zionoutfitter.com/): attrezzatura per percorrere The Narrows comprensiva di calze di neoprene, scarpe da torrentismo e bastone per due persone + uno zaino impermeabile: 75 $
+[Outfitter](https://zionoutfitter.com/), [Springdale](https://www.utah.com/destinations/national-parks/zion-national-park/springdale-utah/): attrezzatura per percorrere The Narrows comprensiva di calze di neoprene, scarpe da torrentismo e bastone per due persone + uno zaino impermeabile: 75 $
 
-[Zion Canyon brew pub](https://zionbrewery.com/): hamburger per due 50 $; le porzioni sono abbondantissime!
+[Zion Canyon brew pub](https://zionbrewery.com/), Springdale: hamburger per due 50 $; le porzioni sono abbondantissime!
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
