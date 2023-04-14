@@ -1,0 +1,43 @@
+{% include img.html id=40 cap="A cavallo presso il Cedar ridge lungo il South Kaibab trail" %}
+
+
+{% include img.html img="sk-ba.jpg" cap="Mappa dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
+
+{% include img.html img="dislivelli.jpg" cap="Dislivelli dell'itinerario" link="https://www.nps.gov/grca/planyourvisit/upload/intro-bc-hike.pdf" %}
+
+
+{% include img.html id=38 cap="Vista del Grand Canyon presso il Cedar ridge" %}
+
+{% include img.html id=42 cap="Vista del Grand Canyon presso il Cedar ridge" %}
+
+
+{% include img.html id=47 cap="Lungo il South Kaibab trail" %}
+
+{% include img.html id=50 cap="Lungo il South Kaibab trail" %}
+
+
+{% include img.html id=60 cap="In vista del Tipoff" %}
+
+{% include img.html id=68 cap="Muli in fila indiana presso il Tipoff" %}
+
+
+{% include img.html id=83 cap="Verso le rapide del Colorado river" %}
+
+
+{% include img.html id=89 cap="L'invitante Phantom ranch" %}
+
+{% include img.html id=88 cap="Scoiattolo in cerca di cibo presso il Phantom ranch" %}
+
+
+{% include img.html id=90 cap="Sul Bright bridge" %}
+
+
+{% include img.html img="IMGP4141 - brittlebush.jpg" cap="Un cespuglio di brittlebush in mezzo alle rocce" %}
+
+{% include img.html id=74 cap="Pink hedgehog cactus" %}
+
+{% include img.html id=87 cap="Prickly pear cactus" %}
+
+
+{% include img.html id=93 cap="Lasciandoci alle spalle l'Indian garden" %}
+
