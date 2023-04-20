@@ -12,7 +12,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="IMGP6056 - fire wave.jpg" cap="Fire wave" %}
+{% include img.html img="IMGP6054 - fire wave.jpg" cap="Fire wave" %}
 
 Dopo una notte ventosa ma calda ci svegliamo nell'area di campeggio libero del [BLM](https://www.blm.gov/) lungo [Sand mine road](https://freecampsites.net/#!27183&query=sitedetails) vicino alla Valley of Fire. Alle 8 del mattino ci sono già 84° Fahrenheit - quasi 29° C!.
 
@@ -35,7 +35,7 @@ Proseguiamo per la Mouse tank road, detta anche **White dome road**, che si snod
 
 Non essendo riusciti a visitare la nota [**The Wave**](https://www.thewave.info/) in [Arizona](https://it.wikipedia.org/wiki/Arizona) per via della logistica legata alla relativa lotteria, molto restrittiva, siamo decisi a vedere almeno questa formazione. La raggiungiamo attraverso un facile sentiero di 2,5 km che, causa l’alta temperatura, impieghiamo circa mezz'ora a percorrere. Presso il visitor center vengono indicate quotidianamente le temperature previste nel corso della giornate e i limiti oltre i quali alcuni sentieri sono sconsigliati o addirittura interdetti. Questo itinerario, per esempio, andrebbe evitato con temperature superiori a 85° Fahrenheit, limite che oggi sfioriamo. Ci avventuriamo con molta attenzione, portando con noi tanta acqua, con l'intenzione di trattenerci poco. Il sentiero non è ben indicato, più volte usciamo dalla traccia per poi riprenderla: la direzione comunque è chiara, in quanto le immense rocce su cui stiamo camminando cominciano a riempirsi progressivamente di striature di cromie rosso-aranciate.
 
-{% include img.html img="IMGP6064 - fire wave.jpg" cap="Fire wave" %}
+{% include img.html img="IMGP6073 - fire wave.jpg" cap="Fire wave" %}
 
 Finalmente raggiungiamo la Fire Wave vera e propria, attorniata da un piccolo gruppo di viaggiatori provenienti dall’estremo Oriente. Piuttosto fotogenica, la consideriamo il “contentino” per non essere riusciti a visitare la più nota The Wave. Torniamo alla macchina, effettivamente un po’ provati dall’alta temperatura. Decidiamo di concludere la visita al parco percorrendo fino in fondo la Mouse tank road, che termina poco oltre presso le [**White domes**](https://www.valley-of-fire.com/white-domes/). Anche qui si staglia davanti a noi uno scenario di imponenti monoliti di svariate cromie. Ci limitiamo a qualche foto in zona senza avventurarci ulteriormente per sentieri. Ripercorriamo la Mouse tank road verso sud fino ad imboccare nuovamente la Valley of Fire highway. Complessivamente questo parco ci sembra caratterizzato in prevalenza da rocce rosso-arancio che ricordano un po' una sorta di crumble. Lungo la strada ci fermiamo alle formazioni rocciose note con [**Beehives**](https://www.valley-of-fire.com/beehives/) in quanto ricordano - vagamente - degli alveari. Ai limiti del parco adocchiamo in mezzo ai cespugli un’altra bighorn sheep, intenta a mangiare foglie da alberi bassi.
 
