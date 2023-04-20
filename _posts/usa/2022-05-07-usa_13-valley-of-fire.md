@@ -78,5 +78,5 @@ Il mattino seguente prepariamo i bagagli, torniamo all’Oyo dove lasciamo la ma
 [Heart attack grill](https://www.heartattackgrill.com/), Las Vegas: hamburger per due 40 $; le porzioni sono abbondanti
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
-
+ 
 {% endcontentfor %}
