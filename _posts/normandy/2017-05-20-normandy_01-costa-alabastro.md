@@ -24,9 +24,7 @@ Dopo il violento temporale che si scatena durante la notte, siamo svegliati al m
 
 Ci dirigiamo verso la costa arrivando in due ore e mezza a **Veules-les-Roses**, grazioso paesino che si sviluppa attorno al fiume più corto della Francia (1100 m di lunghezza complessiva). Camminiamo lungo il corso d’acqua in direzione mare, incontrando quelli che un tempo erano mulini e piccole chiuse. Alla foce del fiume Veules troviamo un’immensa spiaggia di ciottoli ed ecco le prime bianche scogliere della **Côte d’Albâtre**. Il tratto di costa così denominato va da Le Tréport, poco più a nord-est di dove ci troviamo, e termina prima di Le Havre. Dall’altezza dei moli che spiccano sulla spiaggia all’asciutto si comprende che siamo in un momento di bassa [marea](http://www.surf-forecast.com/breaks/Veules-Les-Roses/tides/latest): l’ampiezza – ovvero il dislivello fra alta e bassa marea – in quest’area geografica può arrivare fino a una decina di metri! Tornando sui nostri passi attraversiamo nuovamente il paese, percorrendo la strada sull'altra sponda del fiume dove compriamo baguettes croccanti alla [boulangerie patisserie Loue](https://www.google.nl/maps/place/Boulangerie+Patisserie+Loue/@49.8742019,0.7980872,15z/data=!4m2!3m1!1s0x0:0xffb483559bc86e3c?sa=X&ved=0ahUKEwiJsJfIxNvVAhXNZ1AKHZEcDgwQ_BIIdjAK).
 
-{% include img.html id=5 cap="La Veules 'le plus petit fleuve de France'" %}
-
-{% include img.html id=7 cap="Mulino ad acqua lungo il corso della Veules" %}
+{% include img.html id=5 cap="La Veules 'le plus petit fleuve de France'" id2=7 cap2="Mulino ad acqua lungo il corso della Veules" %}
 
 {% include img.html id=10 cap="La Côte d'Albâtre durante la bassa marea" %}
 
