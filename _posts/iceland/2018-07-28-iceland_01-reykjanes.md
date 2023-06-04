@@ -50,8 +50,6 @@ Per fortuna smette di piovere e riusciamo a visitarle senza bagnarci. L’odore 
 
 Sono quasi le 19 e, avvicinandosi la sera, decidiamo di dirigerci verso il Circolo d’oro, che visiteremo l’indomani, percorrendo la strada che costeggia il suggestivo lago **[Kleifarvatn](https://hiticeland.com/places_and_photos_from_iceland/lake-kleifarvatn)**. Superato lo specchio d’acqua, lasciamo la strada asfaltata in costa per imboccare la sterrata n. 417 in direzione est. Questo tracciato attraversa paesaggi lunari di roccia vulcanica scurissima alternata a distese di muschio verde acceso. Il cielo plumbeo accentua ancora di più i colori e il loro forte contrasto. Arrivati sul Ring, la principale strada del paese, conosciuta anche come *Hringvegur* o semplicemente come strada n. 1, riprende l’asfalto e guidiamo per circa una mezzora fino al cratere vulcanico [Kerið](https://guidetoiceland.is/travel-iceland/drive/kerid) che visiteremo [domani](https://www.van42.com/2018/07/29/iceland_02-circolo-oro.html).
 
-{% include img.html id=18 cap="La strada n. 42 costeggia la sponda occidentale del lago Kleifarvatn" %}
-
 Parcheggiamo il furgone per la notte in uno slargo lungo una strada sterrata secondaria attorniata dal bosco, poco lontana dal vulcano stesso.
 
 {% contentfor mymap %}
