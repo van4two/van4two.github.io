@@ -26,7 +26,7 @@ Sotto la pioggia continua e il vento gelido arriviamo all’abitato di **[Garðu
 
 {% include img.html img="IMG_20180728_204533.jpg" cap="Il faro più antico, risalente alla fine del XIX secolo" %}
 
-{% include img.html img="IMG_20180728_131324.jpg" cap="Il faro eretto nel 1944 in posizione arretrata rispetto alla costa" %}
+{% include img.html img="IMG_20180728_204755.jpg" cap="Il faro eretto nel 1944 in posizione arretrata rispetto alla costa" %}
 
 ## La Blue Lagoon
 
