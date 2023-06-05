@@ -47,7 +47,7 @@ Fra questi si trova [**Geysir**](https://guidetoiceland.is/travel-iceland/drive/
 
 Subito oltre notiamo [**Blesi**](http://www.volcanic-springs.com/index.php?section=Iceland&icelandsection=geysir&icelandsubsection=centralgroup), una hot spring composta da due pozze coloratissime: la prima, caratterizzata da acqua calda e trasparente, lascia intravedere perfettamente il foro di alimentazione, e la seconda, che raccoglie le acque provenienti dalla prima pozza, quindi raffreddate, mostra un colore azzurro intenso quasi lattescente.
 
-{% include img.html img="IMGP6708.jpg" cap="Il colore azzurro della seconda pozza (vasca meridionale), alimentata dalla precedente, è dovuto alla precipitazione di microscopiche particelle silicee" %}
+{% include img.html img="IMGP6708.jpg" cap="Il colore azzurro della vasca meridionale di Blesi, alimentata dalla precedente, è dovuto alla precipitazione di microscopiche particelle silicee" %}
 ## Gullfoss
 
 La pioggia non ci dà tregua: a tratti cala per poi riprendere vigorosa, accompagnandoci anche durante la visita all’imponente cascata [**Gullfoss**](https://guidetoiceland.is/travel-iceland/drive/gullfoss). La “cascata d’oro” si getta nel fiume Ölfusá con uno spettacolare doppio salto di 32 m, sollevando una nuvola di spruzzi che raggiungono anche i visitatori. Sembra una cascata del Niagara in miniatura!
