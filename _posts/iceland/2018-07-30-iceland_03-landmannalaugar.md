@@ -27,14 +27,12 @@ Il bus ripercorre al contrario la strada che abbiamo fatto il giorno prima e svo
 {% include img.html img="IMG_20180730_082549.jpg" cap="Fermata del bus della compagnia Trex a Rjupnavellir" %}
 
 {% include img.html img="IMG_20180730_083233.jpg" cap="Bus anfibio in grado di percorrere F roads e di guadare corsi di acqua anche copiosi" %}
-
-### Laugavegur
+## Laugavegur
 
 Dopo un’ora e mezza, puntualissimi, arriviamo a Landmannalaugar: un freddo polare! Notiamo alcune costruzioni basse in legno e, accanto, il [campeggio](http://www.landmannalaugar.info/), oltre a una fila di pullman, autobus e gipponi alti. Ci rechiamo al centro visitatori – una capanna – ma fuori dalla porta c’è una coda infinita e, dopo una breve attesa, rinunciamo. Cercando di orientarci con la mappa che avevamo stampato prima di partire, ci avviamo a piedi per uno dei sentieri, quello che percorre il primo tratto del lungo trekking Laugavegur, per poi rientrare a Landmannalaugar.
 **[Laugavegur](https://www.trek.is/en/our-tours/laugavegur-trek/laugavegur-trekking)**, il “sentiero delle sorgenti calde”, è un itinerario lungo circa 55 km che, da Landmannalaugar, si dirige verso sud attraversando una grande varietà di paesaggi e termina nella valle glaciale di [**Þórsmörk**](https://guidetoiceland.is/travel-iceland/drive/thorsmork): avendo più tempo a disposizione ci sarebbe piaciuto percorrerlo. Ci accontentiamo di assaggiarne il primo breve tratto senza allontanarci da Landmannalaugar.
 
 {% include img.html img="landmannalaugar 1a.jpg" cap="Carta dei sentieri di Landmannalaugar: il trekking Laugavegur – di cui abbiamo percorso un breve tratto – si dirige verso sud" %}
-
 ## L’anello Laugahraun – Brennisteinsalda – Grænagil
 
 Addentrandoci nei campi di lava di [**Laugahraun**](https://icelandictimes.com/laugahraun/), il paesaggio ci ricorda un po’ il [Tongariro Alpine Crossing](https://www.van42.com/2012/12/29/nz_04-tongariro.html) che percorremmo in Nuova Zelanda nel 2012, richiamando, in particolare, la prima vallata dell’itinerario neozelandese per via delle concrezioni laviche che si ergono dal terreno. Giriamo attorno al vulcano [**Brennisteinsalda**](https://guidetoiceland.is/travel-iceland/drive/brennisteinsalda) (855 m), letteralmente “onda di zolfo”, in quanto si presenta attorniato da solfatare i cui vapori ci avvolgono non appena ci avviciniamo alle pozze sulfuree. Il monte si identifica facilmente per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso per via della rara e bassa vegetazione.
