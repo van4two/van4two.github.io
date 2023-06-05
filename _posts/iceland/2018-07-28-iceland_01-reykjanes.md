@@ -38,7 +38,7 @@ Imboccata la strada costiera n. 427 e, successivamente, la n. 42, ci addentriamo
 
 {% include img.html img="IMGP6599.jpg" cap="L’esplosione di colori di Krisúvík" %}
 
-Per fortuna smette di piovere e riusciamo a visitarle senza bagnarci. L’odore pungente e i colori accesi ricordano tantissimo la neozelandese [Rotorua](https://www.van42.com/2012/12/28/nz_04-rotorua.html). Ci sono pozze di fango ribollenti e solfatare che emettono sbuffi di fumo caldo dall’odore di uova marce. I colori predominanti sono il giallo acceso e tutte le sue sfumature fino all’arancione, mentre le pozze contengono fango che tende al violaceo. Dal parcheggio, in parte su passerelle di legno e in parte su sentiero, si snoda un percorso ad anello che conduce vicino alle aree più interessanti del sito.
+Per fortuna smette di piovere e riusciamo a visitarle senza bagnarci. L’odore pungente e i colori accesi ricordano tantissimo la neozelandese [Rotorua](https://www.van42.com/2012/12/28/nz_03-rotorua.html). Ci sono pozze di fango ribollenti e solfatare che emettono sbuffi di fumo caldo dall’odore di uova marce. I colori predominanti sono il giallo acceso e tutte le sue sfumature fino all’arancione, mentre le pozze contengono fango che tende al violaceo. Dal parcheggio, in parte su passerelle di legno e in parte su sentiero, si snoda un percorso ad anello che conduce vicino alle aree più interessanti del sito.
 
 {% include img.html img="IMGP6581.jpg" cap="Avvicinandosi alle solfatare si viene avvolti da fumo caldo dall’odore 'importante'" %}
 
