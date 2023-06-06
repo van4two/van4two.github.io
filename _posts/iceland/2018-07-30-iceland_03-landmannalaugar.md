@@ -37,10 +37,6 @@ Addentrandoci nei campi di lava di [**Laugahraun**](https://icelandictimes.com/l
 
 {% include img.html img="IMGP6790-0456.jpg" cap="A tratti il paesaggio brullo si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti; il vulcano Brennisteinsalda è facilmente riconoscibile per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso" %}
 
-{% include img.html img="IMGP6790.jpg" cap="A tratti il paesaggio brullo si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti" %}
-
-{% include img.html img="IMG_20180730_120456.jpg" cap="Il vulcano Brennisteinsalda è facilmente riconoscibile per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso" %}
-
 Inizia a piovere: anziché percorrere l’itinerario che passa attorno al vulcano [**Bláhnjúkur**](https://guidetoiceland.is/travel-iceland/drive/blahnjukur), decidiamo di rientrare per l’anello più breve, quello di circa 6 km che attraversa il canyon **Grænagil**. Prendiamo tanta acqua e, in breve tempo, siamo fradici. Ogni tanto da dietro una roccia spunta un poncho colorato: incrociamo altri turisti che come noi si sono avventurati in giro nonostante le condizioni meteo sfavorevoli. Qua e là, sui brulli prati e attorno alle rocce, un’infinità di pecore, non particolarmente disturbate dalla presenza degli umani.
 
 {% include img.html img="IMGP6817.jpg" cap="Numerose pecore brucano l’erba senza prestare particolare attenzione agli hikers" %}
