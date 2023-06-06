@@ -25,10 +25,6 @@ Ci svegliamo alle 7 nel [campeggio](https://park4night.com/lieu/109496/camping/r
 Il bus ripercorre al contrario la strada che abbiamo fatto il giorno prima e svolta a destra all’imbocco della n. F225 che, appunto, permette di accedere a [**Landmannalaugar**](https://guidetoiceland.is/travel-iceland/drive/landmannalaugar), una regione montuosa situata nella [Fjallabak Nature Reserve](https://www.extremeiceland.is/en/attractions/fjallabak-nature-reserve) nei pressi del vulcano [Hekla](https://guidetoiceland.is/travel-iceland/drive/hekla) e caratterizzata da coloratissime formazioni di riolite, ampie distese di lava e sorgenti di acqua calda. La strada, interamente sterrata, pare inizialmente avere un buon fondo senza grossi sassi né buche profonde ma, procedendo, si fa più insidiosa, con salite e discese ripide, fino ad arrivare a guadi veri e propri nei quali il pullman entra in acqua per più di mezzo metro. Il paesaggio, articolato su una variegata gamma di marroni prevalentemente scuri, ogni tanto si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti.
 
 {% include img.html img="IMG_20180730_083233-2549.jpg" cap="Fermata del bus della compagnia Trex a Rjupnavellir; Bus anfibio in grado di percorrere F roads e di guadare corsi di acqua anche copiosi" %}
-
-{% include img.html img="IMG_20180730_082549.jpg" cap="Fermata del bus della compagnia Trex a Rjupnavellir" %}
-
-{% include img.html img="IMG_20180730_083233.jpg" cap="Bus anfibio in grado di percorrere F roads e di guadare corsi di acqua anche copiosi" %}
 ## Laugavegur
 
 Dopo un’ora e mezza, puntualissimi, arriviamo a Landmannalaugar: un freddo polare! Notiamo alcune costruzioni basse in legno e, accanto, il [campeggio](http://www.landmannalaugar.info/), oltre a una fila di pullman, autobus e gipponi alti. Ci rechiamo al centro visitatori – una capanna – ma fuori dalla porta c’è una coda infinita e, dopo una breve attesa, rinunciamo. Cercando di orientarci con la mappa che avevamo stampato prima di partire, ci avviamo a piedi per uno dei sentieri, quello che percorre il primo tratto del lungo trekking Laugavegur, per poi rientrare a Landmannalaugar.
@@ -38,6 +34,8 @@ Dopo un’ora e mezza, puntualissimi, arriviamo a Landmannalaugar: un freddo pol
 ## L’anello Laugahraun – Brennisteinsalda – Grænagil
 
 Addentrandoci nei campi di lava di [**Laugahraun**](https://icelandictimes.com/laugahraun/), il paesaggio ci ricorda un po’ il [Tongariro Alpine Crossing](https://www.van42.com/2012/12/29/nz_04-tongariro.html) che percorremmo in Nuova Zelanda nel 2012, richiamando, in particolare, la prima vallata dell’itinerario neozelandese per via delle concrezioni laviche che si ergono dal terreno. Giriamo attorno al vulcano [**Brennisteinsalda**](https://guidetoiceland.is/travel-iceland/drive/brennisteinsalda) (855 m), letteralmente “onda di zolfo”, in quanto si presenta attorniato da solfatare i cui vapori ci avvolgono non appena ci avviciniamo alle pozze sulfuree. Il monte si identifica facilmente per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso per via della rara e bassa vegetazione.
+
+{% include img.html img="IMGP6790-0456.jpg" cap="A tratti il paesaggio brullo si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti; il vulcano Brennisteinsalda è facilmente riconoscibile per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso" %}
 
 {% include img.html img="IMGP6790.jpg" cap="A tratti il paesaggio brullo si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti" %}
 
