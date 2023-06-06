@@ -34,13 +34,13 @@ Il [**Vatnajökull**](https://visitvatnajokull.is/) è volumetricamente la più 
 
 ## Svartifoss
 
-Arriviamo all’ingresso del parco; accedere all’area e parcheggiare ha un costo giornaliero. Ci dirigiamo subito verso la cascata [**Svartifoss**](https://guidetoiceland.is/connect-with-locals/regina/svartifoss-waterfall-in-skaftafell-national-park) che si raggiunge con una passeggiata a piedi in salita di circa mezzora (3,5 km a/r).
+Arriviamo all’ingresso del parco. Ci dirigiamo subito verso la cascata [**Svartifoss**](https://guidetoiceland.is/connect-with-locals/regina/svartifoss-waterfall-in-skaftafell-national-park) che si raggiunge con una passeggiata a piedi in salita di circa mezzora (3,5 km a/r).
 
 {% include img.html img="GoogleDrive_skaftafell-1.jpg" cap="Una prima carta esposta presso il visitor center dello Skaftafell National Park mostra come dal Vatnajökull si originino svariati ghiacciai vallivi fra cui lo Skeiðarárjökull, lo Skaftafellsjökull e lo Svínafellsjökull" %}
 
 {% include img.html img="GoogleDrive_skaftafell_main-trails.jpg" cap="Una seconda carta mostra una zona più circoscritta, illustrando i possibili itinerari percorribili a piedi, fra cui il sentiero che conduce alla cascata Svartifoss" %}
 
-Dalle fotografie che avevamo visto prima di partire ci era parsa un po’ lugubre e, invece, complice anche il sole splendente, questa cascata ci colpisce molto più delle precedenti, per via delle formazioni basaltiche a colonne che la circondano, che ricordando canne d’organo, e per il suo contesto raccolto che accoglie meno turisti rispetto alle cascate viste lungo il Ring.
+Dalle fotografie che avevamo visto prima di partire ci era parsa un po’ lugubre e, invece, complice anche il sole splendente, questa cascata ci colpisce molto più delle precedenti, per via delle formazioni basaltiche a colonne che la circondano, che ricordano canne d’organo, e per il suo contesto raccolto che accoglie meno turisti rispetto alle cascate viste lungo il Ring.
 
 {% include img.html id=141 cap="La cascata Svartifoss è attorniata da formazioni basaltiche che ricordano canne d’organo" %}
 
@@ -52,7 +52,7 @@ Torniamo al parcheggio con l’intenzione di percorrere anche il sentiero che co
 
 {% include img.html id=149 cap="Il fronte glaciale si specchia sulla piccola laguna generata dal ghiacciaio stesso" %}
 
-Ci eravamo annotati che questa lingua di ghiaccio è la più vicina a valle: dal Ring, infatti, non sembra particolarmente distante. Dal momento che abbiamo un po’ di margine di tempo, decidiamo di provare a percorrere la breve ma assai dissestata strada per il fronte glaciale. Rapidamente raggiungiamo il piccolo parcheggio libero e, camminando qualche minuto, siamo al fronte glaciale dello Svinafellsjökull: spettacolare! Oltre al fronte del ghiacciaio vero e proprio notiamo i tanti blocchi di ghiaccio di svariati colori e forme (trasparenti, bianchi, con striature azzurre, grigi e neri) immersi in una piccola laguna glaciale. Meraviglia!
+Questa lingua di ghiaccio è la più vicina a valle: dal Ring, infatti, non sembra particolarmente distante. Dal momento che abbiamo un po’ di margine di tempo, decidiamo di provare a percorrere la breve ma assai dissestata strada per il fronte glaciale. Raggiungiamo il piccolo parcheggio libero e, camminando qualche minuto, siamo al fronte glaciale dello Svinafellsjökull: spettacolare! Oltre al fronte del ghiacciaio vero e proprio notiamo i tanti blocchi di ghiaccio di svariati colori e forme (trasparenti, bianchi, con striature azzurre, grigi e neri) immersi in una piccola laguna glaciale. Meraviglia!
 
 {% include img.html id=146 cap="Gli iceberg staccatisi dallo Svinafellsjökull sono immersi nella piccola laguna glaciale" %}
 
@@ -62,7 +62,7 @@ Ci eravamo annotati che questa lingua di ghiaccio è la più vicina a valle: dal
 
 ## Jökulsárlón
 
-La nostra puntata allo Svinafellsjökull, purtroppo, è molto rapida, sempre per via della successiva escursione già prenotata. Rientriamo nel campervan e ci dirigiamo al [**Jökulsárlón**](https://guidetoiceland.is/nature-info/jokulsarlon-glacier-lagoon-the-crown-jewel-of-iceland-s-nature) dove, come immaginavamo, ci attende una grande concentrazione di auto e pullman. Nonostante questo la laguna è spettacolare!
+Rientriamo nel campervan e ci dirigiamo al [**Jökulsárlón**](https://guidetoiceland.is/nature-info/jokulsarlon-glacier-lagoon-the-crown-jewel-of-iceland-s-nature) dove, come immaginavamo, ci attende una grande concentrazione di auto e pullman. Nonostante questo la laguna è spettacolare!
 
 {% include img.html id=174 cap="Lo spettacolo degli iceberg multiforme che galleggiano nel Jökulsárlón con il ghiacciaio vero e proprio sullo sfondo lascia senza fiato" %}
 
@@ -94,7 +94,7 @@ Arriviamo alla [**Diamond beach**](https://guidetoiceland.is/travel-iceland/driv
 
 {% include img.html id=197 cap="La Diamond beach è cosparsa di piccoli e grandi blocchi di ghiaccio fuoriusciti dalla laguna glaciale" %}
 
-Torniamo alla macchina e procediamo verso [Höfn](https://en.wikipedia.org/wiki/H%C3%B6fn) dove facciamo una tappa al supermercato [Nettò](https://www.google.it/maps/place/Nett%C3%B3/@64.2525633,-15.2149218,17z/data=!3m1!4b1!4m5!3m4!1s0x48cfac574779df29:0x634dd9f45f5b488d!8m2!3d64.252561!4d-15.2127278) e un giro nel porto. Qui sono state girate le scene del film [*The secret Life of Walter Mitty*](https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film)) ambientate in Groenlandia. Procediamo poco oltre, fino alla spiaggia della [**Hvalnes Nature Reserve**](https://www.nat.is/travelguideeng/plofin_hvalnes.htm) e relativo faro e ci fermiamo a dormire [qui](https://www.park4night.com/lieu/39281//Picnic-area#.XCkSjlySPie), seguendo ancora le [indicazioni di Roberto Salini](http://www.ontheroadagain.blog/2018/07/15/hofn-hvalnes/), ormai attorniati dalle nuvole e dal vento. Peccato perché il paesaggio è incantevole!
+Torniamo alla macchina e procediamo verso [Höfn](https://en.wikipedia.org/wiki/H%C3%B6fn) dove facciamo una tappa al supermercato [Nettò](https://www.google.it/maps/place/Nett%C3%B3/@64.2525633,-15.2149218,17z/data=!3m1!4b1!4m5!3m4!1s0x48cfac574779df29:0x634dd9f45f5b488d!8m2!3d64.252561!4d-15.2127278) e un giro nel porto. Qui sono state girate le scene del film [*The secret Life of Walter Mitty*](https://it.wikipedia.org/wiki/I_sogni_segreti_di_Walter_Mitty) ambientate in Groenlandia. Procediamo poco oltre, fino alla spiaggia della **Hvalnes Nature Reserve** e relativo faro e ci fermiamo a dormire [qui](https://www.park4night.com/lieu/39281//Picnic-area#.XCkSjlySPie), seguendo ancora le [indicazioni di Roberto Salini](http://www.ontheroadagain.blog/2018/07/15/hofn-hvalnes/), ormai attorniati dalle nuvole e dal vento. Peccato perché il paesaggio è incantevole!
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1Y6G_oFMNbv1ks46C38c8HY_8dSBoeRRJ&ehbc=2E312F" width="640" height="480"></iframe>
@@ -102,7 +102,7 @@ Torniamo alla macchina e procediamo verso [Höfn](https://en.wikipedia.org/wiki/
 
 {% contentfor sidebar %}
 **Tips**  
-Skaftafell National Park: accesso al parco e [parcheggio](https://myparking.is/pay/skaftafell/): 750 isk per i veicoli di categoria A – auto di massimo 5 posti (il nostro campervan ricade invece nella categoria B: 1000 isk). Una videocamera registra la targa all’ingresso del parco: ci sono 24 ore di tempo a disposizione per pagare. Presso il parcheggio si trova un ampio e moderno visitors center dotato di servizi igienici
+Skaftafell National Park: accesso al parco e parcheggio: 750 isk per i veicoli di categoria A – auto di massimo 5 posti (il nostro campervan ricade invece nella categoria B: 1000 isk). Una videocamera registra la targa all’ingresso del parco: ci sono 24 ore di tempo a disposizione per pagare. Presso il parcheggio si trova un ampio e moderno visitors center dotato di servizi igienici
 
 [Amphibian boat tour](http://icelagoon.is/amphibian-boat-tours/) sulla laguna glaciale [Jokulsarlon](https://guidetoiceland.is/nature-info/jokulsarlon-glacier-lagoon-the-crown-jewel-of-iceland-s-nature) con [Glacier lagoon](http://icelagoon.is/): 5700 isk a persona, durata 40′ circa
 
