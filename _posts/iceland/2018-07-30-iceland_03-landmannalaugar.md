@@ -24,6 +24,8 @@ Ci svegliamo alle 7 nel [campeggio](https://park4night.com/lieu/109496/camping/r
 
 Il bus ripercorre al contrario la strada che abbiamo fatto il giorno prima e svolta a destra all’imbocco della n. F225 che, appunto, permette di accedere a [**Landmannalaugar**](https://guidetoiceland.is/travel-iceland/drive/landmannalaugar), una regione montuosa situata nella [Fjallabak Nature Reserve](https://www.extremeiceland.is/en/attractions/fjallabak-nature-reserve) nei pressi del vulcano [Hekla](https://guidetoiceland.is/travel-iceland/drive/hekla) e caratterizzata da coloratissime formazioni di riolite, ampie distese di lava e sorgenti di acqua calda. La strada, interamente sterrata, pare inizialmente avere un buon fondo senza grossi sassi né buche profonde ma, procedendo, si fa più insidiosa, con salite e discese ripide, fino ad arrivare a guadi veri e propri nei quali il pullman entra in acqua per più di mezzo metro. Il paesaggio, articolato su una variegata gamma di marroni prevalentemente scuri, ogni tanto si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti.
 
+{% include img.html img="IMG_20180730_083233-2549.jpg" cap="Fermata del bus della compagnia Trex a Rjupnavellir; Bus anfibio in grado di percorrere F roads e di guadare corsi di acqua anche copiosi" %}
+
 {% include img.html img="IMG_20180730_082549.jpg" cap="Fermata del bus della compagnia Trex a Rjupnavellir" %}
 
 {% include img.html img="IMG_20180730_083233.jpg" cap="Bus anfibio in grado di percorrere F roads e di guadare corsi di acqua anche copiosi" %}
