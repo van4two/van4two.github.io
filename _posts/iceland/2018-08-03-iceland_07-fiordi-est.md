@@ -21,9 +21,7 @@ Abbandoniamo la soleggiata vallata di [Egilsstaðir](https://visitegilsstadir.is
 
 Il nastro di asfalto si protende dritto fra prati verdi che inizialmente paiono infiniti, senza alcuna abitazione; lungo il tragitto, all’improvviso, compare sulla sinistra la bizzarra “[most remote vending machine](https://icelandthebeautiful.com/so-sole-vending-machine/)”: un capanno verde pistacchio in mezzo al nulla contenente un distributore di merendine e bibite! Procediamo e la strada, dopo un po’, inizia a cambiare: all’asfalto subentra lo sterrato e il percorso comincia ad inerpicarsi sui rilievi che ci si parano davanti. Dopo avere incontrato un maneggio, proseguiamo fino al [parcheggio di Vatnsskarð](https://www.google.it/maps/place/Vatnsskar%C3%B0/@65.5646025,-14.0048438,478m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x48cbf239060f367d:0xe34f9fb55576ca7b!2sDyrfjoll!3b1!8m2!3d65.5205747!4d-13.9564133!3m4!1s0x48cbf31a57188e6d:0x63efaec4611b0787!8m2!3d65.5646003!4d-14.0026551) che costituisce un interessante punto panoramico sulla valle. Da qui parte una serie di sentieri che si snoda sul monte [**Dyrfjöll**](https://guidetoiceland.is/travel-iceland/drive/dyrfjoll), in particolare nella zona di [Stórurð](https://www.east.is/is/stadur/storurd). Brandelli di nuvole basse rendono molto scenografica questa zona che continuiamo a percorrere fino a valicare, ritrovandoci sul versante del Borgarfjörður.
 
-{% include img.html img="IMGP8542.jpg" cap="Attraversiamo prati verdi e campi costellati di balle di fieno avvolte in teli neri o bianchi" %}
-
-{% include img.html img="IMGP8529.jpg" cap="La lingua di asfalto della strada n. 94 si snoda in mezzo a prati verdi che paiono infiniti" %}
+{% include img.html img="IMGP8548.jpg" cap="Attraversiamo prati verdi e campi costellati di balle di fieno avvolte in teli neri o bianchi" %}
 
 ## Borgarfjörður Eystri
 
