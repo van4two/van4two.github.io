@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiordi est - parte prima
+title: Fiordi est - 1° parte
 tags: [scogliere, fiordi]
 cat: iceland
 

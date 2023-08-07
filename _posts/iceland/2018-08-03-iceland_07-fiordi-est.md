@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiordi est - parte seconda
+title: Fiordi est - 2° parte
 tags: [bird watching]
 cat: iceland
 
