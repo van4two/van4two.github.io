@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiordi ovest - 1° parte
+title: Fiordi ovest
 tags: []
 cat: iceland
 
