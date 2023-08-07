@@ -38,7 +38,7 @@ Arriviamo all’ingresso del parco. Ci dirigiamo subito verso la cascata [**Svar
 
 {% include img.html img="GoogleDrive_skaftafell_main-trails.jpg" cap="Una seconda carta mostra una zona più circoscritta, illustrando i possibili itinerari percorribili a piedi, fra cui il sentiero che conduce alla cascata Svartifoss" %}
 
-Dalle fotografie che avevamo visto prima di partire ci era parsa un po’ lugubre e, invece, complice anche il sole splendente, questa cascata ci colpisce molto più delle precedenti, per via delle formazioni basaltiche a colonne che la circondano, che ricordano canne d’organo, e per il suo contesto raccolto che accoglie meno turisti rispetto alle cascate viste lungo il Ring.
+Dalle fotografie che avevamo visto prima di partire ci era parsa un po’ lugubre e, invece, complice il sole splendente, questa cascata ci colpisce molto più delle precedenti, per via delle formazioni basaltiche a colonne che la circondano, che ricordano canne d’organo, e per il suo contesto raccolto che accoglie meno visitatori rispetto alle cascate viste lungo il Ring.
 
 {% include img.html img="IMGP7300.jpg" cap="La cascata Svartifoss è attorniata da formazioni basaltiche che ricordano canne d’organo" %}
 
@@ -48,7 +48,7 @@ Torniamo al parcheggio con l’intenzione di percorrere anche il sentiero che co
 
 {% include img.html img="IMGP7354.jpg" cap="Il fronte glaciale dello Svinafellsjökull si specchia sulla piccola laguna generata dal ghiacciaio stesso" %}
 
-Questa lingua di ghiaccio è la più vicina a valle: dal Ring, infatti, non sembra particolarmente distante. Dal momento che abbiamo un po’ di margine di tempo, decidiamo di provare a percorrere la breve ma assai dissestata strada per il fronte glaciale. Raggiungiamo il piccolo parcheggio libero e, camminando qualche minuto, siamo al fronte glaciale dello Svinafellsjökull: spettacolare! Oltre al fronte del ghiacciaio vero e proprio notiamo i tanti blocchi di ghiaccio di svariati colori e forme (trasparenti, bianchi, con striature azzurre, grigi e neri) immersi in una piccola laguna glaciale. Meraviglia!
+Questa lingua di ghiaccio è la più vicina a valle: dal Ring, infatti, non sembra particolarmente distante. Dal momento che abbiamo un po’ di margine di tempo, decidiamo di provare a percorrere la breve ma assai dissestata strada per il fronte glaciale. Raggiungiamo il piccolo parcheggio libero e, camminando qualche minuto, siamo al fronte glaciale dello Svinafellsjökull: spettacolare! Oltre al fronte del ghiacciaio vero e proprio notiamo i tanti blocchi di ghiaccio di svariate forme e colori (trasparenti, bianchi, con striature azzurre, grigi e neri) immersi in una piccola laguna glaciale. Meraviglia!
 
 {% include img.html img="IMGP7344.jpg" cap="Gli iceberg staccatisi dallo Svinafellsjökull sono immersi nella piccola laguna glaciale" %}
 
@@ -62,15 +62,13 @@ Rientriamo nel campervan e ci dirigiamo al [**Jökulsárlón**](https://guidetoi
 
 Siamo un po’ in anticipo ma andiamo comunque subito alla biglietteria del [Glacier Lagoon](http://icelagoon.is/) – una baracchina – a mostrare la prenotazione effettuata ieri e a ritirare i biglietti veri e propri. Il parcheggio della laguna è immenso e vede la presenza di varie compagnie che organizzano escursioni sulla laguna stessa in gommone e con altri mezzi, oltre ai numerosi stand dove mangiare. Seguiamo le istruzioni che ci vengono fornite per la breve crociera sull'anfibio, il cui moletto si trova lí all’asciutto. Ci copriamo bene perché immaginiamo che nella laguna ci sarà freddo (e indoviniamo). Ci avviciniamo alla pensilina in legno nei pressi della quale si fermano i mezzi anfibi, ovvero motoscafi con le ruote.
 
-{% include img.html img="IMGP7414.jpg" cap="L'escursione nella laguna che abbiamo scelto avviene su un mezzo anfibio" %}
+{% include img.html img="IMGP7414.jpg" cap="L'escursione sulla laguna che abbiamo scelto avviene su un mezzo anfibio" %}
 
 Ci vengono dati giubbotti di salvataggio da indossare sopra i vestiti e si parte! Il mezzo si allontana apparentemente dalla laguna per dirigersi in realtà nel punto da cui si entra in acqua. Arriviamo là su ruote e, all’improvviso, siamo a mollo. Accanto a noi ci sono gommoni rossi, anch'essi adibiti all’esplorazione della laguna.
 
 {% include img.html img="IMGP7548.jpg" cap="Gommoni rosso fuoco si muovono disinvolti fra gli iceberg" %}
 
 Procediamo lentamente fra gli iceberg, avendo così modo di osservare da vicino blocchi di ghiaccio dalle forme più svariate. Un’addetta di bordo ci spiega che la laguna è relativamente giovane: si è formata, infatti, un’ottantina di anni fa dal progressivo ritiro del ghiacciaio mentre gli iceberg che vediamo attorno a noi sono costituiti da ghiaccio formatosi migliaia di anni fa.
-
-{% include img.html img="IMGP7476.jpg" cap="Il colore blu e le sfumature di azzurro di alcuni iceberg derivano dalla quasi totale assenza di aria al loro interno" %}
 
 Le striature grigie e nere indicano depositi di eruzione, o comunque di ceneri, mentre quelle blu sono dovute a un effetto ottico legato alla forte compressione della neve che ha espulso dal ghiaccio quasi del tutto l’aria inglobata al suo interno. Vediamo alcuni iceberg muoversi e roteare su se stessi, probabilmente spinti dalla corrente. Generalmente un iceberg che si stacca dal fronte glaciale può metterci fino a qualche anno per attraversare la laguna e uscire da essa, arrivando al mare! Terminato il giro di circa 40′, un po’ infreddoliti ci avviamo verso l’estuario della laguna che si getta, appunto, in mare. Vediamo un blocco di ghiaccio muoversi verso la foce, prima lentamente poi sempre più rapidamente, spinto dalla corrente che, in questa zona, diventa molto forte. Numerosi uccelli volano sulla laguna e si fermano sugli iceberg: gabbiani e forse sterne artiche.
 
