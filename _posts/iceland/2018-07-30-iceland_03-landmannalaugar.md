@@ -37,7 +37,7 @@ Addentrandoci nei campi di lava di [**Laugahraun**](https://icelandictimes.com/l
 
 {% include img.html img="IMGP6790-0456.jpg" cap="A tratti il paesaggio brullo si tinge di pennellate verdi, generalmente in corrispondenza dei corsi d’acqua, spesso arrivando a toni accesi e quasi fosforescenti; il vulcano Brennisteinsalda è facilmente riconoscibile per via della pittoresca mescolanza di colori che mostra: gialli e arancioni, marroni e blu, rosso ruggine e verde acceso" %}
 
-Inizia a piovere: anziché percorrere l’itinerario che passa attorno al vulcano [**Bláhnjúkur**](https://guidetoiceland.is/travel-iceland/drive/blahnjukur), decidiamo di rientrare per l’anello più breve, quello di circa 6 km che attraversa il canyon **Grænagil**. Prendiamo tanta acqua e, in breve tempo, siamo fradici. Ogni tanto da dietro una roccia spunta un poncho colorato: incrociamo altri turisti che come noi si sono avventurati in giro nonostante le condizioni meteo sfavorevoli. Qua e là, sui brulli prati e attorno alle rocce, un’infinità di pecore, non particolarmente disturbate dalla presenza degli umani.
+Inizia a piovere: anziché percorrere l’itinerario che passa attorno al vulcano [**Bláhnjúkur**](https://guidetoiceland.is/travel-iceland/drive/blahnjukur), decidiamo di rientrare per l’anello più breve, quello di circa 6 km che attraversa il canyon **Grænagil**. Prendiamo tanta acqua e, in breve tempo, siamo fradici. Ogni tanto da dietro una roccia spunta un poncho colorato: incrociamo altri viaggiatori che come noi si sono avventurati in giro nonostante le condizioni meteo sfavorevoli. Qua e là, sui brulli prati e attorno alle rocce, un’infinità di pecore, non particolarmente disturbate dalla presenza degli umani.
 
 {% include img.html img="IMGP6817.jpg" cap="Numerose pecore brucano l’erba senza prestare particolare attenzione agli hikers" %}
 
@@ -45,7 +45,7 @@ Bagnati come pulcini arriviamo all’accampamento da cui eravamo partiti e, a fa
 
 {% include img.html img="IMGP6819.jpg" cap="'Bucato' steso al sole una volta arrivati a Rjúpnavellir" %}
 
-Che meraviglia! Apriamo tutte le portiere del furgone e appendiamo gli indumenti bagnati, stendendoli in parte anche su uno stendi abiti improvvisato con due sedie. Ci concediamo una doccia bollente, riprendendoci completamente. Bevendo cioccolata calda “home made” ci godiamo il primo sole del viaggio! Un sogno!!
+Che meraviglia! Apriamo tutte le portiere del furgone e appendiamo gli indumenti bagnati. Ci concediamo una doccia bollente, riprendendoci completamente. Bevendo cioccolata calda “home made” ci godiamo il primo sole del viaggio! Un sogno!!
 
 {% include img.html img="IMGP6842.jpg" cap="Punto di accesso a Landmannalaugar (F225) dalla strada n. 26" %}
 
@@ -53,15 +53,15 @@ Che meraviglia! Apriamo tutte le portiere del furgone e appendiamo gli indumenti
 
 ## Seljalandsfoss
 
-Rinvigoriti, ci mettiamo in marcia alla volta della cascata [**Seljalandsfoss**](https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss): si tratta di una delle più note e suggestive, nonché particolari cascate dell’Islanda. Avvicinandosi ad essa, infatti, è possibile attraversare la concavità presente dietro alla cascata stessa, sbucando dalla parte opposta del getto. Essendo molto vicina al Ring costituisce un sito decisamente frequentato.
+Rinvigoriti, ci mettiamo in marcia alla volta della cascata [**Seljalandsfoss**](https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss): si tratta di una delle più note e suggestive, nonché particolari, cascate dell’Islanda. Avvicinandosi ad essa, infatti, è possibile attraversare la concavità presente dietro alla cascata stessa, sbucando dalla parte opposta del getto. Essendo molto vicina al Ring costituisce un sito decisamente frequentato.
 
 {% include img.html img="IMGP6858.jpg" cap="La suggestiva cascata Seljalandsfoss" %}
 
-La cascata è magnifica, ancor più spettacolare vista dalla grotta che nasconde. Peccato solo il cielo nuvoloso che fa uscire a fatica qualche raggio di sole.
+La cascata è magnifica, ancor più spettacolare vista dalla grotta che nasconde.
 
 {% include img.html img="IMGP6876.jpg" cap="Un comodo sentiero permette di passare dietro alla cascata: se tira vento ci si fa la doccia!" %}
 
-Appagati e stanchi per la lunga e faticosa giornata, ci dirigiamo verso l’[area picnic di Landeyjahöfn](https://park4night.com/lieu/109371/#.XA7hdnSSPic), segnalata dal blog di Roberto Salini [*On the road again*](http://www.ontheroadagain.blog/2018/07/12/heimaey/), dotata di tavolo da picnic. Il cielo si è rischiarato ed esce il sole: andiamo a letto nel furgone inondato di luce.
+Appagati e stanchi per la lunga e faticosa giornata, ci dirigiamo verso l’[area picnic di Landeyjahöfn](https://park4night.com/lieu/109371/#.XA7hdnSSPic), segnalata nel blog di Roberto Salini [*On the road again*](http://www.ontheroadagain.blog/2018/07/12/heimaey/), dotata di tavolo da picnic. Il cielo si è rischiarato ed esce il sole: andiamo a letto nel furgone inondato di luce.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1LMsjkS1yrNr6UioXWaL2P-5Muxc7w8m5&ehbc=2E312F" width="640" height="480"></iframe>
