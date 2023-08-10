@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fiordi nord
-tags: [fiordi]
+tags: [fiordi, piscine naturali]
 cat: iceland
 
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86

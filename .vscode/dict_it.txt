@@ -52,6 +52,7 @@ boulangerie
 Bøverdalen
 Bøvra
 Bratland
+Breidavik
 Breiddalsvatnet
 Breiðdalsvík
 Brennisteinsalda
@@ -159,6 +160,7 @@ Flåm
 Flåmsbana
 Flekkefjord
 fleuve
+Flókalundur
 Flotane
 Flotvatnet
 Forame
@@ -178,6 +180,7 @@ galette
 Galette
 galettes
 Gamle
+Garðar
 Gardeccia
 Garðskagi
 Garður
@@ -224,6 +227,7 @@ Hekla
 Hella
 Helleren
 Hellesylt
+Hellulaug
 Herefossfjorden
 Hermansverk
 Hestad
@@ -231,6 +235,7 @@ Hestadfjorden
 Hindsæter
 Hirtshals
 Hjálparfoss
+Hnjótur
 Höfn
 Honfleur
 Hornsvatnet
@@ -240,6 +245,7 @@ hringurinn
 Hringvegur
 Huldefossen
 Hunaver
+Hvallátur
 Hvalnes
 Hvammstangi
 Hverir
@@ -303,6 +309,8 @@ Landmannalaugar
 Langfjord
 Langjökull
 Larsech
+Latrabjarg
+Látrabjarg
 Laugahraun
 Laugavegur
 Lausa
@@ -418,6 +426,7 @@ Rach
 Raiway
 Ramnefjell
 rampetta
+Rauðisandur
 ravanare
 Régional
 Reinheimen
@@ -573,10 +582,12 @@ Valldøla
 Varlandsvegen
 Varmahlíð
 Vatnajökull
+Vatnsfjörður
 Vatnsnes
 Vatnsskarð
 Vecio
 Vedahaugane
+vedur
 Vegen
 Veslefjell
 Vestland
@@ -595,6 +606,7 @@ Voiello
 volumetricamente
 Wahweap
 Waterpocket
+Westfjords
 wurstel
 Zoldo
 Zuko
@@ -602,4 +614,5 @@ Zuko
 Þingvallavatn
 Þingvellir
 Þjórsárdalur
+Þorskafjörður
 Þórsmörk
