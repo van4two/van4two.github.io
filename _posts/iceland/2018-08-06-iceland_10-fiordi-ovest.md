@@ -57,13 +57,13 @@ Procediamo e, attraversata la penisola in senso est-ovest, troviamo un'altra bai
 
 {% include img.html img="IMGP9335.jpg" cap="La sabbia dorata della spiaggia di Breidavik contrasta con il blu scuro dell'oceano" %}
 
-Dopo la successiva e ultima spiaggia di [**Hvallátur**](https://is.nat.is/hvallatur-utivikur/), di sabbia bianca, troviamo il campeggio libero di Brunnar: un immenso prato delimitato da paletti metallici a cui è fissato un cordone e un casotto con due bagni puliti e ottimamente tenuti. Il mare da una parte e il promontorio montuoso dall'altra. In una delle recensioni sul web leggiamo che si trova su un terreno privato e che sono gli stessi proprietari a metterlo a disposizione gratuitamente (update 2023: il campeggio non sembra più esistente).
+Dopo la successiva e ultima spiaggia di [**Hvallátur**](https://is.nat.is/hvallatur-utivikur/), di sabbia bianca, troviamo il campeggio libero di Brunnar: un immenso prato delimitato da un cordone fissato a paletti metallici con un casotto contenente due bagni puliti e ottimamente tenuti. Il mare da una parte e il promontorio montuoso dall'altra. In una delle recensioni sul web leggiamo che il campeggio si trova su un terreno privato e che sono gli stessi proprietari a metterlo a disposizione gratuitamente (update 2023: il campeggio non sembra più esistente).
 
 {% include img.html img="IMGP9352.jpg" cap="Una chiesetta bianca dal tetto rosso spicca in mezzo al verde di fronte alla spiaggia di Breidavik" %}
 
 ## La colonia di pulcinella di mare  
 
-Ci fermeremo qui dopo la nostra ultima tappa: la scogliera dei pulcinella di mare proprio sulla punta della penisola di Látrabjarg. La scogliera si trova subito oltre il campeggio, a tre minuti in macchina. Tira un vento fortissimo. Dotati di teleobiettivo e cavalletto, ci bardiamo e usciamo a caccia di pulcinella. Camminare lungo il bordo della scogliera dove i puffin si annidano é faticoso e anche un po' pericoloso perché tira un vento fortissimo dalla terra verso il mare, con raffiche improvvise. Ne vediamo molti meno rispetto a [Borgarfjörður Eystri](https://www.van42.com/2018/08/03/iceland_07-fiordi-est.html) ma la luce è più bella.
+Ci fermeremo qui dopo la nostra ultima tappa: la scogliera dei pulcinella di mare proprio sulla punta della penisola di Látrabjarg. La scogliera si trova subito oltre il campeggio, a tre minuti di macchina. Tira un vento fortissimo. Dotati di teleobiettivo e cavalletto, ci bardiamo e usciamo a caccia di pulcinella. Camminare lungo il bordo della scogliera dove i *puffins* si annidano é faticoso e anche un po' pericoloso per via del vento fortissimo che tira dalla terra verso il mare, con raffiche improvvise. Ne vediamo molti meno rispetto a [Borgarfjörður Eystri](https://www.van42.com/2018/08/03/iceland_07-fiordi-est.html) ma la luce, qui, è più bella.
 
 {% include img.html img="IMGP9400.jpg" cap="Pulcinella di mare sula scogliera di Látrabjarg" %}
 
