@@ -11,6 +11,7 @@ Antelao
 Antermoia
 arctica
 Ardal
+Arnarfjörður
 Arromanches
 Arsvågen
 Atlanterhavsveien
@@ -32,6 +33,7 @@ Besseggen
 Besshø
 Bessvatnet
 Bidonnière
+Bíldudalur
 biomorfa
 Bjarnarflag
 Bjødnsiåna
@@ -127,6 +129,8 @@ droni
 Dugway
 Duron
 Dverghamrar
+Dynjandi
+Dýrafjörður
 Dyrfjöll
 Dyrhólaey
 Egersund
@@ -394,6 +398,7 @@ Oldedalen
 Oldevatnet
 Ölfusá
 Olsson
+Önundarfjörður
 Oppland
 Orderville
 Ørnesvingen
@@ -438,6 +443,7 @@ Resici
 Resthouse
 Resvatnet
 Reyðarfjörður
+Reykjafjarðarlaug
 Reykjahlid
 Reykjahlíð
 Reykjanes
@@ -547,6 +553,7 @@ svele
 Svinafellsjökull
 Svínafellsjökull
 Systrene
+Tálknafjörður
 tendato
 Tindevegen
 Tjarnarholar
@@ -581,6 +588,7 @@ Vallakrókur
 Vallandro
 Valldalen
 Valldøla
+Valþjófsdalsvegur
 Varlandsvegen
 Varmahlíð
 Vatnajökull
@@ -612,6 +620,7 @@ Westfjords
 wurstel
 Zoldo
 Zuko
+Þingeyri
 Þingi
 Þingvallavatn
 Þingvellir
