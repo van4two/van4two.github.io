@@ -53,7 +53,7 @@ Ci ricongiungiamo con la strada n. 612, che imbocchiamo verso sinistra, ovvero v
 
 {% include img.html img="IMGP9342.jpg" cap="Una chiesetta bianca dal tetto rosso spicca in mezzo al verde della penisola di Látrabjarg" %}
 
-## La colonia di pulcinella di mare
+## La colonia di pulcinella di mare  
 
 Ci fermeremo qui dopo la nostra ultima tappa: la scogliera dei pulcinella di mare proprio sulla punta della penisola di Látrabjarg. La scogliera si trova subito oltre il campeggio, a tre minuti in macchina. Tira un vento fortissimo. Dotati di teleobiettivo e cavalletto, ci bardiamo e usciamo a caccia di pulcinella. Camminare lungo il bordo della scogliera dove i puffin si annidano é faticoso e anche un po' pericoloso perché tira un vento fortissimo dalla terra verso il mare, con raffiche improvvise. Ne vediamo molti meno rispetto a [Borgarfjörður Eystri](https://www.van42.com/2018/08/03/iceland_07-fiordi-est.html) ma la luce è più bella. Posizioniamo il cavalletto e qualche bello scatto viene fuori! Siamo piuttosto infreddoliti così, dopo aver battuto bene la scogliera, torniamo al campeggio dove ceniamo sempre con il sole nel cielo. Indubbiamente é stata la giornata più intensa e di soddisfazione, sia per i meravigliosi luoghi visitati che per l'incoraggiante clima trovato.
 
