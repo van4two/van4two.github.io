@@ -12,13 +12,16 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="IMGP8828.jpg" cap="Una fattoria lungo la penisola di Tröllaskagi" %}
+{% include img.html img="IMGP9166.jpg" cap="Il relitto del Garðar BA 64" %}
 
 Ci svegliamo poco prima delle 7 ancora avvolti da una nuvola che ci consente una visibilità limitatissima. Fa freddo e c'è un gran vento. Mettiamo il furgone in assetto giornaliero e facciamo colazione. Passano rarissime auto. Riprendiamo la strada n. 59 in direzione ovest, uscendo piano piano dalle nubi della "montagna". Notiamo che spesso al mattino é nuvoloso con nuvole basse che poi, con il passare delle ore, tendono ad alzarsi. Ugualmente consideriamo come, passando da un fiordo all'altro o dalla costa all'entroterra, il tempo a volte cambi radicalmente. Incontriamo le solite pecore, prevalentemente bianche, qualche volta con il pelo scuro, marrone o nero, ma in genere queste ultime tendono a fare gruppo per conto proprio.
 
+{% include img.html img="IMGP9051.jpg" cap="Primi scorci della regione dei fiordi ovest" %}
 ## La porta dei fiordi occidentali
 
 Arriviamo all'imbocco dei fiordi ovest che ancora é nuvolo, seppure tenda ad aprirsi. In qua e in lá penetra un raggio di sole e l'erba si incendia di un verde acceso indimenticabile. In compenso fa un gran freddo e tira un vento che a momenti strappa via le portiere della macchina quando le apri! Iniziamo a percorrere i fiordi della costa meridionale di questa parte di isola, che costituiscono, in miniatura, un assaggio dei più pronunciati fiordi rivolti a ovest e a nord della regione di [**Westfjords**](https://www.westfjords.is/). Piano piano il cielo si apre e ci lasciamo le nuvole alle spalle, come preannunciato dalle previsioni meteo che abbiamo consultato [ieri](https://www.van42.com/2018/08/05/iceland_09-fiordi-nord.html) sera su [vedur.is](https://vedur.is/). Percorriamo lunghi tratti di strada senza incontrare nessuno. Il tratto dal [Þorskafjörður](https://it.wikipedia.org/wiki/%C3%9Eorskafj%C3%B6r%C3%B0ur) al [Vatnsfjörður](https://www.westfjords.is/en/destinations/nature-reserves/nature-reserve-in-vatnsfjordur) è sterrato ma in discrete condizioni, dopodiché riprende l'asfalto che ci accompagnerà fino all'inizio della strada n. 612. I colori sono eccezionali: ai verdi accesi si accompagnano varie sfumature di azzurro e blu del mare, spesso bordato da un alone di alghe verdi o arancioni in prossimità degli scogli neri in cui si frastagliata la costa. Ci fermeremmo ad ogni angolo! Continuiamo ad essere accompagnati dalla presenza di pecore, qui più timorose rispetto a quelle del resto dell'isola. Ne vediamo tre in mezzo alla strada che, al nostro avvicinarsi, scappano via trottando impaurite.
+
+{% include img.html img="IMGP9066.jpg" cap="Le prime strade dei fiordi ovest che percorriamo si presentano deserte" %}
 
 ## Hellulaug hot spring
 
@@ -27,17 +30,37 @@ Dopo un primo tratto abbastanza selvaggio, cominciano a ricomparire fattorie con
 ## Il relitto del Garðar BA 64
 
 Poco oltre ci imbattiamo in un altro POI molto atteso da Stefano; il relitto del peschereccio [**Garðar BA 64**](https://icelandtravelguide.is/locations/gardar-ba-64/) che, con la sua possente sagoma rossa, si staglia contro il verde dell'erba e il blu del cielo e del mare. Do sfogo al mio polarizzatore! Abbiamo la fortuna di visitarlo in solitaria. Riprendiamo la strada verso il promontorio occidentale della penisola e, dopo poco, ci ritroviamo sullo sterrato.
+
+{% include img.html img="IMGP9155.jpg" cap="Il relitto del Garðar BA 64" %}
+
 ## Le spiagge dorate di Rauðisandur
 
-Dalla strada n. 612 imbocchiamo la n. 614 che riattraversa la penisola per condurci alle spiagge di [**Rauðisandur**](https://icelandtravelguide.is/locations/raudisandur/). La carreggiata ha il fondo sconnesso e non presenta alcun tipo di protezione pur essendo a tratti molto esposta. La guida richiede molta attenzione anche perché incontriamo alcune macchine e furgoni che vengono in senso opposto. Una volta valicato il passo ci si presenta una bellissima baia con lingue di sabbia color arancione. Di nuovo tante pecore, spaventate dalla presenza delle auto e, ancora, rare fattorie con distese di campi verdi costellati di balle colorate, prevalentemente rosa e bianche. Lungo la strada troviamo un piccolo cimitero dominato da una improbabile [chiesetta nera](https://nat.is/raudasandur-church/) come la pece (e molto fotogenica!). Percorriamo la strada fino al suo termine, a Keflavik, dove parcheggiamo e ci avventuriamo a piedi verso la spiaggia. Attraversiamo campi costellati da balle bianche seguendo un ruscello che dobbiamo saltare. In un quarto d'ora arriviamo al mare, che ci si presenta attraversato da lingue di sabbia di differenti colori, ocra e giallo intenso, quasi arancione. Sulla spiaggia ci sono miriadi di uccelli, probabilmente [sterne artiche](https://it.wikipedia.org/wiki/Sterna_paradisaea). Qualche scatto e torniamo al furgone perché il tempo stringe e abbiamo ancora parecchia strada sterrata da percorrere oggi. 
+Dalla strada n. 612 imbocchiamo la n. 614 che riattraversa la penisola per condurci alle spiagge di [**Rauðisandur**](https://icelandtravelguide.is/locations/raudisandur/). La carreggiata ha il fondo sconnesso e non presenta alcun tipo di protezione pur essendo a tratti molto esposta. La guida richiede molta attenzione anche perché incontriamo alcune macchine e furgoni che vengono in senso opposto. Una volta valicato il passo ci si presenta una bellissima baia con lingue di sabbia color arancione. Di nuovo tante pecore, spaventate dalla presenza delle auto e, ancora, rare fattorie con distese di campi verdi costellati di balle colorate, prevalentemente rosa e bianche.
+
+{% include img.html img="IMGP9264.jpg" cap="Campi verdi costellati di balle colorate" %}
+
+Lungo la strada troviamo un piccolo cimitero dominato da una improbabile [chiesetta nera](https://nat.is/raudasandur-church/) come la pece (e molto fotogenica!). Percorriamo la strada fino al suo termine, a Keflavik, dove parcheggiamo e ci avventuriamo a piedi verso la spiaggia. Attraversiamo campi costellati da balle bianche seguendo un ruscello che dobbiamo saltare. In un quarto d'ora arriviamo al mare, che ci si presenta attraversato da lingue di sabbia di differenti colori, ocra e giallo intenso, quasi arancione. Sulla spiaggia ci sono miriadi di uccelli, probabilmente [sterne artiche](https://it.wikipedia.org/wiki/Sterna_paradisaea). Qualche scatto e torniamo al furgone perché il tempo stringe e abbiamo ancora parecchia strada sterrata da percorrere oggi. 
+
+{% include img.html img="IMGP9239.jpg" cap="Il piccolo cimitero dominato da una chiesetta nera immediatamente oltre le spiagge di Rauðisandur" %}
 
 ## La penisola di Látrabjarg
 
 Ci ricongiungiamo con la strada n. 612, che imbocchiamo verso sinistra, ovvero verso la parte più estrema della penisola di [**Látrabjarg**](https://www.introducingiceland.com/latrabjarg). Incontriamo la bella e ampia baia di **Hnjótur**, caratterizzata da forti colori contrastanti, sabbia chiara e oceano blu intenso, con lingue sabbiose che si protendono nell'acqua e i fiordi settentrionali sullo sfondo. Uno spettacolo! La strada segue la baia e, nella parte più interna, una zona a prato la separa dalla spiaggia. Procediamo e, attraversata la penisola in senso est-ovest, troviamo un'altra baia, con un minuscolo paesino e la spiaggia di [**Breidavik**](https://www.westfjords.is/en/place/breidavik), anch'essa stupenda. Dopo la successiva e ultima spiaggia di [**Hvallátur**](https://is.nat.is/hvallatur-utivikur/), di sabbia bianca, troviamo il campeggio libero di Brunnar: un immenso prato delimitato da paletti metallici a cui è fissato un cordone e un casotto con due bagni puliti e ottimamente tenuti. Il mare da una parte e il promontorio montuoso dall'altra. In una delle recensioni sul web leggiamo che si trova su un terreno privato e che sono gli stessi proprietari a metterlo a disposizione gratuitamente (update 2023: il campeggio non sembra più esistente).
 
+{% include img.html img="IMGP9335.jpg" cap="La sabbia dorata della spiaggia di Breidavik contrasta con il blu scuro dell'oceano" %}
+
+{% include img.html img="IMGP9342.jpg" cap="Barche in secca lungo la penisola di Látrabjarg"
+
+{% include img.html img="IMGP9342.jpg" cap="Una chiesetta bianca dal tetto rosso spicca in mezzo al verde della penisola di Látrabjarg" %}
+
 ## La colonia di pulcinella di mare
 
 Ci fermeremo qui dopo la nostra ultima tappa: la scogliera dei pulcinella di mare proprio sulla punta della penisola di Látrabjarg. La scogliera si trova subito oltre il campeggio, a tre minuti in macchina. Tira un vento fortissimo. Dotati di teleobiettivo e cavalletto, ci bardiamo e usciamo a caccia di pulcinella. Camminare lungo il bordo della scogliera dove i puffin si annidano é faticoso e anche un po' pericoloso perché tira un vento fortissimo dalla terra verso il mare, con raffiche improvvise. Ne vediamo molti meno rispetto a [Borgarfjörður Eystri](https://www.van42.com/2018/08/03/iceland_07-fiordi-est.html) ma la luce è più bella. Posizioniamo il cavalletto e qualche bello scatto viene fuori! Siamo piuttosto infreddoliti così, dopo aver battuto bene la scogliera, torniamo al campeggio dove ceniamo sempre con il sole nel cielo. Indubbiamente é stata la giornata più intensa e di soddisfazione, sia per i meravigliosi luoghi visitati che per l'incoraggiante clima trovato.
+
+{% include img.html img="IMGP9400.jpg" cap="Pulcinella di mare sula scogliera di Látrabjarg" %}
+
+{% include img.html img="IMGP9464.jpg" cap="Pulcinella di mare sula scogliera di Látrabjarg" %}
+
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1M56ouqtIuH8xeZwWfzEBI0dAhwqNcmlB&ehbc=2E312F" width="640" height="480"></iframe>
