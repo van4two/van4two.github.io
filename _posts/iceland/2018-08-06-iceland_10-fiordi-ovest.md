@@ -49,7 +49,7 @@ Ci ricongiungiamo con la strada n. 612, che imbocchiamo verso sinistra, ovvero v
 
 {% include img.html img="IMGP9335.jpg" cap="La sabbia dorata della spiaggia di Breidavik contrasta con il blu scuro dell'oceano" %}
 
-{% include img.html img="IMGP9342.jpg" cap="Barche in secca lungo la penisola di Látrabjarg"
+{% include img.html img="IMGP9342.jpg" cap="Barche in secca lungo la penisola di Látrabjarg" %}
 
 {% include img.html img="IMGP9342.jpg" cap="Una chiesetta bianca dal tetto rosso spicca in mezzo al verde della penisola di Látrabjarg" %}
 
