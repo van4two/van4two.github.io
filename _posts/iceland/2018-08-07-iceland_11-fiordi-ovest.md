@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fiordi ovest
-tags: [fiordi, piscine naturali]
+tags: [fiordi, cascate, piscine naturali]
 cat: iceland
 
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
@@ -14,11 +14,11 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% include img.html img="IMGP9562.jpg" cap="Cascatelle secondarie a valle dell'imponente cascata Dynjandi" %}
 
-Ci svegliamo nel campeggio libero di Brunnar. Il cielo è coperto da nuvole alte e rade che lasciano filtrare qualche vago raggio di sole di tanto in tanto. Ci mettiamo in marcia e ripercorriamo al contrario la strada di [ieri](https://www.van42.com/2018/08/06/iceland_10-fiordi-ovest.html) fin poco oltre il relitto del peschereccio [Garðar BA 64](https://icelandtravelguide.is/locations/gardar-ba-64/), dove prendiamo la strada n. 62 in direzione nord, percorrendo così anche il lato opposto del Patreksfjörður e fermandoci nella omonima cittadina (una metropoli rispetto agli abitanti di poche case trovati fino adesso). Qui facciamo rifornimento al [N1](https://www.n1.is/en) e una mini spesa a prezzi più elevati rispetto all'entroterra islandese.
+Ci svegliamo nel campeggio libero di Brunnar (update 2023: il campeggio non sembra essere pù esistente). Il cielo è coperto da nuvole alte e rade che lasciano filtrare solo qualche vago raggio di luce di tanto in tanto. Ripercorriamo al contrario la strada di [ieri](https://www.van42.com/2018/08/06/iceland_10-fiordi-ovest.html) fin poco oltre il relitto del peschereccio [Garðar BA 64](https://icelandtravelguide.is/locations/gardar-ba-64/), dove imbocchiamo la strada n. 62 in direzione nord, percorrendo così anche il lato opposto del Patreksfjörður e fermandoci nella omonima cittadina (una metropoli, rispetto agli abitanti di poche case trovati fino adesso). Qui facciamo rifornimento al [N1](https://www.n1.is/en) e un po' di spesa a prezzi ben più elevati rispetto all'entroterra islandese.
 
 {% include img.html img="IMGP9474.jpg" cap="Una bella cascata poco oltre Bíldudalur" %}
 
-Procediamo per la strada n. 63 fiancheggiando il fiordo seguente - il [Tálknafjörður](https://icelandtravelguide.is/locations/talknafjordur-village/). Procediamo e arriviamo al piú ampio [Arnarfjörður](https://guidetoiceland.is/travel-iceland/drive/arnarfjordur), incontrando subito il paesino di [Bíldudalur](https://www.westfjords.is/en/destinations/towns/bildudalur). Lungo la strada vediamo una splendida cascata e ci fermiamo a fare un po' di tentativi con il neutral density filter.
+Procediamo per la strada n. 63 fiancheggiando il fiordo seguente - il [Tálknafjörður](https://icelandtravelguide.is/locations/talknafjordur-village/). Arriviamo al piú ampio [Arnarfjörður](https://guidetoiceland.is/travel-iceland/drive/arnarfjordur), incontrando subito il paesino di [Bíldudalur](https://www.westfjords.is/en/destinations/towns/bildudalur). Lungo la strada vediamo una splendida cascata e ci fermiamo a fare un po' di pratica con il [neutral density filter](https://en.wikipedia.org/wiki/Neutral-density_filter) che non abbiamo mai usato.
 
 ## Reykjafjarðarlaug: hot pot e piscina lungo il fiordo
 

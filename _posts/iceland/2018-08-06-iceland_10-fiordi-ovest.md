@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fiordi ovest
-tags: [fiordi, piscine naturali, bird watching]
+tags: [fiordi, relitto, piscine naturali, bird watching]
 cat: iceland
 
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
@@ -57,7 +57,7 @@ Procediamo e, attraversata la penisola in senso est-ovest, troviamo un'altra bai
 
 {% include img.html img="IMGP9335.jpg" cap="La sabbia dorata della spiaggia di Breidavik contrasta con il blu scuro dell'oceano" %}
 
-Dopo la successiva e ultima spiaggia di [**Hvallátur**](https://is.nat.is/hvallatur-utivikur/), di sabbia bianca, troviamo il campeggio libero di Brunnar: un immenso prato delimitato da un cordone fissato a paletti metallici con un casotto contenente due bagni puliti e ottimamente tenuti. Il mare da una parte e il promontorio montuoso dall'altra. In una delle recensioni sul web leggiamo che il campeggio si trova su un terreno privato e che sono gli stessi proprietari a metterlo a disposizione gratuitamente (update 2023: il campeggio non sembra più esistente).
+Dopo la successiva e ultima spiaggia di [**Hvallátur**](https://is.nat.is/hvallatur-utivikur/), di sabbia bianca, troviamo il campeggio libero di Brunnar: un immenso prato delimitato da un cordone fissato a paletti metallici con un casotto contenente due bagni puliti e ottimamente tenuti. Il mare da una parte e il promontorio montuoso dall'altra. In una delle recensioni sul web leggiamo che il campeggio si trova su un terreno privato e che sono gli stessi proprietari a metterlo a disposizione gratuitamente (update 2023: il campeggio non sembra essere più esistente).
 
 {% include img.html img="IMGP9352.jpg" cap="Una chiesetta bianca dal tetto rosso spicca in mezzo al verde di fronte alla spiaggia di Breidavik" %}
 

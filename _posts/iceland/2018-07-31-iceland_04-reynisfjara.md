@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reynisfjara
-tags: [fotografia, cascate, spiaggia, bird watching]
+tags: [relitto, cascate, spiaggia, bird watching]
 cat: iceland
 
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
