@@ -2,6 +2,7 @@ accomodations
 Åfarnes
 Agder
 Akureyri
+Álftafjörður
 all’Orderville
 all’Oyo
 allemannsrett
@@ -237,6 +238,7 @@ Herefossfjorden
 Hermansverk
 Hestad
 Hestadfjorden
+Hestfjörður
 Hindsæter
 Hirtshals
 Hjálparfoss
@@ -257,6 +259,8 @@ Hverir
 Hvítserkur
 IMGP
 instagrammabile
+Ísafjarðardjúp
+Ísafjörður
 Istra
 Jannekes
 Jettegrytene
@@ -504,12 +508,14 @@ Skeiðarársandur
 Skjersvika
 Skjolden
 Skógafoss
+Skötufjörður
 Skútustaðagígar
 skyr
 Skyscanner
 slackline
 Slådalsvegen
 Slettafossen
+Snæfellsnes
 Snæfoksstaðir
 Snøhetta
 Snøvegen
@@ -543,6 +549,7 @@ Strokkur
 Strudelkopf
 Stryn
 Strynefjellsvegen
+Súðavík
 sull'Aurlandsfjord
 sull'Eiger
 sull'Hardangerfjord

@@ -46,7 +46,7 @@ Riprendiamo la strada che continua, sterrata, su bei panorami fino a [Þingeyri]
 
 {% include img.html img="IMGP9602.jpg" cap="Il porticciolo di Þingeyri" %}
 
-Attraversiamo il [Dýrafjörður](https://www.westfjords.is/en/place/dyrafjordur) e lungo il successivo [Önundarfjörður](https://www.vestfjardaleidin.is/is/moya/travel-vest/place/onundarfjordur) cerchiamo un posto dove fermarci per la notte: anche se c'è ancora luce sono già le 20:30. Ci avventuriamo nei pressi di un vecchio aeroporto in disuso dove troviamo la spiaggia di Valþjófsdalsvegur con un molo e una vecchia baracca arrugginita disabitata. Dopo una prima incertezza decidiamo di trascorrere la notte qui. All'improvviso esce il sole mostrandoci il fiordo in tutta la sua bellezza e facendoci ancora più apprezzare la location scelta. Ci siamo solo noi.
+Attraversiamo il [Dýrafjörður](https://www.westfjords.is/en/place/dyrafjordur) e lungo il successivo [Önundarfjörður](https://www.vestfjardaleidin.is/is/moya/travel-vest/place/onundarfjordur) cerchiamo un posto dove fermarci per la notte: anche se c'è ancora luce sono già le 20:30. Ci avventuriamo nei pressi di un vecchio aeroporto in disuso dove troviamo la spiaggia di Valþjófsdalsvegur con un molo e una vecchia baracca arrugginita disabitata. Dopo una prima incertezza decidiamo di trascorrere la notte [qui](https://park4night.com/it/place/449839). All'improvviso esce il sole mostrandoci il fiordo in tutta la sua bellezza e facendoci ancora più apprezzare la location scelta. Ci siamo solo noi.
 
 {% include img.html img="IMGP9630.jpg" cap="Il molo solitario sulla spiaggia di Valþjófsdalsvegur" %}
 
