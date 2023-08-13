@@ -21,13 +21,13 @@ Ci svegliamo nel campeggio libero di Brunnar (update 2023: il campeggio non semb
 
 Procediamo per la strada n. 63 fiancheggiando il fiordo seguente - il [Tálknafjörður](https://icelandtravelguide.is/locations/talknafjordur-village/). Arriviamo al piú ampio [Arnarfjörður](https://guidetoiceland.is/travel-iceland/drive/arnarfjordur), incontrando subito il paesino di [Bíldudalur](https://www.westfjords.is/en/destinations/towns/bildudalur). Lungo la strada vediamo una splendida cascata e ci fermiamo a fare un po' di pratica con il [neutral density filter](https://en.wikipedia.org/wiki/Neutral-density_filter) che usiamo per la prima volta.
 
-## Reykjafjarðarlaug: hot pot e piscina lungo il fiordo
+## Reykjafjarðarlaug: hot pot e hot pool isolate lungo il fiordo
 
-Riprendiamo la strada e raggiungiamo la [**Reykjafjarðarlaug**](https://icelandtravelguide.is/locations/reykjafjardarlaug-hot-spring/), hot pool costituita da una piscina in cemento con acqua a 32° e da una hot pot vera e propria accanto in roccia naturale e acqua a 46°. Arriviamo e troviamo già tre macchine di gente che, però, sta andando via. Cogliamo l'attimo e sperimentiamo la hot pot tutta per noi.
+Riprendiamo la strada e raggiungiamo la [**Reykjafjarðarlaug**](https://icelandtravelguide.is/locations/reykjafjardarlaug-hot-spring/), hot pool costituita da una piscina in cemento dipinta di azzurro con acqua a 32° e da una hot pot vera e propria in roccia naturale e acqua a 46° situata accanto. Arriviamo e troviamo già tre macchine di gente che, però, sta andando via. Cogliamo l'attimo e sperimentiamo la hot pot tutta per noi.
 
 {% include img.html img="IMGP9503.jpg" cap="La caldissima hot pot di Reykjafjarðarlaug" %}
 
-L'acqua è così calda che é quasi difficoltoso entrare a mollo. Il fondo è terroso come nella prima hot pot sperimentata, [un paio di giorni fa](https://www.van42.com/2018/08/05/iceland_09-fiordi-nord.html), ma la location, isolata nel fiordo lontano dalla civiltà, é perfetta. Testiamo anche la piscina, ampia tanto da permettere di nuotare. Spettacolare, anch'essa tutta per noi!
+L'acqua è così calda che é quasi difficoltoso entrare a mollo. Il fondo è terroso come nella prima hot pot sperimentata, [un paio di giorni fa](https://www.van42.com/2018/08/05/iceland_09-fiordi-nord.html), ma la location, isolata nel fiordo lontano dalla civiltà, é perfetta. Testiamo anche la piscina, ampia tanto da consentire di nuotare. Spettacolare, anch'essa tutta per noi!
 
 {% include img.html img="IMGP9515.jpg" cap="La hot pool di Reykjafjarðarlaug, isolata lungo il bordo del fiordo" %}
 ## Dynjandi
