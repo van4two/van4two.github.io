@@ -12,7 +12,6 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-
 {% include img.html img="IMGP9524.jpg" cap="La hot pool di Reykjafjarðarlaug, isolata lungo il bordo del fiordo" %}
 
 Ci svegliamo nel campeggio libero di Brunnar (update 2023: il campeggio non sembra essere pù esistente). Il cielo è coperto da nuvole alte e rade che lasciano filtrare solo qualche vago raggio di luce di tanto in tanto. Ripercorriamo al contrario la strada di [ieri](https://www.van42.com/2018/08/06/iceland_10-fiordi-ovest.html) fin poco oltre il relitto del peschereccio [Garðar BA 64](https://icelandtravelguide.is/locations/gardar-ba-64/), dove imbocchiamo la strada n. 62 in direzione nord, percorrendo così anche il lato opposto del Patreksfjörður e fermandoci nella omonima cittadina (una metropoli, rispetto agli abitati di poche case trovati fino adesso). Qui facciamo rifornimento al [N1](https://www.n1.is/en) e un po' di spesa a prezzi ben più elevati rispetto all'entroterra islandese.
