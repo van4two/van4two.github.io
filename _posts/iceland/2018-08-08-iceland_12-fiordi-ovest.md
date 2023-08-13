@@ -34,7 +34,10 @@ Lungo l’[Hestfjörður](https://guidetoiceland.is/travel-iceland/drive/hestfjo
 {% include img.html img="IMGP9725.jpg" cap="Foca al sole nel fiordo di Hestfjörður" %}
 
 Nel fiordo successivo, [Skötufjörður](https://is.wikipedia.org/wiki/Sk%C3%B6tufj%C3%B6r%C3%B0ur), troviamo un'area appositamente dedicata all'osservazione di una piccola colonia di foche che se ne stanno beatamente spaparanzate a prendere il sole. 
-Ripartiamo alla volta delle due pozze geotermali in fondo al Mjóifjörður. L'idea é di andare in una delle due pozze e poi farsi una doccia presso il campeggio Heydalur, che abbiamo contattato telefonicamente stamattina per verificare che ci facessero anche solo docciare. Alla fine la struttura, che dispone di cottages, ristorante e di una propria hot pool alimentata da acqua geotermale, ci fa pagare 500 isk a testa per l'uso di hot pool, piscina e docce. Dal momento ne siamo entrambi abbastanza stanchi e provati nonché sporchi, rinunciamo alla pozza geotermale per la hot pool di Heydalur, che non è la stessa cosa, ma che é comunque molto piacevole. Esploriamo anche il capanno della piscina che odora fortemente di cavallo: notiamo una serie di selle appese al muro con i nomi dei relativi cavalli proprietari. Il capanno ospita anche una serie di piante rigogliose (sembra infatti un incrocio fra una serra, una stalla e una piscina!). L'acqua della piscina è fredda ma, in fondo ad essa, c'è una vasca idromassaggio fumante: entriamo dentro e godiamo l'acqua calda tutta per noi. Lessi a puntino ci concediamo una lunga doccia . Nell'operazione di asciugatura capelli mi rendo conto di quanto i miei siano intricati e ne spezzo parecchi prima di riuscire a domarli. Abbandono il bagno lasciando parte del mio scalpo sul pavimento. Ci rimettiamo in marcia alle 19:30 con la sensazione di esserci lessati, pronti per infilarci sotto le coperte. Decidiamo di uscire da questo stretto fiordo la cui strada è sterrata e di fermarci alla prima piazzola buona. Passiamo davanti a un'altra hot pool, la Hörgshlidarlaug, proprio accanto alla strada. Ci fermiamo in una sterrata laterale con area picnic non particolarmente sexi lungo la strada Djúpvegur, ma di meglio non siamo riusciti a trovare e vorremmo fermarci. Scaldiamo una brioches gigante ai semi di sesamo e di papavero e cuciniamo una zuppa agli asparagi. Alle 23 ci infiliamo sotto alle coperte con ancora parecchia luce fuori.
+
+Decisi inizialmente a puntare una delle due pozze geotermali in fondo al [Mjóifjörður](https://en.visitfjardabyggd.is/fjardabyggd/mjoifjordur/), optiamo poi per la hot pool del campeggio [Heydalur](https://www.heydalur.is/is), alimentata anch'essa da acqua geotermale.
+
+Belli lessati, cerchiamo una location per trascorrere la notte in libera. Passiamo davanti a un'altra hot pool, la [Hörgshlidarlaug](https://icelandthebeautiful.com/horgshlidarlaug/), proprio accanto alla strada. Ci fermiamo a dormire in una sterrata laterale con area picnic lungo la strada Djúpvegur con ancora parecchia luce fuori.
 
 
 
@@ -44,6 +47,8 @@ Ripartiamo alla volta delle due pozze geotermali in fondo al Mjóifjörður. L'i
 
 {% contentfor sidebar %}
 **Tips**  
+
+Hot pool del campeggio [Heydalur](https://www.heydalur.is/is): 500 isk a persona per l'uso di hot pool, piscina e docce
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 {% endcontentfor %}

@@ -239,12 +239,14 @@ Hermansverk
 Hestad
 Hestadfjorden
 Hestfjörður
+Heydalur
 Hindsæter
 Hirtshals
 Hjálparfoss
 Hnjótur
 Höfn
 Honfleur
+Hörgshlidarlaug
 Hornsvatnet
 Horsethief
 Høyheimsvik
@@ -364,6 +366,7 @@ Mémorial
 Memurubu
 minifrigo
 Misurina
+Mjóifjörður
 Mocassin
 Moena
 Moki
