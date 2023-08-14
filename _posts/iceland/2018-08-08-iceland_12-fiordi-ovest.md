@@ -31,7 +31,7 @@ Appagata dalla passeggiata solitaria in questo posto magico, torno al furgone e 
 
 {% include img.html img="IMGP9688.jpg" cap="La placida cittadina di Ísafjörður" %}
 
-{% include img.html img="IMGP9696.jpg" cap="Nei pressi di Ísafjörður" %}
+{% include img.html img="IMGP9696.jpg" cap="Nei pressi di Ísafjörður" %} 
 
 ## Ísafjarðardjúp
 
