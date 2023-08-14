@@ -558,6 +558,7 @@ sull'Aurlandsfjord
 sull'Eiger
 sull'Hardangerfjord
 sull'Observation
+sull’elicottero
 Sunnylvsfjord
 Svartifoss
 svele

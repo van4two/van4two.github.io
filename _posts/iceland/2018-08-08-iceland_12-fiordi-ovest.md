@@ -12,7 +12,6 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-
 {% include img.html img="IMGP9660.jpg" cap="Il molo solitario sulla spiaggia di Valþjófsdalsvegur" %}
 
 Ci svegliamo accanto alla spiaggia di Valþjófsdalsvegur, nello [spot](https://park4night.com/it/place/449839) trovato casualmente [ieri sera](https://www.van42.com/2018/08/07/iceland_11-fiordi-ovest.html). 
