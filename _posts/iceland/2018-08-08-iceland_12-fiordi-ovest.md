@@ -30,15 +30,15 @@ Faccio un giro per la spiaggia con la macchina fotografica. Una sterna artica se
 
 Appagata dalla passeggiata solitaria in questo posto magico, torno al furgone e ripartiamo. Riprendiamo la strada n. 60 e, in breve, attraverso una galleria, arriviamo a [Ísafjörður](https://www.westfjords.is/en/destinations/towns/isafjordur), la principale città della regione. Il sole splende nel cielo e la cittadina nel fiordo risulta piacevole. Facciamo un po' di spesa al supermercato [Bonus](https://bonus.is/english/) (l'ultimo prima della penisola di [Snæfellsnes](https://guidetoiceland.is/travel-iceland/drive/snaefellsnes) e il primo da un bel po'), il rifornimento al [N1](https://www.n1.is/en) e laviamo la macchina con le pompe a disposizione nella stazione di servizio.
 
-{% include img.html img="IMGP9688.jpg" cap="" %}
+{% include img.html img="IMGP9688.jpg" cap="La placida cittadina di Ísafjörður" %}
 
-{% include img.html img="IMGP9696.jpg" cap="" %}
+{% include img.html img="IMGP9696.jpg" cap="Nei pressi di Ísafjörður" %}
 
 ## Ísafjarðardjúp
 
 Ripartiamo percorrendo verso est i vari piccoli fiordi che si trovano all'interno del più grande [Ísafjarðardjúp](https://www.lonelyplanetitalia.it/destinazioni/islanda/isafjardjardjup).
 
-{% include img.html img="IMGP9703.jpg" cap="" %}
+{% include img.html img="IMGP9703.jpg" cap="Lungo i fiordi minori di Ísafjarðardjúp" %}
 
 All'imbocco dell'[Álftafjörður](https://en.wikipedia.org/wiki/%C3%81lftafj%C3%B6r%C3%B0ur) troviamo il grazioso piccolo abitato di [Súðavík](https://www.westfjords.is/en/destinations/towns/sudavik), caratterizzato da una serie di case dai colori accesi.
 
