@@ -26,7 +26,7 @@ Mentre Ste ancora dorme, esco dal furgone che si inonda di sole, trovandomi di f
 
 ## Ísafjörður
 
-Appagata dalla passeggiata solitaria in questo posto magico, torno al furgone e ripartiamo. Riprendiamo la strada n. 60 e, in breve, attraverso una galleria, arriviamo a [Ísafjörður](https://www.westfjords.is/en/destinations/towns/isafjordur), la principale città della regione. Il sole splende nel cielo e la cittadina nel fiordo risulta piacevole. Facciamo un po' di spesa al supermercato [Bonus](https://bonus.is/english/) (l'ultimo prima della penisola di [Snæfellsnes](https://guidetoiceland.is/travel-iceland/drive/snaefellsnes) e il primo da un bel po'), il rifornimento al [N1](https://www.n1.is/en) e laviamo la macchina con le pompe a disposizione nella stazione di servizio.
+Appagata dalla passeggiata solitaria in questo posto magico, torno al furgone e ripartiamo. Riprendiamo la strada n. 60 e, in breve, attraverso una galleria, arriviamo a [**Ísafjörður**](https://www.westfjords.is/en/destinations/towns/isafjordur), la principale città della regione. Il sole splende nel cielo e la cittadina nel fiordo risulta piacevole. Facciamo un po' di spesa al supermercato [Bonus](https://bonus.is/english/) (l'ultimo prima della penisola di [Snæfellsnes](https://guidetoiceland.is/travel-iceland/drive/snaefellsnes) e il primo da un bel po'), il rifornimento al [N1](https://www.n1.is/en) e laviamo la macchina con le pompe a disposizione nella stazione di servizio.
 
 {% include img.html img="IMGP9688.jpg" cap="La placida cittadina di Ísafjörður" %}
 
@@ -34,11 +34,11 @@ Appagata dalla passeggiata solitaria in questo posto magico, torno al furgone e 
 
 ## Ísafjarðardjúp
 
-Ripartiamo percorrendo verso est i vari piccoli fiordi che si trovano all'interno del più grande [Ísafjarðardjúp](https://www.lonelyplanetitalia.it/destinazioni/islanda/isafjardjardjup).
+Ripartiamo percorrendo verso est i vari piccoli fiordi che si trovano all'interno del più grande [**Ísafjarðardjúp**](https://www.lonelyplanetitalia.it/destinazioni/islanda/isafjardjardjup).
 
 {% include img.html img="IMGP9703.jpg" cap="Lungo i fiordi minori di Ísafjarðardjúp" %}
 
-All'imbocco dell'[Álftafjörður](https://en.wikipedia.org/wiki/%C3%81lftafj%C3%B6r%C3%B0ur) troviamo il grazioso piccolo abitato di [Súðavík](https://www.westfjords.is/en/destinations/towns/sudavik), caratterizzato da una serie di case dai colori accesi.
+All'imbocco dell'[Álftafjörður](https://en.wikipedia.org/wiki/%C3%81lftafj%C3%B6r%C3%B0ur) troviamo il grazioso piccolo abitato di [**Súðavík**](https://www.westfjords.is/en/destinations/towns/sudavik), caratterizzato da una serie di case dai colori accesi.
 
 {% include img.html img="IMGP9705.jpg" cap="Case dai colori accesi nell'abitato di Súðavík" %}
 
@@ -52,7 +52,7 @@ Nel fiordo successivo, [Skötufjörður](https://is.wikipedia.org/wiki/Sk%C3%B6t
 
 ## Heydalur hot pool
 
-Decisi inizialmente a puntare una delle due pozze geotermali in fondo al [Mjóifjörður](https://en.visitfjardabyggd.is/fjardabyggd/mjoifjordur/), optiamo poi per la hot pool del campeggio [Heydalur](https://www.heydalur.is/is), alimentata anch'essa da acqua geotermale.
+Decisi inizialmente a puntare una delle due pozze geotermali in fondo al [Mjóifjörður](https://en.visitfjardabyggd.is/fjardabyggd/mjoifjordur/), optiamo poi per la hot pool del campeggio [**Heydalur**](https://www.heydalur.is/is), alimentata anch'essa da acqua geotermale.
 
 Belli lessati, cerchiamo una location per trascorrere la notte in libera. Passiamo davanti a un'altra hot pool, la [Hörgshlidarlaug](https://icelandthebeautiful.com/horgshlidarlaug/), proprio accanto alla strada. Ci fermiamo a dormire in una sterrata laterale con area picnic lungo la strada Djúpvegur, con ancora parecchia luce fuori.
 

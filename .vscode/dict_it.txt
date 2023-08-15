@@ -65,6 +65,7 @@ Brudesløret
 Brunnar
 Bryggen
 Brynja
+Búðardalur
 Butin
 Buvika
 Bygdin
@@ -113,6 +114,7 @@ d'Arcia
 d'Aval
 d’Albâtre
 d’Aval
+Dala
 dall
 Dalsnibba
 Dalsnibbba
@@ -200,6 +202,7 @@ Geirangerfjord
 Geysir
 ghiaietto
 Gifford
+Gilsfjörður
 Gjáin
 Gjende
 Gjendesheim
@@ -212,6 +215,7 @@ Grandview
 Grímsnes
 Grotli
 Gudbrandsjuvet
+Guðrúnarlaug
 Gudvanga
 Gudvangen
 Gullfoss
@@ -246,6 +250,7 @@ Hirtshals
 Hjálparfoss
 Hnjótur
 Höfn
+Hólmavik
 Honfleur
 Hörgshlidarlaug
 Hornsvatnet
@@ -424,6 +429,7 @@ Patreksfjörður
 Pelmetto
 Pelmo
 Pennica
+perimetrata
 perimetrato
 Perrero
 Piccardia
@@ -512,6 +518,7 @@ Skeiðarársandur
 Skjersvika
 Skjolden
 Skógafoss
+Skorradal
 Skötufjörður
 Skútustaðagígar
 skyr
@@ -531,6 +538,7 @@ Sólheimasandur
 Sølsnes
 sommitale
 Sorapiss
+sott’acqua
 specchievolezza
 Staður
 Stakholstjorn
@@ -553,6 +561,8 @@ Strokkur
 Strudelkopf
 Stryn
 Strynefjellsvegen
+Stykkishólmskirkja
+Stykkishólmur
 Súðavík
 sull'Aurlandsfjord
 sull'Eiger
