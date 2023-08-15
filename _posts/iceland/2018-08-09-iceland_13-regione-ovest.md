@@ -14,13 +14,13 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% include img.html img="IMGP9790.jpg" cap="Lungo la penisola di Skorradal" %}
 
-Ci svegliamo sotto un cielo nuvoloso nel più interno dei fiordi di cui si compone l'[Ísafjarðardjúp](https://www.lonelyplanetitalia.it/destinazioni/islanda/isafjardjardjup). Facciamo colazione e ripartiamo: oggi sarà più che altro una giornata di trasferimento con pochi points of interest. Imbocchiamo la strada n. 61 passando per [Hólmavik](https://www.westfjords.is/en/destinations/towns/holmavik) e poi la n. 60 in direzione sud.
+Ci svegliamo sotto un cielo inizialmente nuvoloso nel più interno dei fiordi di cui si compone l'[Ísafjarðardjúp](https://www.lonelyplanetitalia.it/destinazioni/islanda/isafjardjardjup). Facciamo colazione e ripartiamo: oggi sarà più che altro una giornata di trasferimento con pochi points of interest. Imbocchiamo la strada n. 61 passando per [Hólmavik](https://www.westfjords.is/en/destinations/towns/holmavik) e poi la n. 60 in direzione sud.
 
 {% include img.html img="IMGP9778.jpg" cap="Verso la regione dell'ovest" %}
 
 ## La penisola di Skorradal
 
-Qui, dopo aver attraversato il ponte sul [Gilsfjörður](https://www.funiceland.is/nature/fjords/gilsfjordur/), decidiamo di seguire i consigli della [Lonely Planet](https://shop.lonelyplanetitalia.it/prodotto/guida-di-viaggio-islanda) e di [On the road again](http://www.ontheroadagain.blog/2018/07/05/skorradal/) e ci avventuriamo per la strada sterrata n. 590 che segue la costa della penisola di **Skorradal**, lontano dai tracciati principali. Ci si presenta selvaggia con poche fattorie isolate e con le solite pecore. Ci fermiamo nell'area picnic sulla punta delle penisola, in un'ottima posizione, tranquilla e con vista, e pranziamo qui, indisturbati.
+Qui, dopo aver attraversato il ponte sul [Gilsfjörður](https://www.funiceland.is/nature/fjords/gilsfjordur/), decidiamo di seguire i consigli della [Lonely Planet](https://shop.lonelyplanetitalia.it/prodotto/guida-di-viaggio-islanda) e di [On the road again](http://www.ontheroadagain.blog/2018/07/05/skorradal/) e ci avventuriamo per la strada sterrata n. 590 che segue la costa della penisola di **Skorradal**, lontano dai tracciati principali. La zona ci si presenta selvaggia con poche fattorie isolate e con le solite pecore. Ci fermiamo nell'area picnic sulla punta delle penisola, in un'ottima posizione, tranquilla e con vista, e pranziamo qui, indisturbati.
 
 {% include img.html img="IMGP9792.jpg" cap="Lungo la penisola di Skorradal" %}
 
@@ -48,7 +48,7 @@ Saliamo sul piccolo promontorio su cui si trova il [faro di Súgandisey](https:/
 
 {% include img.html img="IMGP9805.jpg" cap="L’imponente Stykkishólmskirkja" %}
 
-Riprendiamo il furgone e cominciamo a cercare una location adatta sia alla grigliata che al pernottamento. Ci fermiamo in uno slargo lungo la Helgafellssveitarvegur, strada secondaria vicino al mare. Il nostro tentativo di grigliare la carne su una delle piccole griglie usa e getta dotate di carbonella fallisce miseramente ma ci consoliamo con un tramonto spettacolare.
+Riprendiamo il furgone e cominciamo a cercare una location adatta sia alla grigliata che al pernottamento. Ci fermiamo in uno slargo lungo la Helgafellssveitarvegur, strada secondaria vicino al mare. Il nostro tentativo di grigliare la carne su una delle piccole griglie usa e getta dotate di carbonella del supermercato fallisce miseramente ma ci consoliamo con un tramonto spettacolare.
 
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1D-TjIimJJpb3kVF5MMxYe08kc-5sAi9x&ehbc=2E312F" width="640" height="480"></iframe>
