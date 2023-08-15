@@ -235,6 +235,7 @@ Haukadalur
 Hauville
 Héðinsfjörður
 Hekla
+Helgafellssveitarvegur
 Hella
 Helleren
 Hellesylt
@@ -564,6 +565,7 @@ Strynefjellsvegen
 Stykkishólmskirkja
 Stykkishólmur
 Súðavík
+Súgandisey
 sull'Aurlandsfjord
 sull'Eiger
 sull'Hardangerfjord

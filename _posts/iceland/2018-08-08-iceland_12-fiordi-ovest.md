@@ -50,6 +50,8 @@ Lungo l’[Hestfjörður](https://guidetoiceland.is/travel-iceland/drive/hestfjo
 
 Nel fiordo successivo, [Skötufjörður](https://is.wikipedia.org/wiki/Sk%C3%B6tufj%C3%B6r%C3%B0ur), troviamo poi un'area appositamente dedicata all'osservazione di una vera e propria piccola colonia di foche che se ne stanno beatamente spaparanzate a prendere il sole. 
 
+{% include img.html img="IMGP9756.jpg" cap="Colonia di foche nel fiordo di Skötufjörður" %}
+
 ## Heydalur hot pool
 
 Decisi inizialmente a puntare una delle due pozze geotermali in fondo al [Mjóifjörður](https://en.visitfjardabyggd.is/fjardabyggd/mjoifjordur/), optiamo poi per la hot pool del campeggio [**Heydalur**](https://www.heydalur.is/is), alimentata anch'essa da acqua geotermale.
