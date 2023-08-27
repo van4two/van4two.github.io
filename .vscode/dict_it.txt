@@ -51,6 +51,7 @@ Boite
 Bonvicini
 Borgarfjarðarhöfn
 Borgarfjörður
+Borgarnes
 Boucles
 boulangerie
 Bøverdalen
@@ -405,6 +406,7 @@ nebbiosissimo
 Nedre
 Neonopolis
 Nesatind
+Neshraun
 Nesquik
 Niño
 Nisser
@@ -500,6 +502,7 @@ Schiphol
 scialpinisti
 Selfoss
 Seljalandsfoss
+Selsskógur
 Seltún
 semideserta
 semidesertici
@@ -532,6 +535,7 @@ Skjersvika
 Skjolden
 Skógafoss
 Skorradal
+Skorradalsvatn
 Skötufjörður
 Skútustaðagígar
 skyr
