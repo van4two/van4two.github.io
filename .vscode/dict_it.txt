@@ -140,6 +140,7 @@ Dynjandi
 Dýrafjörður
 Dyrfjöll
 Dyrhólaey
+Eding
 Egersund
 Egilsstaðir
 Eidsdal
@@ -330,6 +331,7 @@ Læerdal
 Lærdal
 Lærdalsfjord
 Lagarfljot
+Landbrotalaug
 Landeyjahöfn
 Landmannalaugar
 Langfjord
@@ -391,6 +393,7 @@ Mondeval
 montarozzi
 Mortavika
 multipiano
+musino
 mymap
 Mytrails
 Mývatn
@@ -610,6 +613,7 @@ Trollstigen
 Trolltunga
 Trollveggen
 Trøndelag
+Tunga
 turisticità
 Turtagrø
 Tusayan
@@ -652,6 +656,7 @@ Wahweap
 Waterpocket
 Westfjords
 wurstel
+Ytri
 Zoldo
 Zuko
 Þingeyri
