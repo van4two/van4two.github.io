@@ -1,6 +1,7 @@
 accomodations
 Åfarnes
 Agder
+Airlandair
 Akureyri
 Álftafjörður
 all’Orderville
@@ -57,6 +58,7 @@ boulangerie
 Bøverdalen
 Bøvra
 Bratland
+Brauð
 Breidavik
 Breiddalsvatnet
 Breiðdalsvík
@@ -234,9 +236,11 @@ Haag
 Hafnarnes
 Hafragilsfoss
 Halhjem
+Hallgrímskirkja
 Hamar
 Hardangerfjord
 Hardangervidda
+Harpa
 Haugsjåsund
 Haukadalur
 Hauville
@@ -394,6 +398,7 @@ Mondeval
 montarozzi
 Mortavika
 multipiano
+murales
 musino
 mymap
 Mytrails
@@ -494,6 +499,7 @@ Salut
 Samkaup
 sandar
 Sande
+Sandgerði
 Sandvikvåg
 Saxhöll
 scaldacollo
@@ -552,6 +558,7 @@ Sogndal
 Sogndalstrand
 Sognefjellet
 Sognefjord
+Sólfarið
 Sólheimasandur
 Sølsnes
 sommitale
