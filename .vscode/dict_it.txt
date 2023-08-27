@@ -37,6 +37,7 @@ Bidonnière
 Bíldudalur
 biomorfa
 Bjarnarflag
+Bjarnarhöfn
 Bjødnsiåna
 Bjørnbøl
 Bjørnbøltjønne
@@ -123,12 +124,14 @@ dell'anticima
 Dettifoss
 Dibona
 Dimmuborgir
+Djúpalónssandur
 Djúpivogur
 Djupvatnet
 Djúpvegur
 Domkirkeodden
 Dragsvik
 Drasvik
+Dritvík
 droni
 Dugway
 Duron
@@ -143,6 +146,7 @@ Eidsdal
 Eikelandsfossen
 Eldhusøya
 endcontentfor
+Erkigsnek
 Erlandsdalsvatnet
 Espedalen
 Étretat
@@ -214,6 +218,7 @@ Grænagil
 Grandview
 Grímsnes
 Grotli
+Grundarfjördur
 Gudbrandsjuvet
 Guðrúnarlaug
 Gudvanga
@@ -267,6 +272,7 @@ Hvammstangi
 Hverir
 Hvítserkur
 IMGP
+Ingjaldshóll
 instagrammabile
 Ísafjarðardjúp
 Ísafjörður
@@ -299,6 +305,8 @@ kirkjan
 Kirkjubæjarklausturl
 Kirkjubaer
 Kirkjubær
+Kirkjufell
+Kirkjufellsfoss
 kitesurf
 Kjenndalsbreen
 Kjerag
@@ -482,6 +490,7 @@ Samkaup
 sandar
 Sande
 Sandvikvåg
+Saxhöll
 scaldacollo
 Schakenda
 Schiphol
@@ -527,6 +536,7 @@ Skyscanner
 slackline
 Slådalsvegen
 Slettafossen
+Snæfellsjökull
 Snæfellsnes
 Snæfoksstaðir
 Snøhetta
