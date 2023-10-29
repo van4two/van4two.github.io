@@ -11,8 +11,7 @@
 
 <script>
     var map = new L.Map("map", { center: new L.LatLng(20, 11.3426), zoom: 2 });
-    var layer = new L.StamenTileLayer("toner-lite");
-    map.addLayer(layer);
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.png').addTo(map);
 
     map.gestureHandling.enable();
 
