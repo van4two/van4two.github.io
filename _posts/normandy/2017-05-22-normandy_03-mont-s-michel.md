@@ -12,7 +12,7 @@ teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html img="2017.05.22 - 48. mont st-michel.jpg" cap="Mont Saint-Michel, uno dei luoghi simbolo della Normandia" %}
+{% include img.html img="2017.05.22 - 50. mont st-michel.jpg" cap="Mont Saint-Michel, uno dei luoghi simbolo della Normandia" %}
 
 Dopo aver fatto colazione con pan au chocolat, partiamo alla volta di [**Mont Saint-Michel**](http://www.bienvenueaumontsaintmichel.com/en), la cui sagoma si staglia a nord dell’[area camper](https://www.labidonniere.fr/) dove abbiamo trascorso la notte. Arrivati in zona, tutte le strade confluiscono verso un [grande parcheggio](http://www.bienvenueaumontsaintmichel.com/en/preparing-your-visit/prices) dal quale è possibile proseguire a piedi oppure mediante un bus-navetta gratuito che copre i 2 km di distanza da percorrere per arrivare all’isola. Negli ultimi anni Mont Saint-Michel è stato soggetto a una [serie di opere](http://it.france.fr/it/sulla-francia/mont-saint-michel-torna-ad-essere-unisola) messe in atto per ripristinare il carattere marittimo del sito, che era stato gradualmente snaturato dall’accentuata sedimentazione dovuta anche ad interventi pregressi. Ora l’isola è raggiungibile percorrendo un ponte-passerella progettato all’insegna dello sviluppo sostenibile nei confronti della baia e dell’abbazia.
 
