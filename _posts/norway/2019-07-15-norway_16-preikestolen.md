@@ -8,7 +8,7 @@ cat: norway
 gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
 pics: 2019-06-30-norway
 day: "16"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2019-06-30-norway/teaser/16.jpg
 
 location:
   latitude: 58.9864

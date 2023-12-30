@@ -8,7 +8,7 @@ cat: nz
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 pics: 2012-12-23-new-zealand
 day: "04"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2012-12-23-new-zealand/teaser/04.jpg
 ---
 
 {% google_photos page.gallery_url none %}

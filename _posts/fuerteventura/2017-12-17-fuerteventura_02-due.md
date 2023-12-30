@@ -7,7 +7,7 @@ cat: fuerteventura
 #gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 pics: 2017-12-16-fuerteventura
 day: "02"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2017-12-16-fuerteventura/teaser/02.jpg
 ---
 
 COMING SOON

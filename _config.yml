@@ -22,7 +22,7 @@ plugins:
 - jekyll-google-photos
 #- jekyll-maps
 #- jekyll-contentblocks
-- jekyll-liquify
+#- jekyll-liquify
 
 exclude: 
 - vendor

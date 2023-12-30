@@ -7,10 +7,8 @@ cat: iceland
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 pics: 2018-07-28-iceland
 day: "07"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2018-07-28-iceland/teaser/07.jpg
 ---
-
-{% google_photos page.gallery_url none %}
 
 {% include img.html img="IMGP8116.jpg" cap="Pulcinella di mare nella colonia di Borgarfjörður Eystri" %}
 

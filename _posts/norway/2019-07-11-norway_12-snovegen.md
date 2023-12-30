@@ -7,7 +7,7 @@ cat: norway
 gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 pics: 2019-06-30-norway
 day: "12"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2019-06-30-norway/teaser/12.jpg
 ---
 
 {% google_photos page.gallery_url none %}

@@ -7,7 +7,7 @@ cat: morocco
 #gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
 pics: 2018-10-25-morocco
 day: "07"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2018-10-25-morocco/teaser/07.jpg
 ---
 
 COMING SOON

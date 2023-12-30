@@ -8,7 +8,7 @@ cat: usa
 gallery_url: https://photos.app.goo.gl/JneRfGRjKM6Ku5ZV6
 pics: 2022-04-25-usa
 day: "11"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2022-04-25-usa/teaser/11.jpg
 
 location:
   latitude: 37.6227

@@ -7,10 +7,8 @@ cat: iceland
 gallery_url: https://photos.app.goo.gl/P7VpaVGc6CMoSQYV8
 pics: 2018-07-28-iceland
 day: "01"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2018-07-28-iceland/teaser/01.jpg
 ---
-
-{% google_photos page.gallery_url none %}
 
 {% include img.html img="IMG_20180728_101734.jpg" cap="Preparativi: attrezzatura fotografica e abbigliamento tecnico" %}
 

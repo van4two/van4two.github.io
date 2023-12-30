@@ -7,10 +7,8 @@ cat: iceland
 gallery_url: https://photos.app.goo.gl/qWcGJFYsx1HiiFK86
 pics: 2018-07-28-iceland
 day: "08"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2018-07-28-iceland/teaser/08.jpg
 ---
-
-{% google_photos page.gallery_url none %}
 
 {% include img.html img="IMGP8689.jpg" cap="Soffioni e fumarole nella Hverir geothermal area" %}
 

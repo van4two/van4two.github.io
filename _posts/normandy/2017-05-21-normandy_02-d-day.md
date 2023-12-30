@@ -7,7 +7,7 @@ cat: normandy
 gallery_url: https://photos.app.goo.gl/sea9y3zGa5ZeXg669
 pics: 2017-05-20-normandy
 day: "02"
-teaser: /assets/img/{{post.pics}}/teaser/{{post.day}}.jpg
+teaser: /assets/img/2017-05-20-normandy/teaser/02.jpg
 ---
 
 {% google_photos page.gallery_url none %}
