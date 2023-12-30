@@ -4,7 +4,7 @@ title: Geirangerfjord
 tags: [strada panoramica, fiordi, unesco]
 cat: norway
 
-gallery_url: https://photos.app.goo.gl/zHeS96VzTV1yt3it5
+gallery_url: https://photos.app.goo.gl/EScgyZDXUAmq7NRB7
 pics: 2019-06-30-norway
 day: "08"
 teaser: /assets/img/2019-06-30-norway/teaser/08.jpg
