@@ -5,7 +5,7 @@ categories: [hike]
 tags: [trekking, fiordi]
 cat: norway
 
-gallery_url: https://photos.app.goo.gl/MnPRhggrJT1cqncF9
+gallery_url: https://photos.app.goo.gl/8YZiWS6ZKXQ5VsA86
 pics: 2019-06-30-norway
 day: "16"
 teaser: /assets/img/2019-06-30-norway/teaser/16.jpg

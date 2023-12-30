@@ -4,7 +4,7 @@ title: Gaularfjellet
 tags: [strada panoramica, fiordi]
 cat: norway
 
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+gallery_url: https://photos.app.goo.gl/U7PYwmb52euSy1Gt6
 pics: 2019-06-30-norway
 day: "11"
 teaser: /assets/img/2019-06-30-norway/teaser/11.jpg
@@ -12,7 +12,7 @@ teaser: /assets/img/2019-06-30-norway/teaser/11.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=179 cap="La Gaularfjellet si snoda lungo un paesaggio bucolico, fiancheggiando una serie di laghi spettacolari: qui sulle sponde del Nystølsvatnet" %}
+{% include img.html id=12 cap="La Gaularfjellet si snoda lungo un paesaggio bucolico, fiancheggiando una serie di laghi spettacolari: qui sulle sponde del Nystølsvatnet" %}
 
 Ci svegliamo nella valle del fiume Stardalselva provati dal trekking di ieri al monte [Skåla]({% post_url norway/2019-07-09-norway_10-skala %}). Anche questa giornata è meravigliosa: facciamo colazione al sole quasi in costume da bagno: la temperatura è spettacolare!
 
@@ -26,31 +26,31 @@ Partiamo in direzione Førde, intenti a percorrere la [strada turistica nazional
 
 Abbiamo due possibilità per percorrere la Gaurlarfjellet: prendere la Fv13 prima di Førde oppure raggiungere la città, facendo il tratto della E39 fino a Sande, e imboccare qui la Fv610. Le due varianti si uniscono poi al termine del lago **Viksdalsvatnet**. Optiamo per la seconda soluzione che sembra costituire la variante principale. Il paesaggio è magnifico, idilliaco con continui corsi d’acqua, cascate e laghetti con tanta vegetazione.
 
-{% include img.html id=174 cap="La cascata Eikelandsfossen, lungo il tratto iniziale della Gaularfjellet" %}
+{% include img.html id=7 cap="La cascata Eikelandsfossen, lungo il tratto iniziale della Gaularfjellet" %}
 
-{% include img.html id=177 cap="Cascatelle nel Fylingsvatnet, circa a metà della Gaularfjellet" %}
+{% include img.html id=10 cap="Cascatelle nel Fylingsvatnet, circa a metà della Gaularfjellet" %}
 
 A [**Hestad**](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet?attraction=Hestad%20kapell) ci fermiamo nei pressi della [cappella](https://www.visitnorway.com/listings/hestad-chapel/238959/) con piccolo cimitero, pranziamo ai tavoli da picnic in legno e, messo il costume da bagno, ci sdraiamo al sole nella spiaggia di sabbia lì accanto. Ci sono già alcune altre persone. La spiaggetta si affaccia sul lago Viksdalsvatnet: l’assenza del vento fa sentire il caldo quindi, per rinfrescarci, azzardiamo l’idea di un bagno ma il fondale rimane basso anche a grande distanza dalla riva. Riusciamo comunque ad immergerci nell’acqua fredda, ci asciughiamo e ripartiamo.
 
-{% include img.html id=176 cap="Le acque tranquille del lago Hestadfjorden, nei pressi di Hestad, sembrano uno specchio" %}
+{% include img.html id=9 cap="Le acque tranquille del lago Hestadfjorden, nei pressi di Hestad, sembrano uno specchio" %}
 
 Il panorama continua a non deluderci. Poco oltre troviamo il ponte sul fiume in corrispondenza delle cascatelle **[Linkholefossen](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet?attraction=Likholefossen)**, una moderna struttura in acciaio realizzata per valorizzare il sito e invitare i visitatori ad esplorarlo.
 
-{% include img.html id=178 cap="Paesaggio bucolico presso le cascate Likholefossen, lungo la Gaularfjellet" %}
+{% include img.html id=11 cap="Paesaggio bucolico presso le cascate Likholefossen, lungo la Gaularfjellet" %}
 
 Passati il belvedere [**Utsikten**](https://www.nasjonaleturistveger.no/en/routes/gaularfjellet?attraction=Utsikten) e il successivo tratto di strada a tornanti ripidi che ci ricorda la [Trollstigen]({% post_url norway/2019-07-06-norway_07-trollstigen %}), arriviamo sul Vetlefjord, braccio laterale del Sognefjord, che percorriamo fino a Dragsvik.
 
-{% include img.html id=180 cap="Lago di Nystølsvatnet, lungo la Gaularfjellet" %}
+{% include img.html id=13 cap="Lago di Nystølsvatnet, lungo la Gaularfjellet" %}
 
 ## Sognefjord
 
 Qui prendiamo il ferry per Hella, lasciandoci il Flærlandsfjorden sulla sinistra e l’ampio Sognefjord sulla destra. Il **[Sognefjord](https://en.sognefjord.no/)** è il più lungo e profondo fiordo della Norvegia: si estende dalla costa per 204 km, poco a nord di [Bergen](https://www.visitnorway.com/places-to-go/fjord-norway/bergen/), fino alle possenti montagne dello [Jotunheimen National Park](https://jotunheimen.com/en/) e ai ghiacciai del [Jostedalsbreen National Park](https://www.visitnorway.nl/listings/jostedalsbreen-national-park/5160/).
 
-{% include img.html id=183 cap="Sul ferry che collega Dragsvik a Hella attraverso il Sognefjord" %}
+{% include img.html id=16 cap="Sul ferry che collega Dragsvik a Hella attraverso il Sognefjord" %}
 
 C’è sole e c’è vento: anche qui godiamo di splendidi panorami sui fiordi. A Hella procediamo sulla piacevole strada che asseconda l’andamento della costa fino all’abitato di [Sogndal](https://www.fjordnorway.com/en/destinations/sogndal) dove proseguiamo sulla Fv55 verso [Skjolden](https://skjolden.com/en/), intenti a percorrere il tratto della Sognefjellet che ancora ci manca.
 
-{% include img.html id=187 cap="Il porticciolo di Hermansverk sul Sognefjord" %}
+{% include img.html id=20 cap="Il porticciolo di Hermansverk sul Sognefjord" %}
 
 {% include img.html img="IMGP4334-22-hermansverk-scaled.jpg" cap="Il porticciolo di Hermansverk sul Sognefjord" %}
 
@@ -58,9 +58,9 @@ C’è sole e c’è vento: anche qui godiamo di splendidi panorami sui fiordi. 
 
 La strada corre lungo il bellissimo **[Lustrafjord](https://www.visitnorway.com/listings/the-lusterfjord-inland-towards-the-jotunheimen-mountains/5162/)**; all’abitato di [Luster](https://www.luster.kommune.no/welcome-to-luster-municipality.5931880-392696.html) ci fermiamo a curiosare alla panetteria [Lustrabui](https://www.lustrabui.com/), tanto elogiata dalla [Lonely Planet](https://shop.lonelyplanetitalia.it/prodotto/guida-di-viaggio-norvegia), secondo cui le due signore che gestiscono questo forno tradizionale hanno imparato il mestiere con [Mortem Schakenda](https://en.wikipedia.org/wiki/Morten_Schakenda) della [Bakeriet i Lom](https://www.bakerietilom.no/), considerato il miglior fornaio della Norvegia. A quest’ora, secondo la guida e il sito web dedicato, il forno dovrebbe essere chiuso, invece lo troviamo aperto: evidentemente hanno dato maggiore elasticità agli orari di apertura per venire incontro ai turisti. Entriamo e scegliamo una crescente ripiena di prosciutto e formaggio e girelle alla cannella.
 
-{% include img.html id=188 cap="La chiesetta di Høyheimsvik, sul Lustrafjord" %}
+{% include img.html id=21 cap="La chiesetta di Høyheimsvik, sul Lustrafjord" %}
 
-{% include img.html id=189 cap="Le acque del Lustrafjord nel tardo pomeriggio" %}
+{% include img.html id=22 cap="Le acque del Lustrafjord nel tardo pomeriggio" %}
 
 Arrivati a [Skjolden](https://skjolden.com/en/) la strada comincia ad inerpicarsi prendendo progressivamente quota e, attraversando rilievi verdeggianti, arriviamo a [Turtagrø](https://www.visitnorway.com/listings/turtagr%C3%B8-nedre-dyrhaugsrygg-turtagr%C3%B8/9334/), luogo verdeggiante illuminato dal sole del tardo pomeriggio, cosparso di una grandissima quantità di tende e furgoni abbarbicati ogni dove.
 

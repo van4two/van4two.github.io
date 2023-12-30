@@ -4,7 +4,7 @@ title: Geirangerfjord
 tags: [strada panoramica, fiordi, unesco]
 cat: norway
 
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+gallery_url: https://photos.app.goo.gl/zHeS96VzTV1yt3it5
 pics: 2019-06-30-norway
 day: "08"
 teaser: /assets/img/2019-06-30-norway/teaser/08.jpg
@@ -12,7 +12,7 @@ teaser: /assets/img/2019-06-30-norway/teaser/08.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=112 cap="Il glorioso Geirangerfjord visto navigando da Geiranger in direzione Hellesylt; in corrispondenza del gomito si staglia imponente la cascata delle Sette sorelle" %}
+{% include img.html id=8 cap="Il glorioso Geirangerfjord visto navigando da Geiranger in direzione Hellesylt; in corrispondenza del gomito si staglia imponente la cascata delle Sette sorelle" %}
 
 Sveglia alle 6:30: l’intenzione di oggi è quella di partecipare al primo tour della giornata sul Geirangerfjord (dovrebbe esserci meno gente e potremmo rimetterci in strada entro metà mattina). Secondo il meteo, le prime ore del giorno dovrebbero essere le migliori: invece è ancora tutto coperto. Uffa! Facciamo colazione e assettiamo il furgone con calma, lasciando perdere, a questo punto, la prima crociera del mattino da 90’ e puntando sulla seconda, alle 10:30, della durata di 1 ora.
 
@@ -20,31 +20,31 @@ Sveglia alle 6:30: l’intenzione di oggi è quella di partecipare al primo tour
 
 Scendiamo a [Geiranger](https://www.fjordnorway.com/en/destinations/geiranger), posteggiando nella stessa strada di [ieri]({% post_url norway/2019-07-06-norway_07-trollstigen %}) e facciamo un giro a piedi. L’immensa nave da crociera che era attraccata al molo non c’è più e il paesino è ancora semideserto con la maggior parte dei negozi chiusi.
 
-{% include img.html id=105 cap="Un vecchio pulmino Volkswagen nel piccolo paese di Geiranger" %}
+{% include img.html id=1 cap="Un vecchio pulmino Volkswagen nel piccolo paese di Geiranger" %}
 
-{% include img.html id=107 cap="Passeggiando per le stradine di Geiranger" %}
+{% include img.html id=3 cap="Passeggiando per le stradine di Geiranger" %}
 
 Ci sediamo a un tavolo da picnic in legno sul molo dove un traghetto che imbarca auto sta per salpare. Il sole non vuole uscire. Le previsioni del pomeriggio sono di cielo coperto e non vorremmo restare oltre per non sballare il programma di viaggio, quindi decidiamo di prendere comunque la [crociera sul fiordo](https://www.geirangerfjord.no/searchresult-package), sperando che ogni tanto esca qualche raggio di sole.
 
-{% include img.html id=109 cap="In attesa di qualche raggio di sole" %}
+{% include img.html id=5 cap="In attesa di qualche raggio di sole" %}
 
 {% include img.html img="IMG_20190707_105420-scaled.jpg" cap="In navigazione sul fiordo" %}
 
 Saliamo a bordo dell’imbarcazione che ci porterà ad esplorare il [**Geirangerfjord**](https://www.fjordnorway.com/en/inspiration/experience-the-geirangerfjord): abbiamo scelto un tour di 60’ che si inoltra nel fiordo senza però arrivare fino a [Hellesylt](https://en.wikipedia.org/wiki/Hellesylt). All’esterno sono posizionate numerose sedie di plastica prese d’assalto dai primi visitatori che salgono a bordo, che occupano parecchio spazio, rendendo difficoltoso muoversi per poter scattare foto da più punti di vista. Il tour comprende un’audio guida con spiegazioni disponibili in un’infinità di lingue. Il ferry parte: c’è parecchio vento e fa freddo. Il fiordo è spettacolare: le sue pareti di roccia chiara si tuffano ripide nelle acque del mar di Norvegia, svettando su di esso per 1400 m e delimitando, così, uno stretto e tortuoso braccio d’acqua, profondo 500 m. Passiamo accanto alle più svariate cascate, fra cui [**Dei Sju Systrene**](https://www.europeanwaterfalls.com/waterfalls/sju-systre/), ovvero le “Sette sorelle”, e [**Brudesløret**](https://www.europeanwaterfalls.com/waterfalls/brudesloret-geirangerfjord/), cioè il “Velo della sposa”. Dal 2005 il Geirangerfjord, (insieme al [Nærøyfjord](https://www.visitnorway.com/listings/the-unesco-n%C3%A6r%C3%B8yfjord/12020/)) è inserito nella [Lista dei siti patrimonio dell’Umanità UNESCO](https://whc.unesco.org/en/list/1195/) ed è uno siti naturali più visitati della Norvegia. Rientriamo a Geiranger senza che il cielo si sia mai veramente aperto.
 
-{% include img.html id=113 cap="Il cielo plumbeo conferisce una nota drammatica al Geirangerfjord, qui visto dalla strada che conduce a Dalsnibba" %}
+{% include img.html id=9 cap="Il cielo plumbeo conferisce una nota drammatica al Geirangerfjord, qui visto dalla strada che conduce a Dalsnibba" %}
 
 ## Gamle Strynefjellsvegen
 
 Non completamente soddisfatti per via del cielo coperto, riprendiamo il furgone e imbocchiamo nuovamente la strada Fv63 in direzione [Dalsnibba](https://dalsnibba.no/en/). Decidiamo però di non salire fino al belvedere, la cui strada è a pagamento, viste le condizioni meteo sfavorevoli, accontentandoci invece di fermarci negli slarghi lungo i tornanti per qualche ulteriore scatto sul fiordo. Ci fermiamo a pranzare di fronte al lago [Djupvatnet](https://en.wikipedia.org/wiki/Djupvatnet) su cui ogni tanto si apre qualche sprazzo di blu.
 
-{% include img.html id=114 cap="Il lago Djupvatnet attorniato da nuvole basse; accanto ad esso sorge il rifugio Djupvasshytta" %}
+{% include img.html id=10 cap="Il lago Djupvatnet attorniato da nuvole basse; accanto ad esso sorge il rifugio Djupvasshytta" %}
 
 Con il tempo che va migliorando, riprendiamo il nostro itinerario fiancheggiando il lago in direzione [Grotli](https://en.wikipedia.org/wiki/Grotli), intenti a percorrere la Fv258 ovvero la [**Gamle Strynefjellsvegen**](https://www.nasjonaleturistveger.no/en/routes/gamle-strynefjellsvegen), [strada turistica nazionale](https://www.nasjonaleturistveger.no/en/routes) che si snoda ad ovest di Stryn, appunto da Grotli a Videsæter e che viene definita spettacolare. Purtroppo, arrivati all’incrocio fra la Rv15 e la Fv258, troviamo un cartello che riporta il termine “stengt” che, in norvegese, significa “chiuso”. Non ci sono sbarre né ulteriori istruzioni ma, consci di com’è andata alle [Jettegrytene]({% post_url norway/2019-07-01-norway_02-oppland %}) e con il serbatoio del furgone in direzione riserva, preferiamo non avventurarci oltre. Peccato!
 
-{% include img.html id=117 cap="La valle selvaggia subito oltre il lago Djupvatnet" %}
+{% include img.html id=13 cap="La valle selvaggia subito oltre il lago Djupvatnet" %}
 
-{% include img.html id=118 cap="Le acque scintillanti del lago Breiddalsvatnet" %}
+{% include img.html id=14 cap="Le acque scintillanti del lago Breiddalsvatnet" %}
 
 ## Jostedalsbreen National Park
 
@@ -62,7 +62,7 @@ Ricordiamo di essere rimasti incuriositi, leggendo la [guida](https://shop.lonel
 
 Procediamo lungo la strada che percorre la vallata, incontrando presto il lago [**Lovatnet**](https://www.nordfjord.no/en/kayak-fjord-and-lake-lovatnet), davvero spettacolare nel colore. Lo si coglie anche se il cielo è un po’ coperto. Le acque tranquille invitano ad essere esplorate a nuoto, in canoa o in barca. Arriviamo quasi in fondo alla valle, nei pressi del memoriale eretto a seguito dei [disastri del Lovatnet](https://www.lonelyplanet.com/norway/the-western-fjords): giganteschi blocchi di roccia si staccarono, infatti, dal Ramnefjell in tre momenti diversi, nel 1905, nel 1936 e nel 1950, provocando danni e numerose vittime. Ora sono visibili, quali insoliti isolotti, all’interno del lago. A questo punto la strada prosegue verso il ghiacciaio [**Kjenndalsbreen**](https://www.nordfjord.no/en/kjenndalsbreen), che si raggiunga, una volta pagato il pedaggio stradale e lasciata la macchina, con un sentiero di 5 km sola andata. Vista l’ora, decidiamo di tornare indietro e scegliere un campeggio dove fermarci, rimandando l’eventuale escursione a domani.
 
-{% include img.html id=122 cap="Gli ultimi raggi di sole accompagnano un&#039;escursione in canoa sul lago Lovatnet" %}
+{% include img.html id=18 cap="Gli ultimi raggi di sole accompagnano un&#039;escursione in canoa sul lago Lovatnet" %}
 
 Dopo aver letto recensioni positive su Google, optiamo per il [Sande camping](https://sande-camping.no/?lang=en), le cui piazzole si trovano sulla riva del lago. Il campeggio è quasi pieno e veniamo sistemati proprio sulla riva, accanto al molo dove sono ricoverati una serie di canoe, un pedalò e un paio di piccole barche. Il campeggio è stato recentemente ristrutturato e presenta spazi comuni pulitissimi e moderni: apprezziamo in particolar modo la cucina con sala da pranzo e loggia aperta con vista lago. Trascorriamo qui una serata tranquilla con tramonto sul lago.
 

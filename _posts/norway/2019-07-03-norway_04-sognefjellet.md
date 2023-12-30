@@ -4,7 +4,7 @@ title: Sognefjellet
 tags: [strada panoramica]
 cat: norway
 
-gallery_url: https://photos.app.goo.gl/P2KCLi1dtEpqfT54A
+gallery_url: https://photos.app.goo.gl/sGPhZarrgtiduFLs6
 pics: 2019-06-30-norway
 day: "04"
 teaser: /assets/img/2019-06-30-norway/teaser/04.jpg
@@ -12,7 +12,7 @@ teaser: /assets/img/2019-06-30-norway/teaser/04.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=42 cap="Seguendo il corso del fiume Bøvra, la Sognefjellet attraversa la vallata di Bøverdalen per cominciare gradualmente a salire" %}
+{% include img.html id=1 cap="Seguendo il corso del fiume Bøvra, la Sognefjellet attraversa la vallata di Bøverdalen per cominciare gradualmente a salire" %}
 
 Ci svegliamo semi-congelati nel [camping di Maurvangen](https://www.maurvangen.no/). Consumiamo i 4 minuti di doccia con le mani che quasi bruciano sotto l’acqua calda. Mentre prepariamo la colazione facciamo il punto della situazione: oggi il cielo è coperto, l’aria è gelida e le previsioni indicano pioggia, forse neve, quindi dell’escursione alla cresta Besseggen non se ne parla proprio. Domani, invece, il tempo sembra più promettente: niente precipitazioni e forse qualche raggio di sole. La nostra intenzione, quindi, è quella di rimanere in zona e dedicare al trekking la [giornata di domani](/), coprendoci per bene. Aggiudicato!
 
@@ -32,9 +32,9 @@ L’itinerario attraversa la bella vallata di [**Bøverdalen**](https://en.wikip
 
 A Lom ci fermiamo nuovamente e, approfittando della connessione Wi-Fi del visitors center, ancora un po’ titubanti, prenotiamo il [ferry](https://www.gjende.no/en/) per il [Memurubu lodge](https://www.memurubu.no/en/home/) per domani mattina: il primo, quello delle 7:45, è già pieno. Ci affrettiamo a comprare due biglietti per il secondo, in partenza alle 8:30.
 
-{% include img.html id=44 cap="Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio" %}
+{% include img.html id=3 cap="Pioggia mista a nevischio lungo la strada" %}
 
-{% include img.html id=43 cap="Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio" %}
+{% include img.html id=2 cap="Lungo la strada incontriamo numerose pecore, il più delle volte indifferenti al freddo e alla pioggia mista a nevischio" %}
 
 Torniamo verso Gjende e, sulla Rv51, cerchiamo uno spot dove dormire, non lontano dal Gjendesheim. Nella sterrata laterale Riddersprangvegen troviamo un [posticino confortevole](https://park4night.com/en/lieu/164084//lom-riddersprangvegen/norway//Surrounded-by-nature#.YwJp0nZByUl) a mezz'ora di macchina dal lodge. Riscaldato il furgone, cuciniamo una zuppa calda, prepariamo gli zaini, ci copriamo bene e andiamo a letto mentre fuori pioviggina.
 
