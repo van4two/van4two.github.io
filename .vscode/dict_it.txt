@@ -13,6 +13,7 @@ Antelao
 Antermoia
 arctica
 Ardal
+Argan
 Arnarfjörður
 Arromanches
 Arsvågen
@@ -28,6 +29,8 @@ balotta
 Bandet
 Baneheia
 baracchina
+Beddouza
+Beifelmeng
 Bénerville
 Bénouville
 Berufjörður
@@ -123,7 +126,9 @@ dall
 Dalsnibba
 Dalsnibbba
 Dambra
+Decouverte
 dell'anticima
+Deroua
 Dettifoss
 Dibona
 Dimmuborgir
@@ -153,6 +158,7 @@ endcontentfor
 Erkigsnek
 Erlandsdalsvatnet
 Espedalen
+Essaouira
 Étretat
 Eyjafjörður
 Eystri
@@ -162,10 +168,12 @@ falaise
 Famille
 Fannefjord
 Fáskrúðsfjörður
+Fatna
 Fauskasandur
 Fécamp
 Félícíté
 fiappi
+fillo
 Fisura
 Fjallabak
 Fjöllum
@@ -283,6 +291,7 @@ instagrammabile
 Ísafjarðardjúp
 Ísafjörður
 Istra
+Jadida
 Jannekes
 Jettegrytene
 Jökulsá
@@ -336,6 +345,7 @@ Læerdal
 Lærdal
 Lærdalsfjord
 Lagarfljot
+Lalla
 Landbrotalaug
 Landeyjahöfn
 Landmannalaugar
@@ -435,6 +445,7 @@ Oppland
 Orderville
 Ørnesvingen
 Oscarshaug
+Oualidia
 Overton
 Øvre
 Öxaráfoss
@@ -494,6 +505,7 @@ Romsdalen
 Romsdalsfjord
 Rutorto
 sabbiolina
+Safi
 Saksumdalsvegen
 Salut
 Samkaup
@@ -601,7 +613,9 @@ svele
 Svinafellsjökull
 Svínafellsjökull
 Systrene
+tajine
 Tálknafjörður
+tarte
 tendato
 Tindevegen
 Tjarnarholar
