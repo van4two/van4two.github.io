@@ -293,6 +293,7 @@ instagrammabile
 Istra
 Jadida
 Jannekes
+Jemaa
 Jettegrytene
 Jökulsá
 Jökulsárgljúfur
@@ -341,6 +342,7 @@ l'Egipthya
 l'Egiptian
 l'Ólafsfjörður
 l'Oyo
+L’Adresse
 Lacia
 Læerdal
 Lærdal
@@ -393,6 +395,7 @@ Marais
 masagni
 Mastrafjorden
 Maurvangen
+Mbarek
 Melkevollbreen
 Meloncello
 Mémorial
@@ -464,6 +467,7 @@ Pennica
 perimetrata
 perimetrato
 Perrero
+pescetti
 Piccardia
 Pignata
 pommeau
@@ -533,6 +537,7 @@ Seyðisfjarðarvegur
 Seyðisfjörður
 Seydisholar
 Shafer
+Shakira
 Síðu
 Siglufjörður
 Sinawava
