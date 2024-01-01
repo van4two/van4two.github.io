@@ -331,6 +331,7 @@ Klakegg
 Kleifarvatn
 Klouman
 Kollfattjødn
+Koutoubia
 Krafla
 Kristiansund
 Krisúvík
@@ -442,6 +443,7 @@ Oldevatnet
 Olsson
 Önundarfjörður
 Oppland
+Orangina
 Orderville
 Ørnesvingen
 Oscarshaug
@@ -576,6 +578,7 @@ Sølsnes
 sommitale
 Sorapiss
 sott’acqua
+souq
 specchievolezza
 Staður
 Stakholstjorn
@@ -681,6 +684,7 @@ Wahweap
 Waterpocket
 Westfjords
 wurstel
+Youssef
 Ytri
 Zoldo
 Zuko
