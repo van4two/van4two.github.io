@@ -33,7 +33,7 @@ Dopo aver fatto colazione al bar sotto il b&b, il [Cafè de France](https://www.
 Recuperate le valigie al b&b [Gran Palace by Beau Rivage](https://beau-rivage.essaouirahotels.net/it/), riprendiamo la macchina e salutiamo Essaouira, direzione [**Marrakech**](https://www.visitmorocco.com/it/corsa/marrakech). Lungo la strada notiamo alcuni alberi con i rami carichi di capre arrampicate! Probabilmente sono intente a mangiare i frutti dell'argan. Proseguiamo fino ad avvicinarci alla città, pronti alla confusione e al traffico. Dopo vari e lunghi tentativi per lasciare la macchina in prossimità del centro storico, riusciamo a parcheggiare in un grande parcheggio a pagamento dove però ci viene chiesto di lasciare le chiavi nell'eventualità di doverla spostare per gestire i pochi posti rimasti liberi. Un po' scettici, consegniamo le chiavi al parcheggiatore e, sotto la pioggia, ci avviamo al Riad [Rose du Desert](https://www.tripadvisor.fr/Hotel_Review-g293734-d2618100-Reviews-Riad_La_Rose_Du_Desert-Marrakech_Marrakech_Safi.html), che dista 10' a piedi.
 Veniamo accolti con calore dal gestore, un ragazzo marocchino che parla benissimo l'inglese e che ci fa accomodare nella nostra piccola ma deliziosa camera, servendoci tè alla menta. Le stanze affacciano su una gradevole corte interna con decorazioni tipiche locali. Esce il sole: dedichiamo questo pomeriggio alla scoperta della parte nord della [**Medina**](https://it.wikipedia.org/wiki/Marrakech) di Marrakech.
 
-## Alla scoperta della medina
+## Alla scoperta della Medina - parte nord
 Come non detto: dopo poco riprende  diluviare. Troviamo riparo sotto la veranda metallica del retro di una panetteria e veniamo subito colpiti dal profumo di pane appena sfornato. Compriamo de pagnotte calde e croccanti e ci riavviamo a piedi. Ci dirigiamo verso la [**Ben Youssef Madrasa**](https://www.introducingmarrakech.com/ben-youssef-madrasa), una scuola coranica, scoprendo presto che gli stretti vicoli della medina si trasformano in tortuosi [suq](https://it.wikipedia.org/wiki/Suq) coperti dove perdiamo l'orientamento con facilità. Nei suq si alternano bancarelle che vendono qualunque genere di prodotto, dal cibo, alle spezie, alle tajine, alle ceramiche, ai prodotti in pelle, a quelli derivai dall'argan, a bevande, a selle per dromedari! Dopo un po' ci rendiamo conto di non capire nemmeno più come siamo orientati. Solo quando finalmente sbuchiamo in una strada a cielo aperto riusciamo a comprendere dove ci troviamo.
 
 {% include img.html id=20 cap="I suq sono costituti da un susseguirsi senza sosta di bancarelle coperte" %}
@@ -62,9 +62,9 @@ L'attraversamento della strada per raggiungere la moschea è a dir poco un'impre
 
 B&B [Gran Palace by Beau Rivage](https://beau-rivage.essaouirahotels.net/it/), Essaouira: camera matrimoniale con bagno privato 363 dh
 
-[L’Adresse](https://groupe-ladresse.com/): crepes 40 dh
+[L’Adresse](https://groupe-ladresse.com/); Marrakech: crepes 40 dh
 
-[Chez Mbarek](https://www.tripadvisor.fr/Restaurant_Review-g293734-d4570278-Reviews-Chez_Mbarek-Marrakech_Marrakech_Safi.html), banchetto n. 114, Jemaa el-Fna: cous cous per due 130 dh
+[Chez Mbarek](https://www.tripadvisor.fr/Restaurant_Review-g293734-d4570278-Reviews-Chez_Mbarek-Marrakech_Marrakech_Safi.html), banchetto n. 114, Jemaa el-Fna, Marrakech: cous cous per due 130 dh
 
 Parcheggio a Marrakech, 24h: 80 dh
 

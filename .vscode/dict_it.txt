@@ -1,6 +1,7 @@
 accomodations
 Åfarnes
 Agder
+Agnaou
 Airlandair
 Akureyri
 Álftafjörður
@@ -32,6 +33,7 @@ baracchina
 Beddouza
 Beifelmeng
 Bénerville
+Benji
 Bénouville
 Berufjörður
 Besseggen
@@ -121,6 +123,7 @@ d'Arcia
 d'Aval
 d’Albâtre
 d’Aval
+Dades
 Dala
 dall
 Dalsnibba
@@ -417,6 +420,7 @@ musino
 mymap
 Mytrails
 Mývatn
+n'Tichka
 Næroydalen
 Næroyfjord
 Nærøyfjord
@@ -451,6 +455,8 @@ Orderville
 Ørnesvingen
 Oscarshaug
 Oualidia
+Ouarzazate
+Ourir
 Overton
 Øvre
 Öxaráfoss
@@ -510,6 +516,7 @@ Romsdal
 Romsdalen
 Romsdalsfjord
 Rutorto
+saadiane
 sabbiolina
 Safi
 Saksumdalsvegen
@@ -628,11 +635,13 @@ tendato
 Tindevegen
 Tjarnarholar
 Tjernshaugtjenet
+Todra
 Tongariro
 Toronda
 torrentismo
 Torrey
 Tørvikbygd
+Touka
 Tovdalselva
 trailhead
 Trailview
