@@ -20,6 +20,14 @@ Ci svegliamo di soprassalto al richiamo del muezzin delle 6 del mattino. A parte
 
 Dopo aver fatto colazione al bar sotto il b&b, il [Cafè de France](https://www.tripadvisor.fr/Restaurant_Review-g298349-d3347884-Reviews-Cafe_de_France-Essaouira_Marrakech_Safi.html), ci dirigiamo a piedi verso la spiaggia. In realtà, così facendo, entriamo nell'area del porto. Qui l'odore di pesce è nauseabondo ma abbiamo occasione di assistere a scene di vita quotidiana decisamente interessanti: le reti da pesca che vengono ripiegate, la cernita del pesce con l’intorno di gabbiani affamati, ragazzi dalle barche che lanciano sul molo ceste stracolme di pescetti.
 
+{% include img.html id=2 cap="Barche tirate in secca nel porto di Essaouira" %}
+
+{% include img.html id=16 cap="Lancio del pesce e bancarelle d frutta nel porto di Essaouira" %}
+
+{% include img.html id=15 cap="Banchi per la vendita del pesce appena pescato nel porto di Essaouira" %}
+
+{% include img.html id=11 cap="Reti da pesca dispiegate nel porto di Essaouira" %}
+
 ## Verso Marrakech
 
 Recuperate le valigie al b&b [Gran Palace by Beau Rivage](https://beau-rivage.essaouirahotels.net/it/), riprendiamo la macchina e salutiamo Essaouira, direzione Marrakech. Lungo la strada notiamo alcuni alberi con i rami carichi di capre arrampicate! Probabilmente per mangiare i frutti dell'argan. Proseguiamo fino ad avvicinarci alla città, pronti alla confusione e al traffico che troveremo. Dopo vari e lunghi tentativi per lasciare la macchina in prossimità del centro storico, riusciamo a parcheggiare in un grande parcheggio a pagamento dove però ci viene chiesto di lasciare le chiavi nell'eventualità di doverla spostare per gestire i pochi posti rimasti liberi. Un po' scettici consegniamo le chiavi al parcheggiatore e, sotto la pioggia, ci avviamo al Riad [Rose du Desert](https://www.tripadvisor.fr/Hotel_Review-g293734-d2618100-Reviews-Riad_La_Rose_Du_Desert-Marrakech_Marrakech_Safi.html), 10' a piedi da qui. 
