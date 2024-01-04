@@ -64,7 +64,6 @@ Ci mettiamo a letto e cominciamo a sentire un rumore strano - a me ricorda un'an
 
 {% include img.html id=17 cap="Imprevisto compagno di stanza" %}
 
-
 {% contentfor mymap %}
 <iframe src="https://www.google.com/maps/d/embed?mid=1Oq8ujaNzgZyBiIh8YzDd2MyT5tRAFK11&ehbc=2E312F" width="640" height="480"></iframe>
 {% endcontentfor %}
@@ -76,9 +75,9 @@ Parcheggio a Marrakech, 24h: 80 dh
 
 Riad [Rose du Desert](https://www.tripadvisor.fr/Hotel_Review-g293734-d2618100-Reviews-Riad_La_Rose_Du_Desert-Marrakech_Marrakech_Safi.html), Marrakech: camera matrimoniale con bagno privato e colazione 32 €
 
-[Tombe saadiane](https://saadiantombs.com/): 70 dh per gli stranieri, 10 dh er i marocchini
+[Tombe saadiane](https://saadiantombs.com/): 70 dh per gli stranieri, 10 dh per i marocchini
 
-Palazzo reale [El Badi](https://badipalace.com/): 70 dh per gli stranieri, 10 dh er i marocchini
+Palazzo reale [El Badi](https://badipalace.com/): 70 dh per gli stranieri, 10 dh per i marocchini
 
 [Cafè snack restaurant Bab Agnaou](https://www.tripadvisor.com/Restaurant_Review-g293734-d7686682-Reviews-Cafe_Restaurant_Bab_Agnaou-Marrakech_Marrakech_Safi.html), Marrakech: pranzo per due 100 dh
 
