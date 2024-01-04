@@ -28,11 +28,11 @@ Proseguiamo verso le [**tombe saadiane**](https://saadiantombs.com/). Scopriamo 
 
 {% include img.html id=4 cap="Visita alle tombe saadiane" %}
 
+Smette di piovere e procediamo con il nostro giro. La sala principale ha un accesso minuscolo da cui è possibile solo guardare ma non entrare. Occorre pertanto mettersi in coda a una lunga fila. Mentre aspettiamo, chiacchieriamo con la coppia di ragazzi italiani davanti a noi, che ci racconta disavventure simili alle nostre con i taxi. Sembrano colpiti dal fatto che ci siamo azzardati a prendere una macchina a noleggio! In effetti guidare in na città come Marrakech non è per niente banale. Finalmente riusciamo a vedere la sala con le tombe principali: meravigliosa!
+
 {% include img.html id=8 cap="Visita alle tombe saadiane" %}
 
 {% include img.html id=3 cap="Visita alle tombe saadiane" %}
-
-Smette di piovere e procediamo con il nostro giro. La sala principale ha un accesso minuscolo da cui è possibile solo guardare ma non entrare. Occorre pertanto mettersi in coda a una lunga fila. Mentre aspettiamo, chiacchieriamo con la coppia di ragazzi italiani davanti a noi, che ci racconta disavventure simili alle nostre con i taxi. Sembrano colpiti dal fatto che ci siamo azzardati a prendere una macchina a noleggio! In effetti guidare in na città come Marrakech non è per niente banale. Finalmente riusciamo a vedere la sala con le tombe principali: meravigliosa!
 
 ## Il palazzo reale El Badi
 
