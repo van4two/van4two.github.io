@@ -12,13 +12,15 @@ teaser: /assets/img/2018-10-25-morocco/teaser/03.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=14 cap="Lungo le strade di Marrakech" %}
+{% include img.html id=15 cap="Lezione di cucina marocchina" %}
 
 Ci svegliamo nel grazioso Riad [Rose du Desert](https://www.tripadvisor.fr/Hotel_Review-g293734-d2618100-Reviews-Riad_La_Rose_Du_Desert-Marrakech_Marrakech_Safi.html) e facciamo colazione nel piccolo patio: ci vengono servite delle gustose crepes marocchine, da farcire con marmellata, miele, burro o formaggio. Notiamo che é stata tolta l'ora legale: gli orologi dei nostri telefoni si sono aggiornati automaticamente. Parlando con i gentilissimi gestori del Riad li troviamo però un po' incerti sull'orario, come se non tutti fossero d'accordo sul fatto che l'orologio è stato portato indietro di un'ora. 
 
 ## Esplorazione della Medina - parte sud
 
 Dopo aver dedicato [ieri pomeriggio](https://www.van42.com/2018/10/27/morocco_02-essaouira.html) all'esplorazione della parte settentrionale della [**Medina**](https://it.wikipedia.org/wiki/Marrakech), questa mattina ci dedichiamo alla zona meridionale della città storica. Ormai conosciamo le viuzze principali per raggiungere [**Jemaa el-Fna**](https://ich.unesco.org/en/RL/cultural-space-of-jemaa-el-fna-square-00014) dove arriviamo in breve.
+
+{% include img.html id=14 cap="Lungo le strade di Marrakech" %}
 
 ## Le tombe saadiane
 
@@ -27,6 +29,8 @@ Proseguiamo verso le [**tombe saadiane**](https://saadiantombs.com/). Scopriamo 
 {% include img.html id=6 cap="Visita alle tombe saadiane" %}
 
 {% include img.html id=11 cap="Visita alle tombe saadiane" %}
+
+{% include img.html id=5 cap="Visita alle tombe saadiane" %}
 
 Smette di piovere e procediamo con il nostro giro. La sala principale ha un accesso minuscolo da cui è possibile solo guardare ma non entrare. Occorre pertanto mettersi in coda a una lunga fila. Mentre aspettiamo, chiacchieriamo con la coppia di ragazzi italiani davanti a noi, che ci racconta disavventure simili alle nostre con i taxi. Sembrano colpiti dal fatto che ci siamo azzardati a prendere una macchina a noleggio! In effetti guidare in na città come Marrakech non è per niente banale. Finalmente riusciamo a vedere la sala con le tombe principali: meravigliosa!
 
@@ -50,15 +54,13 @@ A questo punto annulliamo il b&b prenotato per la sera, già oltre l'Atlante, pe
 
 Ci presentiamo in cucina all'ora concordata. È tutto predisposto per la lezione: taglieri, ingredienti, spezie. Ognuno di noi preparerà la propria cena: [tajine](https://it.wikipedia.org/wiki/Tajine) di pollo Ste, tajine vegetariana io. Benji ci spiega come tagliare le verdure e quante e quali spezie utilizzare. Preparate le [tajine](https://www.recipefy.com/it/tajine-marocchina-di-carne-e-verdure/ricette/342503) le mettiamo sui fornelli e le lasciamo lì a fuoco lento per circa un'ora. Benji ci fa preparare anche un'insalata di peperoni dopodiché ci dice di tornare un'ora dopo per la cena. Quando torniamo, troviamo il tavolo apparecchiato e cosparso di petali di rosa. Benji ci accoglie e controlliamo insieme le tajine: ci dice che quella di carne è pronta mentre quella alle verdure richiede ancora un po' di tempo. Intanto mangiamo l'insalata che abbiamo preparato, ottima! Le tajine sono pronte: altrettanto buone! Anche troppo abbondanti. Terminiamo la cena con un po' d'uva, freschissima: solo dopo averla mangiata ricordiamo di aver ingurgitato frutta e verdura probabilmente lavate con acqua del rubinetto. Amen! Ringraziamo Benji per l'ottima cena e la bella serata e andiamo in camera.
 
-{% include img.html id=15 cap="Lezione di cucina marocchina" %}
-
 {% include img.html id=19 cap="Lezione di cucina marocchina" %}
 
 ## Incontri notturni
 
 Ci mettiamo a letto e cominciamo a sentire un rumore strano - a me ricorda un'anatra - che sembra venire da molto vicino: ipotizziamo che sia immediatamente fuori dalla stanza. Lo sentiamo ancora: non è fuori dalla stanza, é nella stanza! Cos'è?? Viene da sotto il letto di Ste. Prendiamo una torcia e vediamo, in un angolo, un grossissimo rospo! Spostiamo il letto per cercare di farlo uscire invitandolo verso la porta della camera che apriamo ma non ne vuole sapere: è spaventatissimo! Nel frattempo Benji sta accompagnando altri clienti lungo il corridoio e, vedendoci con la porta aperta, chini per terra, ci chiede se va tutto bene. Gli spieghiamo del rospo ma non conosce il termine “frog” quindi sposta lui stesso il letto e, vista la rana, la afferra con decisione e la porta fuori, suscitando interesse e risate anche da parte dei ragazzi appena arrivati. Ringraziamo Benji, e, controllato accuratamente ogni angolo della stanza, crolliamo a letto.
 
-{% include img.html id=19 cap="Imprevisto compagno di stanza" %}
+{% include img.html id=22 cap="Imprevisto compagno di stanza" %}
 
 
 {% contentfor mymap %}
