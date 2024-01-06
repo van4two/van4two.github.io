@@ -244,6 +244,7 @@ Gump
 Gustave
 Gynt
 Haag
+Haddou
 Hafnarnes
 Hafragilsfoss
 Halhjem
@@ -524,6 +525,7 @@ Safi
 Safran
 Saksumdalsvegen
 Salut
+Samir
 Samkaup
 sandar
 Sande
