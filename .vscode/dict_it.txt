@@ -9,6 +9,7 @@ all’Orderville
 all’Oyo
 allemannsrett
 Almannagjá
+Amskou
 Åndalsnes
 Antelao
 Antermoia
@@ -60,6 +61,7 @@ Borgarfjörður
 Borgarnes
 Boucles
 boulangerie
+Boumalne
 Bøverdalen
 Bøvra
 Bratland
@@ -151,6 +153,7 @@ Dynjandi
 Dýrafjörður
 Dyrfjöll
 Dyrhólaey
+Ecolodge
 Eding
 Egersund
 Egilsstaðir
