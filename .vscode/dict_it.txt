@@ -1,7 +1,9 @@
 accomodations
 Åfarnes
+Afoud
 Agder
 Agnaou
+Agoudal
 Airlandair
 Akureyri
 Álftafjörður
@@ -25,6 +27,7 @@ Aurland
 Aurlandsfjellet
 Auronzo
 Averøya
+Azmou
 Bains
 Bakeriet
 balotta
@@ -195,6 +198,7 @@ Flókalundur
 Flotane
 Flotvatnet
 Forame
+foratoni
 Førde
 Forsand
 Fosdøla
@@ -293,6 +297,8 @@ Hvammstangi
 Hverir
 Hvítserkur
 IMGP
+Imilchil
+Inass
 Ingjaldshóll
 instagrammabile
 Ísafjarðardjúp
@@ -318,6 +324,7 @@ Jumièges
 Kaibab
 Kalvanes
 Kårvåg
+Kasbah
 Kayenta
 Keflavik
 Kerhóll
@@ -426,6 +433,7 @@ mymap
 Mytrails
 Mývatn
 n'Tichka
+n’Tirherhouzine
 Næroydalen
 Næroyfjord
 Nærøyfjord
@@ -469,6 +477,7 @@ Overton
 Øygardstøl
 Padeon
 Palafavera
+palmeraie
 Panguitch
 Pareterno
 patatini
@@ -641,6 +650,7 @@ Tálknafjörður
 tarte
 tendato
 Tindevegen
+Tinghir
 Tjarnarholar
 Tjernshaugtjenet
 Todra
@@ -665,6 +675,7 @@ Trollveggen
 Trøndelag
 Tunga
 turisticità
+turisticone
 Turtagrø
 Tusayan
 Udai
@@ -687,6 +698,7 @@ Vecio
 Vedahaugane
 vedur
 Vegen
+Verdon
 Veslefjell
 Vestland
 Vetlavatnet
@@ -704,6 +716,7 @@ Voiello
 volumetricamente
 Wahweap
 Waterpocket
+Welcom
 Westfjords
 wurstel
 Youssef
