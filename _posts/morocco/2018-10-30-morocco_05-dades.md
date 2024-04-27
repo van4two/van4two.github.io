@@ -26,7 +26,7 @@ La gola e la strada poco protetta ci ricordano molto il Verdon, anche se qui i c
 
 ## Le gole di Todra
 
-Partiamo per le [gole di Todra](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta oasi, che in breve si restringe formando una spettacolare gola alta e stretta, percorsa dal fiume. 
+Partiamo per le [**gole di Todra**](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta oasi, che in breve si restringe formando una spettacolare gola alta e stretta, percorsa dal fiume. 
 
 {% include img.html id=3 cap="L'accesso alle gole di Todra avviene percorrendo un'ampia valle caratterizzata da un'oasi rigogliosa" %}
 
@@ -34,7 +34,7 @@ Il primo tratto del gorge, quello più turistico, è disseminato di costruzioni 
 
 {% include img.html id=19 cap="Nelle gole di Todra con la nostra mini Citroen C1" %}
 
-{% include img.html id=5 cap="Climbers arrampicano lungo la gola; ciclisti dove la valle tende ad aprirsi" %}
+{% include img.html id=5 cap="Alcuni climbers arrampicano lungo la gola; due ciclisti sfrecciano dove la valle tende ad aprirsi" %}
 
 Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un paio di mamme che allattano i loro piccoli. Proseguendo, a poco a poco la gola si riapre in un'ampia vallata.
 
@@ -48,7 +48,7 @@ Incontriamo una serie di piccoli abitati di contadini e allevatori che notiamo c
 
 {% include img.html id=20 cap="Una cava lungo la strada" %}
 
-Piano piano prendiamo quota e il paesaggio comincia a cambiare, fino ad arrivare al passo Tizi n’Tirherhouzine a 2706 m. L'unica vegetazione a questa quota è costituita da cespugli di muschio che rivestono i sassi. Non incrociamo nessuno se non un paio di auto di locals. 
+Piano piano prendiamo quota e il paesaggio comincia a cambiare, fino ad arrivare al passo **Tizi n’Tirherhouzine** a 2706 m. L'unica vegetazione a questa quota è costituita da cespugli di muschio che rivestono i sassi. Non incrociamo nessuno se non un paio di auto di locals. 
 
 {% include img.html id=27 cap="All'orizzonte cominciano a comparire i rilievi dell'Atlante" %}
 
@@ -58,7 +58,7 @@ Arriviamo ad [Agoudal](https://www.evaneos.it/marocco/viaggio/destinazioni/1808-
 
 ## Verso Imilchil
 
-Prima di cena, però, vorremmo raggiungere [Imilchil](https://it.wikipedia.org/wiki/Imilchil), località tanto decantata dalla nostra cara amica Carla Galletti per i bellissimi laghi. Chiediamo al gestore del b&b se la strada è buona e ci risponde di sì, stimando un'oretta fra andata e ritorno. Partiamo in auto e, dopo poco, troviamo di fronte a noi una pozza d'acqua larga quanto la strada: non sembra fonda, infatti, andando cauti, la attraversiamo senza problemi. Procediamo incontrando minuscoli abitati dove i bimbi ci corrono incontro salutando e anche gli adulti si voltano a guardarci passare. Abbiamo la sensazione che non siano tanti i viaggiatori che passano per di qua. Dopo un altro po' di strada incontriamo una seconda e più ampia e profonda buca piena d'acqua. Ci fermiamo.
+Prima di cena, però, vorremmo raggiungere [**Imilchil**](https://it.wikipedia.org/wiki/Imilchil), località tanto decantata dalla nostra cara amica Carla Galletti per i bellissimi laghi. Chiediamo al gestore del b&b se la strada è buona e ci risponde di sì, stimando un'oretta fra andata e ritorno. Partiamo in auto e, dopo poco, troviamo di fronte a noi una pozza d'acqua larga quanto la strada: non sembra fonda, infatti, andando cauti, la attraversiamo senza problemi. Procediamo incontrando minuscoli abitati dove i bimbi ci corrono incontro salutando e anche gli adulti si voltano a guardarci passare. Abbiamo la sensazione che non siano tanti i viaggiatori che passano per di qua. Dopo un altro po' di strada incontriamo una seconda e più ampia e profonda buca piena d'acqua. Ci fermiamo.
 
 {% include img.html id=29 cap="Una delle profonde pozze d'acqua lungo la strada da Agoudal a Imilchil" %}
 
