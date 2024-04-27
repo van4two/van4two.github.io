@@ -22,6 +22,8 @@ Ci riavviamo verso valle, scoprendo che il paesaggio visto ieri, con la neve è 
 
 {% include img.html id=cap="" %}
 
+{% include img.html id=cap="" %}
+
 Arrivati ad [Aït Hani](https://it.wikipedia.org/wiki/Ait_Hani) abbiamo due opzioni: tornare per la strada di [ieri](https://www.van42.com/2018/10/30/morocco_05-dades.html), oppure intraprendere un altro itinerario, lungo la strada P7103 che, sia il gestore del b&b di [Boumalne Dades](https://it.wikipedia.org/wiki/Boumalne_Dades), sia quello della notte scorsa, definiscono panoramico, in particolar modo lungo il tratto del gorge. Visto che la gomma pare a posto, la neve non c'è più e un bel sole brilla nel cielo, scegliamo di percorrere un itinerario differente da quello dell'andata.
 
 ## Un guado dopo l'altro
