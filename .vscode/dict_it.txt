@@ -11,6 +11,7 @@ all’Orderville
 all’Oyo
 allemannsrett
 Almannagjá
+Amouguer
 Amskou
 Åndalsnes
 Antelao
@@ -27,6 +28,7 @@ Aurland
 Aurlandsfjellet
 Auronzo
 Averøya
+Azalay
 Azmou
 Bains
 Bakeriet
@@ -99,6 +101,7 @@ cengetta
 Chapelle
 chaumière
 chaumières
+Chebbi
 Chesler
 chocolat
 Ciampedie
@@ -164,6 +167,7 @@ Eidsdal
 Eikelandsfossen
 Eldhusøya
 endcontentfor
+Erfoud
 Erkigsnek
 Erlandsdalsvatnet
 Espedalen
@@ -235,6 +239,7 @@ Gjendesheim
 Glaumbær
 Goðafoss
 gopro
+Goulmima
 gradonato
 Grænagil
 Grandview
@@ -257,6 +262,7 @@ Hafragilsfoss
 Halhjem
 Hallgrímskirkja
 Hamar
+Hani
 Hardangerfjord
 Hardangervidda
 Harpa
@@ -415,6 +421,7 @@ Melkevollbreen
 Meloncello
 Mémorial
 Memurubu
+Merzouga
 minifrigo
 Misurina
 Mjóifjörður
@@ -523,6 +530,7 @@ Reynisdrangar
 Reynisfjara
 Riddersprangvegen
 Ringedalsvatnet
+Rissani
 Rjupa
 Rjúpnavellir
 roccette
@@ -650,6 +658,7 @@ Tálknafjörður
 tarte
 tendato
 Tindevegen
+Tinejdad
 Tinghir
 Tjarnarholar
 Tjernshaugtjenet
