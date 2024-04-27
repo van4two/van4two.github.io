@@ -12,7 +12,7 @@ teaser: /assets/img/2018-10-25-morocco/teaser/05.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=5 cap="Le gole di Todra" %}
+{% include img.html id=6 cap="Le gole di Todra" %}
 
 Ci svegliamo alle 7:30 alle porte delle gole di Dades: l'idea è di partire il prima possibile in modo da cercare di recuperare il tempo perso a causa dell'esondazione fluviale dei giorni precedenti. Consumiamo la colazione nella saletta comune rivestita di tappeti: un bricco di caffè per me, uno di tè alla menta per Ste e poi omelette e pane da farcire con formaggio, olio oppure marmellata. Rifocillati, saldiamo l'[Ecolodge Amskou](https://amskou-hotel-boumalne-dades-maroc.business.site/) dove abbiamo pernottato e partiamo alla volta delle [**gole di Dades**](https://it.wikipedia.org/wiki/Gole_di_Dades).
 
@@ -26,15 +26,19 @@ La gola e la strada poco protetta ci ricordano molto il Verdon, anche se qui i c
 
 ## Le gole di Todra
 
-Partiamo per le [gole di Todra](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta palmeraie, che in breve si restringe formando una gola alta e stretta spettacolare, percorsa dal fiume. 
+Partiamo per le [gole di Todra](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta oasi, che in breve si restringe formando una gola alta e stretta spettacolare, percorsa dal fiume. 
 
-{% include img.html id= cap="" %}
+{% include img.html id=3 cap="L'accesso alle gole di Todra avviene percorrendo un'ampia valle caratterizzata da un'oasi rigogliosa" %}
 
-Il primo tratto del gorge, quello più turistico, è disseminato di costruzioni in pietra, kasbah adattate a guesthouse e banchetti di venditori di scialli e vesti colorate. Ci addentriamo nella gola e, piano piano esce il sole: il paesaggio assume, così, toni maestosi. Individuiamo facilmente alcune cordate di climbers che percorrono itinerari chiodati. Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un paio di mamme che allattano i loro piccoli. Proseguendo, a poco a poco la gola si riapre in una vallata.
+Il primo tratto del gorge, quello più turistico, è disseminato di costruzioni in pietra, kasbah adattate a guesthouse e banchetti di venditori di scialli e vesti colorate. Ci addentriamo nella gola e, piano piano esce il sole: il paesaggio assume, così, toni maestosi. Individuiamo facilmente alcune cordate di climbers che percorrono itinerari chiodati.
 
-{% include img.html id= cap="" %}
+{% include img.html id=19 cap="Nelle gole di Todra con la nostra mini Citroen C1" %}
 
-{% include img.html id= cap="" %}
+{% include img.html id=5 cap="Climbers arrampicano lungo la gola; ciclisti dove la valle tende ad aprirsi" %}
+
+Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un paio di mamme che allattano i loro piccoli. Proseguendo, a poco a poco la gola si riapre in una vallata.
+
+{% include img.html id=18 cap="Placidi asinelli si riposano al sole" %}
 
 ## Nel cuore dell'Atlante
 
