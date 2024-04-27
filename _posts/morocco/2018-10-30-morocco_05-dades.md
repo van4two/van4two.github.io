@@ -42,11 +42,27 @@ Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un pa
 
 ## Nel cuore dell'Atlante
 
-Incontriamo una serie di piccoli abitati di contadini e allevatori che notiamo con gruppi di pecore e capre. Piano piano prendiamo quota e il paesaggio comincia a cambiare, fino ad arrivare al passo Tizi n’Tirherhouzine a 2706 m. L'unica vegetazione a questa quota è costituita da cespugli di muschio che rivestono i sassi. Non incrociamo nessuno se non un paio di auto di locals. Arriviamo ad [Agoudal](https://www.evaneos.it/marocco/viaggio/destinazioni/1808-agoudal/) e troviamo subito il b&b [Auberge Afoud](https://www.tripadvisor.fr/Hotel_Review-g6487124-d6431965-Reviews-Auberge_Afoud-Agoudal_Meknes_Tafilalet_Region.html). Il gestore ci mostra la bella stanza con bagno e - soprattutto - con riscaldamento! Gli chiediamo se è possibile cenare e ci dice di sì chiedendoci cosa preferiamo di una serie di piatti fra cui zuppe e tajine. Ordiniamo due zuppe marocchine a base di legumi e una tajine di carne. Tra colori e profumi, in questo angolo di Marocco pare quasi di respirare un'atmosfera nepalese!
+Incontriamo una serie di piccoli abitati di contadini e allevatori che notiamo con gruppi di pecore e capre. 
+
+{% include img.html id=20 cap="Una cava lungo la strada" %}
+
+{% include img.html id=28 cap="Le ultime aree verdi coltivate prima di inerpicarci sull'Atlante" %}
+
+Piano piano prendiamo quota e il paesaggio comincia a cambiare, fino ad arrivare al passo Tizi n’Tirherhouzine a 2706 m. L'unica vegetazione a questa quota è costituita da cespugli di muschio che rivestono i sassi. Non incrociamo nessuno se non un paio di auto di locals. 
+
+{% include img.html id=27 cap="All'orizzonte cominciano a comparire i rilievi dell'Atlante" %}
+
+{% include img.html id=26 cap="La vegetazione si riduce a piccoli cespugli" %}
+
+Arriviamo ad [Agoudal](https://www.evaneos.it/marocco/viaggio/destinazioni/1808-agoudal/) e troviamo subito il b&b [Auberge Afoud](https://www.tripadvisor.fr/Hotel_Review-g6487124-d6431965-Reviews-Auberge_Afoud-Agoudal_Meknes_Tafilalet_Region.html). Il gestore ci mostra la bella stanza con bagno e - soprattutto - con riscaldamento! Gli chiediamo se è possibile cenare e ci dice di sì chiedendoci cosa preferiamo di una serie di piatti fra cui zuppe e tajine. Ordiniamo due zuppe marocchine a base di legumi e una tajine di carne. Tra colori e profumi, in questo angolo di Marocco pare quasi di respirare un'atmosfera nepalese!
 
 ## Verso Imilchil
 
-Prima di cena però vorremmo raggiungere [Imilchil](https://it.wikipedia.org/wiki/Imilchil), località tanto decantata dalla nostra cara amica Carla Galletti per i bellissimi laghi. Chiediamo al gestore del b&b se la strada è buona e ci risponde che sì, che ci vorrà circa un'oretta fra andare e tornare. Partiamo in auto e, dopo poco, troviamo di fronte a noi una pozza d'acqua larga quanto la strada: non sembra fonda, infatti, andando cauti, la attraversiamo senza problemi. Procediamo incontrando minuscoli abitati dove i bimbi ci corrono incontro salutando e anche gli adulti si voltano a guardarci passare. Abbiamo la sensazione che non siano tanti i viaggiatori che passano per di qua. Dopo un altro po' di strada incontriamo una seconda e più ampia e profonda buca piena d'acqua. Ci fermiamo. Siamo molto indecisi sul da farsi, se procedere o lasciar perdere e tornare indietro. Arriva un fuoristrada e passa senza problemi, seguito da una macchina a due ruote motrici e anche questa attraversa la pozza senza difficoltà. Notiamo però che quest'ultima vettura è più alta della nostra. Ci pensiamo un po' e, alla fine, prendiamo coraggio e procediamo anche noi! La strada continua insidiosa, con tratti rovinati, piccoli guadi e, dopo un po', comincia a piovere. Quando siamo poco oltre la metà del percorso, in corrispondenza di [Bou Azmou](https://it.wikipedia.org/wiki/Bou_Azmou), ci fermiamo e, vedendo che comincia a farsi tardi e che la strada peggiora sempre (strada che peraltro dovremo ripercorrere per rientrare), decidiamo di tornare indietro, un po' a malincuore per i laghi.
+Prima di cena però vorremmo raggiungere [Imilchil](https://it.wikipedia.org/wiki/Imilchil), località tanto decantata dalla nostra cara amica Carla Galletti per i bellissimi laghi. Chiediamo al gestore del b&b se la strada è buona e ci risponde che sì, che ci vorrà circa un'oretta fra andare e tornare. Partiamo in auto e, dopo poco, troviamo di fronte a noi una pozza d'acqua larga quanto la strada: non sembra fonda, infatti, andando cauti, la attraversiamo senza problemi. Procediamo incontrando minuscoli abitati dove i bimbi ci corrono incontro salutando e anche gli adulti si voltano a guardarci passare. Abbiamo la sensazione che non siano tanti i viaggiatori che passano per di qua. Dopo un altro po' di strada incontriamo una seconda e più ampia e profonda buca piena d'acqua. Ci fermiamo.
+
+{% include img.html id=29 cap="Una delle profonde pozze d'acqua lungo la strada da Agoudal a Imilchil" %}
+
+Siamo molto indecisi sul da farsi, se procedere o lasciar perdere e tornare indietro. Arriva un fuoristrada e passa senza problemi, seguito da una macchina a due ruote motrici e anche questa attraversa la pozza senza difficoltà. Notiamo però che quest'ultima vettura è più alta della nostra. Ci pensiamo un po' e, alla fine, prendiamo coraggio e procediamo anche noi! La strada continua insidiosa, con tratti rovinati, piccoli guadi e, dopo un po', comincia a piovere. Quando siamo poco oltre la metà del percorso, in corrispondenza di [Bou Azmou](https://it.wikipedia.org/wiki/Bou_Azmou), ci fermiamo e, vedendo che comincia a farsi tardi e che la strada peggiora sempre (strada che peraltro dovremo ripercorrere per rientrare), decidiamo di tornare indietro, un po' a malincuore per i laghi.
 
 ## Le insidie non hanno fine
 
