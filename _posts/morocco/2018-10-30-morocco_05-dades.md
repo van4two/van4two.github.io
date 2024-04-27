@@ -4,7 +4,7 @@ title: Dades e Todra
 tags: []
 cat: morocco
 
-gallery_url: https://photos.app.goo.gl/mG719WWqwWcmUZdd7
+gallery_url: https://photos.app.goo.gl/LQactJDSFSK7Dy7E7
 pics: 2018-10-25-morocco
 day: "05"
 teaser: /assets/img/2018-10-25-morocco/teaser/05.jpg
@@ -12,17 +12,29 @@ teaser: /assets/img/2018-10-25-morocco/teaser/05.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=5 cap="Jardin du Safran" %}
+{% include img.html id=5 cap="Le gole di Todra" %}
 
 Ci svegliamo alle 7:30 alle porte delle gole di Dades: l'idea è di partire il prima possibile in modo da cercare di recuperare il tempo perso a causa dell'esondazione fluviale dei giorni precedenti. Consumiamo la colazione nella saletta comune rivestita di tappeti: un bricco di caffè per me, uno di tè alla menta per Ste e poi omelette e pane da farcire con formaggio, olio oppure marmellata. Rifocillati, saldiamo l'[Ecolodge Amskou](https://amskou-hotel-boumalne-dades-maroc.business.site/) dove abbiamo pernottato e partiamo alla volta delle [**gole di Dades**](https://it.wikipedia.org/wiki/Gole_di_Dades).
 
 ## Le gole di Dades
 
-Il cielo nuvoloso purtroppo smorza decisamente i colori della valle e delle gole rocciose. Il panorama è comunque accattivante, con piccoli agglomerati di case sparsi lungo la strada. Incrociamo diverse donne avvolte in vesti e veli colorati trasportare enormi sacchi di fronde. Gruppi di ragazzini giocano a calcio lungo la strada. Incontriamo in qua e in là diverse kasbah, difficili da datare, in parte perché alcune risultano quasi perfettamente in conservate, in parte perché altre sembrano in costruzione e vediamo che, al grezzo, sono banalmente costituite da foratoni. All'improvviso, l'inizialmente ampia valle del fiume [Dades](https://it.wikipedia.org/wiki/Dades) si stringe in una gola sottile dove scorre il fiume e la strada si inerpica con una serpentina di curve a gomito degne della [Lombard street](https://it.wikipedia.org/wiki/Lombard_Street_(San_Francisco)) di San Francisco. La gola e la strada poco protetta ci ricordano molto il Verdon, anche se qui i colori prevalenti sono sicuramente i colori caldi della terra e della roccia. Quando la strada torna pianeggiante, indice del fatto che il tratto più suggestivo delle gole è terminato, seguendo i consigli della Lonely Planet torniamo sui nostri passi, riattraversiamo [Boumalne Dades](https://it.wikipedia.org/wiki/Boumalne_Dades) e ci dirigiamo verso [Tinghir](https://it.wikipedia.org/wiki/Tinghir) per infilarci nelle gole di Todra. Ci fermiamo a pranzare lungo la strada, all'[Inass Welcom](https://www.facebook.com/p/Restaurant-inass-welcom-100068325044558/?locale=en_GB), forse il primo posto che ci risulta un po' turisticone. La scelta, infatti, è fra una serie di menù tutti a 110 dh, praticamente più di quello che in due abbiamo speso ieri sera. Prendiamo spiedini di pollo e cous cous alle verdure. Fuori dal ristorante ci vengono incontro bambini con in mano animaletti fatti con foglie e fili d'erba che ci rincorrono chiedendoci soldi. 
+Il cielo nuvoloso purtroppo smorza decisamente i colori della valle e delle gole rocciose. Il panorama è comunque accattivante, con piccoli agglomerati di case sparsi lungo la strada. Incrociamo diverse donne avvolte in vesti e veli colorati trasportare enormi sacchi di fronde. Gruppi di ragazzini giocano a calcio lungo la strada. Incontriamo in qua e in là diverse kasbah, difficili da datare, in parte perché alcune risultano quasi perfettamente in conservate, in parte perché altre sembrano in costruzione e vediamo che, al grezzo, sono banalmente costituite da foratoni. All'improvviso, l'inizialmente ampia valle del fiume [Dades](https://it.wikipedia.org/wiki/Dades) si stringe in una gola sottile dove scorre il fiume e la strada si inerpica con una serpentina di curve a gomito degne della [Lombard street](https://it.wikipedia.org/wiki/Lombard_Street_(San_Francisco)) di San Francisco.
+
+{% include img.html id=1 cap="La strada si inerpica tortuosa nelle gole di Dades" %}
+
+La gola e la strada poco protetta ci ricordano molto il Verdon, anche se qui i colori prevalenti sono sicuramente i colori caldi della terra e della roccia. Quando la strada torna pianeggiante, indice del fatto che il tratto più suggestivo delle gole è terminato, seguendo i consigli della Lonely Planet torniamo sui nostri passi, riattraversiamo [Boumalne Dades](https://it.wikipedia.org/wiki/Boumalne_Dades) e ci dirigiamo verso [Tinghir](https://it.wikipedia.org/wiki/Tinghir) per infilarci nelle gole di Todra. Ci fermiamo a pranzare lungo la strada, all'[Inass Welcom](https://www.facebook.com/p/Restaurant-inass-welcom-100068325044558/?locale=en_GB), forse il primo posto che ci risulta un po' turisticone. La scelta, infatti, è fra una serie di menù tutti a 110 dh, praticamente più di quello che in due abbiamo speso ieri sera. Prendiamo spiedini di pollo e cous cous alle verdure. Fuori dal ristorante ci vengono incontro bambini con in mano animaletti fatti con foglie e fili d'erba che ci rincorrono chiedendoci soldi. 
 
 ## Le gole di Todra
 
-Partiamo per le [gole di Todra](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta palmeraie, che in breve si restringe formando una gola alta e stretta spettacolare, percorsa dal fiume. Il primo tratto del gorge, quello più turistico, è disseminato di costruzioni in pietra, kasbah adattate a guesthouse e banchetti di venditori di scialli e vesti colorate. Ci addentriamo nella gola e, piano piano esce il sole: il paesaggio assume, così, toni maestosi. Individuiamo facilmente alcune cordate di climbers che percorrono itinerari chiodati. Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un paio di mamme che allattano i loro piccoli. Proseguendo, a poco a poco la gola si riapre in una vallata.
+Partiamo per le [gole di Todra](https://it.wikipedia.org/wiki/Gole_di_Todra), percorrendo inizialmente un'ampia valle con una vasta palmeraie, che in breve si restringe formando una gola alta e stretta spettacolare, percorsa dal fiume. 
+
+{% include img.html id= cap="" %}
+
+Il primo tratto del gorge, quello più turistico, è disseminato di costruzioni in pietra, kasbah adattate a guesthouse e banchetti di venditori di scialli e vesti colorate. Ci addentriamo nella gola e, piano piano esce il sole: il paesaggio assume, così, toni maestosi. Individuiamo facilmente alcune cordate di climbers che percorrono itinerari chiodati. Proseguiamo e troviamo piccoli gruppi di asinelli sdraiati al sole fra cui un paio di mamme che allattano i loro piccoli. Proseguendo, a poco a poco la gola si riapre in una vallata.
+
+{% include img.html id= cap="" %}
+
+{% include img.html id= cap="" %}
 
 ## Nel cuore dell'Atlante
 
