@@ -12,7 +12,7 @@ teaser: /assets/img/2018-10-25-morocco/teaser/06.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=13 cap="L'atlante si tinge di pennellate di colore" %}
+{% include img.html id=13 cap="L'Atlante si tinge di pennellate di colore" %}
 
 Ci svegliamo rigenerati dopo aver dormito quasi 10 ore! Fuori dalla finestra tutto è leggermente imbiancato. Scendiamo per la colazione e troviamo il tavolo di ieri sera apparecchiato con un bricco di latte, uno di caffè, marmellata, burro e formaggio, omelette e crepes ancora calde. Dopo l'ottima colazione, il gestore del b&b ci aiuta a gonfiare la gomma che ieri avevamo notato essere sgonfia con il compressore. Sembra a posto. Soddisfatti, saldiamo il b&b e partiamo. Programma della giornata: percorrere un tratto dell'Atlante per poi dirigerci verso il deserto.
 
