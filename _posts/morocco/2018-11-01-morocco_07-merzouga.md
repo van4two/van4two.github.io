@@ -12,7 +12,7 @@ teaser: /assets/img/2018-10-25-morocco/teaser/07.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=13 cap="L'Atlante si tinge di pennellate di colore" %}
+{% include img.html id=7 cap="Alba sul deserto di Erg Chebbi" %}
 
 Ci svegliamo dici minuti prima delle 6, in modo da anticipare la generale sveglia del campo tendato per sfruttare l'unico spartano bagno a disposizione. Prepariamo la macchina fotografica e ci avviamo sulle dune insieme a qualche altro mattiniero. 
 
