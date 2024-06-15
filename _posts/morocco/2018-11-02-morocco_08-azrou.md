@@ -10,7 +10,7 @@ day: "08"
 teaser: /assets/img/2018-10-25-morocco/teaser/08.jpg
 ---
 
-{% google_photos page.gallery_url none %}
+
 
 
 
