@@ -14,9 +14,11 @@ allemannsrett
 Almannagjá
 Amouguer
 Amskou
+Anass
 Åndalsnes
 Antelao
 Antermoia
+Aoua
 arctica
 Ardal
 Argan
@@ -67,6 +69,7 @@ Borgarfjarðarhöfn
 Borgarfjörður
 Borgarnes
 Boucles
+Boujloud
 boulangerie
 Boumalne
 Bøverdalen
@@ -307,8 +310,10 @@ Hvalnes
 Hvammstangi
 Hverir
 Hvítserkur
+Ifrane
 IMGP
 Imilchil
+Inania
 Inass
 Ingjaldshóll
 instagrammabile
@@ -337,6 +342,7 @@ Kalvanes
 Kårvåg
 Kasbah
 Kayenta
+Kebira
 Keflavik
 Kerhóll
 Kerid
@@ -428,6 +434,7 @@ Meloncello
 Mémorial
 Memurubu
 Merzouga
+metá
 Midelt
 minifrigo
 Misurina
@@ -501,6 +508,7 @@ Pelmo
 Pennica
 perimetrata
 perimetrato
+Peroche
 Perrero
 pescetti
 Piccardia
@@ -575,6 +583,7 @@ Sentres
 Seyðisfjarðarvegur
 Seyðisfjörður
 Seydisholar
+Sghira
 Shafer
 Shakira
 Síðu
@@ -661,6 +670,7 @@ Svinafellsjökull
 Svínafellsjökull
 Systrene
 tajine
+Talaa
 Tálknafjörður
 tarte
 tendato

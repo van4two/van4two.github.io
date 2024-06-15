@@ -61,7 +61,7 @@ Veniamo chiamati per la cena e troviamo una tavola di legno apparecchiata per no
 
 Escursione e pernottamento nel deserto con [Kasbah Azalay](https://kasbahazalay.com/en/home/): escursione a dorso di cammello (45' circa), cena per due, pernottamento in campo tendato e colazione per due 760 dh
 
-[Maison Duffal](https://www.booking.com/hotel/ma/maison-dufal.it.html): cena per due e camera matrimoniale con bagno privato e colazione 560 dh
+[Maison Duffal](https://www.booking.com/hotel/ma/maison-dufal.it.html), Azrou: cena per due e camera matrimoniale con bagno privato e colazione 560 dh
 
 Se non diversamente specificato i siti visitati sono ad accesso gratuito
 
