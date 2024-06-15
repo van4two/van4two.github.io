@@ -12,7 +12,7 @@ teaser: /assets/img/2018-10-25-morocco/teaser/08.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=1 cap="" %}
+
 
 La giornata comincia con una bella colazione nella sala da pranzo di [Maison Duffal](https://www.booking.com/hotel/ma/maison-dufal.it.html). Dopo aver giocato un po' nel giardino soleggiato con Lucky, il cane del b&b, saldiamo cena e pernottamento e torniamo alla macchina. Sul tetto di una casa vicina notiamo una serie di grossi e folti nidi, forse di cicogna.
 
