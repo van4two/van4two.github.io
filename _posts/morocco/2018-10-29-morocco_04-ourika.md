@@ -12,7 +12,7 @@ teaser: /assets/img/2018-10-25-morocco/teaser/04.jpg
 
 {% google_photos page.gallery_url none %}
 
-{% include img.html id=5 cap="Jardin du Safran" %}
+{% include img.html id=9 cap="Jardin du Safran" %}
 
 Ci svegliamo a [Villa Touka](https://villatouka.allhotelsmorocco.com/en/) alle 7:30 in modo da essere pronti per la colazione concordata con Benji per le 8. Il cielo è sereno e il sole è sorto da poco. Benji ci sta già aspettando e ci "sgrida" scherzosamente dicendo che siamo in ritardo. Sono quasi le 8:10, in effetti siamo in ritardo di una decina di minuti ma comunque ci meravigliamo della sua osservazione. Scopriremo poi, solo fra 5 giorni, che quest'anno in Marocco è stata mantenuta l'ora legale, evento un po' eccezionale e non chiaro a tutti. Comprenderemo quindi solo a posteriori di aver vissuto gran parte del viaggio all'ora sbagliata! (il povero Benji ci stava aspettando da più di un'ora).
 
@@ -32,11 +32,11 @@ In breve raggiungiamo l'imbocco della valle e cominciamo ad attraversare una ser
 
 Attraversato il ponte sul fiume Ourika, con un po’ di difficoltà troviamo il [**Jardin du Safran**](http://www.safran-ourika.com/), un orto botanico dove viene coltivato lo [zafferano](https://it.wikipedia.org/wiki/Zafferano_(spezia)) (nostra principale ragione di visita). La giornata è spettacolare: cominciamo ad aggirarci per il giardino e subito incontriamo il proprietario che ci invita ad effettuare la visita accompagnati da lui.
 
-{% include img.html id=9 cap="Jardin du Safran" %}
+{% include img.html id=8 cap="Jardin du Safran" %}
 
 Ci mostra diverse piante, prevalentemente autoctone, fino ad arrivare allo zafferano di cui ci fa vedere i fiori dai pistilli rosso fuoco e i petali di un viola delicato. Un piccolo padiglione all'interno del giardino illustra con fotografie i vari passaggi per ottenere la preziosa polvere gialla rinomata in cucina. Qui è possibile comprare prodotti dell'orto botanico fra cui, appunto, lo zafferano.
 
-{% include img.html id=6 cap="Fiori di zafferano nel Jardin du Safran" %}
+{% include img.html id=5 cap="Fiori di zafferano nel Jardin du Safran" %}
 
 {% include img.html id=10 cap="Pannelli illustrativi sullo zafferano al Jardin du Safran" %}
 
