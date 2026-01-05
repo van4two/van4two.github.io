@@ -2,27 +2,32 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/master/containers/ubuntu-18.04-git
 {
     "name": "Jekyll + GH Pages",
-    
     //"dockerFile": "Dockerfile",
     //"context": "../",
     "image": "mcr.microsoft.com/devcontainers/ruby:2.7-bullseye",
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	"features": {
-		"ghcr.io/devcontainers/features/node:1": {
-			"version": "latest"
-		}
-	},
-    
+    // Features to add to the dev container. More info: https://containers.dev/features.
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "latest"
+        }
+    },
     // make a list of ports inside the container available locally
-	"forwardPorts": [
-		4000,   // Jekyll server
-		35729   // Live reload server
-	],
-
+    "forwardPorts": [
+        4000, // Jekyll server
+        35729 // Live reload server
+    ],
+    "portsAttributes": {
+        "4000": {
+            "label": "Jekyll Site",
+            "onAutoForward": "notify"
+        },
+        "35729": {
+            "label": "Live Reload",
+            "onAutoForward": "silent"
+        }
+    },
     // Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bash .devcontainer/post-create.sh",
-
+    "postCreateCommand": "bash .devcontainer/post-create.sh",
     // Configure tool-specific properties.
     // https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_vs-code-specific-properties
     "customizations": {
@@ -51,6 +56,5 @@
                 "esbenp.prettier-vscode"
             ]
         }
-    } 
-
+    }
 }
